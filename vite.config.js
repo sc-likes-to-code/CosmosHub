@@ -6,9 +6,8 @@ export default defineConfig({
   server: {
     proxy: {
       '/rss-proxy': {
-        target: 'https://api.allorigins.win',
+        target: 'http://localhost:3001',
         changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/rss-proxy/, '/get')
       }
     }
   }

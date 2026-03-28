@@ -44,7 +44,7 @@ export const RSS_SOURCES = [
     tags:       ['Astronomy', 'Science'],
   },
   {
-    name:       'ISS',
+    name:       'ISS Blog',
     key:        'iss',
     badgeClass: 'badge-iss',
     cardClass:  'iss',
@@ -53,19 +53,27 @@ export const RSS_SOURCES = [
   },
   {
     name:       'ScienceDaily Space',
-    key:        'spacedotcom',
+    key:        'sciencedaily',
     badgeClass: 'badge-spacedotcom',
     cardClass:  'spacedotcom',
     url:        'https://www.sciencedaily.com/rss/space_time.xml',
     tags:       ['Research', 'Science'],
   },
   {
-    name:       'ISRO',
-    key:        'isro',
-    badgeClass: 'badge-isro',
-    cardClass:  'isro',
-    url:        'https://www.isro.gov.in/rss.xml',
-    tags:       ['ISRO', 'India', 'Missions'],
+    name:       'Phys.org Space',
+    key:        'physorg',
+    badgeClass: 'badge-spacedotcom',
+    cardClass:  'spacedotcom',
+    url:        'https://phys.org/rss-feed/space-news/',
+    tags:       ['Physics', 'Space', 'Research'],
+  },
+  {
+    name:       'ArXiv Astronomy',
+    key:        'arxiv',
+    badgeClass: 'badge-esa',
+    cardClass:  'esa',
+    url:        'http://arxiv.org/rss/astro-ph',
+    tags:       ['Astronomy', 'Research', 'Papers'],
   },
 ]
 
