@@ -6,6 +6,18 @@ import { rankArticles } from '../utils/personalization'
 import { getMultiSummary } from '../utils/ai'
 
 const POLL_INTERVAL = 5 * 60 * 1000 // 5 minutes
+const MAX_RENDER_CARDS = Number(import.meta.env.VITE_MAX_CARDS || 120)
+const AI_SUMMARY_LIMIT = Number(import.meta.env.VITE_AI_SUMMARY_LIMIT || 40)
+
+function fallbackSummaries(desc) {
+  const safe = (desc || 'No summary available.').trim()
+  const short = safe.slice(0, 120)
+  return {
+    shortSummary: short || 'No summary available.',
+    detailedSummary: safe,
+    eli12Summary: short || 'No summary available.',
+  }
+}
 
 export default function FeedView({ prefs, setArticles, setStatusText, openModal }) {
   const [cards, setCards] = useState([])
@@ -53,9 +65,12 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
       setArticles(ranked)
 
       const grid = []
-      for (let i = 0; i < Math.min(ranked.length, 12); i++) {
+      const targetCount = Math.min(ranked.length, Math.max(1, MAX_RENDER_CARDS))
+      for (let i = 0; i < targetCount; i++) {
         const article = ranked[i]
-        const summaries = await getMultiSummary(article.title, article.desc)
+        const summaries = i < AI_SUMMARY_LIMIT
+          ? await getMultiSummary(article.title, article.desc)
+          : fallbackSummaries(article.desc)
         grid.push({ article, summaries })
         setCards([...grid])
       }

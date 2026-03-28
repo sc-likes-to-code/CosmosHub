@@ -1,6 +1,12 @@
 // ── rss.js ──────────────────────────────────────────
 
 const CORS_PROXY = '/rss-proxy?url='
+const MAX_PER_SOURCE = Number(import.meta.env.VITE_RSS_MAX_PER_SOURCE || 20)
+
+const STOP_WORDS = new Set([
+  'the', 'a', 'an', 'and', 'or', 'to', 'of', 'in', 'on', 'for', 'with', 'from', 'by',
+  'at', 'is', 'are', 'was', 'were', 'as', 'it', 'this', 'that', 'its', 'their', 'into',
+])
 
 export const RSS_SOURCES = [
   {
@@ -103,7 +109,81 @@ function parseRSS(xmlText, source) {
     }
   })
 
-  return articles.slice(0, 5)
+  return articles.slice(0, Math.max(1, MAX_PER_SOURCE))
+}
+
+function normalizeText(text) {
+  return (text || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function meaningfulTokens(text) {
+  return normalizeText(text)
+    .split(' ')
+    .filter(t => t.length > 2 && !STOP_WORDS.has(t))
+}
+
+function buildTokenSet(text) {
+  return new Set(meaningfulTokens(text))
+}
+
+function topicFingerprint(article) {
+  const titleTokens = meaningfulTokens(article.title)
+  const descTokens = meaningfulTokens(article.desc)
+  const topTitle = titleTokens.slice(0, 4).join(' ')
+  const topDesc = descTokens.slice(0, 6).join(' ')
+  return `${article.source?.key || 'source'}|${topTitle}|${topDesc}`
+}
+
+function titleLead(article) {
+  return meaningfulTokens(article.title).slice(0, 3).join(' ')
+}
+
+function jaccardSimilarity(a, b) {
+  if (!a.size || !b.size) return 0
+  let intersection = 0
+  a.forEach(token => {
+    if (b.has(token)) intersection += 1
+  })
+  const union = a.size + b.size - intersection
+  return union ? intersection / union : 0
+}
+
+function isNearDuplicate(article, existing) {
+  const sameSource = article.source?.name === existing.source?.name
+  const titleA = buildTokenSet(article.title)
+  const titleB = buildTokenSet(existing.title)
+  const descA = buildTokenSet(article.desc)
+  const descB = buildTokenSet(existing.desc)
+
+  const titleScore = jaccardSimilarity(titleA, titleB)
+  const descScore = jaccardSimilarity(descA, descB)
+  const sameTopic = topicFingerprint(article) === topicFingerprint(existing)
+  const sameTitleLead = titleLead(article) && titleLead(article) === titleLead(existing)
+  const sameDay = Boolean(article.pubDate && existing.pubDate) &&
+    new Date(article.pubDate).toDateString() === new Date(existing.pubDate).toDateString()
+
+  // Strict for cross-source duplicates, looser for same-source feed spam.
+  if (sameSource && sameTitleLead && sameDay) return true
+  if (sameSource && sameTopic && sameDay) return true
+  if (sameSource && (titleScore >= 0.38 || descScore >= 0.55)) return true
+  if (!sameSource && titleScore >= 0.72 && descScore >= 0.55) return true
+  return false
+}
+
+function dedupeArticles(articles) {
+  const deduped = []
+  for (const article of articles) {
+    const sameLink = deduped.some(a => a.link && a.link === article.link)
+    if (sameLink) continue
+
+    const duplicate = deduped.some(existing => isNearDuplicate(article, existing))
+    if (!duplicate) deduped.push(article)
+  }
+  return deduped
 }
 
 async function fetchSource(source) {
@@ -126,7 +206,7 @@ export async function fetchAllFeeds() {
       : []
   )
   all.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-  return all
+  return dedupeArticles(all)
 }
 
 export const SAMPLE_ARTICLES = [

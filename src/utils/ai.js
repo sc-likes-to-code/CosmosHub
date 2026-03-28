@@ -6,7 +6,7 @@ const API_KEY = import.meta.env.VITE_ANTHROPIC_API_KEY || 'sk-placeholder'
 
 async function callClaude(prompt, maxTokens = 1000) {
   try {
-    if (API_KEY === 'sk-placeholder') {
+    if (API_KEY === 'sk-placeholder' || !API_KEY || API_KEY.includes('your-api-key')) {
       console.warn('[AI] API key not configured. Please set VITE_ANTHROPIC_API_KEY in .env')
       return null
     }
@@ -15,7 +15,7 @@ async function callClaude(prompt, maxTokens = 1000) {
       method:  'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': API_KEY,
+        'Authorization': `Bearer ${API_KEY}`,
         'anthropic-version': '2023-06-01',
       },
       body:    JSON.stringify({
@@ -27,14 +27,14 @@ async function callClaude(prompt, maxTokens = 1000) {
     
     if (!res.ok) {
       const error = await res.json()
-      console.error('[AI] API Error:', error.error?.message)
+      console.error('[AI] API Error:', error.error?.message || `HTTP ${res.status}`)
       return null
     }
     
     const data = await res.json()
     return data.content?.[0]?.text?.trim() || null
   } catch (e) {
-    console.error('[AI] Error:', e.message)
+    console.error('[AI] Network Error:', e.message)
     return null
   }
 }
