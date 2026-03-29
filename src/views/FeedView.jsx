@@ -1,13 +1,16 @@
-import React, { useEffect, useState, useRef } from 'react'
+import React, { useEffect, useLayoutEffect, useState, useRef } from 'react'
 import FilterBar from '../components/FilterBar'
 import NewsCard from '../components/NewsCard'
 import { fetchAllFeeds, SAMPLE_ARTICLES } from '../utils/rss'
 import { rankArticles } from '../utils/personalization'
 import { getMultiSummary } from '../utils/ai'
+import { gsap } from 'gsap'
+import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 const POLL_INTERVAL = 5 * 60 * 1000 // 5 minutes
 const MAX_RENDER_CARDS = Number(import.meta.env.VITE_MAX_CARDS || 120)
 const AI_SUMMARY_LIMIT = Number(import.meta.env.VITE_AI_SUMMARY_LIMIT || 40)
+gsap.registerPlugin(ScrollTrigger)
 
 function fallbackSummaries(desc) {
   const safe = (desc || 'No summary available.').trim()
@@ -25,6 +28,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
   const [loading, setLoading] = useState(true)
   const [isRefreshing, setIsRefreshing] = useState(false)
   const pollTimeoutRef = useRef(null)
+  const viewRef = useRef(null)
 
   useEffect(() => {
     loadFeed()
@@ -89,13 +93,63 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     loadFeed(true)
   }
 
+  useLayoutEffect(() => {
+    if (loading) return
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+
+    const ctx = gsap.context(() => {
+      const cardsEls = gsap.utils.toArray('.cosmos-grid .news-card')
+      if (!cardsEls.length) return
+
+      const introBatch = cardsEls.slice(0, 10)
+      gsap.fromTo(
+        introBatch,
+        { opacity: 0, y: 46, scale: 0.94, rotateX: -8, transformPerspective: 800 },
+        {
+          opacity: 1,
+          y: 0,
+          scale: 1,
+          rotateX: 0,
+          duration: 0.65,
+          ease: 'power3.out',
+          stagger: 0.07,
+          clearProps: 'opacity,transform',
+        }
+      )
+
+      cardsEls.slice(10).forEach((card, i) => {
+        gsap.fromTo(
+          card,
+          { opacity: 0, y: 54, scale: 0.95 },
+          {
+            opacity: 1,
+            y: 0,
+            scale: 1,
+            duration: 0.7,
+            delay: Math.min(i * 0.015, 0.18),
+            ease: 'power3.out',
+            clearProps: 'opacity,transform',
+            scrollTrigger: {
+              trigger: card,
+              start: 'top 88%',
+              toggleActions: 'play none none none',
+              once: true,
+            },
+          }
+        )
+      })
+    }, viewRef)
+
+    return () => ctx.revert()
+  }, [loading, cards.length, filter])
+
   const filtered = cards.filter(({ article }) => {
     if (filter === 'all') return true
     return article.source.name === filter || article.source.key === filter.toLowerCase()
   })
 
   return (
-    <div>
+    <div ref={viewRef}>
       <FilterBar active={filter} onChange={setFilter} />
       <div className="section-header">
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>

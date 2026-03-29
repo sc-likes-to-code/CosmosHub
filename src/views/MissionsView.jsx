@@ -1,5 +1,9 @@
-import React from 'react'
+import React, { useLayoutEffect, useRef } from 'react'
 import { MISSIONS } from '../data/missions'
+import { gsap } from 'gsap'
+import { ScrollTrigger } from 'gsap/ScrollTrigger'
+
+gsap.registerPlugin(ScrollTrigger)
 
 function TimelineDot({ done, current }) {
   const cls = done ? 'tl-done' : current ? 'tl-current' : 'tl-future'
@@ -60,8 +64,42 @@ function MissionCard({ mission, articles }) {
 }
 
 export default function MissionsView({ articles }) {
+  const viewRef = useRef(null)
+
+  useLayoutEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+
+    const ctx = gsap.context(() => {
+      const cards = gsap.utils.toArray('.missions-grid .mission-card')
+      if (!cards.length) return
+
+      gsap.fromTo(
+        cards,
+        { opacity: 0, y: 44, scale: 0.95, rotateX: -6, transformPerspective: 900 },
+        {
+          opacity: 1,
+          y: 0,
+          scale: 1,
+          rotateX: 0,
+          duration: 0.68,
+          ease: 'power3.out',
+          stagger: 0.1,
+          clearProps: 'opacity,transform',
+          scrollTrigger: {
+            trigger: '.missions-grid',
+            start: 'top 82%',
+            toggleActions: 'play none none none',
+            once: true,
+          },
+        }
+      )
+    }, viewRef)
+
+    return () => ctx.revert()
+  }, [])
+
   return (
-    <div className="missions-page">
+    <div className="missions-page" ref={viewRef}>
       <div
         className="section-title"
         style={{ marginBottom: '1rem' }}
