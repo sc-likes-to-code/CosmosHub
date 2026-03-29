@@ -24,6 +24,31 @@
   min-height: 100vh;
   font-family: 'DM Sans', sans-serif;
   color: var(--text);
+  position: relative;
+  overflow-x: hidden;
+  isolation: isolate;
+}
+#cosmos-root::before,
+#cosmos-root::after {
+  content: '';
+  position: fixed;
+  pointer-events: none;
+  z-index: -1;
+}
+#cosmos-root::before {
+  inset: -20vh -20vw;
+  background:
+    radial-gradient(circle at 12% 22%, rgba(99,179,237,0.08), transparent 24%),
+    radial-gradient(circle at 88% 15%, rgba(167,139,250,0.07), transparent 28%),
+    radial-gradient(circle at 80% 78%, rgba(104,211,145,0.06), transparent 22%);
+  animation: driftSlow 28s ease-in-out infinite alternate;
+}
+#cosmos-root::after {
+  inset: 0;
+  background-image: radial-gradient(rgba(255,255,255,0.14) 0.7px, transparent 0.7px);
+  background-size: 3px 3px;
+  opacity: 0.15;
+  animation: drift 42s linear infinite;
 }
 
 /* ── Header ─────────────────────────────────────────── */
@@ -38,6 +63,7 @@
   flex-wrap: wrap;
   position: relative;
   overflow: hidden;
+  animation: slideDown .5s ease both;
 }
 .cosmos-header::before {
   content: '';
@@ -48,7 +74,7 @@
     radial-gradient(ellipse at 80% 50%, rgba(167,139,250,0.06), transparent 60%);
   pointer-events: none;
 }
-.cosmos-brand        { display: flex; align-items: center; gap: .75rem; }
+.cosmos-brand        { display: flex; align-items: center; gap: .75rem; animation: fadeInLeft .45s ease .08s both; }
 .cosmos-logo {
   width: 36px; height: 36px;
   background: radial-gradient(circle at 40% 40%, #63b3ed, #553c9a);
@@ -57,6 +83,16 @@
   font-size: 17px;
   box-shadow: 0 0 16px rgba(99,179,237,0.3);
   flex-shrink: 0;
+  position: relative;
+  animation: floatOrbit 4.4s ease-in-out infinite;
+}
+.cosmos-logo::after {
+  content: '';
+  position: absolute;
+  inset: -5px;
+  border: 1px solid rgba(99,179,237,0.32);
+  border-radius: 50%;
+  animation: ringSpin 6s linear infinite;
 }
 .cosmos-brand-text {
   font-family: 'Orbitron', monospace;
@@ -69,7 +105,7 @@
   font-size: 10px; color: var(--muted);
   margin-top: 1px; letter-spacing: .08em; text-transform: uppercase;
 }
-.header-right        { display: flex; align-items: center; gap: 1rem; }
+.header-right        { display: flex; align-items: center; gap: 1rem; animation: fadeInRight .45s ease .12s both; }
 .status-pill         { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--muted); }
 .status-dot {
   width: 7px; height: 7px; border-radius: 50%;
@@ -86,10 +122,10 @@
   background: transparent; color: var(--muted);
   font-size: 11px; cursor: pointer;
   font-family: 'DM Sans', sans-serif;
-  transition: all .2s;
+  transition: all .2s ease;
   display: flex; align-items: center; gap: 5px;
 }
-.notify-btn:hover   { border-color: var(--accent); color: var(--accent); }
+.notify-btn:hover   { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); box-shadow: 0 6px 16px rgba(99,179,237,0.14); }
 .notify-btn.active  { border-color: var(--gold); color: var(--gold); background: rgba(246,224,94,0.08); }
 
 /* ── Ticker ─────────────────────────────────────────── */
@@ -99,6 +135,17 @@
   padding: 5px 1.5rem;
   font-size: 11px; color: var(--muted);
   display: flex; align-items: center; gap: 1rem; overflow: hidden;
+  position: relative;
+  animation: fadeUp .4s ease .08s both;
+}
+.ticker::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(105deg, transparent 25%, rgba(255,255,255,0.06) 50%, transparent 75%);
+  transform: translateX(-120%);
+  animation: sheen 5s ease-in-out infinite;
+  pointer-events: none;
 }
 .ticker-label {
   font-family: 'Orbitron', monospace; font-size: 9px;
@@ -111,6 +158,7 @@
   mask-image: linear-gradient(90deg, transparent, black 5%, black 90%, transparent);
 }
 .ticker-inner { display: inline-block; animation: tickscroll 35s linear infinite; }
+.ticker:hover .ticker-inner { animation-play-state: paused; }
 @keyframes tickscroll {
   0%   { transform: translateX(0); }
   100% { transform: translateX(-50%); }
@@ -122,6 +170,7 @@
   border-bottom: 1px solid var(--border);
   padding: 0 1.5rem;
   display: flex; gap: 0; overflow-x: auto;
+  animation: fadeUp .45s ease .12s both;
 }
 .nav-tab {
   padding: 10px 18px; font-size: 12px; font-weight: 500;
@@ -129,11 +178,22 @@
   border: none; background: transparent;
   font-family: 'DM Sans', sans-serif;
   border-bottom: 2px solid transparent;
-  transition: all .2s; white-space: nowrap;
+  transition: all .2s ease; white-space: nowrap;
   display: flex; align-items: center; gap: 6px;
+  position: relative;
 }
-.nav-tab:hover  { color: var(--text); }
-.nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+.nav-tab:hover  { color: var(--text); transform: translateY(-1px); }
+.nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); text-shadow: 0 0 10px rgba(99,179,237,0.34); }
+.nav-tab.active::after {
+  content: '';
+  position: absolute;
+  left: 16px;
+  right: 16px;
+  bottom: -2px;
+  height: 2px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, rgba(99,179,237,0), rgba(99,179,237,0.9), rgba(99,179,237,0));
+}
 
 /* ── Filter Bar ─────────────────────────────────────── */
 .cosmos-filters {
@@ -141,6 +201,7 @@
   display: flex; gap: .4rem; flex-wrap: wrap; align-items: center;
   border-bottom: 1px solid var(--border);
   background: var(--bg);
+  animation: fadeUp .45s ease .16s both;
 }
 .filter-label {
   font-size: 10px; color: var(--muted);
@@ -152,15 +213,16 @@
   border: 1px solid var(--border);
   background: transparent; color: var(--muted);
   font-size: 11px; cursor: pointer;
-  font-family: 'DM Sans', sans-serif; transition: all .2s;
+  font-family: 'DM Sans', sans-serif; transition: all .2s ease;
 }
-.filter-btn:hover         { border-color: var(--accent); color: var(--accent); }
+.filter-btn:hover         { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
 .filter-btn.active        { background: rgba(99,179,237,0.12); border-color: var(--accent); color: var(--accent); font-weight: 500; }
 
 /* ── Section Header ─────────────────────────────────── */
 .section-header {
   padding: .65rem 1.5rem 0;
   display: flex; align-items: center; justify-content: space-between;
+  animation: fadeUp .45s ease .2s both;
 }
 .section-title {
   font-family: 'Orbitron', monospace; font-size: 10px;
@@ -180,7 +242,7 @@
 .refresh-btn:hover:not(:disabled) {
   border-color: var(--accent);
   background: rgba(99,179,237,0.08);
-  transform: scale(1.05);
+  transform: translateY(-1px) scale(1.04);
 }
 .refresh-btn:disabled {
   opacity: 0.5; cursor: not-allowed;
@@ -206,13 +268,24 @@
   border: 1px solid var(--border);
   border-radius: 12px; padding: 1rem;
   display: flex; flex-direction: column; gap: .55rem;
-  transition: border-color .2s, transform .2s;
+  transition: border-color .22s ease, transform .22s ease, box-shadow .25s ease;
   position: relative; overflow: hidden;
+  box-shadow: 0 8px 22px rgba(0,0,0,0.25);
 }
 .news-card::before {
   content: ''; position: absolute;
   top: 0; left: 0; right: 0; height: 2px;
   border-radius: 12px 12px 0 0;
+}
+.news-card::after {
+  content: '';
+  position: absolute;
+  inset: -35%;
+  background: radial-gradient(circle, rgba(99,179,237,0.08), transparent 55%);
+  opacity: 0;
+  transform: scale(.8);
+  transition: opacity .28s ease, transform .28s ease;
+  pointer-events: none;
 }
 .news-card.nasa::before        { background: linear-gradient(90deg, #63b3ed, #3182ce); }
 .news-card.isro::before        { background: linear-gradient(90deg, #f6ad55, #ed8936); }
@@ -224,21 +297,24 @@
 .news-card.pinned              { border-color: rgba(246,224,94,0.35); }
 .news-card:hover {
   border-color: rgba(99,179,237,0.35);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+  transform: translateY(-6px) scale(1.01);
+  box-shadow: 0 14px 34px rgba(0,0,0,0.45);
 }
+.news-card:hover::after { opacity: 1; transform: scale(1); }
 
 /* card internals */
 .card-top         { display: flex; align-items: center; justify-content: space-between; gap: .4rem; flex-wrap: wrap; }
 .card-top-left    { display: flex; align-items: center; gap: .4rem; flex-wrap: wrap; }
 .card-date        { font-size: 10px; color: var(--muted); flex-shrink: 0; }
-.card-title       { font-size: 13px; font-weight: 500; color: var(--text); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.card-summary     { font-size: 12px; color: #a0aec0; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.card-title       { font-size: 13px; font-weight: 500; color: var(--text); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; transition: color .2s ease; }
+.card-summary     { font-size: 12px; color: #a0aec0; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .ai-label         { font-size: 9px; color: var(--accent2); display: flex; align-items: center; gap: 3px; }
 .ai-dot           { width: 4px; height: 4px; border-radius: 50%; background: var(--accent2); }
 
 /* agency badges */
 .agency-badge     { font-size: 9px; font-weight: 500; padding: 2px 9px; border-radius: 20px; text-transform: uppercase; letter-spacing: .06em; font-family: 'Orbitron', monospace; }
+.news-card:hover .agency-badge { transform: translateY(-1px); }
+.news-card:hover .card-title { color: #f1f5ff; }
 .badge-nasa       { background: rgba(99,179,237,0.15);  color: #63b3ed; border: 1px solid rgba(99,179,237,0.25); }
 .badge-isro       { background: rgba(246,173,85,0.15);  color: #f6ad55; border: 1px solid rgba(246,173,85,0.25); }
 .badge-esa        { background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.25); }
@@ -259,11 +335,13 @@
 .fc-partial      { background: rgba(246,173,85,0.12);  color: #f6ad55; border: 1px solid rgba(246,173,85,0.2); }
 .fc-speculative  { background: rgba(252,129,129,0.12); color: #fc8181; border: 1px solid rgba(252,129,129,0.2); }
 .fc-pending      { background: rgba(113,128,150,0.1);  color: var(--muted); border: 1px solid rgba(113,128,150,0.15); }
+.fc-pending      { animation: pendingPulse 1.8s ease-in-out infinite; }
 
 /* summary toggle */
 .summary-toggle  { display: flex; gap: 4px; }
 .stog-btn        { padding: 2px 8px; border-radius: 6px; border: 1px solid var(--border); background: transparent; color: var(--muted); font-size: 10px; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: all .15s; }
 .stog-btn.active { background: rgba(99,179,237,0.12); border-color: var(--accent); color: var(--accent); }
+.stog-btn:hover  { color: var(--text); border-color: rgba(99,179,237,0.35); }
 
 /* tags */
 .card-tags  { display: flex; gap: 5px; flex-wrap: wrap; }
@@ -279,6 +357,7 @@
 .upvote-btn:hover, .upvote-btn.voted { color: var(--accent); background: rgba(99,179,237,0.08); }
 .expand-btn    { background: transparent; border: 1px solid var(--border); color: var(--muted); font-size: 10px; cursor: pointer; padding: 3px 8px; border-radius: 6px; font-family: 'DM Sans', sans-serif; transition: all .15s; }
 .expand-btn:hover { border-color: var(--accent2); color: var(--accent2); }
+.upvote-btn:hover, .expand-btn:hover, .comment-submit:hover { transform: translateY(-1px); }
 
 /* comments */
 .comments-section  { border-top: 1px solid var(--border); padding-top: .5rem; display: flex; flex-direction: column; gap: .4rem; }
@@ -336,6 +415,8 @@
 .missions-page        { padding: 1.25rem 1.5rem; }
 .missions-grid        { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; margin-top: 1rem; }
 .mission-card         { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.1rem; display: flex; flex-direction: column; gap: .6rem; }
+.mission-card         { transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease; }
+.mission-card:hover   { transform: translateY(-4px); border-color: rgba(99,179,237,0.3); box-shadow: 0 10px 28px rgba(0,0,0,0.35); }
 .mission-header       { display: flex; align-items: center; justify-content: space-between; }
 .mission-name         { font-family: 'Orbitron', monospace; font-size: .85rem; font-weight: 500; color: var(--text); }
 .mission-status       { font-size: 9px; padding: 3px 9px; border-radius: 20px; font-weight: 500; }
@@ -373,10 +454,54 @@
 
 /* ── Error State ────────────────────────────────────── */
 .error-state  { text-align: center; padding: 2rem; color: var(--muted); }
-.refresh-btn  { margin-top: 1rem; padding: 7px 18px; border: 1px solid var(--border); border-radius: 8px; background: transparent; color: var(--accent); font-size: 12px; cursor: pointer; font-family: 'DM Sans', sans-serif; }
 
 /* ── Animations ─────────────────────────────────────── */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(10px); }
   to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInLeft {
+  from { opacity: 0; transform: translateX(-12px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes fadeInRight {
+  from { opacity: 0; transform: translateX(12px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes floatOrbit {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+@keyframes ringSpin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+@keyframes pendingPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.62; }
+}
+@keyframes drift {
+  from { transform: translate3d(0, 0, 0); }
+  to   { transform: translate3d(-10px, -8px, 0); }
+}
+@keyframes driftSlow {
+  from { transform: translate3d(0, 0, 0) scale(1); }
+  to   { transform: translate3d(20px, -10px, 0) scale(1.05); }
+}
+@keyframes sheen {
+  0% { transform: translateX(-120%); }
+  58%, 100% { transform: translateX(120%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

@@ -35,13 +35,24 @@ function scoreArticle(article, prefs) {
   }, 0)
 }
 
+function toTimestamp(value) {
+  const ts = new Date(value || '').getTime()
+  return Number.isFinite(ts) ? ts : 0
+}
+
 /* ── ranking ── */
 export function rankArticles(articles, prefs) {
   return [...articles].sort((a, b) => {
+    const da = toTimestamp(a.pubDate)
+    const db = toTimestamp(b.pubDate)
+    if (db !== da) return db - da
+
     const sa = scoreArticle(a, prefs)
     const sb = scoreArticle(b, prefs)
     if (sb !== sa) return sb - sa
-    return new Date(b.pubDate) - new Date(a.pubDate)
+
+    // Final deterministic tie-breaker to avoid jitter between refreshes.
+    return String(a.title || '').localeCompare(String(b.title || ''))
   })
 }
 
