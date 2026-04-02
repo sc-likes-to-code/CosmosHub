@@ -1,5 +1,7 @@
 // ── rss.js ──────────────────────────────────────────
 
+import { getTrustMeta } from './trust'
+
 const CORS_PROXY = '/rss-proxy?url='
 const MAX_PER_SOURCE = Number(import.meta.env.VITE_RSS_MAX_PER_SOURCE || 20)
 
@@ -80,6 +82,46 @@ export const RSS_SOURCES = [
     cardClass:  'esa',
     url:        'http://arxiv.org/rss/astro-ph',
     tags:       ['Astronomy', 'Research', 'Papers'],
+  },
+  {
+    name:       'SpaceNews',
+    key:        'spacenews',
+    badgeClass: 'badge-spacedotcom',
+    cardClass:  'spacedotcom',
+    url:        'https://spacenews.com/feed/',
+    tags:       ['Industry', 'Policy', 'Launches'],
+  },
+  {
+    name:       'Sky & Telescope',
+    key:        'skyandtelescope',
+    badgeClass: 'badge-universe',
+    cardClass:  'universe',
+    url:        'https://skyandtelescope.org/astronomy-news/feed/',
+    tags:       ['Astronomy', 'Observing', 'Sky'],
+  },
+  {
+    name:       'Astronomy Magazine',
+    key:        'astronomymagazine',
+    badgeClass: 'badge-universe',
+    cardClass:  'universe',
+    url:        'https://www.astronomy.com/feed/',
+    tags:       ['Astronomy', 'Science'],
+  },
+  {
+    name:       'SpacePolicyOnline',
+    key:        'spacepolicyonline',
+    badgeClass: 'badge-spacedotcom',
+    cardClass:  'spacedotcom',
+    url:        'https://spacepolicyonline.com/feed/',
+    tags:       ['Policy', 'Law', 'Industry'],
+  },
+  {
+    name:       'NOIRLab News',
+    key:        'noirlab',
+    badgeClass: 'badge-esa',
+    cardClass:  'esa',
+    url:        'https://noirlab.edu/public/news/feed/',
+    tags:       ['Observatories', 'Astronomy', 'Research'],
   },
 ]
 
@@ -180,8 +222,26 @@ function dedupeArticles(articles) {
     const sameLink = deduped.some(a => a.link && a.link === article.link)
     if (sameLink) continue
 
-    const duplicate = deduped.some(existing => isNearDuplicate(article, existing))
-    if (!duplicate) deduped.push(article)
+    const duplicateIndex = deduped.findIndex(existing => isNearDuplicate(article, existing))
+    if (duplicateIndex === -1) {
+      deduped.push(article)
+      continue
+    }
+
+    const existing = deduped[duplicateIndex]
+    const currentTrust = getTrustMeta(article.source?.name).trust
+    const existingTrust = getTrustMeta(existing.source?.name).trust
+
+    if (currentTrust > existingTrust) {
+      deduped[duplicateIndex] = article
+      continue
+    }
+
+    if (currentTrust === existingTrust) {
+      const currentOrder = Number.isFinite(article.ingestOrder) ? article.ingestOrder : Number.MAX_SAFE_INTEGER
+      const existingOrder = Number.isFinite(existing.ingestOrder) ? existing.ingestOrder : Number.MAX_SAFE_INTEGER
+      if (currentOrder < existingOrder) deduped[duplicateIndex] = article
+    }
   }
   return deduped
 }
@@ -200,13 +260,21 @@ async function fetchSource(source) {
 
 export async function fetchAllFeeds() {
   const results = await Promise.allSettled(RSS_SOURCES.map(fetchSource))
+  let ingestOrder = 0
   const all = results.flatMap((r, i) =>
     r.status === 'fulfilled'
-      ? r.value.map(a => ({ ...a, source: RSS_SOURCES[i] }))
+      ? r.value.map(a => ({ ...a, source: RSS_SOURCES[i], ingestOrder: ingestOrder++ }))
       : []
   )
-  all.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate))
-  return dedupeArticles(all)
+  const deduped = dedupeArticles(all)
+  deduped.sort((a, b) => {
+    const dateDiff = new Date(b.pubDate) - new Date(a.pubDate)
+    if (dateDiff !== 0) return dateDiff
+    const trustDiff = getTrustMeta(b.source?.name).trust - getTrustMeta(a.source?.name).trust
+    if (trustDiff !== 0) return trustDiff
+    return (a.ingestOrder ?? 0) - (b.ingestOrder ?? 0)
+  })
+  return deduped
 }
 
 export const SAMPLE_ARTICLES = [

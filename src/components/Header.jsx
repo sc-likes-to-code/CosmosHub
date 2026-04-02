@@ -1,6 +1,8 @@
 import React from 'react'
 
 export default function Header({ statusText, notifyOn, toggleNotify }) {
+  const showStatusText = Boolean(statusText) && !/^(initializing|fetching|loading|using sample data|no updates|error loading)/i.test(statusText)
+
   return (
     <div className="cosmos-header">
       <div className="cosmos-brand">
@@ -19,7 +21,7 @@ export default function Header({ statusText, notifyOn, toggleNotify }) {
         </button>
         <div className="status-pill">
           <div className="status-dot" />
-          <span>{statusText}</span>
+          {showStatusText && <span>{statusText}</span>}
         </div>
       </div>
     </div>

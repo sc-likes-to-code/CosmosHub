@@ -4,13 +4,34 @@ import NewsCard from '../components/NewsCard'
 import { fetchAllFeeds, SAMPLE_ARTICLES } from '../utils/rss'
 import { rankArticles } from '../utils/personalization'
 import { getMultiSummary } from '../utils/ai'
+import { getTrustMeta } from '../utils/trust'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 const POLL_INTERVAL = 5 * 60 * 1000 // 5 minutes
-const MAX_RENDER_CARDS = Number(import.meta.env.VITE_MAX_CARDS || 120)
 const AI_SUMMARY_LIMIT = Number(import.meta.env.VITE_AI_SUMMARY_LIMIT || 40)
+const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000
 gsap.registerPlugin(ScrollTrigger)
+
+function hasTimezoneInfo(value) {
+  return /(Z|[+-]\d{2}:?\d{2}|GMT|UTC)$/i.test(String(value || '').trim())
+}
+
+function toTimestampIST(value) {
+  if (!value) return 0
+  const raw = String(value).trim()
+
+  if (hasTimezoneInfo(raw)) {
+    const ts = Date.parse(raw)
+    return Number.isFinite(ts) ? ts : 0
+  }
+
+  const istTs = Date.parse(`${raw} GMT+0530`)
+  if (Number.isFinite(istTs)) return istTs
+
+  const fallback = Date.parse(raw)
+  return Number.isFinite(fallback) ? fallback : 0
+}
 
 function fallbackSummaries(desc) {
   const safe = (desc || 'No summary available.').trim()
@@ -20,6 +41,51 @@ function fallbackSummaries(desc) {
     detailedSummary: safe,
     eli12Summary: short || 'No summary available.',
   }
+}
+
+function normalizeText(text) {
+  return String(text || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
+function tokenSet(text) {
+  return new Set(normalizeText(text).split(' ').filter(Boolean))
+}
+
+function jaccardSimilarity(a, b) {
+  if (!a.size || !b.size) return 0
+  let intersection = 0
+  a.forEach(token => {
+    if (b.has(token)) intersection += 1
+  })
+  const union = a.size + b.size - intersection
+  return union ? intersection / union : 0
+}
+
+function isSummaryDuplicate(candidate, existing) {
+  const titleScore = jaccardSimilarity(tokenSet(candidate.article.title), tokenSet(existing.article.title))
+  const shortScore = jaccardSimilarity(
+    tokenSet(candidate.summaries.shortSummary),
+    tokenSet(existing.summaries.shortSummary)
+  )
+  return titleScore >= 0.7 || shortScore >= 0.68
+}
+
+function isBetterCandidate(candidate, existing) {
+  const candidateTrust = getTrustMeta(candidate.article.source?.name).trust
+  const existingTrust = getTrustMeta(existing.article.source?.name).trust
+  if (candidateTrust !== existingTrust) return candidateTrust > existingTrust
+
+  const candidateOrder = Number.isFinite(candidate.article.ingestOrder)
+    ? candidate.article.ingestOrder
+    : Number.MAX_SAFE_INTEGER
+  const existingOrder = Number.isFinite(existing.article.ingestOrder)
+    ? existing.article.ingestOrder
+    : Number.MAX_SAFE_INTEGER
+  return candidateOrder < existingOrder
 }
 
 export default function FeedView({ prefs, setArticles, setStatusText, openModal }) {
@@ -51,6 +117,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
       setIsRefreshing(true)
     } else {
       setLoading(true)
+      setCards([])
     }
     
     const statusPrefix = isAutoRefresh ? '🔄 Refreshing' : 'Fetching live feeds'
@@ -62,23 +129,42 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
         raw = SAMPLE_ARTICLES
         setStatusText('Using sample data (feed unavailable)')
       } else {
-        setStatusText(`${raw.length} articles — generating AI summaries...`)
+        setStatusText('Loading live feed...')
       }
 
       const ranked = rankArticles(raw, prefs)
-      setArticles(ranked)
+      const cutoff = Date.now() - SEVEN_DAYS_MS
+      const recent = ranked.filter(a => toTimestampIST(a.pubDate) >= cutoff)
+      const displayPool = recent.length ? recent : ranked
+
+      if (!recent.length) {
+        setStatusText('No updates in the last 7 days — showing latest available articles')
+      }
+
+      // Keep Feed and Missions views in sync with the same visible date window/fallback pool.
+      setArticles(displayPool)
 
       const grid = []
-      const targetCount = Math.min(ranked.length, Math.max(1, MAX_RENDER_CARDS))
+      const targetCount = displayPool.length
       for (let i = 0; i < targetCount; i++) {
-        const article = ranked[i]
+        const article = displayPool[i]
         const summaries = i < AI_SUMMARY_LIMIT
           ? await getMultiSummary(article.title, article.desc)
           : fallbackSummaries(article.desc)
-        grid.push({ article, summaries })
-        setCards([...grid])
+
+        const candidate = { article, summaries }
+        const duplicateIndex = grid.findIndex(existing => isSummaryDuplicate(candidate, existing))
+        if (duplicateIndex === -1) {
+          grid.push(candidate)
+          continue
+        }
+
+        if (isBetterCandidate(candidate, grid[duplicateIndex])) {
+          grid[duplicateIndex] = candidate
+        }
       }
 
+      setCards(grid)
       setStatusText(`Live · ${grid.length} articles ${isAutoRefresh ? '(updated)' : ''}`)
     } catch (error) {
       console.error('Feed load error:', error)
@@ -143,27 +229,40 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     return () => ctx.revert()
   }, [loading, cards.length, filter])
 
+  const sourceTabs = Array.from(
+    new Set(cards.map(({ article }) => article.source?.name).filter(Boolean))
+  ).sort((a, b) => a.localeCompare(b))
+
+  useEffect(() => {
+    if (filter !== 'all' && !sourceTabs.includes(filter)) {
+      setFilter('all')
+    }
+  }, [filter, sourceTabs])
+
   const filtered = cards.filter(({ article }) => {
     if (filter === 'all') return true
-    return article.source.name === filter || article.source.key === filter.toLowerCase()
+    return article.source?.name === filter
   })
 
   return (
     <div ref={viewRef}>
-      <FilterBar active={filter} onChange={setFilter} />
+      <FilterBar active={filter} onChange={setFilter} sources={sourceTabs} />
       <div className="section-header">
         <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
           <span className="section-title">Latest transmissions</span>
           <button
-            className="refresh-btn"
+            className={`refresh-btn${isRefreshing ? ' refreshing' : ''}`}
             onClick={handleRefresh}
             disabled={loading || isRefreshing}
             title="Refresh feed"
           >
-            {isRefreshing ? '⟳ Updating...' : '⟳'}
+            <span className="refresh-icon" aria-hidden="true">⟳</span>
+            <span className="refresh-label">{isRefreshing ? 'Updating...' : 'Refresh'}</span>
           </button>
         </div>
-        <span className="article-count">{filtered.length} articles</span>
+        <span className={`article-count${loading ? ' article-count-loading' : ''}`}>
+          {loading ? '' : `${filtered.length} articles`}
+        </span>
       </div>
       <div className="cosmos-grid">
         {loading && cards.length === 0 && (
