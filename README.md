@@ -223,8 +223,6 @@ Create a `.env` file from `.env.example`.
 ```env
 PORT=3001
 
-ANTHROPIC_API_KEY=
-
 VITE_ANTHROPIC_API_KEY=
 
 VITE_RSS_MAX_PER_SOURCE=20

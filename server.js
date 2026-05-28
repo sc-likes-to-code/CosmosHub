@@ -48,10 +48,12 @@ app.get(['/rss-proxy', '/api/rss-proxy'], handleRssProxy)
 
 // ── Health Check ──
 app.get('/health', (req, res) => {
+  const apiKey = process.env.VITE_ANTHROPIC_API_KEY
+
   res.json({ 
     status: 'ok', 
     timestamp: new Date().toISOString(),
-    apiKey: process.env.ANTHROPIC_API_KEY ? '✓ configured' : '✗ missing'
+    apiKey: apiKey ? '✓ configured' : '✗ missing'
   })
 })
 

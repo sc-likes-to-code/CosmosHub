@@ -19,7 +19,7 @@ cp .env.example .env
 
 Edit `.env` and add your API keys:
 ```
-ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxxxx
+VITE_ANTHROPIC_API_KEY=sk-ant-xxxxxxxxxxxxxxxxxx
 PORT=3001
 ```
 
@@ -57,7 +57,7 @@ Builds frontend and serves everything from port 3001.
 
 ### "API key not configured"
 - Make sure `.env` file exists in project root
-- Check that `ANTHROPIC_API_KEY` is set correctly
+- Check that `VITE_ANTHROPIC_API_KEY` is set correctly
 - Restart the server after updating `.env`
 
 ### "No articles in feed"
