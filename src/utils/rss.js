@@ -92,14 +92,6 @@ export const RSS_SOURCES = [
     tags:       ['Industry', 'Policy', 'Launches'],
   },
   {
-    name:       'Sky & Telescope',
-    key:        'skyandtelescope',
-    badgeClass: 'badge-universe',
-    cardClass:  'universe',
-    url:        'https://skyandtelescope.org/astronomy-news/feed/',
-    tags:       ['Astronomy', 'Observing', 'Sky'],
-  },
-  {
     name:       'Astronomy Magazine',
     key:        'astronomymagazine',
     badgeClass: 'badge-universe',

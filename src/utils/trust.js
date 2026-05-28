@@ -11,7 +11,6 @@ const SOURCE_META = {
   'ScienceDaily Space': { trust: 8,  type: 'media',    label: 'Trusted Media'   },
   'Space.com':          { trust: 7,  type: 'media',    label: 'Trusted Media'   },
   'Universe Today':     { trust: 7,  type: 'media',    label: 'Trusted Media'   },
-  'Sky & Telescope':    { trust: 7,  type: 'media',    label: 'Trusted Media'   },
   'Astronomy Magazine': { trust: 7,  type: 'media',    label: 'Trusted Media'   },
   'SpacePolicyOnline':   { trust: 7,  type: 'media',    label: 'Trusted Media'   },
   'NOIRLab News':       { trust: 8,  type: 'research', label: 'Trusted Source'  },
