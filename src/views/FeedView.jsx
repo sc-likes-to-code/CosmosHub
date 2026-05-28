@@ -2,7 +2,7 @@ import React, { useEffect, useLayoutEffect, useState, useRef } from 'react'
 import FilterBar from '../components/FilterBar'
 import NewsCard from '../components/NewsCard'
 import { fetchAllFeeds, SAMPLE_ARTICLES } from '../utils/rss'
-import { rankArticles } from '../utils/personalization'
+import { rankArticles, isPinnedForUser } from '../utils/personalization'
 import { getMultiSummary } from '../utils/ai'
 import { getTrustMeta } from '../utils/trust'
 import { gsap } from 'gsap'
@@ -88,13 +88,21 @@ function isBetterCandidate(candidate, existing) {
   return candidateOrder < existingOrder
 }
 
+function sortByNewest(a, b) {
+  const da = toTimestampIST(a.pubDate)
+  const db = toTimestampIST(b.pubDate)
+  if (db !== da) return db - da
+  return String(a.title || '').localeCompare(String(b.title || ''))
+}
+
 export default function FeedView({ prefs, setArticles, setStatusText, openModal }) {
   const [cards, setCards] = useState([])
-  const [filter, setFilter] = useState('all')
+  const [filter, setFilter] = useState(() => (prefs.length > 0 ? 'for-you' : 'all'))
   const [loading, setLoading] = useState(true)
   const [isRefreshing, setIsRefreshing] = useState(false)
   const pollTimeoutRef = useRef(null)
   const viewRef = useRef(null)
+  const prevPrefsLengthRef = useRef(prefs.length)
 
   useEffect(() => {
     loadFeed()
@@ -110,6 +118,13 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     return () => {
       if (pollTimeoutRef.current) clearTimeout(pollTimeoutRef.current)
     }
+  }, [prefs])
+
+  useEffect(() => {
+    if (prevPrefsLengthRef.current === 0 && prefs.length > 0) {
+      setFilter('for-you')
+    }
+    prevPrefsLengthRef.current = prefs.length
   }, [prefs])
 
   async function loadFeed(isAutoRefresh = false) {
@@ -132,7 +147,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
         setStatusText('Loading live feed...')
       }
 
-      const ranked = rankArticles(raw, prefs)
+      const ranked = [...raw].sort(sortByNewest)
       const cutoff = Date.now() - SEVEN_DAYS_MS
       const recent = ranked.filter(a => toTimestampIST(a.pubDate) >= cutoff)
       const displayPool = recent.length ? recent : ranked
@@ -234,15 +249,22 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
   ).sort((a, b) => a.localeCompare(b))
 
   useEffect(() => {
-    if (filter !== 'all' && !sourceTabs.includes(filter)) {
+    if (filter !== 'all' && filter !== 'for-you' && !sourceTabs.includes(filter)) {
       setFilter('all')
     }
   }, [filter, sourceTabs])
 
   const filtered = cards.filter(({ article }) => {
+    if (filter === 'for-you') return isPinnedForUser(article, prefs)
     if (filter === 'all') return true
     return article.source?.name === filter
   })
+
+  const visibleCards = filter === 'for-you'
+    ? rankArticles(filtered.map(({ article }) => article), prefs)
+        .map(article => filtered.find(card => card.article === article))
+        .filter(Boolean)
+    : filtered
 
   return (
     <div ref={viewRef}>
@@ -261,7 +283,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
           </button>
         </div>
         <span className={`article-count${loading ? ' article-count-loading' : ''}`}>
-          {loading ? '' : `${filtered.length} articles`}
+          {loading ? '' : `${visibleCards.length} articles`}
         </span>
       </div>
       <div className="cosmos-grid">
@@ -282,7 +304,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
             ))}
           </>
         )}
-        {filtered.map(({ article, summaries }, i) => (
+        {visibleCards.map(({ article, summaries }, i) => (
           <NewsCard
             key={article.title + i}
             article={article}
@@ -292,7 +314,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
             onExpand={openModal}
           />
         ))}
-        {!loading && filtered.length === 0 && (
+        {!loading && visibleCards.length === 0 && (
           <div className="error-state" style={{gridColumn:'1/-1'}}>
             <div style={{fontSize:28,marginBottom:'0.5rem'}}>📡</div>
             <strong>No articles found for this filter.</strong>

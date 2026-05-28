@@ -1,7 +1,9 @@
 // ── personalization.js ──────────────────────────────
 
-const PREFS_KEY     = 'cosmos_user_prefs'
-const ONBOARD_KEY   = 'cosmos_onboarded'
+const DEV_RUN_ID = typeof __COSMOS_DEV_RUN_ID__ === 'string' ? __COSMOS_DEV_RUN_ID__ : ''
+const STORAGE_SCOPE = DEV_RUN_ID ? `:${DEV_RUN_ID}` : ''
+const PREFS_KEY = `cosmos_user_prefs${STORAGE_SCOPE}`
+const ONBOARD_KEY = `cosmos_onboarded${STORAGE_SCOPE}`
 
 /* ── storage helpers ── */
 export function getPrefs() {
@@ -43,13 +45,14 @@ function toTimestamp(value) {
 /* ── ranking ── */
 export function rankArticles(articles, prefs) {
   return [...articles].sort((a, b) => {
+    const sa = scoreArticle(a, prefs)
+    const sb = scoreArticle(b, prefs)
+
+    if (sb !== sa) return sb - sa
+
     const da = toTimestamp(a.pubDate)
     const db = toTimestamp(b.pubDate)
     if (db !== da) return db - da
-
-    const sa = scoreArticle(a, prefs)
-    const sb = scoreArticle(b, prefs)
-    if (sb !== sa) return sb - sa
 
     // Final deterministic tie-breaker to avoid jitter between refreshes.
     return String(a.title || '').localeCompare(String(b.title || ''))

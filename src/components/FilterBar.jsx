@@ -2,13 +2,14 @@ import React from 'react'
 
 export default function FilterBar({ active, onChange, sources = [] }) {
   const filters = [
+    { label: 'For You', value: 'for-you' },
     { label: 'All', value: 'all' },
     ...sources.map(name => ({ label: name, value: name })),
   ]
 
   return (
     <div className="cosmos-filters">
-      <span className="filter-label">Source:</span>
+      <span className="filter-label">Section:</span>
       {filters.map(f => (
         <button
           key={f.value}

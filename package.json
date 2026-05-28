@@ -4,6 +4,7 @@
   "description": "Verified intelligent space news aggregator platform",
   "type": "module",
   "scripts": {
+    "predev": "node scripts/write-dev-run-id.js",
     "dev": "concurrently \"vite\" \"node server.js\"",
     "server": "node server.js",
     "build": "vite build",
