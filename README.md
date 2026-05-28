@@ -3,9 +3,9 @@
 > **A verified space news intelligence dashboard powered by AI, personalization, and live mission tracking.**
 
 CosmosHub is a modern space-news intelligence platform built using **React, Vite, and Express**.  
-It aggregates live RSS feeds from trusted global space organizations and media outlets, ranks and filters articles intelligently, generates AI-assisted summaries and contextual insights, and delivers a personalized experience tailored to each user’s interests.
+It aggregates live RSS feeds from trusted global space organizations and media outlets, ranks and filters articles intelligently, generates AI-assisted summaries, and delivers a personalized experience tailored to each user’s interests.
 
-Designed with a **mission-control inspired UI**, CosmosHub combines real-time information, trust indicators, AI-powered context generation, and community engagement into one immersive experience.
+Designed with a **mission-control inspired UI**, CosmosHub combines real-time information, trust indicators, and community engagement into one immersive experience.
 
 ---
 
@@ -30,24 +30,11 @@ Fetches and updates live RSS feeds from trusted sources including:
 
 ---
 
-## 🧠 AI-Powered Intelligence Layer
+## 🧠 AI-Assisted Intelligence Layer
 
 ### AI Summaries
 
-Each article supports:
-
-- ⚡ Quick Summary
-- 📖 Detailed Summary
-- 🧒 ELI12 (Explain Like I’m 12)
-
-### AI Context Panel
-
-Provides:
-
-- Background information
-- Scientific significance
-- Related missions/topics
-- Simplified explanations
+Short AI-generated summaries for articles using Anthropic AI.
 
 ### Trust & Fact-Check Indicators
 
@@ -114,7 +101,6 @@ Each mission dynamically links related news articles.
 # 👥 Community Features
 
 - 👍 Upvotes
-- 💬 Comments
 - 🧠 Local engagement persistence
 - 📦 Browser-based storage using `localStorage`
 
@@ -266,7 +252,7 @@ npm run build
 npm run server
 ```
 
-This simulates real deployment behavior.
+This helps test production behavior locally.
 
 ---
 
@@ -326,7 +312,7 @@ CosmosHub is fully configured for Vercel deployment.
 
 1. RSS feeds are fetched through a proxy layer
 2. Articles are ranked and deduplicated
-3. AI generates summaries and contextual insights
+3. AI generates summaries
 4. Personalization highlights relevant articles
 5. Mission Tracker links news to space missions
 6. Community interactions are stored locally
