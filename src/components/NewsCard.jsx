@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { isPinnedForUser } from '../utils/personalization'
 import { getFactCheck } from '../utils/ai'
 import { getTrustMeta } from '../utils/trust'
-import { getVotes, saveVotes, getComments, saveComments } from '../utils/community'
+import { getVotes, saveVotes } from '../utils/community'
 
 function formatDate(dateStr) {
   if (!dateStr) return 'Recently'
@@ -50,19 +50,16 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
   const s  = article.source
   const pinned = isPinnedForUser(article, prefs)
 
-  const [summaryMode, setSummaryMode] = useState('short')
   const [fcStatus,    setFcStatus]    = useState('PENDING')
   const [fcLoaded,    setFcLoaded]    = useState(false)
   const [voteCount,   setVoteCount]   = useState(() => getVotes()[id] || 0)
   const [voted,       setVoted]       = useState(false)
-  const [comments,    setComments]    = useState(() => getComments()[id] || [])
-  const [commentText, setCommentText] = useState('')
 
   // lazy fact-check on first render
   React.useEffect(() => {
     if (fcLoaded) return
     setFcLoaded(true)
-    getFactCheck(article.title, summaries.shortSummary, s.name)
+    getFactCheck(article.title, summaries?.shortSummary || '', s.name)
       .then(setFcStatus)
   }, [])
 
@@ -75,22 +72,9 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
     setVoted(true)
   }
 
-  function handleComment() {
-    if (!commentText.trim()) return
-    const all = getComments()
-    if (!all[id]) all[id] = []
-    const entry = { text: commentText.trim(), time: new Date().toLocaleTimeString() }
-    all[id].push(entry)
-    saveComments(all)
-    setComments([...all[id]])
-    setCommentText('')
-  }
 
-  const summaryText = {
-    short:    summaries.shortSummary    || article.desc?.slice(0, 180) || '',
-    detailed: summaries.detailedSummary || article.desc || '',
-    eli12:    summaries.eli12Summary    || article.desc?.slice(0, 180) || '',
-  }[summaryMode]
+
+  const summaryText = summaries?.shortSummary || article.desc?.slice(0, 180) || ''
 
   const agencyFilter = s.key === 'iss' ? 'ISS' : s.name
 
@@ -98,8 +82,7 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
     <div
       className={`news-card ${s.cardClass}${pinned ? ' pinned' : ''}`}
       data-agency={agencyFilter}
-      style={{ animation: `fadeUp 0.4s ease ${index * 0.04}s both` }}
-    >
+      style={{ animation: `fadeUp 0.4s ease ${index * 0.04}s both` }}>
       {/* top row */}
       <div className="card-top">
         <div className="card-top-left">
@@ -118,19 +101,7 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
       {/* title */}
       <div className="card-title">{article.title}</div>
 
-      {/* summary toggle */}
       <div className="ai-label"><div className="ai-dot" /> AI Summary</div>
-      <div className="summary-toggle">
-        {['short', 'detailed', 'eli12'].map(mode => (
-          <button
-            key={mode}
-            className={`stog-btn${summaryMode === mode ? ' active' : ''}`}
-            onClick={() => setSummaryMode(mode)}
-          >
-            {mode === 'short' ? 'Quick' : mode === 'detailed' ? 'Detailed' : 'ELI12'}
-          </button>
-        ))}
-      </div>
       <div className="card-summary">{summaryText}</div>
 
       {/* tags */}
@@ -152,34 +123,9 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
           >
             ▲ {voteCount}
           </button>
-          <button
-            className="expand-btn"
-            onClick={() => onExpand({ article, summaries })}
-          >
-            ⚡ Context
-          </button>
         </div>
       </div>
 
-      {/* comments */}
-      <div className="comments-section">
-        {comments.slice(-3).map((c, i) => (
-          <div key={i} className="comment-item">
-            {c.text}
-            <div className="comment-time">{c.time}</div>
-          </div>
-        ))}
-        <div className="comment-input-row">
-          <input
-            className="comment-input"
-            placeholder="Add a comment..."
-            value={commentText}
-            onChange={e => setCommentText(e.target.value)}
-            onKeyDown={e => e.key === 'Enter' && handleComment()}
-          />
-          <button className="comment-submit" onClick={handleComment}>Post</button>
-        </div>
-      </div>
     </div>
   )
 }
