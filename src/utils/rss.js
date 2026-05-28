@@ -2,7 +2,7 @@
 
 import { getTrustMeta } from './trust'
 
-const CORS_PROXY = '/rss-proxy?url='
+const CORS_PROXY = import.meta.env.VITE_RSS_PROXY_URL || '/api/rss-proxy?url='
 const MAX_PER_SOURCE = Number(import.meta.env.VITE_RSS_MAX_PER_SOURCE || 20)
 
 const STOP_WORDS = new Set([

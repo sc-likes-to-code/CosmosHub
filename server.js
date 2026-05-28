@@ -11,8 +11,7 @@ const PORT = process.env.PORT || 3001
 app.use(cors())
 app.use(express.json())
 
-// ── RSS Proxy Endpoint ──
-app.get('/rss-proxy', async (req, res) => {
+async function handleRssProxy(req, res) {
   const { url } = req.query
   
   if (!url) {
@@ -42,7 +41,10 @@ app.get('/rss-proxy', async (req, res) => {
     console.error(`[RSS] Failed to fetch ${url}:`, error.message)
     res.status(500).json({ error: error.message, contents: '' })
   }
-})
+}
+
+// ── RSS Proxy Endpoint ──
+app.get(['/rss-proxy', '/api/rss-proxy'], handleRssProxy)
 
 // ── Health Check ──
 app.get('/health', (req, res) => {
@@ -63,5 +65,5 @@ app.get('*', (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`🚀 CosmosHub server running on http://localhost:${PORT}`)
-  console.log(`📡 RSS Proxy: http://localhost:${PORT}/rss-proxy?url=<feed-url>`)
+  console.log(`📡 RSS Proxy: http://localhost:${PORT}/api/rss-proxy?url=<feed-url>`)
 })

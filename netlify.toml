@@ -1,0 +1,15 @@
+[build]
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/rss-proxy"
+  to = "/.netlify/functions/rss-proxy"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
