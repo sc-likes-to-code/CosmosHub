@@ -1,4 +1,6 @@
+# =========================
 # Environment secrets
+# =========================
 .env
 .env.local
 .env.*.local
@@ -6,19 +8,54 @@
 # Keep template env file
 !.env.example
 
+
+# =========================
 # Dependencies
+# =========================
 node_modules/
 
-# Build output
-dist/
 
+# =========================
+# Build output
+# =========================
+dist/
+coverage/
+
+
+# =========================
+# Runtime / temp files
+# =========================
+.dev-run-id
+scripts/.dev-run-id
+
+
+# =========================
 # Logs
+# =========================
+*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# OS/editor files
+
+# =========================
+# OS files
+# =========================
 .DS_Store
 Thumbs.db
+
+
+# =========================
+# Editor / IDE
+# =========================
 .vscode/
+.idea/
+
+
+# =========================
+# Optional cache files
+# =========================
+.cache/
+.tmp/
+temp/
