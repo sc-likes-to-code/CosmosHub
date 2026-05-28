@@ -1,92 +1,250 @@
-# CosmosHub
+# 🚀 CosmosHub
 
-CosmosHub is a verified space news intelligence dashboard built with React, Vite, and Express. It aggregates live RSS feeds from major space organizations and media outlets, ranks and deduplicates articles, generates AI-assisted summaries and context, and lets users personalize the feed through onboarding preferences.
+> **A verified space news intelligence dashboard powered by AI, personalization, and live mission tracking.**
 
-## Overview
+CosmosHub is a modern space-news intelligence platform built using **React, Vite, and Express**.  
+It aggregates live RSS feeds from trusted global space organizations and media outlets, ranks and filters articles intelligently, generates AI-assisted summaries and contextual insights, and delivers a personalized experience tailored to each user’s interests.
 
-The app is designed to feel like a focused mission control panel for space news. It combines:
+Designed with a **mission-control inspired UI**, CosmosHub combines real-time information, trust indicators, AI-powered context generation, and community engagement into one immersive experience.
 
-- a live RSS feed with auto-refresh
-- a personalized For You section driven by onboarding interests
-- a neutral All feed and source-specific filters
-- a Mission Tracker view that ties curated missions to related news
-- AI summaries, context panels, fact-check badges, and trust indicators
-- local community interactions such as upvotes and comments
-- lightweight persistence through `localStorage`
+---
 
-CosmosHub is intentionally frontend-first, with a small RSS proxy layer that allows the app to fetch external feeds safely in development and in deployment.
+# ✨ Features
 
-## Key Features
+## 🌌 Live Space News Aggregation
 
-- Live aggregation from NASA, NASA JPL, ESA, Space.com, Universe Today, ISS Blog, ScienceDaily Space, Phys.org Space, ArXiv Astronomy, SpaceNews, Astronomy Magazine, SpacePolicyOnline, and NOIRLab News.
-- Onboarding flow that captures user interests and powers the personalized For You section.
-- For You, All, and source-based feed filters.
-- AI summaries at three levels: Quick, Detailed, and ELI12.
-- AI-generated context drawer with background, importance, and related missions/topics.
-- Trust badges and automated fact-check labels on each article card.
-- Upvotes and comments stored locally in the browser.
-- Mission Tracker cards for Artemis, Chandrayaan, Starship, JWST, Gaganyaan, Europa Clipper, Aditya-L1, and Roman Telescope.
-- Live ticker and animated UI transitions.
-- Auto-refresh every 5 minutes.
-- Deployment-ready proxy support for Vercel and Netlify.
+Fetches and updates live RSS feeds from trusted sources including:
 
-## Tech Stack
+- NASA
+- NASA JPL
+- ESA
+- Space.com
+- Universe Today
+- SpaceNews
+- Phys.org Space
+- ScienceDaily Space
+- Astronomy Magazine
+- NOIRLab
+- ArXiv Astronomy
+- SpacePolicyOnline
+
+---
+
+## 🧠 AI-Powered Intelligence Layer
+
+### AI Summaries
+
+Each article supports:
+
+- ⚡ Quick Summary
+- 📖 Detailed Summary
+- 🧒 ELI12 (Explain Like I’m 12)
+
+### AI Context Panel
+
+Provides:
+
+- Background information
+- Scientific significance
+- Related missions/topics
+- Simplified explanations
+
+### Trust & Fact-Check Indicators
+
+Articles include:
+
+- Source credibility indicators
+- Fact-check labels
+- Verification badges
+
+---
+
+# 🎯 Personalized Experience
+
+## 🛸 Onboarding-Based Personalization
+
+Users select interests during onboarding such as:
+
+- Astronomy
+- Rockets
+- Mars
+- Black Holes
+- ISRO
+- SpaceX
+- AI in Space
+- Planetary Science
+
+This powers the personalized **For You** feed.
+
+---
+
+## 📰 Feed Modes
+
+### For You
+
+Personalized feed based on user interests.
+
+### All Feed
+
+Neutral chronological/global feed.
+
+### Source Filters
+
+Filter content by individual news sources.
+
+---
+
+# 🚀 Mission Tracker
+
+Dedicated mission-tracking cards for:
+
+- Artemis
+- Chandrayaan
+- Starship
+- JWST
+- Gaganyaan
+- Aditya-L1
+- Europa Clipper
+- Roman Telescope
+
+Each mission dynamically links related news articles.
+
+---
+
+# 👥 Community Features
+
+- 👍 Upvotes
+- 💬 Comments
+- 🧠 Local engagement persistence
+- 📦 Browser-based storage using `localStorage`
+
+---
+
+# 🎨 UI & Experience
+
+- Mission-control inspired design
+- Animated transitions using GSAP
+- Live news ticker
+- Auto-refresh every 5 minutes
+- Responsive layout
+- Smooth onboarding flow
+- Modern dark-space aesthetic
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
 
 - React 18
 - React Router
 - Vite
 - GSAP
-- Express
+
+## Backend
+
+- Express.js
 - node-fetch
-- CORS middleware
-- Browser `localStorage` for client-side persistence
+- CORS
 
-## Project Structure
+## Storage
 
-```text
-src/
-	App.jsx                 Main app shell, routing, onboarding, alerts
-	main.jsx                React entry point
-	components/             Header, ticker, tabs, cards, modal, onboarding, alerts
-	data/missions.js        Curated mission tracker data
-	styles/global.css       Global styling and layout system
-	utils/                  RSS, AI, trust, personalization, alerts, community helpers
-	views/                  Feed and mission views
-server.js                 Express server and RSS proxy for local + production-like runs
-api/rss-proxy.js          Vercel-compatible RSS proxy route
-netlify/functions/        Netlify function for RSS proxy
-vercel.json               Vercel SPA routing config
-netlify.toml              Netlify build/function/redirect config
+- Browser `localStorage`
+
+## Deployment
+
+- Vercel
+- Netlify
+
+---
+
+# 📁 Project Structure
+
+```bash
+CosmosHub/
+│
+├── src/
+│   │
+│   ├── App.jsx                 # Main application shell
+│   ├── main.jsx                # React entry point
+│   │
+│   ├── components/             # Reusable UI components
+│   │   ├── Header/
+│   │   ├── NewsCard/
+│   │   ├── Ticker/
+│   │   ├── Tabs/
+│   │   ├── Modals/
+│   │   ├── Alerts/
+│   │   └── Onboarding/
+│   │
+│   ├── views/                  # Main application pages/views
+│   │   ├── FeedViews/
+│   │   └── MissionViews/
+│   │
+│   ├── data/                   # Static and curated datasets
+│   │   └── missions.js
+│   │
+│   ├── utils/                  # Utility/helper functions
+│   │   ├── rss.js
+│   │   ├── ai.js
+│   │   ├── trust.js
+│   │   ├── personalization.js
+│   │   ├── alerts.js
+│   │   └── community.js
+│   │
+│   └── styles/                 # Global styling
+│       └── global.css
+│
+├── api/                        # Serverless API routes
+│   └── rss-proxy.js
+│
+├── netlify/
+│   └── functions/              # Netlify serverless functions
+│
+├── server.js                   # Express backend server
+├── vercel.json                 # Vercel deployment config
+├── netlify.toml                # Netlify deployment config
+│
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── .env.example
+├── .gitignore
+│
+└── README.md
 ```
 
-## Requirements
+---
 
-- Node.js 18 or newer
-- npm
+# ⚙️ Environment Variables
 
-## Environment Variables
+Create a `.env` file from `.env.example`.
 
-Create a `.env` file from `.env.example` and fill the values you need.
+```env
+PORT=3001
 
-| Variable | Required | Purpose |
-| --- | --- | --- |
-| `PORT` | No | Port for the Express server. Defaults to `3001`. |
-| `ANTHROPIC_API_KEY` | Optional | Server health-check indicator and general environment template variable. |
-| `VITE_ANTHROPIC_API_KEY` | Optional | Used by the frontend AI summary/context features. |
-| `VITE_RSS_MAX_PER_SOURCE` | Optional | Maximum RSS items fetched per feed source. Defaults to `20`. |
-| `VITE_AI_SUMMARY_LIMIT` | Optional | Number of articles that request AI summaries before fallback summaries are used. Defaults to `40`. |
+ANTHROPIC_API_KEY=
 
-> Note: If the AI key is not set, the app falls back to local summaries and the AI context panel remains unavailable.
+VITE_ANTHROPIC_API_KEY=
 
-## Installation
+VITE_RSS_MAX_PER_SOURCE=20
+
+VITE_AI_SUMMARY_LIMIT=40
+```
+
+---
+
+# 📦 Installation
 
 ```bash
 npm install
 ```
 
-## Development
+---
 
-Run the full local stack:
+# 💻 Development Setup
+
+Run the full local development environment:
 
 ```bash
 npm run dev
@@ -94,92 +252,172 @@ npm run dev
 
 This starts:
 
-- Vite frontend on `http://localhost:5173`
-- Express backend on `http://localhost:3001`
+| Service | URL |
+|---|---|
+| Vite Frontend | http://localhost:5173 |
+| Express Backend | http://localhost:3001 |
 
-The frontend requests RSS data through the proxy path, so this is the best mode for day-to-day development.
+---
 
-## Production-like Local Run
+# 🧪 Production-Like Local Run
 
-Build the app and serve the generated output with the Express server:
+Build and serve the production bundle locally:
 
 ```bash
 npm run build
 npm run server
 ```
 
-This is the best local check for how the app will behave when deployed, because it serves the compiled frontend and the RSS proxy together.
+This simulates real deployment behavior.
 
-## Scripts
+---
+
+# 📜 Available Scripts
 
 | Script | Description |
-| --- | --- |
-| `npm run dev` | Starts Vite and the Express RSS proxy together. |
-| `npm run server` | Starts the Express server only. Serves `dist/` and the proxy route. |
-| `npm run build` | Builds the production frontend into `dist/`. |
-| `npm run preview` | Previews the static Vite build only. Useful for asset checks, but not a full proxy-backed runtime test. |
-| `npm run start` | Builds the app and then starts the Express server. |
+|---|---|
+| `npm run dev` | Starts frontend + Express proxy |
+| `npm run build` | Builds production frontend |
+| `npm run preview` | Previews Vite build |
+| `npm run server` | Runs Express production server |
+| `npm run start` | Build + start production server |
 
-## Deployment
+---
 
-### Vercel
+# 🌍 Deployment
 
-CosmosHub is ready to deploy on Vercel with the included API route and SPA rewrite config.
+## ▲ Deploy on Vercel
 
-1. Connect the repository to Vercel.
-2. Use `npm run build` as the build command.
-3. Set the output directory to `dist`.
-4. Deploy the app.
+CosmosHub is fully configured for Vercel deployment.
 
-The RSS proxy is exposed through `api/rss-proxy.js`, and the SPA rewrite is handled through `vercel.json`.
+### Steps
 
-### Netlify
+1. Push project to GitHub
+2. Import repository into Vercel
+3. Configure:
+   - **Build Command:** `npm run build`
+   - **Output Directory:** `dist`
+4. Deploy
 
-CosmosHub is also ready for Netlify with a Netlify Function for the RSS proxy.
+### Included Support
 
-1. Connect the repository to Netlify.
-2. Use `npm run build` as the build command.
-3. Set the publish directory to `dist`.
-4. Deploy the app.
+- `api/rss-proxy.js`
+- `vercel.json`
 
-The RSS proxy is provided by `netlify/functions/rss-proxy.js`, and routing is configured in `netlify.toml`.
+---
 
-## How the App Works
+## 🌐 Deploy on Netlify
 
-- RSS feeds are fetched through a proxy layer so the browser does not call remote feeds directly.
-- Articles are deduplicated and ranked before display.
-- The For You section uses the onboarding preferences to highlight matching articles.
-- The All section stays neutral and shows the full feed pool.
-- Mission Tracker cards pull related news from the currently loaded article set.
-- Votes and comments are stored in browser `localStorage`.
-- Onboarding preferences are also stored in `localStorage`, with the current dev session isolated from refreshes.
+### Steps
 
-## Troubleshooting
+1. Push project to GitHub
+2. Import repository into Netlify
+3. Configure:
+   - **Build Command:** `npm run build`
+   - **Publish Directory:** `dist`
+4. Deploy
 
-### No articles appear
+### Included Support
 
-- Confirm the backend or hosted API proxy is available.
-- Check the browser Network tab for `/api/rss-proxy` requests.
-- Some RSS providers may rate limit or block automated requests.
+- `netlify/functions/rss-proxy.js`
+- `netlify.toml`
 
-### RSS source returns `403` or `429`
+---
 
-- `403` usually means the feed provider is blocking the request.
-- `429` means the feed provider is rate limiting the source.
-- The app skips failed feeds and continues rendering the working ones.
+# ⚡ How CosmosHub Works
 
-### AI summaries do not appear
+1. RSS feeds are fetched through a proxy layer
+2. Articles are ranked and deduplicated
+3. AI generates summaries and contextual insights
+4. Personalization highlights relevant articles
+5. Mission Tracker links news to space missions
+6. Community interactions are stored locally
 
-- Set `VITE_ANTHROPIC_API_KEY` in `.env`.
-- Restart the dev server after changing environment variables.
+---
 
-### Onboarding keeps showing
+# 🧩 Troubleshooting
 
-- The app stores onboarding state in browser storage.
-- Clear site data or localStorage if you want to restart the onboarding flow manually.
+## No Articles Appearing
 
-## Notes
+- Ensure backend/API proxy is running
+- Check `/api/rss-proxy` requests in Network tab
+- Some feeds may temporarily block requests
 
-- CosmosHub does not use a database; all community and personalization state lives in the browser.
-- The live feed count can vary because remote RSS sources may rate limit, block, or temporarily fail.
-- For the most reliable deployment test, use `npm run build` followed by `npm run server` or your hosted deployment.
+---
+
+## RSS Source Returning `403` or `429`
+
+- `403` → Provider blocked request
+- `429` → Rate limit exceeded
+
+CosmosHub automatically skips failed feeds and continues loading available ones.
+
+---
+
+## AI Summaries Not Working
+
+Ensure:
+
+```env
+VITE_ANTHROPIC_API_KEY=your_key_here
+```
+
+Then restart the development server.
+
+---
+
+## Onboarding Keeps Reappearing
+
+Clear:
+
+- Browser localStorage
+- Site data/cache
+
+---
+
+# 📌 Notes
+
+- CosmosHub currently uses no database
+- All personalization and community interactions are browser-based
+- Feed counts may vary depending on source availability/rate limits
+- Best deployment testing method:
+
+```bash
+npm run build
+npm run server
+```
+
+---
+
+# 🔮 Future Improvements
+
+- User authentication
+- Cloud database integration
+- Bookmark system
+- Real-time notifications
+- AI-powered recommendation engine
+- Space launch countdowns
+- Interactive astronomy visualizations
+- Mobile application support
+
+---
+
+# 🤝 Contributing
+
+Contributions, improvements, and feature ideas are welcome.
+
+```bash
+Fork → Clone → Create Branch → Commit → Push → Pull Request
+```
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 🌠 CosmosHub
+
+> *Exploring the universe through intelligent news discovery.*
