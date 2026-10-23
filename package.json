@@ -9,7 +9,10 @@
     "server": "node server.js",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "npm run build && node server.js"
+    "start": "npm run build && node server.js",
+    "test": "node --test tests/**/*.test.js",
+    "ingest": "node scripts/ingest.js",
+    "commit-archive": "node scripts/commit-archive.js"
   },
   "dependencies": {
     "cors": "^2.8.5",

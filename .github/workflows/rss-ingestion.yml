@@ -1,0 +1,116 @@
+name: Scheduled RSS Ingestion & Archival
+
+on:
+  schedule:
+    # 03:30 UTC = 09:00 IST (Morning Collection)
+    - cron: '30 3 * * *'
+    # 15:30 UTC = 21:00 IST (Evening Collection)
+    - cron: '30 15 * * *'
+  workflow_dispatch:
+    inputs:
+      collection_type:
+        description: 'Collection run type'
+        required: false
+        default: 'auto'
+        type: choice
+        options:
+          - auto
+          - morning
+          - evening
+      dry_run:
+        description: 'Dry run (simulate without writing files or committing)'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: 'rss-ingestion-archive'
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  ingest-and-archive:
+    name: RSS Ingestion & Daily Archive
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies (clean install)
+        run: npm ci
+
+      - name: Run automated test suite
+        run: npm test
+
+      - name: Verify production build
+        run: npm run build
+
+      - name: Run RSS News Ingestion Pipeline
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE_CRON: ${{ github.event.schedule }}
+          INPUT_COLLECTION: ${{ github.event.inputs.collection_type || '' }}
+          INPUT_DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          GITHUB_STEP_SUMMARY: ${{ env.GITHUB_STEP_SUMMARY }}
+        run: |
+          COLLECTION_ARG="auto"
+          if [ "$EVENT_NAME" = "schedule" ]; then
+            if [ "$SCHEDULE_CRON" = "30 3 * * *" ]; then
+              COLLECTION_ARG="morning"
+            elif [ "$SCHEDULE_CRON" = "30 15 * * *" ]; then
+              COLLECTION_ARG="evening"
+            fi
+          elif [ -n "$INPUT_COLLECTION" ] && [ "$INPUT_COLLECTION" != "auto" ]; then
+            COLLECTION_ARG="$INPUT_COLLECTION"
+          fi
+
+          DRY_ARG=""
+          if [ "$INPUT_DRY_RUN" = "true" ]; then
+            DRY_ARG="--dry-run"
+          fi
+
+          echo "Executing ingestion with collection=$COLLECTION_ARG, event=$EVENT_NAME"
+          node scripts/ingest.js --collection "$COLLECTION_ARG" $DRY_ARG --summary-file "$GITHUB_STEP_SUMMARY"
+
+      - name: Create Commits & Push Archive Changes
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          node scripts/commit-archive.js
+          
+          # Push with automatic rebase retry in case remote changed concurrently
+          PUSHED=false
+          for attempt in 1 2 3; do
+            echo "Attempt $attempt to push archive commits..."
+            if git push origin HEAD:${{ github.ref_name }}; then
+              PUSHED=true
+              echo "Successfully pushed archive commits."
+              break
+            fi
+            echo "Push rejected, synchronizing with remote..."
+            git fetch origin ${{ github.ref_name }}
+            if ! git rebase origin/${{ github.ref_name }}; then
+              echo "Git rebase conflict detected! Aborting rebase to preserve local archive commits."
+              git rebase --abort
+              echo "Failed to push due to remote divergence. Please inspect remote changes."
+              exit 1
+            fi
+          done
+
+          if [ "$PUSHED" != "true" ]; then
+            echo "Failed to push after 3 attempts."
+            exit 1
+          fi
