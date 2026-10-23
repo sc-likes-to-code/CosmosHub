@@ -86,9 +86,17 @@ jobs:
 
       - name: Create Commits & Push Archive Changes
         if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          COMMIT_AUTHOR_EMAIL: ${{ secrets.COMMIT_AUTHOR_EMAIL }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -z "$COMMIT_AUTHOR_EMAIL" ]; then
+            echo "Error: COMMIT_AUTHOR_EMAIL secret is not configured."
+            exit 1
+          fi
+
+          git config user.name "sc-likes-to-code"
+          git config user.email "$COMMIT_AUTHOR_EMAIL"
           node scripts/commit-archive.js
           
           # Push with automatic rebase retry in case remote changed concurrently
