@@ -1,23 +1,43 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T14:43:11.804Z",
-  "count": 175,
+  "generatedAt": "2026-10-23T15:15:58.130Z",
+  "count": 143,
   "articles": [
     {
-      "id": "000a85225af77ce1",
-      "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
-      "link": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
-      "desc": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
-      "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "id": "00131117cf5b1825",
+      "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
+      "link": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
+      "desc": "With a successful Mars gravity assist in its rearview mirror, NASA's Psyche spacecraft has fired up its thrusters and is accelerating toward the metal-rich asteroid of the same name. During the first leg of its journey, following an October 2023 launch, the mission used its electric propulsion syste",
+      "pubDate": "Fri, 23 Oct 2026 11:10:01 EDT",
       "category": "Missions & Exploration",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
+        "name": "Phys.org Space",
+        "key": "physorg",
         "badgeClass": "badge-spacedotcom",
         "cardClass": "spacedotcom",
         "tags": [
+          "Physics",
           "Space",
-          "News"
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0001375e166a61a7",
+      "title": "NASA's Hubble charts path for Roman with gravitational lenses",
+      "link": "https://phys.org/news/2026-10-nasa-hubble-path-roman-gravitational.html",
+      "desc": "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is being magnified and distorted by the gravity of a closer galaxy.",
+      "pubDate": "Fri, 23 Oct 2026 10:50:01 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -858,6 +878,24 @@
       }
     },
     {
+      "id": "000a85225af77ce1",
+      "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
+      "link": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
+      "desc": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
+      "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "001555024a3a7e03",
       "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
       "link": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
@@ -1057,9 +1095,9 @@
     },
     {
       "id": "0000878c517a77cf",
-      "title": "NASA giving update about Artemis moon plans on Oct. 23: Watch it live",
+      "title": "Watch NASA's update on accelerating Artemis moon plans today",
       "link": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
-      "desc": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference on Friday (Oct. 23). Here's how to watch it live.",
+      "desc": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference today (Oct. 23). Here's how to watch it live.",
       "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -1800,42 +1838,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
       "desc": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather",
       "pubDate": "Sat, 17 Oct 2026 08:26:49 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f32404fb5c07f",
-      "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
-      "desc": "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribute heat, causing one side of its atmosphere to bulge outward.",
-      "pubDate": "Fri, 16 Oct 2026 19:27:29 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000eb4931dfe24ca",
-      "title": "Astronomers discover a strange universal rule behind black hole eruptions",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
-      "desc": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts wil",
-      "pubDate": "Fri, 16 Oct 2026 06:45:33 EDT",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "ScienceDaily Space",

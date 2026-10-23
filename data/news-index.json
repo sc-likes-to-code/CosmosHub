@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-23T14:43:11.113Z",
-  "lastRunId": "run-1792766589257-tqzmsj",
+  "lastUpdated": "2026-10-23T15:15:57.573Z",
+  "lastRunId": "run-1792768555478-op9i4y",
   "stats": {
-    "totalStories": 184,
-    "lastRunAdded": 1
+    "totalStories": 186,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"89a775a8152ba6713cd7c3766732526d\"",
-    "https://www.universetoday.com/feed": "W/\"6adb65a1-751c\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"723a6dafaa6466900dd22c3f50c804ff\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"3e1666544fabadd3c75c6ccd81371fdd\"",
+    "https://www.universetoday.com/feed": "W/\"6adb7395-751c\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b8e0b65924040b91c2a8713e0b3a0380\"",
     "http://arxiv.org/rss/astro-ph": "83c6b2d03859078947b7d9f394557a869e5fd84c74f4f0e64fd2eea6498b3c09",
     "https://spacenews.com/feed/": "W/\"5331608bfab5c9500e2cff76a9a49eba\"",
-    "https://www.astronomy.com/feed/": "W/\"90a2d80c9ea4077fc397e8c248203030\"",
+    "https://www.astronomy.com/feed/": "W/\"b553c8edcda98a70aa3a169fcfb74d97\"",
     "https://spacepolicyonline.com/feed/": "\"cf9fa6c096b4628c4a635b157322e7e4\""
   },
   "articles": {
@@ -2223,6 +2223,30 @@
       "archivedDate": "2026-10-23",
       "collection": "evening",
       "archivedAt": "2026-10-23T14:43:11.113Z"
+    },
+    "00131117cf5b1825": {
+      "id": "00131117cf5b1825",
+      "canonicalUrl": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
+      "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 23 Oct 2026 11:10:01 EDT",
+      "archivedDate": "2026-10-23",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T15:15:57.573Z"
+    },
+    "0001375e166a61a7": {
+      "id": "0001375e166a61a7",
+      "canonicalUrl": "https://phys.org/news/2026-10-nasa-hubble-path-roman-gravitational.html",
+      "title": "NASA's Hubble charts path for Roman with gravitational lenses",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 23 Oct 2026 10:50:01 EDT",
+      "archivedDate": "2026-10-23",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T15:15:57.573Z"
     }
   }
 }
