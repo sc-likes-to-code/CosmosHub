@@ -1,4 +1,4 @@
-import React, { useLayoutEffect, useState } from 'react'
+import React, { useLayoutEffect, useRef, useState } from 'react'
 import { Routes, Route, useLocation } from 'react-router-dom'
 import { gsap } from 'gsap'
 import Header from './components/Header'
@@ -22,12 +22,14 @@ export default function App() {
   const [statusText, setStatusText] = useState('Initializing...')
   const [prefs, setPrefs] = useState(getPrefs())
   const { toasts, notifyOn, toggleNotify } = useAlerts()
+  const isInitialMount = useRef(true)
 
   useLayoutEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+
     const ctx = gsap.context(() => {
       const tl = gsap.timeline({ defaults: { ease: 'power3.out' } })
       tl.fromTo('.cosmos-header', { y: -50, opacity: 0, scale: 0.98 }, { y: 0, opacity: 1, scale: 1, duration: 0.75 })
-        .fromTo('.ticker', { y: -18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.55 }, '-=0.42')
         .fromTo('.nav-tab', { y: -18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, stagger: 0.09 }, '-=0.35')
         .fromTo('.app-view-shell', { y: 40, opacity: 0, filter: 'blur(6px)' }, { y: 0, opacity: 1, filter: 'blur(0px)', duration: 0.72 }, '-=0.2')
     }, '#cosmos-root')
@@ -36,6 +38,12 @@ export default function App() {
   }, [])
 
   useLayoutEffect(() => {
+    if (isInitialMount.current) {
+      isInitialMount.current = false
+      return
+    }
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+
     const ctx = gsap.context(() => {
       gsap.fromTo(
         '.app-view-shell',

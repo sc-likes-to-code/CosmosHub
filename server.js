@@ -2,6 +2,7 @@ import express from 'express'
 import cors from 'cors'
 import fetch from 'node-fetch'
 import dotenv from 'dotenv'
+import { fileURLToPath } from 'url'
 
 dotenv.config()
 
@@ -62,7 +63,7 @@ app.use(express.static('dist'))
 
 // ── Fallback to index.html for SPA ──
 app.get('*', (req, res) => {
-  res.sendFile(new URL('./dist/index.html', import.meta.url).pathname)
+  res.sendFile(fileURLToPath(new URL('./dist/index.html', import.meta.url)))
 })
 
 app.listen(PORT, () => {
