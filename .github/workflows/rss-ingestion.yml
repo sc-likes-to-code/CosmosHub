@@ -2,10 +2,10 @@ name: Scheduled RSS Ingestion & Archival
 
 on:
   schedule:
-    # 03:30 UTC = 09:00 IST (Morning Collection)
+    # 09:00 AM IST = 03:30 UTC
     - cron: '30 3 * * *'
-    # 15:30 UTC = 21:00 IST (Evening Collection)
-    - cron: '30 15 * * *'
+    # 10:30 PM IST = 17:00 UTC
+    - cron: '0 17 * * *'
   workflow_dispatch:
     inputs:
       collection_type:
@@ -69,8 +69,8 @@ jobs:
           if [ "$EVENT_NAME" = "schedule" ]; then
             if [ "$SCHEDULE_CRON" = "30 3 * * *" ]; then
               COLLECTION_ARG="morning"
-            elif [ "$SCHEDULE_CRON" = "30 15 * * *" ]; then
-              COLLECTION_ARG="evening"
+            elif [ "$SCHEDULE_CRON" = "0 17 * * *" ]; then
+                COLLECTION_ARG="evening"
             fi
           elif [ -n "$INPUT_COLLECTION" ] && [ "$INPUT_COLLECTION" != "auto" ]; then
             COLLECTION_ARG="$INPUT_COLLECTION"
