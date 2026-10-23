@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-23T15:15:57.573Z",
-  "lastRunId": "run-1792768555478-op9i4y",
+  "lastUpdated": "2026-10-23T18:44:00.637Z",
+  "lastRunId": "run-1792781038689-luuobo",
   "stats": {
-    "totalStories": 186,
-    "lastRunAdded": 2
+    "totalStories": 194,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"3e1666544fabadd3c75c6ccd81371fdd\"",
-    "https://www.universetoday.com/feed": "W/\"6adb7395-751c\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b8e0b65924040b91c2a8713e0b3a0380\"",
-    "http://arxiv.org/rss/astro-ph": "83c6b2d03859078947b7d9f394557a869e5fd84c74f4f0e64fd2eea6498b3c09",
-    "https://spacenews.com/feed/": "W/\"5331608bfab5c9500e2cff76a9a49eba\"",
-    "https://www.astronomy.com/feed/": "W/\"b553c8edcda98a70aa3a169fcfb74d97\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"00e15451ff7c2ecaaf2ebf8400b634d6\"",
+    "https://www.universetoday.com/feed": "W/\"6adba5ae-7499\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"747a46aba4001a644fa87ed4ee47ba9f\"",
+    "http://arxiv.org/rss/astro-ph": "30315d60a0f99a0daecdad933c4bfcc0d1837454ef4dd4128ba405259e8a7bf6",
+    "https://spacenews.com/feed/": "W/\"030157caa757c2fcf339d5d5c4d5cf66\"",
+    "https://www.astronomy.com/feed/": "W/\"8f2c1c9eed6dc3c7e52854ee3cc46d31\"",
     "https://spacepolicyonline.com/feed/": "\"cf9fa6c096b4628c4a635b157322e7e4\""
   },
   "articles": {
@@ -2247,6 +2247,102 @@
       "archivedDate": "2026-10-23",
       "collection": "evening",
       "archivedAt": "2026-10-23T15:15:57.573Z"
+    },
+    "001c0556b034f87c": {
+      "id": "001c0556b034f87c",
+      "canonicalUrl": "https://www.universetoday.com/articles/saudi-arabia-joins-the-search-for-alien-civilizations",
+      "title": "Saudi Arabia Joins the Search for Alien Civilizations",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 23 Oct 2026 18:17:49 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "001b5a268a90bd26": {
+      "id": "001b5a268a90bd26",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
+      "title": "Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "000a6051d97fbfe5": {
+      "id": "000a6051d97fbfe5",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 23 Oct 2026 17:50:21 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "001bae33c399c949": {
+      "id": "001bae33c399c949",
+      "canonicalUrl": "https://www.universetoday.com/articles/magnetic-field-reversals-and-extinctions-the-correlation-wont-go-away",
+      "title": "Magnetic Field Reversals and Extinctions: The Correlation Won't Go Away.",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 23 Oct 2026 16:11:14 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "00023e9b7fcaaeb7": {
+      "id": "00023e9b7fcaaeb7",
+      "canonicalUrl": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+      "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 23 Oct 2026 16:00:00 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "0011a3faa4b646b7": {
+      "id": "0011a3faa4b646b7",
+      "canonicalUrl": "https://phys.org/news/2026-10-black-holes-maximum.html",
+      "title": "Black holes spinning near maximum rate could split in two, calculations suggest",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 23 Oct 2026 14:20:12 EDT",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "0002b32830f6aa98": {
+      "id": "0002b32830f6aa98",
+      "canonicalUrl": "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html",
+      "title": "ALMA spots 'dragon egg' that may represent the earliest stages of massive star formation",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 23 Oct 2026 12:50:01 EDT",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
+    },
+    "0000b908f0d98249": {
+      "id": "0000b908f0d98249",
+      "canonicalUrl": "https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html",
+      "title": "Artemis I: Crystals of experimental detectors record radiation doses near the moon",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 23 Oct 2026 11:40:01 EDT",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T18:44:00.637Z"
     }
   }
 }

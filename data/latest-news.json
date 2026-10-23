@@ -1,15 +1,106 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T15:15:58.130Z",
-  "count": 143,
+  "generatedAt": "2026-10-23T18:44:01.506Z",
+  "count": 175,
   "articles": [
     {
-      "id": "00131117cf5b1825",
-      "title": "Pedal to the metal: NASA's Psyche heads toward asteroid belt",
-      "link": "https://phys.org/news/2026-10-metal-nasa-psyche-asteroid-belt.html",
-      "desc": "With a successful Mars gravity assist in its rearview mirror, NASA's Psyche spacecraft has fired up its thrusters and is accelerating toward the metal-rich asteroid of the same name. During the first leg of its journey, following an October 2023 launch, the mission used its electric propulsion syste",
-      "pubDate": "Fri, 23 Oct 2026 11:10:01 EDT",
-      "category": "Missions & Exploration",
+      "id": "001c0556b034f87c",
+      "title": "Saudi Arabia Joins the Search for Alien Civilizations",
+      "link": "https://www.universetoday.com/articles/saudi-arabia-joins-the-search-for-alien-civilizations",
+      "desc": "Saudi Arabia is joining the search for alien signals coming from the cosmos. They're collaborating with SETI in the endeavour. SETI has announced that two LaserSETI instruments will be positioned in Saudi Arabia, adding to a growing network of optical sensors designed to detect laser pulses that cou",
+      "pubDate": "Fri, 23 Oct 2026 18:17:49 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001b5a268a90bd26",
+      "title": "Halley's Comet dazzles from afar in spectacular astrophoto of Orionid meteor shower",
+      "link": "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower",
+      "desc": "This incredible composite image of Orionid meteors was captured as Earth passed through the debris trail shed by Halley's Comet.",
+      "pubDate": "Fri, 23 Oct 2026 18:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000a6051d97fbfe5",
+      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
+      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership",
+      "desc": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future w",
+      "pubDate": "Fri, 23 Oct 2026 17:50:21 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001bae33c399c949",
+      "title": "Magnetic Field Reversals and Extinctions: The Correlation Won't Go Away.",
+      "link": "https://www.universetoday.com/articles/magnetic-field-reversals-and-extinctions-the-correlation-wont-go-away",
+      "desc": "Scientists have wondered about a connection between Earth's geomagnetic reversals, or pole flips, and mass extinctions. They've found correlations, but nothing convincing enough to remove healthy doubts. But new research found a period of time with a concentrated number of reversals that coincides w",
+      "pubDate": "Fri, 23 Oct 2026 16:11:14 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00023e9b7fcaaeb7",
+      "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+      "link": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+      "desc": "After a failed soft reboot and a remake of the original, the Halo universe is facing yet another major creative shift. But has Xbox learned any lessons this time?",
+      "pubDate": "Fri, 23 Oct 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0011a3faa4b646b7",
+      "title": "Black holes spinning near maximum rate could split in two, calculations suggest",
+      "link": "https://phys.org/news/2026-10-black-holes-maximum.html",
+      "desc": "Two black holes can collide and merge into one. But could the opposite happen: could a single black hole split into two smaller ones? That question is explored in a new theoretical study: \"When Black Holes Admit Pair-of-pants Topologies,\" published in the journal Physical Review D.",
+      "pubDate": "Fri, 23 Oct 2026 14:20:12 EDT",
+      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Phys.org Space",
         "key": "physorg",
@@ -23,12 +114,31 @@
       }
     },
     {
-      "id": "0001375e166a61a7",
-      "title": "NASA's Hubble charts path for Roman with gravitational lenses",
-      "link": "https://phys.org/news/2026-10-nasa-hubble-path-roman-gravitational.html",
-      "desc": "A sweeping barred spiral galaxy marks the spot in this image, but the real treasure is the gravitational lens in the lower-right corner, where a distant background galaxy is being magnified and distorted by the gravity of a closer galaxy.",
-      "pubDate": "Fri, 23 Oct 2026 10:50:01 EDT",
+      "id": "0002b32830f6aa98",
+      "title": "ALMA spots 'dragon egg' that may represent the earliest stages of massive star formation",
+      "link": "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html",
+      "desc": "Astronomers identified an exceptionally tiny core that may represent an early stage in the formation of a massive star. Located in an infrared-dark area called Dragon Cloud, the core is nicknamed the \"dragon egg.\" The paper, accepted for publication in Astronomy & Astrophysics, was posted to the arX",
+      "pubDate": "Fri, 23 Oct 2026 12:50:01 EDT",
       "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0000b908f0d98249",
+      "title": "Artemis I: Crystals of experimental detectors record radiation doses near the moon",
+      "link": "https://phys.org/news/2026-10-artemis-crystals-experimental-detectors-doses.html",
+      "desc": "Do cosmic radiation doses near the moon differ significantly from those received by astronauts in low Earth orbit? Experimental lithium fluoride detectors, installed aboard the Orion spacecraft during the Artemis I mission, have now made it possible to obtain preliminary estimates.",
+      "pubDate": "Fri, 23 Oct 2026 11:40:01 EDT",
+      "category": "Missions & Exploration",
       "source": {
         "name": "Phys.org Space",
         "key": "physorg",
@@ -181,25 +291,6 @@
       "desc": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s S",
       "pubDate": "Wed, 21 Oct 2026 20:51:50 +0000",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ec9dceb380de2",
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
-      "desc": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years ",
-      "pubDate": "Wed, 21 Oct 2026 18:35:56 +0000",
-      "category": "Space Industry & Policy",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -1184,42 +1275,6 @@
       }
     },
     {
-      "id": "0014572720e2ea08",
-      "title": "Orionid meteor shower peaks tonight: Here's the best time to spot shooting stars",
-      "link": "https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-oct-21-22-2026-heres-the-best-time-to-spot-shooting-stars",
-      "desc": "The Orionid meteor shower peaks tonight (Oct. 21-22) in the light of a waxing moon. Here's what to expect from one of Autumn's greatest natural light shows.",
-      "pubDate": "Wed, 21 Oct 2026 12:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000ca67392970a27",
-      "title": "Russian satellite plays 'cat-and-mouse' with a commercial US spacecraft likely used by Ukraine. But why the risky close encounter?",
-      "link": "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter",
-      "desc": "A Russian satellite just conducted a startlingly close approach of a private American Earth-observing satellite. What was the goal of the controversial maneuver?",
-      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "001c86c5406b4477",
       "title": "JWST Reveals a Lopsided Alien World with Blistering Evening Winds",
       "link": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
@@ -1455,10 +1510,10 @@
     },
     {
       "id": "0006c77eb0087c91",
-      "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture MB edits",
+      "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture",
       "link": "https://www.universetoday.com/articles/how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocapture-mb-edits",
       "desc": "Using a planet’s atmosphere to secure a satellite’s place in orbit, a process known as “aerocapture”, has been the dream of flight engineers for decades. The only problem? It’s really hard to actually do. It requires control systems, thermal management, and orbital mechanics to all coordinate in a d",
-      "pubDate": "Wed, 21 Oct 2026 16:12:33 +0000",
+      "pubDate": "Wed, 21 Oct 2026 16:12:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
@@ -1531,42 +1586,6 @@
       "link": "https://www.universetoday.com/articles/scientists-use-ancient-rains-to-map-the-possible-origin-life-on-mars",
       "desc": "Billions of years ago, rain may have helped shape where the chemistry of life could begin on Mars. A new study maps how formaldehyde, an important prebiotic molecule, may have reached the surface. This map could help guide future missions searching for signs of past life on Mars.",
       "pubDate": "Tue, 20 Oct 2026 23:16:34 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000b6b153a020da9",
-      "title": "JAXA's Martian Moons eXploration Mission is on its Way to Mars and Phobos",
-      "link": "https://www.universetoday.com/articles/jaxas-martian-moons-exploration-mission-is-on-its-way-to-mars-and-phobos",
-      "desc": "JAXA successfully launched its Martian Moon eXplorer on its way to Mars and Phobos. It'll reach Mars in about six months, and will orbit the planet for about a month before transferring to an orbit around Phobos. It will deploy a small lander, which will help select a sample-gathering location for t",
-      "pubDate": "Tue, 20 Oct 2026 20:09:31 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000caa68cdbd75b8",
-      "title": "The Gas Near Sagittarius A-star is Enriched in Metals, Probably from Supernovae Explosions",
-      "link": "https://www.universetoday.com/articles/the-gas-near-sagittarius-a-star-is-enriched-in-metals-probably-from-supernovae-explosions",
-      "desc": "The region near Sagittarius A-star, the Milky Way's supermassive black hole, is enriched in metals, although only modestly. The likely cause is supernovae explosions, which synthesize elements heavier than hydrogen and helium. Over time, this metal-rich gas found its way towards the SMBH. The increa",
-      "pubDate": "Tue, 20 Oct 2026 17:34:46 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
@@ -1821,24 +1840,6 @@
       "desc": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock new ways to treat devastating brain diseases, restore eyesight",
       "pubDate": "Fri, 16 Oct 2026 19:51:58 EDT",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001e82bc7467124f",
-      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
-      "desc": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather",
-      "pubDate": "Sat, 17 Oct 2026 08:26:49 EDT",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
