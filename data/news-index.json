@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-23T13:40:27.952Z",
-  "lastRunId": "run-1792762823563-khwl7l",
+  "lastUpdated": "2026-10-23T14:43:11.113Z",
+  "lastRunId": "run-1792766589257-tqzmsj",
   "stats": {
-    "totalStories": 183,
-    "lastRunAdded": 183
+    "totalStories": 184,
+    "lastRunAdded": 1
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"7a03d037ec4d2dff9aa04d1c99bc166a\"",
-    "https://www.universetoday.com/feed": "W/\"6adb56f6-751c\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"7a03d037ec4d2dff9aa04d1c99bc166a\"",
-    "http://arxiv.org/rss/astro-ph": "30315d60a0f99a0daecdad933c4bfcc0d1837454ef4dd4128ba405259e8a7bf6",
-    "https://spacenews.com/feed/": "W/\"f41d41492b1cf494e7ab95acdb59b903\"",
-    "https://www.astronomy.com/feed/": "W/\"5c668d5ef6834b8fdd1000e259a3386e\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"89a775a8152ba6713cd7c3766732526d\"",
+    "https://www.universetoday.com/feed": "W/\"6adb65a1-751c\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"723a6dafaa6466900dd22c3f50c804ff\"",
+    "http://arxiv.org/rss/astro-ph": "83c6b2d03859078947b7d9f394557a869e5fd84c74f4f0e64fd2eea6498b3c09",
+    "https://spacenews.com/feed/": "W/\"5331608bfab5c9500e2cff76a9a49eba\"",
+    "https://www.astronomy.com/feed/": "W/\"90a2d80c9ea4077fc397e8c248203030\"",
     "https://spacepolicyonline.com/feed/": "\"cf9fa6c096b4628c4a635b157322e7e4\""
   },
   "articles": {
@@ -2211,6 +2211,18 @@
       "archivedDate": "2026-10-23",
       "collection": "evening",
       "archivedAt": "2026-10-23T13:40:27.952Z"
+    },
+    "000a85225af77ce1": {
+      "id": "000a85225af77ce1",
+      "canonicalUrl": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
+      "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-23",
+      "collection": "evening",
+      "archivedAt": "2026-10-23T14:43:11.113Z"
     }
   }
 }
