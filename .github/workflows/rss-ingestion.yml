@@ -4,8 +4,8 @@ on:
   schedule:
     # 09:00 AM IST = 03:30 UTC
     - cron: '30 3 * * *'
-    # 11:20 PM IST = 17:50 UTC
-    - cron: '50 17 * * *'
+    # 09:00 PM IST = 15:30 UTC
+    - cron: '30 15 * * *'
   workflow_dispatch:
     inputs:
       collection_type:
@@ -71,7 +71,7 @@ jobs:
 
             if [ "$CRON_STR" = "30 3 * * *" ]; then
               COLLECTION_ARG="morning"
-            elif [ "$CRON_STR" = "50 17 * * *" ]; then
+            elif [ "$CRON_STR" = "30 15 * * *" ]; then
               COLLECTION_ARG="evening"
             fi
           elif [ -n "$INPUT_COLLECTION" ] && [ "$INPUT_COLLECTION" != "auto" ]; then
