@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-24T03:30:45.932Z",
-  "lastRunId": "run-1792812643649-trn4dk",
+  "lastUpdated": "2026-10-24T08:21:21.820Z",
+  "lastRunId": "run-1792830080122-s717ws",
   "stats": {
-    "totalStories": 209,
-    "lastRunAdded": 15
+    "totalStories": 211,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"f2071d22064759bb5a20b69eb7b2389d\"",
-    "https://www.universetoday.com/feed": "W/\"6adc1bfe-73bb\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"f2071d22064759bb5a20b69eb7b2389d\"",
-    "http://arxiv.org/rss/astro-ph": "30315d60a0f99a0daecdad933c4bfcc0d1837454ef4dd4128ba405259e8a7bf6",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c474fadb93626c90349c22003ae39ce1\"",
+    "https://www.universetoday.com/feed": "W/\"6adc6225-73bb\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c474fadb93626c90349c22003ae39ce1\"",
+    "http://arxiv.org/rss/astro-ph": "dc3694f6fb14d8b1efdb27e4b90a92899da83b76d7b3f22ddc9008d18b9310db",
     "https://spacenews.com/feed/": "W/\"6e442e54a39cd3caa224577f8dc452b0\"",
-    "https://www.astronomy.com/feed/": "W/\"83436b99268d827aa750e5b41aa100b5\"",
+    "https://www.astronomy.com/feed/": "W/\"bfb6a5bfeb2d47b84a765fb92ea20c23\"",
     "https://spacepolicyonline.com/feed/": "\"679a79ed61938d63e2d7d04c3a0ca02e\""
   },
   "articles": {
@@ -2523,6 +2523,30 @@
       "archivedDate": "2026-10-24",
       "collection": "morning",
       "archivedAt": "2026-10-24T03:30:45.932Z"
+    },
+    "001c50a429d573c4": {
+      "id": "001c50a429d573c4",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-saturday-october-24-2026",
+      "title": "The Sky Today on Saturday, October 24: Mercury stands still",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 24 Oct 2026 08:00:00 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "morning",
+      "archivedAt": "2026-10-24T08:21:21.820Z"
+    },
+    "000148af689d4335": {
+      "id": "000148af689d4335",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie",
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sat, 24 Oct 2026 04:05:00 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "morning",
+      "archivedAt": "2026-10-24T08:21:21.820Z"
     }
   }
 }
