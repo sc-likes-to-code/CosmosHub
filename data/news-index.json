@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-24T15:30:42.996Z",
-  "lastRunId": "run-1792855841241-u4wizy",
+  "lastUpdated": "2026-10-24T18:18:14.292Z",
+  "lastRunId": "run-1792865892446-tnzd6u",
   "stats": {
-    "totalStories": 217,
-    "lastRunAdded": 6
+    "totalStories": 220,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"0479848f950629c415ed6b6176aec834\"",
-    "https://www.universetoday.com/feed": "W/\"6adcc46e-73bb\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"0479848f950629c415ed6b6176aec834\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"b0587ef74ba8b455db7a772884128b07\"",
+    "https://www.universetoday.com/feed": "W/\"6adcef05-73bb\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b0587ef74ba8b455db7a772884128b07\"",
     "http://arxiv.org/rss/astro-ph": "dc3694f6fb14d8b1efdb27e4b90a92899da83b76d7b3f22ddc9008d18b9310db",
     "https://spacenews.com/feed/": "W/\"d8086a62582fd2810d3bc8cae780cd34\"",
     "https://www.astronomy.com/feed/": "W/\"10a1bce316818fef1cb2a5776c439b48\"",
-    "https://spacepolicyonline.com/feed/": "\"679a79ed61938d63e2d7d04c3a0ca02e\""
+    "https://spacepolicyonline.com/feed/": "\"e19b059a852732f5ca1a4519639fa960\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -2619,6 +2619,42 @@
       "archivedDate": "2026-10-24",
       "collection": "evening",
       "archivedAt": "2026-10-24T15:30:42.996Z"
+    },
+    "0017fb997f8882f9": {
+      "id": "0017fb997f8882f9",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
+      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 24 Oct 2026 15:53:21 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-24T18:18:14.292Z"
+    },
+    "001b3cc30a70686d": {
+      "id": "001b3cc30a70686d",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
+      "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 24 Oct 2026 15:33:08 +0000",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-24T18:18:14.292Z"
+    },
+    "001510e8e65290aa": {
+      "id": "001510e8e65290aa",
+      "canonicalUrl": "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html",
+      "title": "How flare ribbons reveal hidden solar explosions on the sun",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 24 Oct 2026 14:00:01 EDT",
+      "archivedDate": "2026-10-24",
+      "collection": "evening",
+      "archivedAt": "2026-10-24T18:18:14.292Z"
     }
   }
 }

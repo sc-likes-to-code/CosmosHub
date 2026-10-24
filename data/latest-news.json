@@ -1,105 +1,51 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T15:30:43.521Z",
-  "count": 156,
+  "generatedAt": "2026-10-24T18:18:14.854Z",
+  "count": 142,
   "articles": [
     {
-      "id": "0015ab220cf200fd",
-      "title": "Oct. 24, 1601: The death of Tycho Brahe",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-24-1601-the-death-of-tycho-brahe",
-      "desc": "In Astronomy’s 2022 list of the 20 greatest astronomers of all time, Associate Editor Michael Bakich ranked Tycho Brahe No. 2, second only to Galileo, noting: “Danish astronomer Tyge (Tycho) Ottesen Brahe was history’s greatest pre-telescopic observer.” Born Dec. 14, 1546, Tycho was raised by an unc",
-      "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0011b0bc2dedcf2c",
-      "title": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks",
-      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything",
-      "desc": "The fourth season of \"Star Trek: Strange New Worlds\" was one giant gimmick: shoving \"Trek\" into as many genres as possible and often directly adapting classic films from those genres.",
-      "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0001c3d7c2dd669a",
-      "title": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season",
-      "link": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season",
-      "desc": "Five spooky skywatching targets perfect for naked eye stargazing this Halloween!",
-      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0005f297676496ca",
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "desc": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014faa5802bf4e5",
-      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-      "desc": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
-      "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00089bef9bf1c3a0",
-      "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
-      "link": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
-      "desc": "NASA is moving fast on its plans to build a moon base and return astronauts to the lunar surface in as little as two years.",
-      "pubDate": "Sat, 24 Oct 2026 05:28:00 EDT",
+      "id": "0017fb997f8882f9",
+      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
+      "desc": "On Episode 233 of This Week In Space, Tariq Malik and Rick Jenet are joined by Dr. Amanda Smith-Hackler, with the Universities Space Research Association, about entering the space workforce.",
+      "pubDate": "Sat, 24 Oct 2026 15:53:21 +0000",
       "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001b3cc30a70686d",
+      "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
+      "desc": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
+      "pubDate": "Sat, 24 Oct 2026 15:33:08 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001510e8e65290aa",
+      "title": "How flare ribbons reveal hidden solar explosions on the sun",
+      "link": "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html",
+      "desc": "Many topics in astronomy and astrophysics are esoteric. There's not much of a relationship between something like the supermassive black hole at the center of the Milky Way and the life of a regular person going about their business. But the sun is different. Its presence in our lives is inescapable",
+      "pubDate": "Sat, 24 Oct 2026 14:00:01 EDT",
+      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Phys.org Space",
         "key": "physorg",
@@ -949,6 +895,42 @@
       }
     },
     {
+      "id": "0011b0bc2dedcf2c",
+      "title": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks",
+      "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything",
+      "desc": "The fourth season of \"Star Trek: Strange New Worlds\" was one giant gimmick: shoving \"Trek\" into as many genres as possible and often directly adapting classic films from those genres.",
+      "pubDate": "Sat, 24 Oct 2026 12:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0001c3d7c2dd669a",
+      "title": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season",
+      "link": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season",
+      "desc": "Five spooky skywatching targets perfect for naked eye stargazing this Halloween!",
+      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "000a5cad0e10886e",
       "title": "SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly",
@@ -1225,42 +1207,6 @@
       "desc": "A satellite image of \"Spider Crater\" in Western Australia.",
       "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
       "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001ad49d72d88e93",
-      "title": "Next Mass Effect game cancelled as EA shuts down legendary sci-fi RPG studio BioWare",
-      "link": "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware",
-      "desc": "The legendary RPG studio behind classics such as Star Wars: Knights of the Old Republic, Mass Effect, and Dragon Age is no more.",
-      "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0000878c517a77cf",
-      "title": "Watch NASA's update on accelerating Artemis moon plans today",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
-      "desc": "NASA will provide an update about its Artemis III mission and its plans to land astronauts on the moon during a press conference today (Oct. 23). Here's how to watch it live.",
-      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",
@@ -1652,6 +1598,42 @@
       }
     },
     {
+      "id": "0005f297676496ca",
+      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
+      "desc": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
+      "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0014faa5802bf4e5",
+      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+      "desc": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
+      "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "000edd11e4b03573",
       "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
@@ -1838,6 +1820,24 @@
       "desc": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the International Space Station, including research that could advance",
       "pubDate": "Sat, 17 Oct 2026 23:02:35 EDT",
       "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001c899a727243cd",
+      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+      "desc": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’",
+      "pubDate": "Sat, 17 Oct 2026 09:28:13 EDT",
+      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
