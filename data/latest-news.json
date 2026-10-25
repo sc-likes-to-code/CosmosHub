@@ -1,247 +1,24 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T15:30:47.379Z",
-  "count": 151,
+  "generatedAt": "2026-10-25T18:31:26.903Z",
+  "count": 132,
   "articles": [
     {
-      "id": "00167f01de49b9d1",
-      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
-      "desc": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
-      "pubDate": "Sun, 25 Oct 2026 13:17:54 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001aaf0100956d78",
-      "title": "Oct. 25, 1671: Iapetus is discovered",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-25-1671-iapetus-is-discovered",
-      "desc": "In 1669, French-Italian astronomer Giovanni Cassini arrived at the still-under-construction Paris Observatory as its new director. He quickly talked Louis XIV’s minister of finance into buying a 34-foot Campani refractor for the observatory, and on Oct. 25, 1671, used that refractor to discover Satu",
-      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "id": "000c0e0425defb26",
+      "title": "Milky Way's disk grew 'upside down,' with younger stars forming in ever-thinner layers",
+      "link": "https://phys.org/news/2026-10-milky-disk-grew-upside-younger.html",
+      "desc": "The Milky Way is home to hundreds of billions of stars arranged in a glorious spiral pattern. But beyond the obvious spiral, our galaxy has other physical characteristics. It's divided into a galactic bulge, a galactic disk and a galactic halo.",
+      "pubDate": "Sun, 25 Oct 2026 14:30:02 EDT",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000187aae775ed53",
-      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
-      "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
-      "desc": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
-      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
+        "name": "Phys.org Space",
+        "key": "physorg",
         "badgeClass": "badge-spacedotcom",
         "cardClass": "spacedotcom",
         "tags": [
+          "Physics",
           "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000751c8d2c10fce",
-      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe",
-      "desc": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
-      "pubDate": "Sun, 25 Oct 2026 08:19:48 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00113a533e1e7a11",
-      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-      "desc": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lu",
-      "pubDate": "Sun, 25 Oct 2026 08:07:01 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004160efeb634c9",
-      "title": "Astronomers may have discovered the first moon beyond our Solar System",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "desc": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
-      "pubDate": "Sat, 24 Oct 2026 23:13:05 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0019d5f5126e7536",
-      "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions",
-      "desc": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Sinc",
-      "pubDate": "Fri, 23 Oct 2026 22:39:39 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00122266614266fe",
-      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-      "link": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations",
-      "desc": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history.  Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parm",
-      "pubDate": "Fri, 23 Oct 2026 22:37:53 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001bfc25007ecc57",
-      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-      "link": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends",
-      "desc": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swif",
-      "pubDate": "Fri, 23 Oct 2026 21:51:19 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000698daa6082005",
-      "title": "RS-25 Engine Tests at NASA Stennis",
-      "link": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis",
-      "desc": "Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a",
-      "pubDate": "Fri, 23 Oct 2026 18:57:04 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000a6051d97fbfe5",
-      "title": "NASA, Virginia Launch Power Partnership for Energy Security",
-      "link": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership",
-      "desc": "NASA is helping to foster long-term energy security in Virginia.  NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future w",
-      "pubDate": "Fri, 23 Oct 2026 17:50:21 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001b931b3cd812ff",
-      "title": "El Niño Then and Now",
-      "link": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now",
-      "desc": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
-      "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001924c1b4446676",
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium",
-      "desc": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space",
-      "pubDate": "Thu, 22 Oct 2026 21:39:58 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
+          "Research"
         ]
       }
     },
@@ -907,6 +684,42 @@
           "ESA",
           "Europe",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00167f01de49b9d1",
+      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
+      "desc": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
+      "pubDate": "Sun, 25 Oct 2026 13:17:54 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000187aae775ed53",
+      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+      "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+      "desc": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
+      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
         ]
       }
     },
@@ -1595,21 +1408,38 @@
       }
     },
     {
-      "id": "000e69bad774c58f",
-      "title": "ISS Daily Summary Report Discontinued",
-      "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
-      "desc": "Beginning Monday, July 29th, the IMC Daily Summary will be discontinued. To learn more about the groundbreaking science and engineering happening daily on the International Space Station, please visit the space station blog at https://blogs.nasa.gov/spacestation/, or browse a variety of space statio",
-      "pubDate": "Sat, 27 Jul 2024 02:23:00 +0000",
-      "category": "Missions & Exploration",
+      "id": "00113a533e1e7a11",
+      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "desc": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lu",
+      "pubDate": "Sun, 25 Oct 2026 08:07:01 EDT",
+      "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "ISS Blog",
-        "key": "iss",
-        "badgeClass": "badge-iss",
-        "cardClass": "iss",
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
         "tags": [
-          "ISS",
-          "NASA",
-          "Station"
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0004160efeb634c9",
+      "title": "Astronomers may have discovered the first moon beyond our Solar System",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "desc": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
+      "pubDate": "Sat, 24 Oct 2026 23:13:05 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -1844,6 +1674,172 @@
         "tags": [
           "Research",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "001c899a727243cd",
+      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+      "desc": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’",
+      "pubDate": "Sat, 17 Oct 2026 09:28:13 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011d981fdb24642",
+      "title": "SpaceX just delivered some very strange cargo to the International Space Station",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+      "desc": "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space. Scientists hope these experiments could unlock new ways to treat devastating brain diseases, restore eyesight",
+      "pubDate": "Fri, 16 Oct 2026 19:51:58 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001e82bc7467124f",
+      "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+      "desc": "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds. The breakthrough gives scientists a powerful new tool for uncovering weather",
+      "pubDate": "Sat, 17 Oct 2026 08:26:49 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f32404fb5c07f",
+      "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
+      "desc": "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribute heat, causing one side of its atmosphere to bulge outward.",
+      "pubDate": "Fri, 16 Oct 2026 19:27:29 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000eb4931dfe24ca",
+      "title": "Astronomers discover a strange universal rule behind black hole eruptions",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261014015507.htm",
+      "desc": "Scientists have discovered that black holes of vastly different sizes appear to launch powerful jets according to the same universal rule. The breakthrough could explain why some black holes suddenly erupt years after devouring a star and help astronomers predict when these spectacular outbursts wil",
+      "pubDate": "Fri, 16 Oct 2026 06:45:33 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001510e8e65290aa",
+      "title": "How flare ribbons reveal hidden solar explosions on the sun",
+      "link": "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html",
+      "desc": "Many topics in astronomy and astrophysics are esoteric. There's not much of a relationship between something like the supermassive black hole at the center of the Milky Way and the life of a regular person going about their business. But the sun is different. Its presence in our lives is inescapable",
+      "pubDate": "Sat, 24 Oct 2026 14:00:01 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00089bef9bf1c3a0",
+      "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
+      "link": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
+      "desc": "NASA is moving fast on its plans to build a moon base and return astronauts to the lunar surface in as little as two years.",
+      "pubDate": "Sat, 24 Oct 2026 05:28:00 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000066c7f2c21d09",
+      "title": "Everyday Mylar turned into a promising insulator for lunar habitats",
+      "link": "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html",
+      "desc": "Establishing a long-term presence on the moon will require solving challenges that are easy to overlook on Earth. Lunar temperatures, for instance, can vary from hundreds of degrees below zero to boiling, making effective insulation essential for lunar habitats.",
+      "pubDate": "Fri, 23 Oct 2026 15:20:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001be0e537458a68",
+      "title": "Stellar collision may explain why Orion Nebula's planet-forming disks appear younger than its stars",
+      "link": "https://phys.org/news/2026-10-stellar-collision-orion-nebula-planet.html",
+      "desc": "The Orion Nebula is a large star-forming region visible to the naked eye. Some of the young stars in the nebula are surrounded by disks of gas and dust in which planets form. Radiation from the massive central star, 1 Ori C1 (Theta-1 Orionis C1), gradually strips material from these disks, giving th",
+      "pubDate": "Fri, 23 Oct 2026 15:00:01 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     }
