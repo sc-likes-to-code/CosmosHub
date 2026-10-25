@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-24T18:18:14.292Z",
-  "lastRunId": "run-1792865892446-tnzd6u",
+  "lastUpdated": "2026-10-25T08:40:08.259Z",
+  "lastRunId": "run-1792917606506-yayqj8",
   "stats": {
-    "totalStories": 220,
-    "lastRunAdded": 3
+    "totalStories": 222,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b0587ef74ba8b455db7a772884128b07\"",
-    "https://www.universetoday.com/feed": "W/\"6adcef05-73bb\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b0587ef74ba8b455db7a772884128b07\"",
-    "http://arxiv.org/rss/astro-ph": "dc3694f6fb14d8b1efdb27e4b90a92899da83b76d7b3f22ddc9008d18b9310db",
-    "https://spacenews.com/feed/": "W/\"d8086a62582fd2810d3bc8cae780cd34\"",
-    "https://www.astronomy.com/feed/": "W/\"10a1bce316818fef1cb2a5776c439b48\"",
-    "https://spacepolicyonline.com/feed/": "\"e19b059a852732f5ca1a4519639fa960\""
+    "https://www.nasa.gov/news-release/feed/": "W/\"1d0d0d3df414b445f50a25c81821fda2\"",
+    "https://www.universetoday.com/feed": "W/\"6addbc38-7209\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"1d0d0d3df414b445f50a25c81821fda2\"",
+    "http://arxiv.org/rss/astro-ph": "f9597363e3783530546c91c8b69dc1324cf55fd9c17c147ae471b716b979589b",
+    "https://spacenews.com/feed/": "W/\"548981a416568d0c00f5c9fbb8a47fe6\"",
+    "https://www.astronomy.com/feed/": "W/\"ed5f2b95219b7469a60d958132221622\"",
+    "https://spacepolicyonline.com/feed/": "\"1bad8c19bbfc3f37f7518dbbb32d8283\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -2655,6 +2655,30 @@
       "archivedDate": "2026-10-24",
       "collection": "evening",
       "archivedAt": "2026-10-24T18:18:14.292Z"
+    },
+    "0003787a63d10443": {
+      "id": "0003787a63d10443",
+      "canonicalUrl": "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution",
+      "title": "Rare Lunar Meteorites Could Fill Gaps In Moon’s Evolution",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Sun, 25 Oct 2026 08:18:40 +0000",
+      "archivedDate": "2026-10-25",
+      "collection": "morning",
+      "archivedAt": "2026-10-25T08:40:08.259Z"
+    },
+    "001810a65af0ee5d": {
+      "id": "001810a65af0ee5d",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-sunday-october-25-2026",
+      "title": "The Sky Today on Sunday, October 25: Dione crosses Saturn",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 25 Oct 2026 08:00:00 +0000",
+      "archivedDate": "2026-10-25",
+      "collection": "morning",
+      "archivedAt": "2026-10-25T08:40:08.259Z"
     }
   }
 }

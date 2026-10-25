@@ -1,60 +1,41 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T18:18:14.854Z",
-  "count": 142,
+  "generatedAt": "2026-10-25T08:40:08.723Z",
+  "count": 164,
   "articles": [
     {
-      "id": "0017fb997f8882f9",
-      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
-      "desc": "On Episode 233 of This Week In Space, Tariq Malik and Rick Jenet are joined by Dr. Amanda Smith-Hackler, with the Universities Space Research Association, about entering the space workforce.",
-      "pubDate": "Sat, 24 Oct 2026 15:53:21 +0000",
+      "id": "0003787a63d10443",
+      "title": "Rare Lunar Meteorites Could Fill Gaps In Moon’s Evolution",
+      "link": "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution",
+      "desc": "Almost all meteorites come from asteroids, not the Moon or Mars.  But after decades of analysis of the Apollo samples, researchers still rely on lunar meteorites to better understand our anomalously large Moon.",
+      "pubDate": "Sun, 25 Oct 2026 08:18:40 +0000",
       "category": "Missions & Exploration",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
     {
-      "id": "001b3cc30a70686d",
-      "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
-      "desc": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
-      "pubDate": "Sat, 24 Oct 2026 15:33:08 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001510e8e65290aa",
-      "title": "How flare ribbons reveal hidden solar explosions on the sun",
-      "link": "https://phys.org/news/2026-10-flare-ribbons-reveal-hidden-solar.html",
-      "desc": "Many topics in astronomy and astrophysics are esoteric. There's not much of a relationship between something like the supermassive black hole at the center of the Milky Way and the life of a regular person going about their business. But the sun is different. Its presence in our lives is inescapable",
-      "pubDate": "Sat, 24 Oct 2026 14:00:01 EDT",
+      "id": "001810a65af0ee5d",
+      "title": "The Sky Today on Sunday, October 25: Dione crosses Saturn",
+      "link": "https://www.astronomy.com/observing/the-sky-today-sunday-october-25-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 24: Mercury stands still Saturn’s small moon Dione transits the disk this evening at 8:43 p.m. EDT, best seen from the eastern half of the U.S. However, the transit itself will be difficult to watch visually no matt",
+      "pubDate": "Sun, 25 Oct 2026 08:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Physics",
-          "Space",
-          "Research"
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -895,6 +876,42 @@
       }
     },
     {
+      "id": "0017fb997f8882f9",
+      "title": "This Week In Space podcast: Episode 233 — The Artemis Generation",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation",
+      "desc": "On Episode 233 of This Week In Space, Tariq Malik and Rick Jenet are joined by Dr. Amanda Smith-Hackler, with the Universities Space Research Association, about entering the space workforce.",
+      "pubDate": "Sat, 24 Oct 2026 15:53:21 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001b3cc30a70686d",
+      "title": "On this day in space! Oct. 24, 1946: V-2 rocket takes 1st photos of Earth from space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026",
+      "desc": "On October 24, 1946, a V-2 rocket captured the first-ever photo of Earth from space. Here's why it mattered.",
+      "pubDate": "Sat, 24 Oct 2026 15:33:08 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "0011b0bc2dedcf2c",
       "title": "'Star Trek: Strange New Worlds' was afraid to say anything in season of gimmicks",
       "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything",
@@ -1548,24 +1565,6 @@
       "link": "https://www.universetoday.com/articles/how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocapture-mb-edits",
       "desc": "Using a planet’s atmosphere to secure a satellite’s place in orbit, a process known as “aerocapture”, has been the dream of flight engineers for decades. The only problem? It’s really hard to actually do. It requires control systems, thermal management, and orbital mechanics to all coordinate in a d",
       "pubDate": "Wed, 21 Oct 2026 16:12:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001933ef6f538e07",
-      "title": "Solar Orbiter Traces Giant Magnetic Switchbacks Directly Back to the Sun",
-      "link": "https://www.universetoday.com/articles/solar-orbiter-traces-giant-magnetic-switchbacks-directly-back-to-the-sun",
-      "desc": "There has been a torrent of solar physics data lately, largely thanks to new spacecraft that have begun actively observing the Sun. One of those spacecraft, Solar Orbiter, happened to have a serendipitous encounter with a type of solar physics phenomenon known as a “switchback”. A new paper, availab",
-      "pubDate": "Wed, 21 Oct 2026 15:43:19 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
