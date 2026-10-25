@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-25T08:40:08.259Z",
-  "lastRunId": "run-1792917606506-yayqj8",
+  "lastUpdated": "2026-10-25T15:30:46.745Z",
+  "lastRunId": "run-1792942244738-tb750i",
   "stats": {
-    "totalStories": 222,
-    "lastRunAdded": 2
+    "totalStories": 228,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"1d0d0d3df414b445f50a25c81821fda2\"",
-    "https://www.universetoday.com/feed": "W/\"6addbc38-7209\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"1d0d0d3df414b445f50a25c81821fda2\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"e7393f6e9eba84dd5eae9272ea362533\"",
+    "https://www.universetoday.com/feed": "W/\"6ade167f-7209\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"e7393f6e9eba84dd5eae9272ea362533\"",
     "http://arxiv.org/rss/astro-ph": "f9597363e3783530546c91c8b69dc1324cf55fd9c17c147ae471b716b979589b",
     "https://spacenews.com/feed/": "W/\"548981a416568d0c00f5c9fbb8a47fe6\"",
-    "https://www.astronomy.com/feed/": "W/\"ed5f2b95219b7469a60d958132221622\"",
-    "https://spacepolicyonline.com/feed/": "\"1bad8c19bbfc3f37f7518dbbb32d8283\""
+    "https://www.astronomy.com/feed/": "W/\"3a7ed1bc18442341e94685ca1da9f4ba\"",
+    "https://spacepolicyonline.com/feed/": "\"b12b39d9ad024a464cf8c52a3ad03197\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -2679,6 +2679,78 @@
       "archivedDate": "2026-10-25",
       "collection": "morning",
       "archivedAt": "2026-10-25T08:40:08.259Z"
+    },
+    "00167f01de49b9d1": {
+      "id": "00167f01de49b9d1",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
+      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sun, 25 Oct 2026 13:17:54 +0000",
+      "archivedDate": "2026-10-25",
+      "collection": "evening",
+      "archivedAt": "2026-10-25T15:30:46.745Z"
+    },
+    "001aaf0100956d78": {
+      "id": "001aaf0100956d78",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-25-1671-iapetus-is-discovered",
+      "title": "Oct. 25, 1671: Iapetus is discovered",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-25",
+      "collection": "evening",
+      "archivedAt": "2026-10-25T15:30:46.745Z"
+    },
+    "000187aae775ed53": {
+      "id": "000187aae775ed53",
+      "canonicalUrl": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-25",
+      "collection": "evening",
+      "archivedAt": "2026-10-25T15:30:46.745Z"
+    },
+    "000751c8d2c10fce": {
+      "id": "000751c8d2c10fce",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe",
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sun, 25 Oct 2026 08:19:48 +0000",
+      "archivedDate": "2026-10-25",
+      "collection": "evening",
+      "archivedAt": "2026-10-25T15:30:46.745Z"
+    },
+    "00113a533e1e7a11": {
+      "id": "00113a533e1e7a11",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 25 Oct 2026 08:07:01 EDT",
+      "archivedDate": "2026-10-25",
+      "collection": "evening",
+      "archivedAt": "2026-10-25T15:30:46.745Z"
+    },
+    "0004160efeb634c9": {
+      "id": "0004160efeb634c9",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "title": "Astronomers may have discovered the first moon beyond our Solar System",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 24 Oct 2026 23:13:05 EDT",
+      "archivedDate": "2026-10-25",
+      "collection": "evening",
+      "archivedAt": "2026-10-25T15:30:46.745Z"
     }
   }
 }

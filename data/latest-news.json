@@ -1,32 +1,32 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T08:40:08.723Z",
-  "count": 164,
+  "generatedAt": "2026-10-25T15:30:47.379Z",
+  "count": 151,
   "articles": [
     {
-      "id": "0003787a63d10443",
-      "title": "Rare Lunar Meteorites Could Fill Gaps In Moon’s Evolution",
-      "link": "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution",
-      "desc": "Almost all meteorites come from asteroids, not the Moon or Mars.  But after decades of analysis of the Apollo samples, researchers still rely on lunar meteorites to better understand our anomalously large Moon.",
-      "pubDate": "Sun, 25 Oct 2026 08:18:40 +0000",
-      "category": "Missions & Exploration",
+      "id": "00167f01de49b9d1",
+      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
+      "desc": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
+      "pubDate": "Sun, 25 Oct 2026 13:17:54 +0000",
+      "category": "Other Space Transmissions",
       "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
         "tags": [
-          "Astronomy",
-          "Science"
+          "Space",
+          "News"
         ]
       }
     },
     {
-      "id": "001810a65af0ee5d",
-      "title": "The Sky Today on Sunday, October 25: Dione crosses Saturn",
-      "link": "https://www.astronomy.com/observing/the-sky-today-sunday-october-25-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 24: Mercury stands still Saturn’s small moon Dione transits the disk this evening at 8:43 p.m. EDT, best seen from the eastern half of the U.S. However, the transit itself will be difficult to watch visually no matt",
-      "pubDate": "Sun, 25 Oct 2026 08:00:00 +0000",
+      "id": "001aaf0100956d78",
+      "title": "Oct. 25, 1671: Iapetus is discovered",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-25-1671-iapetus-is-discovered",
+      "desc": "In 1669, French-Italian astronomer Giovanni Cassini arrived at the still-under-construction Paris Observatory as its new director. He quickly talked Louis XIV’s minister of finance into buying a 34-foot Campani refractor for the observatory, and on Oct. 25, 1671, used that refractor to discover Satu",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
@@ -40,11 +40,29 @@
       }
     },
     {
-      "id": "000148af689d4335",
-      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie",
-      "desc": "APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
-      "pubDate": "Sat, 24 Oct 2026 04:05:00 +0000",
+      "id": "000187aae775ed53",
+      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
+      "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
+      "desc": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
+      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000751c8d2c10fce",
+      "title": "APOD: 2026 October 25 – Dark Matter in a Simulated Universe",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe",
+      "desc": "APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
+      "pubDate": "Sun, 25 Oct 2026 08:19:48 +0000",
       "category": "Research & Science",
       "source": {
         "name": "NASA",
@@ -54,6 +72,42 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00113a533e1e7a11",
+      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+      "desc": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lu",
+      "pubDate": "Sun, 25 Oct 2026 08:07:01 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0004160efeb634c9",
+      "title": "Astronomers may have discovered the first moon beyond our Solar System",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "desc": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
+      "pubDate": "Sat, 24 Oct 2026 23:13:05 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -179,25 +233,6 @@
       "desc": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space",
       "pubDate": "Thu, 22 Oct 2026 21:39:58 +0000",
       "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004085ec9a74c98",
-      "title": "Spiral’s Edge",
-      "link": "https://www.nasa.gov/image-article/spirals-edge",
-      "desc": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 M",
-      "pubDate": "Thu, 22 Oct 2026 21:35:38 +0000",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -1075,7 +1110,7 @@
     },
     {
       "id": "00093192b3535266",
-      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
       "desc": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
       "pubDate": "Fri, 23 Oct 2026 10:57:51 +0000",
@@ -1200,38 +1235,20 @@
       }
     },
     {
-      "id": "0015fc1f33796a34",
-      "title": "'Cabin leak suspected': Artemis II astronaut reveals how a warning nearly derailed NASA's epic moon mission",
-      "link": "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission",
-      "desc": "Victor Glover recalls how a suspected cabin leak warning came just 15 minutes before a crucial engine burn — and why receiving it just five minutes later could have changed everything.",
-      "pubDate": "Thu, 22 Oct 2026 16:14:56 +0000",
+      "id": "0003787a63d10443",
+      "title": "Rare Lunar Meteorites Could Fill Gaps In Moon’s Evolution",
+      "link": "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution",
+      "desc": "Almost all meteorites come from asteroids, not the Moon or Mars.  But after decades of analysis of the Apollo samples, researchers still rely on lunar meteorites to better understand our anomalously large Moon.",
+      "pubDate": "Sun, 25 Oct 2026 08:18:40 +0000",
       "category": "Missions & Exploration",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0006e9ff14fb3a19",
-      "title": "Australia's bizarre 'Spider Crater' seen from orbit | Space photo of the day for Oct. 22, 2026",
-      "link": "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026",
-      "desc": "A satellite image of \"Spider Crater\" in Western Australia.",
-      "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1819,24 +1836,6 @@
       "desc": "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch. The mission delivered equipment and scientific experiments to the International Space Station, including research that could advance",
       "pubDate": "Sat, 17 Oct 2026 23:02:35 EDT",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001c899a727243cd",
-      "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
-      "desc": "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe. By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment. Roman’",
-      "pubDate": "Sat, 17 Oct 2026 09:28:13 EDT",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
