@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-25T18:31:26.410Z",
-  "lastRunId": "run-1792953084745-rdue26",
+  "lastUpdated": "2026-10-26T03:30:42.921Z",
+  "lastRunId": "run-1792985441192-zcmg3v",
   "stats": {
-    "totalStories": 229,
-    "lastRunAdded": 1
+    "totalStories": 231,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"e7393f6e9eba84dd5eae9272ea362533\"",
-    "https://www.universetoday.com/feed": "W/\"6ade400f-7209\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"e7393f6e9eba84dd5eae9272ea362533\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"05540eadff2d372a10edfeee3907f3bd\"",
+    "https://www.universetoday.com/feed": "W/\"6adebece-7209\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"05540eadff2d372a10edfeee3907f3bd\"",
     "http://arxiv.org/rss/astro-ph": "f9597363e3783530546c91c8b69dc1324cf55fd9c17c147ae471b716b979589b",
-    "https://spacenews.com/feed/": "W/\"548981a416568d0c00f5c9fbb8a47fe6\"",
+    "https://spacenews.com/feed/": "W/\"525ca42b628b05781660742c870a7834\"",
     "https://www.astronomy.com/feed/": "W/\"3a7ed1bc18442341e94685ca1da9f4ba\"",
-    "https://spacepolicyonline.com/feed/": "\"dfabef4a0b9f508e3fda23e5777541af\""
+    "https://spacepolicyonline.com/feed/": "\"17a0ba78af89ba7f78644f794a584ff7\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -2763,6 +2763,30 @@
       "archivedDate": "2026-10-26",
       "collection": "evening",
       "archivedAt": "2026-10-25T18:31:26.410Z"
+    },
+    "00120a7e4220487c": {
+      "id": "00120a7e4220487c",
+      "canonicalUrl": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026",
+      "title": "What’s Happening in Space Policy October 25-November 1, 2026",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 25 Oct 2026 20:35:16 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "morning",
+      "archivedAt": "2026-10-26T03:30:42.921Z"
+    },
+    "0013a732ab32bca5": {
+      "id": "0013a732ab32bca5",
+      "canonicalUrl": "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html",
+      "title": "Lumina simulation brings the early universe to life on a record-breaking scale",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 25 Oct 2026 20:10:01 EDT",
+      "archivedDate": "2026-10-26",
+      "collection": "morning",
+      "archivedAt": "2026-10-26T03:30:42.921Z"
     }
   }
 }
