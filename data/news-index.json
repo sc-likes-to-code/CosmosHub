@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-26T09:17:11.517Z",
-  "lastRunId": "run-1793006229734-wv0i0p",
+  "lastUpdated": "2026-10-26T15:30:47.419Z",
+  "lastRunId": "run-1793028645510-ow81wd",
   "stats": {
-    "totalStories": 254,
-    "lastRunAdded": 23
+    "totalStories": 266,
+    "lastRunAdded": 12
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"42db45c724780779d1c8d203ac7c020a\"",
-    "https://www.universetoday.com/feed": "W/\"6adf1312-7209\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"42db45c724780779d1c8d203ac7c020a\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"5a8c4eb1d34740106b4752dfb7682757\"",
+    "https://www.universetoday.com/feed": "W/\"6adf67d7-7209\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"36a21f35f764f577c295bff5007e832d\"",
     "http://arxiv.org/rss/astro-ph": "601e57071a3e57d95e6d5d05ad4aa678cc1aeff87046d14a04aa9879c4d3e1b7",
-    "https://spacenews.com/feed/": "W/\"c221cb556bb0f3b0454a5c487fe213ef\"",
-    "https://www.astronomy.com/feed/": "W/\"4b331b8420a7657d2250bbcd04e3fea1\"",
+    "https://spacenews.com/feed/": "W/\"11b290f48f732bc8484eee457be2778b\"",
+    "https://www.astronomy.com/feed/": "W/\"49af5ca7185db5f278d4e4a6f15bc695\"",
     "https://spacepolicyonline.com/feed/": "\"17a0ba78af89ba7f78644f794a584ff7\""
   },
   "articles": {
@@ -3063,6 +3063,150 @@
       "archivedDate": "2026-10-26",
       "collection": "morning",
       "archivedAt": "2026-10-26T09:17:11.517Z"
+    },
+    "000ef1bf312b1592": {
+      "id": "000ef1bf312b1592",
+      "canonicalUrl": "https://www.space.com/astronomy/glowing-cauldron-of-new-stars-space-photo-of-the-day-for-oct-26-2026",
+      "title": "Glowing 'cauldron' of new stars | Space photo of the day for Oct. 26, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "0000a7833e265d88": {
+      "id": "0000a7833e265d88",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture",
+      "title": "NASA, USDA Sign Agreement Advancing Earth Science, Agriculture",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Mon, 26 Oct 2026 13:54:25 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "00111d8293e9b310": {
+      "id": "00111d8293e9b310",
+      "canonicalUrl": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites",
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 26 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "00165642779840d2": {
+      "id": "00165642779840d2",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-26-2004-cassini-at-titan",
+      "title": "Oct. 26, 2004: Cassini at Titan",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "00044e5defdd18de": {
+      "id": "00044e5defdd18de",
+      "canonicalUrl": "https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close",
+      "title": "Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "000082b4d7826ca3": {
+      "id": "000082b4d7826ca3",
+      "canonicalUrl": "https://www.space.com/stargazing/october-full-hunters-moon-dazzles-in-spectacular-photos-from-around-the-world",
+      "title": "October full 'Hunter's Moon' dazzles in spectacular photos from around the world",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 26 Oct 2026 11:42:36 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "000e0e89537913f8": {
+      "id": "000e0e89537913f8",
+      "canonicalUrl": "https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions",
+      "title": "'More missions, more often': NASA is overhauling how it selects science missions",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "00041bea87677846": {
+      "id": "00041bea87677846",
+      "canonicalUrl": "https://phys.org/news/2026-10-stellar-collisions-common-universe-young.html",
+      "title": "Stellar collisions may have been common when the universe was young",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 11:00:32 EDT",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "00175207b0d13460": {
+      "id": "00175207b0d13460",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion",
+      "title": "2026 October 26 – M42: The Great Nebula in Orion",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 04:05:00 +0000",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "000eb83fcb4fa47c": {
+      "id": "000eb83fcb4fa47c",
+      "canonicalUrl": "https://phys.org/news/2026-10-jwst-alma-reveal-dusty-rapidly.html",
+      "title": "JWST and ALMA reveal a dusty, rapidly growing black hole in the early universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 09:20:36 EDT",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "0015309b23eceb33": {
+      "id": "0015309b23eceb33",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
+      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Mon, 26 Oct 2026 07:06:08 EDT",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
+    },
+    "001275a1a02ae1e5": {
+      "id": "001275a1a02ae1e5",
+      "canonicalUrl": "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html",
+      "title": "FAST and Arecibo point to possible dark galaxy with vast hydrogen reservoir",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 06:55:00 EDT",
+      "archivedDate": "2026-10-26",
+      "collection": "evening",
+      "archivedAt": "2026-10-26T15:30:47.419Z"
     }
   }
 }
