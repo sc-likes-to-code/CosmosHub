@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-27T15:30:46.010Z",
-  "lastRunId": "run-1793115044279-woirrw",
+  "lastUpdated": "2026-10-27T20:10:34.440Z",
+  "lastRunId": "run-1793131832463-4j53j6",
   "stats": {
-    "totalStories": 331,
-    "lastRunAdded": 15
+    "totalStories": 344,
+    "lastRunAdded": 13
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"41432bb6aaa3c8deb2c73dc322eb7ceb\"",
-    "https://www.universetoday.com/feed": "W/\"6ae0b8dd-733f\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"052e1a801acf6de76096d411c36be8f2\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"526362c96742522a0320eada767b23b9\"",
+    "https://www.universetoday.com/feed": "W/\"6ae0ffbc-73fb\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"13fed93c6040c796348ee98660e1463c\"",
     "http://arxiv.org/rss/astro-ph": "89fac7b7c0ed67934a86c4995f682fc3d07fe79fa31c41bc10d5d9f9dbbe6aaf",
-    "https://spacenews.com/feed/": "W/\"3b0871d814d783985cb9e4f3494322d4\"",
-    "https://www.astronomy.com/feed/": "W/\"88e358f4b5b8cdba57adc070b461628a\"",
-    "https://spacepolicyonline.com/feed/": "\"6a5465ef3e5e1512aaebfbfe741ea639\""
+    "https://spacenews.com/feed/": "W/\"877ef6d39d650420251a38ed308118ed\"",
+    "https://www.astronomy.com/feed/": "W/\"043924bc4ba7002f8e2ab6e26bbc68f6\"",
+    "https://spacepolicyonline.com/feed/": "\"8149dac834d51af86d5360d5391ad726\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -3987,6 +3987,162 @@
       "archivedDate": "2026-10-27",
       "collection": "evening",
       "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "001657f40ffd2381": {
+      "id": "001657f40ffd2381",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 27 Oct 2026 19:27:22 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "000ec2fbe538502f": {
+      "id": "000ec2fbe538502f",
+      "canonicalUrl": "https://www.astronomy.com/science/the-weird-science-behind-mars-weirdest-cloud",
+      "title": "The weird science behind Mars’ weirdest cloud",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 19:05:11 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "0000944f4bdfccfe": {
+      "id": "0000944f4bdfccfe",
+      "canonicalUrl": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
+      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 19:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "000d9389c84c855e": {
+      "id": "000d9389c84c855e",
+      "canonicalUrl": "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes",
+      "title": "Massive Stellar Collisions Could Explain Early Supermassive Black Holes",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 18:49:29 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "000a699efcafd920": {
+      "id": "000a699efcafd920",
+      "canonicalUrl": "https://noirlab.edu/public/news/noirlab2626",
+      "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+      "source": "NOIRLab News",
+      "sourceKey": "noirlab",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 11:45:00 -0700",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "001f9a9268012253": {
+      "id": "001f9a9268012253",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "0018e0ca671e2109": {
+      "id": "0018e0ca671e2109",
+      "canonicalUrl": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "001d244798948b89": {
+      "id": "001d244798948b89",
+      "canonicalUrl": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 27 Oct 2026 17:58:57 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "000360484221cf58": {
+      "id": "000360484221cf58",
+      "canonicalUrl": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
+      "title": "This Oddbal Reflective Lava World is Challenging to Understand",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 16:02:28 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "00099b3e6bb2ff2c": {
+      "id": "00099b3e6bb2ff2c",
+      "canonicalUrl": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
+      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "00050b24539d43b5": {
+      "id": "00050b24539d43b5",
+      "canonicalUrl": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html",
+      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 27 Oct 2026 16:00:03 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "000b00ba4aaab7d1": {
+      "id": "000b00ba4aaab7d1",
+      "canonicalUrl": "https://phys.org/news/2026-10-hera-asteroids.html",
+      "title": "First light: Hera resolves two asteroids instead of one",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 27 Oct 2026 14:10:09 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
+    },
+    "00071f6c4d8f1188": {
+      "id": "00071f6c4d8f1188",
+      "canonicalUrl": "https://phys.org/news/2026-10-earth-planet-grew.html",
+      "title": "Earth may have formed much of its water as the planet grew",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 27 Oct 2026 11:40:01 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T20:10:34.440Z"
     }
   }
 }

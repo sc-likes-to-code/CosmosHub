@@ -1,86 +1,33 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T15:30:46.512Z",
-  "count": 169,
+  "generatedAt": "2026-10-27T20:10:34.894Z",
+  "count": 166,
   "articles": [
     {
-      "id": "000119a5695901e3",
-      "title": "India works to rebuild its navigation constellation with upcoming launch",
-      "link": "https://www.astronomy.com/whats-launching-this-week/india-works-to-rebuild-its-navigation-constellation-with-upcoming-launch",
-      "desc": "Rocket launches this week On Tuesday, Oct. 27, SpaceX will launch the Starlink Group 15-16 mission from Vandenberg Space Force Base in California at 12:45 a.m. EDT. The Falcon 9 will carry a batch of satellites for Starlink, SpaceX’s broadband internet constellation, and its first-stage booster is e",
-      "pubDate": "Tue, 27 Oct 2026 14:23:30 +0000",
+      "id": "001657f40ffd2381",
+      "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation",
+      "desc": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help N",
+      "pubDate": "Tue, 27 Oct 2026 19:27:22 +0000",
       "category": "Missions & Exploration",
       "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
         "tags": [
-          "Astronomy",
+          "NASA",
+          "Space",
           "Science"
         ]
       }
     },
     {
-      "id": "00079e900c4e0476",
-      "title": "Mars rover tracks from a historic drive | Space photo of the day for Oct. 27, 2026",
-      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026",
-      "desc": "Rover tracks can be seen on the Martian surface, left behind by NASA's Perseverance Mars rover.",
-      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001cda51476f52f8",
-      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
-      "desc": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
-      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0015d8597f078308",
-      "title": "Hubble Will Give the Roman Space Telescope a Helping Hand",
-      "link": "https://www.universetoday.com/articles/hubble-will-give-the-roman-space-telescope-a-helping-hand",
-      "desc": "The Nancy Grace Roman Space Telescope will use gravitational microlensing to study dark matter. But it's a wide-field survey telescope, and the venerable Hubble Space Telescope can do things it can't do. That's why the Hubble is lending a hand.",
-      "pubDate": "Tue, 27 Oct 2026 13:17:41 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000fac210907301c",
-      "title": "Oct. 27, 1961: The first Saturn rocket launches",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-27-1961-the-first-saturn-rocket-launches",
-      "desc": "Five months after President John F. Kennedy promised that America would put a man on the Moon, NASA successfully showed that they had a rocket to get them there. Under development with Wernher von Braun’s team since 1957, the Saturn I rocket consisted of a booster stage with a liquid oxygen tank at ",
-      "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "id": "000ec2fbe538502f",
+      "title": "The weird science behind Mars’ weirdest cloud",
+      "link": "https://www.astronomy.com/science/the-weird-science-behind-mars-weirdest-cloud",
+      "desc": "Scientists believe they may finally have an explanation for a bizarre cloud that appears and promptly disappears each day above a martian volcano during the dusty season. Just after sunrise during spring and summer on Mars, an elongated cloud forms near the 12-mile-high (20 kilometers) volcano Arsia",
+      "pubDate": "Tue, 27 Oct 2026 19:05:11 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
@@ -94,11 +41,29 @@
       }
     },
     {
-      "id": "0002efd21ee35511",
-      "title": "A Deep-Mantle Garnet Might Hold the Secret to Ancient Martian Magma",
-      "link": "https://www.universetoday.com/articles/a-deep-mantle-garnet-might-hold-the-secret-to-ancient-martian-magma",
-      "desc": "A history of a planet’s volcanic activity is contained in its rocks. And Mars’ rocks - or at least many of the meteorites that have made the journey from it to Earth - were telling a contradictory story. They appeared to be highly oxidized, but our understanding of the internal volcanic forces on Ma",
-      "pubDate": "Tue, 27 Oct 2026 12:38:42 +0000",
+      "id": "0000944f4bdfccfe",
+      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+      "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
+      "desc": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
+      "pubDate": "Tue, 27 Oct 2026 19:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000d9389c84c855e",
+      "title": "Massive Stellar Collisions Could Explain Early Supermassive Black Holes",
+      "link": "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes",
+      "desc": "Dense stellar environments were common in the early Universe. These environments fostered more numerous stellar collisions, and some of those would've been mergers that formed very massive stars. Those stars would've exploded as supernovae, becoming massive black holes, the potential seeds for today",
+      "pubDate": "Tue, 27 Oct 2026 18:49:29 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
@@ -112,50 +77,32 @@
       }
     },
     {
-      "id": "0017c1a592ca0ea6",
-      "title": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
-      "link": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
-      "desc": "The man who portrayed the U.S.S. Enterprise’s Pavel Chekov has left us after a 60-year stage and screen career",
-      "pubDate": "Tue, 27 Oct 2026 12:15:39 +0000",
+      "id": "000a699efcafd920",
+      "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
+      "link": "https://noirlab.edu/public/news/noirlab2626",
+      "desc": "In the outer reaches of our Solar System, beyond the orbit of Pluto, NSF–DOE Vera C. Rubin Observatory has spotted 2026 ED138 — a large, bright trans-Neptunian object that scientists have identified as a dwarf planet candidate. The observations were announced today by the International Astronomical ",
+      "pubDate": "Tue, 27 Oct 2026 11:45:00 -0700",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "NOIRLab News",
+        "key": "noirlab",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
         "tags": [
-          "Space",
-          "News"
+          "Observatories",
+          "Astronomy",
+          "Research"
         ]
       }
     },
     {
-      "id": "00085b93fef3ba42",
-      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-      "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
-      "desc": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […]\nThe post Craft Prospect kicks off PERSEUS project to advance optic",
-      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "id": "001f9a9268012253",
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+      "desc": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
       "category": "Space Industry & Policy",
       "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0005e72d0898c2ea",
-      "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
-      "link": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
-      "desc": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
-      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-      "category": "Research & Science",
-      "source": {
         "name": "Space.com",
         "key": "spacedotcom",
         "badgeClass": "badge-spacedotcom",
@@ -167,29 +114,11 @@
       }
     },
     {
-      "id": "001f172a73d1d8a2",
-      "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
-      "desc": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
-      "pubDate": "Tue, 27 Oct 2026 11:04:19 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0018fbd2804583ff",
-      "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
-      "link": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
-      "desc": "Technologies developed to remove space junk and fix broken satellites can be repurposed to build fleets of bodyguard spacecraft to protect important assets from attacks.",
-      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "id": "0018e0ca671e2109",
+      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+      "desc": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
+      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
       "category": "Other Space Transmissions",
       "source": {
         "name": "Space.com",
@@ -203,76 +132,114 @@
       }
     },
     {
-      "id": "00018c09d53768f6",
-      "title": "Radio images reveal disturbances from Betelgeuse's mysterious companion that lurks within its shadows",
-      "link": "https://phys.org/news/2026-10-radio-images-reveal-disturbances-betelgeuse.html",
-      "desc": "The well-known star Betelgeuse has a mysterious houseguest—and it's shaking the rafters, rattling the pipes and slamming the cupboards (metaphorically speaking). It's causing enough subtle atmospheric disturbance that it might as well be making ghost noises. Who's to blame? New data suggest that its",
-      "pubDate": "Tue, 27 Oct 2026 11:00:08 EDT",
-      "category": "Astronomy & Astrophysics",
+      "id": "001d244798948b89",
+      "title": "NASA’s Neo Surveyor Sunshade",
+      "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
+      "desc": "A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searc",
+      "pubDate": "Tue, 27 Oct 2026 17:58:57 +0000",
+      "category": "Missions & Exploration",
       "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
         "tags": [
-          "Physics",
+          "NASA",
           "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000c9e5fd1eeb70d",
-      "title": "Webb links interstellar comet 3I/ATLAS to worlds beyond Neptune through similar ice signatures",
-      "link": "https://phys.org/news/2026-10-webb-links-interstellar-comet-3iatlas.html",
-      "desc": "A Southwest Research Institute–led study used NASA's James Webb Space Telescope to examine ice grains streaming from interstellar comet 3I/ATLAS, just the third object from beyond our solar system ever identified. The observations point to tiny aggregates of water ice and dust, about a micron or sma",
-      "pubDate": "Tue, 27 Oct 2026 10:00:13 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001478f3242f7384",
-      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-      "desc": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, pos",
-      "pubDate": "Tue, 27 Oct 2026 06:20:52 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
           "Science"
         ]
       }
     },
     {
-      "id": "001607ba681cf625",
-      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
-      "desc": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark ma",
-      "pubDate": "Tue, 27 Oct 2026 05:48:35 EDT",
+      "id": "000360484221cf58",
+      "title": "This Oddbal Reflective Lava World is Challenging to Understand",
+      "link": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
+      "desc": "Exoplanets extremely close to their stars are expected to have lost their atmospheres. But one of them, TOI-561 b, seems to have a thick atmosphere. Understanding how this super-Earth has an atmosphere is challenging.",
+      "pubDate": "Tue, 27 Oct 2026 16:02:28 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00099b3e6bb2ff2c",
+      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
+      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
+      "desc": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00050b24539d43b5",
+      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
+      "link": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html",
+      "desc": "There is a problem in low Earth orbit, and it's growing. According to the European Space Agency, there are about 19,440 satellites on orbit, 3,540 of which are nonfunctioning and/or not emitting a signal to warn other spacecraft of their location. The need to service these sleepwalking satellites in",
+      "pubDate": "Tue, 27 Oct 2026 16:00:03 EDT",
       "category": "Research & Science",
       "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
+        "name": "Phys.org Space",
+        "key": "physorg",
         "badgeClass": "badge-spacedotcom",
         "cardClass": "spacedotcom",
         "tags": [
-          "Research",
-          "Science"
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000b00ba4aaab7d1",
+      "title": "First light: Hera resolves two asteroids instead of one",
+      "link": "https://phys.org/news/2026-10-hera-asteroids.html",
+      "desc": "The European Space Agency's Hera spacecraft for planetary defense has resolved its two target asteroids separately for the first time, revealing the binary nature of the Didymos system, currently some 197 million km (122 million miles) away from Earth.",
+      "pubDate": "Tue, 27 Oct 2026 14:10:09 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00071f6c4d8f1188",
+      "title": "Earth may have formed much of its water as the planet grew",
+      "link": "https://phys.org/news/2026-10-earth-planet-grew.html",
+      "desc": "Earth may have produced much of its water during the planet's formation, as rocky pebbles reacted with the hydrogen-rich atmosphere surrounding the young planet, according to new research published in Nature Geoscience. The findings offer a potential explanation for how Earth acquired one of the ess",
+      "pubDate": "Tue, 27 Oct 2026 11:40:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -372,88 +339,12 @@
       }
     },
     {
-      "id": "0015b4e4ecc7b786",
-      "title": "NEO Surveyor’s Sunshade Gets Inspected",
-      "link": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
-      "desc": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space & Mission Systems in Boulder, Colorado, in July 2026.  The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meter",
-      "pubDate": "Mon, 26 Oct 2026 20:53:13 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0009e0b7739f1224",
-      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
-      "link": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor",
-      "desc": "Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.  Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by ",
-      "pubDate": "Mon, 26 Oct 2026 20:52:24 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "001dc2f0d31bc02d",
       "title": "NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration",
       "link": "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration",
       "desc": "The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During ",
       "pubDate": "Mon, 26 Oct 2026 19:28:08 +0000",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000255dd8461d47c",
-      "title": "NASA Invites Media to Moon Landing Simulation Experience in California",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california",
-      "desc": "Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.",
-      "pubDate": "Mon, 26 Oct 2026 17:13:44 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00179a08096c33ca",
-      "title": "NASA’s X-59 Aircraft and Test Pilot",
-      "link": "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot",
-      "desc": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from N",
-      "pubDate": "Mon, 26 Oct 2026 15:25:47 +0000",
-      "category": "Research & Science",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -1132,6 +1023,114 @@
       }
     },
     {
+      "id": "001cda51476f52f8",
+      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
+      "desc": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
+      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00079e900c4e0476",
+      "title": "Mars rover tracks from a historic drive | Space photo of the day for Oct. 27, 2026",
+      "link": "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026",
+      "desc": "Rover tracks can be seen on the Martian surface, left behind by NASA's Perseverance Mars rover.",
+      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0017c1a592ca0ea6",
+      "title": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
+      "link": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
+      "desc": "The man who portrayed the U.S.S. Enterprise’s Pavel Chekov has left us after a 60-year stage and screen career",
+      "pubDate": "Tue, 27 Oct 2026 12:15:39 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0005e72d0898c2ea",
+      "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
+      "link": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
+      "desc": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
+      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001f172a73d1d8a2",
+      "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+      "desc": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
+      "pubDate": "Tue, 27 Oct 2026 11:04:19 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0018fbd2804583ff",
+      "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
+      "link": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+      "desc": "Technologies developed to remove space junk and fix broken satellites can be repurposed to build fleets of bodyguard spacecraft to protect important assets from attacks.",
+      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "001dbf9cbc9b14ce",
       "title": "Analog astronauts: How living underwater can prepare humans for space missions",
       "link": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
@@ -1312,74 +1311,38 @@
       }
     },
     {
-      "id": "000082b4d7826ca3",
-      "title": "October full 'Hunter's Moon' dazzles in spectacular photos from around the world",
-      "link": "https://www.space.com/stargazing/october-full-hunters-moon-dazzles-in-spectacular-photos-from-around-the-world",
-      "desc": "Feast your eyes on the best photos of October's full 'Hunter's Moon'.",
-      "pubDate": "Mon, 26 Oct 2026 11:42:36 +0000",
-      "category": "Other Space Transmissions",
+      "id": "0015d8597f078308",
+      "title": "Hubble Will Give the Roman Space Telescope a Helping Hand",
+      "link": "https://www.universetoday.com/articles/hubble-will-give-the-roman-space-telescope-a-helping-hand",
+      "desc": "The Nancy Grace Roman Space Telescope will use gravitational microlensing to study dark matter. But it's a wide-field survey telescope, and the venerable Hubble Space Telescope can do things it can't do. That's why the Hubble is lending a hand.",
+      "pubDate": "Tue, 27 Oct 2026 13:17:41 +0000",
+      "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
     {
-      "id": "000e0e89537913f8",
-      "title": "'More missions, more often': NASA is overhauling how it selects science missions",
-      "link": "https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions",
-      "desc": "NASA is overhauling how it selects and develops science missions, with changes intended to reduce costs, streamline competition and get missions into space faster.",
-      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0000",
-      "category": "Other Space Transmissions",
+      "id": "0002efd21ee35511",
+      "title": "A Deep-Mantle Garnet Might Hold the Secret to Ancient Martian Magma",
+      "link": "https://www.universetoday.com/articles/a-deep-mantle-garnet-might-hold-the-secret-to-ancient-martian-magma",
+      "desc": "A history of a planet’s volcanic activity is contained in its rocks. And Mars’ rocks - or at least many of the meteorites that have made the journey from it to Earth - were telling a contradictory story. They appeared to be highly oxidized, but our understanding of the internal volcanic forces on Ma",
+      "pubDate": "Tue, 27 Oct 2026 12:38:42 +0000",
+      "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00167f01de49b9d1",
-      "title": "On this day in space! Oct. 25, 1671: Astronomer Giovanni Cassini discovers Iapetus, Saturn's 'yin-yang' moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon",
-      "desc": "On Oct. 25, 1671, the Italian astronomer Giovanni Cassini discovered a new moon at Saturn! Here's why it mattered.",
-      "pubDate": "Sun, 25 Oct 2026 13:17:54 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000187aae775ed53",
-      "title": "October's 'Hunter's Moon' stalks into the autumn sky tonight: Here's what you need to know",
-      "link": "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know",
-      "desc": "The October full moon rises on Oct. 25. Here's how to see it, why it's called the \"Hunter's Moon\" and everything else you need to know about the lunar milestone.",
-      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1672,42 +1635,6 @@
       }
     },
     {
-      "id": "000582e7bb52f2b3",
-      "title": "New Evidence for an Old Prediction: Recoiling Supermassive Black Holes",
-      "link": "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes",
-      "desc": "Theory says that during some SMBH mergers, the merger remnant receives a recoil kick from gravitational waves. Instead of sitting placidly in the galactic center, these recoiled SMBH are sent on a pendulum-like motion, back and forth through the galactic center. New research has found statistical ev",
-      "pubDate": "Thu, 22 Oct 2026 17:52:01 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ca5419c527103",
-      "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
-      "link": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
-      "desc": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition. Venus, the former lucida of the evening sky is now lost from view, taking the plunge sunward. But this vanishing act ",
-      "pubDate": "Thu, 22 Oct 2026 15:30:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000e69bad774c58f",
       "title": "ISS Daily Summary Report Discontinued",
       "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
@@ -1723,6 +1650,42 @@
           "ISS",
           "NASA",
           "Station"
+        ]
+      }
+    },
+    {
+      "id": "001478f3242f7384",
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "desc": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, pos",
+      "pubDate": "Tue, 27 Oct 2026 06:20:52 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001607ba681cf625",
+      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+      "desc": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark ma",
+      "pubDate": "Tue, 27 Oct 2026 05:48:35 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -1841,6 +1804,42 @@
       "desc": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
       "pubDate": "Thu, 22 Oct 2026 07:03:49 EDT",
       "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00170b101d71e261",
+      "title": "A train was delayed by a solar storm. But something didn't add up.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+      "desc": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, an",
+      "pubDate": "Wed, 21 Oct 2026 08:35:57 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0008a0aa8640665c",
+      "title": "Astronauts’ hearts just passed a surprising test for Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+      "desc": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
+      "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
+      "category": "Research & Science",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
