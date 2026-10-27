@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-27T09:16:43.224Z",
-  "lastRunId": "run-1793092601334-vv742r",
+  "lastUpdated": "2026-10-27T15:30:46.010Z",
+  "lastRunId": "run-1793115044279-woirrw",
   "stats": {
-    "totalStories": 316,
-    "lastRunAdded": 24
+    "totalStories": 331,
+    "lastRunAdded": 15
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"680d71c7131f401d732a03d2eb809017\"",
-    "https://www.universetoday.com/feed": "W/\"6ae064eb-72eb\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"680d71c7131f401d732a03d2eb809017\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"41432bb6aaa3c8deb2c73dc322eb7ceb\"",
+    "https://www.universetoday.com/feed": "W/\"6ae0b8dd-733f\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"052e1a801acf6de76096d411c36be8f2\"",
     "http://arxiv.org/rss/astro-ph": "89fac7b7c0ed67934a86c4995f682fc3d07fe79fa31c41bc10d5d9f9dbbe6aaf",
-    "https://spacenews.com/feed/": "W/\"1f7d98686eda74500387549239b14ea5\"",
-    "https://www.astronomy.com/feed/": "W/\"ed1fe1580af28741bcda28780ec65217\"",
-    "https://spacepolicyonline.com/feed/": "\"17a0ba78af89ba7f78644f794a584ff7\""
+    "https://spacenews.com/feed/": "W/\"3b0871d814d783985cb9e4f3494322d4\"",
+    "https://www.astronomy.com/feed/": "W/\"88e358f4b5b8cdba57adc070b461628a\"",
+    "https://spacepolicyonline.com/feed/": "\"6a5465ef3e5e1512aaebfbfe741ea639\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -3807,6 +3807,186 @@
       "archivedDate": "2026-10-27",
       "collection": "morning",
       "archivedAt": "2026-10-27T09:16:43.224Z"
+    },
+    "000119a5695901e3": {
+      "id": "000119a5695901e3",
+      "canonicalUrl": "https://www.astronomy.com/whats-launching-this-week/india-works-to-rebuild-its-navigation-constellation-with-upcoming-launch",
+      "title": "India works to rebuild its navigation constellation with upcoming launch",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 27 Oct 2026 14:23:30 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "00079e900c4e0476": {
+      "id": "00079e900c4e0476",
+      "canonicalUrl": "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026",
+      "title": "Mars rover tracks from a historic drive | Space photo of the day for Oct. 27, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "001cda51476f52f8": {
+      "id": "001cda51476f52f8",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
+      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "0015d8597f078308": {
+      "id": "0015d8597f078308",
+      "canonicalUrl": "https://www.universetoday.com/articles/hubble-will-give-the-roman-space-telescope-a-helping-hand",
+      "title": "Hubble Will Give the Roman Space Telescope a Helping Hand",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 13:17:41 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "000fac210907301c": {
+      "id": "000fac210907301c",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-27-1961-the-first-saturn-rocket-launches",
+      "title": "Oct. 27, 1961: The first Saturn rocket launches",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "0002efd21ee35511": {
+      "id": "0002efd21ee35511",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-deep-mantle-garnet-might-hold-the-secret-to-ancient-martian-magma",
+      "title": "A Deep-Mantle Garnet Might Hold the Secret to Ancient Martian Magma",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 12:38:42 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "0017c1a592ca0ea6": {
+      "id": "0017c1a592ca0ea6",
+      "canonicalUrl": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
+      "title": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 12:15:39 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "00085b93fef3ba42": {
+      "id": "00085b93fef3ba42",
+      "canonicalUrl": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
+      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "0005e72d0898c2ea": {
+      "id": "0005e72d0898c2ea",
+      "canonicalUrl": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
+      "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Research & Science",
+      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "001f172a73d1d8a2": {
+      "id": "001f172a73d1d8a2",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
+      "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 27 Oct 2026 11:04:19 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "0018fbd2804583ff": {
+      "id": "0018fbd2804583ff",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
+      "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "00018c09d53768f6": {
+      "id": "00018c09d53768f6",
+      "canonicalUrl": "https://phys.org/news/2026-10-radio-images-reveal-disturbances-betelgeuse.html",
+      "title": "Radio images reveal disturbances from Betelgeuse's mysterious companion that lurks within its shadows",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 11:00:08 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "000c9e5fd1eeb70d": {
+      "id": "000c9e5fd1eeb70d",
+      "canonicalUrl": "https://phys.org/news/2026-10-webb-links-interstellar-comet-3iatlas.html",
+      "title": "Webb links interstellar comet 3I/ATLAS to worlds beyond Neptune through similar ice signatures",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 10:00:13 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "001478f3242f7384": {
+      "id": "001478f3242f7384",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 06:20:52 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
+    },
+    "001607ba681cf625": {
+      "id": "001607ba681cf625",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
+      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Tue, 27 Oct 2026 05:48:35 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "evening",
+      "archivedAt": "2026-10-27T15:30:46.010Z"
     }
   }
 }
