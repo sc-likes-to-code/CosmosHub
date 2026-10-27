@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-26T20:40:23.282Z",
-  "lastRunId": "run-1793047221603-anda27",
+  "lastUpdated": "2026-10-27T03:30:46.593Z",
+  "lastRunId": "run-1793071845041-8npd0c",
   "stats": {
-    "totalStories": 283,
-    "lastRunAdded": 17
+    "totalStories": 292,
+    "lastRunAdded": 9
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b9d262b502f377f553dbd3c57e4b29b0\"",
-    "https://www.universetoday.com/feed": "W/\"6adfae6d-732b\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8b9e852efa1acb54befcb6077abfa6d4\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"1cce2c415c885dca378e684c7d5d5d09\"",
+    "https://www.universetoday.com/feed": "W/\"6ae01111-72eb\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"1cce2c415c885dca378e684c7d5d5d09\"",
     "http://arxiv.org/rss/astro-ph": "601e57071a3e57d95e6d5d05ad4aa678cc1aeff87046d14a04aa9879c4d3e1b7",
-    "https://spacenews.com/feed/": "W/\"cd7f69cdb00898dfb42f3d2af8eb600a\"",
+    "https://spacenews.com/feed/": "W/\"1f7d98686eda74500387549239b14ea5\"",
     "https://www.astronomy.com/feed/": "W/\"49af5ca7185db5f278d4e4a6f15bc695\"",
     "https://spacepolicyonline.com/feed/": "\"17a0ba78af89ba7f78644f794a584ff7\""
   },
@@ -3411,6 +3411,114 @@
       "archivedDate": "2026-10-26",
       "collection": "evening",
       "archivedAt": "2026-10-26T20:40:23.282Z"
+    },
+    "000887b6880ec5c4": {
+      "id": "000887b6880ec5c4",
+      "canonicalUrl": "https://www.universetoday.com/articles/asymmetric-space-waves-map-pressure-on-earths-magnetic-shield",
+      "title": "Asymmetric space waves map pressure on Earth's magnetic shield",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 27 Oct 2026 01:19:08 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "00155153e7694024": {
+      "id": "00155153e7694024",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
+      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 26 Oct 2026 22:48:12 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "000c47eaf48cdecb": {
+      "id": "000c47eaf48cdecb",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments",
+      "title": "A Brief-ish History of METI. Part I: Early Ideas and Experiments",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 22:02:54 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "00018644c2e46c08": {
+      "id": "00018644c2e46c08",
+      "canonicalUrl": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 26 Oct 2026 21:07:28 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "001dbf9cbc9b14ce": {
+      "id": "001dbf9cbc9b14ce",
+      "canonicalUrl": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
+      "title": "Analog astronauts: How living underwater can prepare humans for space missions",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 26 Oct 2026 21:00:00 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "0017a8676bcfcd63": {
+      "id": "0017a8676bcfcd63",
+      "canonicalUrl": "https://www.jpl.nasa.gov/news/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
+      "title": "NASA’s Perseverance Offers Clues to Protect Crews from Mars Dust",
+      "source": "NASA JPL",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 26 Oct 2026 14:00:00 -0700",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "0015b4e4ecc7b786": {
+      "id": "0015b4e4ecc7b786",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected",
+      "title": "NEO Surveyor’s Sunshade Gets Inspected",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 26 Oct 2026 20:53:13 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "0009e0b7739f1224": {
+      "id": "0009e0b7739f1224",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor",
+      "title": "Solar Cells Inspected on NASA’s NEO Surveyor",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 26 Oct 2026 20:52:24 +0000",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
+    },
+    "0004b41867dadcc0": {
+      "id": "0004b41867dadcc0",
+      "canonicalUrl": "https://phys.org/news/2026-10-exoplanet-world-private-space-telescope.html",
+      "title": "27 exoplanet targets for the world's first private space telescope",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 26 Oct 2026 20:00:06 EDT",
+      "archivedDate": "2026-10-27",
+      "collection": "morning",
+      "archivedAt": "2026-10-27T03:30:46.593Z"
     }
   }
 }
