@@ -1,8 +1,156 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T20:10:34.894Z",
-  "count": 166,
+  "generatedAt": "2026-10-28T03:30:44.752Z",
+  "count": 148,
   "articles": [
+    {
+      "id": "001a800e0577f550",
+      "title": "NASA Systems Engineering Team Details HWO Mission Architecture",
+      "link": "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture",
+      "desc": "Finding an Earth-like world beyond the solar system is the Holy Grail of exoplanet research, and the field has experienced incredible technological advancements in searching for and identifying exoplanets since the first exoplanet was discovered in 1995. This includes both ground- and space-based te",
+      "pubDate": "Wed, 28 Oct 2026 03:11:32 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0018f32a3fc4d12a",
+      "title": "Unveiling Starbirth Mysteries",
+      "link": "https://www.universetoday.com/articles/unveiling-starbirth-mysteries",
+      "desc": "In 1985, the physicist Heinz R. Pagels wrote, \"Stars are like animals in the wild. We may see the youung, but never the actual birth, which is a veiled and secret event.\" In the decades since then, astronomers have drawn closer and closer to figuring out what actually goes in the veiled stellar nurs",
+      "pubDate": "Wed, 28 Oct 2026 01:22:30 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000b51338e3c8735",
+      "title": "Dead Planets Orbiting a Dead Star",
+      "link": "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star",
+      "desc": "When a star like our Sun reaches its end, it becomes a kind of zombie star called a white dwarf. These bodies have left fusion behind and will radiate only remnant heat for a long, long time. Before they become white dwarfs, they expand, engulf, and destroy any nearby planets. Astronomers have spott",
+      "pubDate": "Tue, 27 Oct 2026 22:04:16 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000b24d219f1278b",
+      "title": "How 'spacewalking' underwater made me feel like I was really in space",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
+      "desc": "Analog Astronaut Commander and Aquanaut Michaela Musilova led underwater simulated “spacewalks” in low visibility to test astronaut safety and communication protocols during simulated space missions.",
+      "pubDate": "Tue, 27 Oct 2026 21:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0012354712143e2d",
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network",
+      "desc": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, GomSpace test satellite for future communications network appeared first on SpaceNews.",
+      "pubDate": "Tue, 27 Oct 2026 20:21:30 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "000e922d7da2d44f",
+      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
+      "link": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
+      "desc": "Scientists may add a new dwarf planet to the official roster of our solar system. The distant, icy body, provisionally dubbed 2026 ED138, orbits our system beyond Pluto. It was spotted earlier this month by a scientist combing through data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rub",
+      "pubDate": "Tue, 27 Oct 2026 18:30:05 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001a26bf468af32a",
+      "title": "Double debris disk orbiting a dead star hints at our solar system's future",
+      "link": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
+      "desc": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar system. Unlike in similar systems previously found, the debris—the leftovers of planets that once orbited",
+      "pubDate": "Tue, 27 Oct 2026 18:00:12 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00094c2acc41bca3",
+      "title": "A brief-ish history of METI. Part I: Early ideas and experiments",
+      "link": "https://phys.org/news/2026-10-ish-history-meti-early-ideas.html",
+      "desc": "Long before modern astronomy, humans looked to the stars and were astounded by what they saw. Even by the most ancient reckoning, the night sky offered enough to inspire awe and wonder, make us feel insignificant, fire our imaginations and foster hope and a sense of connection. Yet, for as long as h",
+      "pubDate": "Tue, 27 Oct 2026 17:10:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
     {
       "id": "001657f40ffd2381",
       "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation",
@@ -23,115 +171,6 @@
       }
     },
     {
-      "id": "000ec2fbe538502f",
-      "title": "The weird science behind Mars’ weirdest cloud",
-      "link": "https://www.astronomy.com/science/the-weird-science-behind-mars-weirdest-cloud",
-      "desc": "Scientists believe they may finally have an explanation for a bizarre cloud that appears and promptly disappears each day above a martian volcano during the dusty season. Just after sunrise during spring and summer on Mars, an elongated cloud forms near the 12-mile-high (20 kilometers) volcano Arsia",
-      "pubDate": "Tue, 27 Oct 2026 19:05:11 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0000944f4bdfccfe",
-      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
-      "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
-      "desc": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
-      "pubDate": "Tue, 27 Oct 2026 19:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000d9389c84c855e",
-      "title": "Massive Stellar Collisions Could Explain Early Supermassive Black Holes",
-      "link": "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes",
-      "desc": "Dense stellar environments were common in the early Universe. These environments fostered more numerous stellar collisions, and some of those would've been mergers that formed very massive stars. Those stars would've exploded as supernovae, becoming massive black holes, the potential seeds for today",
-      "pubDate": "Tue, 27 Oct 2026 18:49:29 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000a699efcafd920",
-      "title": "Science Release: NSF–DOE Vera C. Rubin Observatory Reveals Its First Dwarf Planet Candidate in Our Solar System",
-      "link": "https://noirlab.edu/public/news/noirlab2626",
-      "desc": "In the outer reaches of our Solar System, beyond the orbit of Pluto, NSF–DOE Vera C. Rubin Observatory has spotted 2026 ED138 — a large, bright trans-Neptunian object that scientists have identified as a dwarf planet candidate. The observations were announced today by the International Astronomical ",
-      "pubDate": "Tue, 27 Oct 2026 11:45:00 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001f9a9268012253",
-      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-      "desc": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
-      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0018e0ca671e2109",
-      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
-      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
-      "desc": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
-      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "001d244798948b89",
       "title": "NASA’s Neo Surveyor Sunshade",
       "link": "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade",
@@ -147,99 +186,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "000360484221cf58",
-      "title": "This Oddbal Reflective Lava World is Challenging to Understand",
-      "link": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
-      "desc": "Exoplanets extremely close to their stars are expected to have lost their atmospheres. But one of them, TOI-561 b, seems to have a thick atmosphere. Understanding how this super-Earth has an atmosphere is challenging.",
-      "pubDate": "Tue, 27 Oct 2026 16:02:28 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00099b3e6bb2ff2c",
-      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
-      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
-      "desc": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
-      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00050b24539d43b5",
-      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
-      "link": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html",
-      "desc": "There is a problem in low Earth orbit, and it's growing. According to the European Space Agency, there are about 19,440 satellites on orbit, 3,540 of which are nonfunctioning and/or not emitting a signal to warn other spacecraft of their location. The need to service these sleepwalking satellites in",
-      "pubDate": "Tue, 27 Oct 2026 16:00:03 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000b00ba4aaab7d1",
-      "title": "First light: Hera resolves two asteroids instead of one",
-      "link": "https://phys.org/news/2026-10-hera-asteroids.html",
-      "desc": "The European Space Agency's Hera spacecraft for planetary defense has resolved its two target asteroids separately for the first time, revealing the binary nature of the Didymos system, currently some 197 million km (122 million miles) away from Earth.",
-      "pubDate": "Tue, 27 Oct 2026 14:10:09 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00071f6c4d8f1188",
-      "title": "Earth may have formed much of its water as the planet grew",
-      "link": "https://phys.org/news/2026-10-earth-planet-grew.html",
-      "desc": "Earth may have produced much of its water during the planet's formation, as rocky pebbles reacted with the hydrogen-rich atmosphere surrounding the young planet, according to new research published in Nature Geoscience. The findings offer a potential explanation for how Earth acquired one of the ess",
-      "pubDate": "Tue, 27 Oct 2026 11:40:01 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     },
@@ -1023,6 +969,78 @@
       }
     },
     {
+      "id": "0000944f4bdfccfe",
+      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
+      "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
+      "desc": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
+      "pubDate": "Tue, 27 Oct 2026 19:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0018e0ca671e2109",
+      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
+      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
+      "desc": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
+      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001f9a9268012253",
+      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
+      "desc": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
+      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00099b3e6bb2ff2c",
+      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
+      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
+      "desc": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "001cda51476f52f8",
       "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
@@ -1293,20 +1311,38 @@
       }
     },
     {
-      "id": "00044e5defdd18de",
-      "title": "Rubin telescope should find more of Earth's mysterious 'mini-moons' — including some we can study up close",
-      "link": "https://www.space.com/space-exploration/rubin-telescope-should-find-more-of-earths-mysterious-mini-moons-including-some-we-can-study-up-close",
-      "desc": "Earth’s tiny, temporary moons could become some of the easiest asteroid targets for future missions. And we'll likely find more of them soon, thanks to the Rubin telescope.",
-      "pubDate": "Mon, 26 Oct 2026 12:00:00 +0000",
+      "id": "000d9389c84c855e",
+      "title": "Massive Stellar Collisions Could Explain Early Supermassive Black Holes",
+      "link": "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes",
+      "desc": "Dense stellar environments were common in the early Universe. These environments fostered more numerous stellar collisions, and some of those would've been mergers that formed very massive stars. Those stars would've exploded as supernovae, becoming massive black holes, the potential seeds for today",
+      "pubDate": "Tue, 27 Oct 2026 18:49:29 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000360484221cf58",
+      "title": "This Oddbal Reflective Lava World is Challenging to Understand",
+      "link": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
+      "desc": "Exoplanets extremely close to their stars are expected to have lost their atmospheres. But one of them, TOI-561 b, seems to have a thick atmosphere. Understanding how this super-Earth has an atmosphere is challenging.",
+      "pubDate": "Tue, 27 Oct 2026 16:02:28 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1581,60 +1617,6 @@
       }
     },
     {
-      "id": "001788c28e4e1b31",
-      "title": "Advancing Astronomy at MIT with X-ray Reverberation Mapping",
-      "link": "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
-      "desc": "Professor Erin Kara of MIT's Kavli Institute for Astrophysics and Space Research is helping advance our understanding of the most extreme objects in the Universe by analyzing X-ray reverberations and other astrophysical data.",
-      "pubDate": "Thu, 22 Oct 2026 22:39:19 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000be11cdf7303f3",
-      "title": "Even the Rubin's Test Camera Produces Stunning Images",
-      "link": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
-      "desc": "The Vera Rubin Observatory's Commissioning Camera operated for about 7 weeks in 2024, before the observatory released its well-known first look images. It's an engineering camera, and its job was to test the VRO's equipment and procedures. Now, the VRO has released the ComCam's image of the Seagull ",
-      "pubDate": "Thu, 22 Oct 2026 21:04:01 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00134dd6d12f7507",
-      "title": "Two Disks in One: How Accretion Disks Drive Black Hole Jets",
-      "link": "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
-      "desc": "SMBH jets are driven by thick, hot accretion disks with powerful magnetic fields. But there's a bit of a paradox. Some SMBH produce jets, even though they appear to have thin, cold accretion disks. New research has solved this paradox, showing that disks can be truncated into an outer cold disk and ",
-      "pubDate": "Thu, 22 Oct 2026 19:25:24 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000e69bad774c58f",
       "title": "ISS Daily Summary Report Discontinued",
       "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
@@ -1840,6 +1822,24 @@
       "desc": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
       "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
       "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00055c847eb467bb",
+      "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
+      "desc": "NASA’s Perseverance rover has shattered a historic space exploration record, traveling farther across another world than any vehicle before it. Its advanced self-driving system helped it surpass Opportunity’s 28.06-mile record in just five and a half years, a feat that previously took nearly 15. Now",
+      "pubDate": "Wed, 21 Oct 2026 05:22:36 EDT",
+      "category": "Missions & Exploration",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
