@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-28T15:30:56.505Z",
-  "lastRunId": "run-1793201454656-bsmw2b",
+  "lastUpdated": "2026-10-28T20:28:12.957Z",
+  "lastRunId": "run-1793219290916-x5ym7q",
   "stats": {
-    "totalStories": 386,
-    "lastRunAdded": 11
+    "totalStories": 401,
+    "lastRunAdded": 15
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"a480f10a6a6fa82634125f652c84396e\"",
-    "https://www.universetoday.com/feed": "W/\"6ae20b43-762f\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"603c803d76ed6e195c29dfe4b06c137b\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"3979bbdf2a6644b6b72a8b47db2ed83e\"",
+    "https://www.universetoday.com/feed": "W/\"6ae2512b-76ae\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8c047d613917e92f364cd0f29b3739c1\"",
     "http://arxiv.org/rss/astro-ph": "eefac9762c563a80af6e69bcd71210fb906f09888ddde6b3e5a56233ef0d5cbb",
-    "https://spacenews.com/feed/": "W/\"e5bd4ea9fec16db4e16f872b2cff7785\"",
-    "https://www.astronomy.com/feed/": "W/\"71614cd8197a89c891bbd95285117414\"",
+    "https://spacenews.com/feed/": "W/\"62184e0d145b64f237ed5d64cf505440\"",
+    "https://www.astronomy.com/feed/": "W/\"32b052ce6e0d36ec94e99a373307e400\"",
     "https://spacepolicyonline.com/feed/": "\"8149dac834d51af86d5360d5391ad726\""
   },
   "articles": {
@@ -4647,6 +4647,186 @@
       "archivedDate": "2026-10-28",
       "collection": "evening",
       "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "0015fc592daf2598": {
+      "id": "0015fc592daf2598",
+      "canonicalUrl": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live",
+      "title": "ISS astronaut will conduct Canada's 1st spacewalk in 7 years on Oct. 29: Watch it live",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 20:00:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0013444a1edf7150": {
+      "id": "0013444a1edf7150",
+      "canonicalUrl": "https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane",
+      "title": "Meet Apeiron, Virgin Galactic's 1st 'Delta-class' space plane",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 28 Oct 2026 19:28:10 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "001984945bf9a0ad": {
+      "id": "001984945bf9a0ad",
+      "canonicalUrl": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 18:59:44 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "00110930dd5c2c89": {
+      "id": "00110930dd5c2c89",
+      "canonicalUrl": "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star",
+      "title": "Betelgeuse Is Disturbed By Its Companion Star",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 18:34:09 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0008ed5e89cc148a": {
+      "id": "0008ed5e89cc148a",
+      "canonicalUrl": "https://www.universetoday.com/articles/ancient-comets-carried-organic-compounds-but-they-didnt-survive-crashing-into-earth",
+      "title": "Ancient Comets Carried Organic Compounds, But They Didn't Survive Crashing Into Earth",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 18:04:26 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "00012c2b07453ee1": {
+      "id": "00012c2b07453ee1",
+      "canonicalUrl": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 18:00:28 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0007b42b36dc860f": {
+      "id": "0007b42b36dc860f",
+      "canonicalUrl": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 16:25:29 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0015807a05894dd6": {
+      "id": "0015807a05894dd6",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
+      "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 28 Oct 2026 15:50:04 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "00176c0172f7d362": {
+      "id": "00176c0172f7d362",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
+      "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 15:34:33 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0010b77ec4a49e2e": {
+      "id": "0010b77ec4a49e2e",
+      "canonicalUrl": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 15:33:10 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "001540480d4105a0": {
+      "id": "001540480d4105a0",
+      "canonicalUrl": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
+      "title": "Sun's outer magnetic field mapped in 3D for the first time",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 16:10:02 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0017f744258be371": {
+      "id": "0017f744258be371",
+      "canonicalUrl": "https://phys.org/news/2026-10-supersonic-strange-orbits-hot-jupiters.html",
+      "title": "Supersonic waves could explain the strange orbits of hot Jupiters and Neptunes",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 14:20:06 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0009074ec6b43c9f": {
+      "id": "0009074ec6b43c9f",
+      "canonicalUrl": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+      "title": "NASA systems engineering team details Habitable Worlds Observatory mission architecture",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 11:40:11 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "00175e9cb54c873e": {
+      "id": "00175e9cb54c873e",
+      "canonicalUrl": "https://phys.org/news/2026-10-solar-storm-triggered-ultrarelativistic-electrons.html",
+      "title": "2024 solar storm triggered ultrarelativistic electrons inside Earth's 'impenetrable barrier'",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 11:40:07 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "00170e7e7a74cc09": {
+      "id": "00170e7e7a74cc09",
+      "canonicalUrl": "https://phys.org/news/2026-10-perseverance-clues-crews-ultrafine-mars.html",
+      "title": "Perseverance offers clues to protect crews from ultrafine Mars dust",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 27 Oct 2026 12:00:01 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T20:28:12.957Z"
     }
   }
 }

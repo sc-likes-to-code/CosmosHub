@@ -1,14 +1,32 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T15:30:57.169Z",
-  "count": 159,
+  "generatedAt": "2026-10-28T20:28:13.672Z",
+  "count": 161,
   "articles": [
     {
-      "id": "001dd5ac1c612ea2",
-      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers",
-      "desc": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
-      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "id": "0015fc592daf2598",
+      "title": "ISS astronaut will conduct Canada's 1st spacewalk in 7 years on Oct. 29: Watch it live",
+      "link": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live",
+      "desc": "Joshua Kutryk will venture outside the International Space Station on Oct. 29, on the first spacewalk by a Canadian astronaut in more than seven years. Here's how to watch it live.",
+      "pubDate": "Wed, 28 Oct 2026 20:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0013444a1edf7150",
+      "title": "Meet Apeiron, Virgin Galactic's 1st 'Delta-class' space plane",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane",
+      "desc": "Virgin Galactic has officially unveiled its first \"Delta-class\" space plane, and announced the results of the worldwide vote to choose its name.",
+      "pubDate": "Wed, 28 Oct 2026 19:28:10 +0000",
       "category": "Other Space Transmissions",
       "source": {
         "name": "Space.com",
@@ -22,30 +40,30 @@
       }
     },
     {
-      "id": "001f2400100fe43c",
-      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-      "link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells",
-      "desc": "– Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 – Satoro to provide “Satellite-as-a-service” solution; Flexell Space to supply solar cells and test modules […]\nThe post Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation S",
-      "pubDate": "Wed, 28 Oct 2026 14:43:08 +0000",
-      "category": "Space Industry & Policy",
+      "id": "001984945bf9a0ad",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy",
+      "desc": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly Building’s High Bay 3 at NASA’s Kennedy Space Center in Florida.   Technicians lifted the 212-foot rocket stage from the facility’s High Bay 2 using a",
+      "pubDate": "Wed, 28 Oct 2026 18:59:44 +0000",
+      "category": "Missions & Exploration",
       "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
         "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
+          "NASA",
+          "Space",
+          "Science"
         ]
       }
     },
     {
-      "id": "0002bfa61ce340a7",
-      "title": "The Leap Second is History. Long Live the 'Leap Hour'",
-      "link": "https://www.universetoday.com/articles/the-leap-second-is-history-long-live-the-leap-hour",
-      "desc": "Time and time-keeping is a hot topic once again, as many of us ‘fall back’ to Standard Time this coming weekend. Another time-related dilemma was also addressed this month, when a key conference did away with the leap second and the alignment of Universal Time (UT1) with Universal Coordinated Time (",
-      "pubDate": "Wed, 28 Oct 2026 14:02:00 +0000",
+      "id": "00110930dd5c2c89",
+      "title": "Betelgeuse Is Disturbed By Its Companion Star",
+      "link": "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star",
+      "desc": "Betelgeuse has a close-orbiting companion that disturbs the red supergiant into an egg-like shape. New observations show how the two stars interact and how this could help explain the varying brightness of Betelgeuse.",
+      "pubDate": "Wed, 28 Oct 2026 18:34:09 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
@@ -59,30 +77,12 @@
       }
     },
     {
-      "id": "00066a131506be11",
-      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
-      "link": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
-      "desc": "Iceberg A-81 escaping the Weddell Sea and drifting near the edge of South Georgia's underwater shelf.",
-      "pubDate": "Wed, 28 Oct 2026 14:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000a6381c4c58e31",
-      "title": "Glowing Salt Crystals Tracked Radiation Aboard Artemis I",
-      "link": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
-      "desc": "There weren’t any humans strapped into the bucket seats of the Orion spacecraft for the Artemis I mission. But there were two anthropomorphic mannequins made to mimic human bone and soft tissue, but also equipped with hundreds of radiation sensors spread throughout their body as part of the Matroshk",
-      "pubDate": "Wed, 28 Oct 2026 13:20:49 +0000",
-      "category": "Missions & Exploration",
+      "id": "0008ed5e89cc148a",
+      "title": "Ancient Comets Carried Organic Compounds, But They Didn't Survive Crashing Into Earth",
+      "link": "https://www.universetoday.com/articles/ancient-comets-carried-organic-compounds-but-they-didnt-survive-crashing-into-earth",
+      "desc": "Perhaps the biggest mystery we face is life on Earth started. One hypothesis says that comets, which are known to carry important chemicals in abiogenesis, delivered these compounds to Earth, leading to the appearance of life. But new research concludes that that is highly unlikely.",
+      "pubDate": "Wed, 28 Oct 2026 18:04:26 +0000",
+      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
         "key": "universe",
@@ -95,102 +95,181 @@
       }
     },
     {
-      "id": "001745d9cc7d8d0c",
-      "title": "Oct. 28, 1971: The U.K. launches a satellite",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-28-1971-the-u-k-launches-a-satellite",
-      "desc": "The Prospero satellite, which launched on Oct. 28, 1971, holds the distinction of being the first and only British satellite to be launched by a British rocket. (The first British satellite launched by any rocket had been Ariel 1, carried to space on a U.S. rocket in 1962.) British engineers develop",
-      "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001254ca9b62defc",
-      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
-      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
-      "desc": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
-      "pubDate": "Wed, 28 Oct 2026 12:58:18 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001f33544fa8d21a",
-      "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
-      "desc": "Virgin Galactic will unveil its first Delta-class spaceship on Wednesday (Oct. 28), revealing a name chosen by public vote before transporting the spacecraft from Arizona to Spaceport America in New Mexico.",
-      "pubDate": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000864cb9f5a0014",
-      "title": "Black holes can split in two — but only if they spin at extreme speeds",
-      "link": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
-      "desc": "Scientists have long known that when two black holes collide, they merge to create a more massive black hole. New research suggests that the opposite may happen too: single black holes may split in two.",
-      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00078237849d497e",
-      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-      "desc": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for futu",
-      "pubDate": "Wed, 28 Oct 2026 06:29:36 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00054cd998bbd4b4",
-      "title": "Comets probably didn't seed life on Earth after all, new study suggests",
-      "link": "https://phys.org/news/2026-10-comets-didnt-seed-life-earth.html",
-      "desc": "The theory that comets delivered the molecular building blocks for life on Earth is a long-standing one, since comets are known to carry many of these molecules. However, a new study challenges this idea.",
-      "pubDate": "Wed, 28 Oct 2026 06:00:10 EDT",
+      "id": "00012c2b07453ee1",
+      "title": "NASA University Challenge Ignites Trajectory of Drone Entrepreneur",
+      "link": "https://www.nasa.gov/aeronautics/nasa-challenge-drone-entrepreneur",
+      "desc": "Five years ago, Gavin Gardner was a Michigan State University engineering student researching next-generation drone technology as part of a NASA grant. Garder expected the research to be demanding – but he was surprised that navigating the financial side of the work presented an even greater challen",
+      "pubDate": "Wed, 28 Oct 2026 18:00:28 +0000",
       "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0007b42b36dc860f",
+      "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026",
+      "desc": "So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have now discovered most of ",
+      "pubDate": "Wed, 28 Oct 2026 16:25:29 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0015807a05894dd6",
+      "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
+      "desc": "A U.S. military intelligence agency has released an incredible new photograph of China's secretive space plane, showing it docked to another spacecraft in orbit.",
+      "pubDate": "Wed, 28 Oct 2026 15:50:04 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00176c0172f7d362",
+      "title": "The Rubin Observatory Finds Its First Dwarf Planet Candidate",
+      "link": "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate",
+      "desc": "The Vera Rubin Observatory found a distant Solar System object before its decade-long Legacy Survey of Space and Time even got started. The object is a dwarf planet candidate named 2026 ED138, and if confirmed, it will be one of the largest dwarf planets beyond Neptune. It may be up to 1500 km in di",
+      "pubDate": "Wed, 28 Oct 2026 15:34:33 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010b77ec4a49e2e",
+      "title": "Webb Sees Turbulent Star Nursery",
+      "link": "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery",
+      "desc": "In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a",
+      "pubDate": "Wed, 28 Oct 2026 15:33:10 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001540480d4105a0",
+      "title": "Sun's outer magnetic field mapped in 3D for the first time",
+      "link": "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html",
+      "desc": "A team of researchers has produced the first global, three-dimensional estimates of the sun's magnetic field, including the area beyond the sun's visible edge. This marks a step toward more accurate models of solar activity—and ultimately, better predictions of solar magnetic eruptions, which are th",
+      "pubDate": "Wed, 28 Oct 2026 16:10:02 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0017f744258be371",
+      "title": "Supersonic waves could explain the strange orbits of hot Jupiters and Neptunes",
+      "link": "https://phys.org/news/2026-10-supersonic-strange-orbits-hot-jupiters.html",
+      "desc": "Using advanced new simulations, a team of astronomers in the U.S. has developed a promising new theory for how giant, gaseous exoplanets migrate into stiflingly close orbits around their host stars. Led by J. J. Zanazzi at The Pennsylvania State University, the team showed how both massive \"hot Jupi",
+      "pubDate": "Wed, 28 Oct 2026 14:20:06 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0009074ec6b43c9f",
+      "title": "NASA systems engineering team details Habitable Worlds Observatory mission architecture",
+      "link": "https://phys.org/news/2026-10-nasa-team-habitable-worlds-observatory.html",
+      "desc": "Finding an Earth-like world beyond the solar system is the holy grail of exoplanet research, and the field has seen remarkable technological advances in detecting and studying exoplanets since the first confirmed exoplanet around a sun-like star was discovered in 1995. These advances include ground-",
+      "pubDate": "Wed, 28 Oct 2026 11:40:11 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00175e9cb54c873e",
+      "title": "2024 solar storm triggered ultrarelativistic electrons inside Earth's 'impenetrable barrier'",
+      "link": "https://phys.org/news/2026-10-solar-storm-triggered-ultrarelativistic-electrons.html",
+      "desc": "The Earth is surrounded by an invisible barrier that was thought to prevent highly energetic electrons from reaching closer to our planet. But in 2024, Japan's Arase space probe detected these electrons well inside the barrier. Now, research led by Nagoya University has found evidence that the elect",
+      "pubDate": "Wed, 28 Oct 2026 11:40:07 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00170e7e7a74cc09",
+      "title": "Perseverance offers clues to protect crews from ultrafine Mars dust",
+      "link": "https://phys.org/news/2026-10-perseverance-clues-crews-ultrafine-mars.html",
+      "desc": "Over 1,645 Martian days, NASA's Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including particles small enough to penetrate the lungs and enter the bloodstream. The findings are publi",
+      "pubDate": "Tue, 27 Oct 2026 12:00:01 EDT",
+      "category": "Missions & Exploration",
       "source": {
         "name": "Phys.org Space",
         "key": "physorg",
@@ -226,7 +305,7 @@
       "id": "00085c7aa6d0c37d",
       "title": "APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io",
       "link": "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io",
-      "desc": "APOD Science APOD APOD: 2026 October 28 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation ",
+      "desc": "APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a p",
       "pubDate": "Wed, 28 Oct 2026 04:05:00 +0000",
       "category": "Research & Science",
       "source": {
@@ -305,63 +384,6 @@
       "desc": "When Rice University student Malvika Bhardwaj asked her mentor Daniel Cohen, a Guidance, Navigation & Control (GN&C) engineer at NASA’s Johnson Space Center, whether he had time to keep teaching interns with his busy workload, he answered, “You decide what’s important.”  In honor of National Mentori",
       "pubDate": "Tue, 27 Oct 2026 07:07:51 +0000",
       "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ca3803970abd6",
-      "title": "A-81 Reaches South Georgia",
-      "link": "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia",
-      "desc": "The Antarctic iceberg made a relatively quick exit from the Weddell Sea, only to slow at the edge of a remote island’s underwater shelf.",
-      "pubDate": "Tue, 27 Oct 2026 04:00:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00155153e7694024",
-      "title": "NASA’s Perseverance Views Dust at Neretva Vallis",
-      "link": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis",
-      "desc": "Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a ",
-      "pubDate": "Mon, 26 Oct 2026 22:48:12 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00018644c2e46c08",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust",
-      "link": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
-      "desc": "Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will ",
-      "pubDate": "Mon, 26 Oct 2026 21:07:28 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -1040,6 +1062,96 @@
       }
     },
     {
+      "id": "001dd5ac1c612ea2",
+      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers",
+      "desc": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
+      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00066a131506be11",
+      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
+      "link": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
+      "desc": "Iceberg A-81 escaping the Weddell Sea and drifting near the edge of South Georgia's underwater shelf.",
+      "pubDate": "Wed, 28 Oct 2026 14:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001254ca9b62defc",
+      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+      "desc": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
+      "pubDate": "Wed, 28 Oct 2026 12:58:18 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001f33544fa8d21a",
+      "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
+      "desc": "Virgin Galactic will unveil its first Delta-class spaceship on Wednesday (Oct. 28), revealing a name chosen by public vote before transporting the spacecraft from Arizona to Spaceport America in New Mexico.",
+      "pubDate": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000864cb9f5a0014",
+      "title": "Black holes can split in two — but only if they spin at extreme speeds",
+      "link": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
+      "desc": "Scientists have long known that when two black holes collide, they merge to create a more massive black hole. New research suggests that the opposite may happen too: single black holes may split in two.",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "000b24d219f1278b",
       "title": "How 'spacewalking' underwater made me feel like I was really in space",
       "link": "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space",
@@ -1256,56 +1368,38 @@
       }
     },
     {
-      "id": "001782952e443cd2",
-      "title": "On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026",
-      "desc": "On Oct. 26, 2004, NASA's Cassini spacecraft took the first close-up images of Saturn's largest moon Titan. Here's why it mattered.",
-      "pubDate": "Mon, 26 Oct 2026 19:47:12 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001283dc5f75d015",
-      "title": "Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover",
-      "link": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover",
-      "desc": "If you only knew the power of the infinity stones!",
-      "pubDate": "Mon, 26 Oct 2026 19:00:00 +0000",
+      "id": "0002bfa61ce340a7",
+      "title": "The Leap Second is History. Long Live the 'Leap Hour'",
+      "link": "https://www.universetoday.com/articles/the-leap-second-is-history-long-live-the-leap-hour",
+      "desc": "Time and time-keeping is a hot topic once again, as many of us ‘fall back’ to Standard Time this coming weekend. Another time-related dilemma was also addressed this month, when a key conference did away with the leap second and the alignment of Universal Time (UT1) with Universal Coordinated Time (",
+      "pubDate": "Wed, 28 Oct 2026 14:02:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
     {
-      "id": "0008299193385f22",
-      "title": "NASA ends Swift space telescope mission after failed rescue attempt",
-      "link": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
-      "desc": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
-      "pubDate": "Mon, 26 Oct 2026 18:43:21 +0000",
+      "id": "000a6381c4c58e31",
+      "title": "Glowing Salt Crystals Tracked Radiation Aboard Artemis I",
+      "link": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
+      "desc": "There weren’t any humans strapped into the bucket seats of the Orion spacecraft for the Artemis I mission. But there were two anthropomorphic mannequins made to mimic human bone and soft tissue, but also equipped with hundreds of radiation sensors spread throughout their body as part of the Matroshk",
+      "pubDate": "Wed, 28 Oct 2026 13:20:49 +0000",
       "category": "Missions & Exploration",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1580,60 +1674,6 @@
       }
     },
     {
-      "id": "001be4e5c633d900",
-      "title": "27 Exoplanet Targets for the World's First Private Space Telescope",
-      "link": "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope",
-      "desc": "Get ready for the age of private space telescopes. The Lazuli Space Telescope will launch in a few years and part of its mission is to observe exoplanets. New research presents a list of 27 exoplanet targets, some of which are very well-known and will certainly benefit from deeper observations.",
-      "pubDate": "Fri, 23 Oct 2026 22:33:37 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001beacbbecb43f6",
-      "title": "The Largest Canyon in the Solar System is Still Tectonically Active",
-      "link": "https://www.universetoday.com/articles/the-largest-canyon-in-the-solar-system-is-still-tectonically-active",
-      "desc": "Scientists at Imperial College London and Columbia University have found that the largest canyon system in the solar system is still active and shaping Mars today, billions of years after it first formed.",
-      "pubDate": "Fri, 23 Oct 2026 21:09:09 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001c0556b034f87c",
-      "title": "Saudi Arabia Joins the Search for Alien Civilizations",
-      "link": "https://www.universetoday.com/articles/saudi-arabia-joins-the-search-for-alien-civilizations",
-      "desc": "Saudi Arabia is joining the search for alien signals coming from the cosmos. They're collaborating with SETI in the endeavour. SETI has announced that two LaserSETI instruments will be positioned in Saudi Arabia, adding to a growing network of optical sensors designed to detect laser pulses that cou",
-      "pubDate": "Fri, 23 Oct 2026 18:17:49 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000e69bad774c58f",
       "title": "ISS Daily Summary Report Discontinued",
       "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
@@ -1649,6 +1689,24 @@
           "ISS",
           "NASA",
           "Station"
+        ]
+      }
+    },
+    {
+      "id": "00078237849d497e",
+      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+      "desc": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for futu",
+      "pubDate": "Wed, 28 Oct 2026 06:29:36 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -1785,60 +1843,6 @@
       "desc": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
       "pubDate": "Thu, 22 Oct 2026 22:54:41 EDT",
       "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014ecbfa57d8be6",
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-      "desc": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-      "pubDate": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00170b101d71e261",
-      "title": "A train was delayed by a solar storm. But something didn't add up.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-      "desc": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, an",
-      "pubDate": "Wed, 21 Oct 2026 08:35:57 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0008a0aa8640665c",
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "desc": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
-      "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
-      "category": "Research & Science",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
