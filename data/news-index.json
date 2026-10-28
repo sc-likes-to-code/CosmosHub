@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-28T09:57:26.273Z",
-  "lastRunId": "run-1793181444288-0d2ecj",
+  "lastUpdated": "2026-10-28T15:30:56.505Z",
+  "lastRunId": "run-1793201454656-bsmw2b",
   "stats": {
-    "totalStories": 375,
-    "lastRunAdded": 23
+    "totalStories": 386,
+    "lastRunAdded": 11
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"e3f3ccf80e5c2ab23ae2b3edd970c5eb\"",
-    "https://www.universetoday.com/feed": "W/\"6ae1c43f-769b\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"e3f3ccf80e5c2ab23ae2b3edd970c5eb\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"a480f10a6a6fa82634125f652c84396e\"",
+    "https://www.universetoday.com/feed": "W/\"6ae20b43-762f\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"603c803d76ed6e195c29dfe4b06c137b\"",
     "http://arxiv.org/rss/astro-ph": "eefac9762c563a80af6e69bcd71210fb906f09888ddde6b3e5a56233ef0d5cbb",
-    "https://spacenews.com/feed/": "W/\"e8e130b4cd5a64f432abfda75a46a6ff\"",
-    "https://www.astronomy.com/feed/": "W/\"2384f8c52ca61302e1ffd0e9b48cda4e\"",
+    "https://spacenews.com/feed/": "W/\"e5bd4ea9fec16db4e16f872b2cff7785\"",
+    "https://www.astronomy.com/feed/": "W/\"71614cd8197a89c891bbd95285117414\"",
     "https://spacepolicyonline.com/feed/": "\"8149dac834d51af86d5360d5391ad726\""
   },
   "articles": {
@@ -4515,6 +4515,138 @@
       "archivedDate": "2026-10-28",
       "collection": "morning",
       "archivedAt": "2026-10-28T09:57:26.273Z"
+    },
+    "001dd5ac1c612ea2": {
+      "id": "001dd5ac1c612ea2",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers",
+      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "001f2400100fe43c": {
+      "id": "001f2400100fe43c",
+      "canonicalUrl": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells",
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 28 Oct 2026 14:43:08 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "0002bfa61ce340a7": {
+      "id": "0002bfa61ce340a7",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-leap-second-is-history-long-live-the-leap-hour",
+      "title": "The Leap Second is History. Long Live the 'Leap Hour'",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 14:02:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "00066a131506be11": {
+      "id": "00066a131506be11",
+      "canonicalUrl": "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026",
+      "title": "Satellites watch an escaping Antarctic iceberg | Space photo of the day for Oct. 28, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 28 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "000a6381c4c58e31": {
+      "id": "000a6381c4c58e31",
+      "canonicalUrl": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
+      "title": "Glowing Salt Crystals Tracked Radiation Aboard Artemis I",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 13:20:49 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "001745d9cc7d8d0c": {
+      "id": "001745d9cc7d8d0c",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-28-1971-the-u-k-launches-a-satellite",
+      "title": "Oct. 28, 1971: The U.K. launches a satellite",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "001254ca9b62defc": {
+      "id": "001254ca9b62defc",
+      "canonicalUrl": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 28 Oct 2026 12:58:18 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "001f33544fa8d21a": {
+      "id": "001f33544fa8d21a",
+      "canonicalUrl": "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week",
+      "title": "Virgin Galactic is finally revealing its new Delta-class spaceship this week",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 28 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "000864cb9f5a0014": {
+      "id": "000864cb9f5a0014",
+      "canonicalUrl": "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds",
+      "title": "Black holes can split in two — but only if they spin at extreme speeds",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "00078237849d497e": {
+      "id": "00078237849d497e",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 06:29:36 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
+    },
+    "00054cd998bbd4b4": {
+      "id": "00054cd998bbd4b4",
+      "canonicalUrl": "https://phys.org/news/2026-10-comets-didnt-seed-life-earth.html",
+      "title": "Comets probably didn't seed life on Earth after all, new study suggests",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 06:00:10 EDT",
+      "archivedDate": "2026-10-28",
+      "collection": "evening",
+      "archivedAt": "2026-10-28T15:30:56.505Z"
     }
   }
 }
