@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-29T10:20:40.914Z",
-  "lastRunId": "run-1793269239455-euftaz",
+  "lastUpdated": "2026-10-29T15:30:45.116Z",
+  "lastRunId": "run-1793287843428-vvnvg6",
   "stats": {
-    "totalStories": 415,
-    "lastRunAdded": 6
+    "totalStories": 432,
+    "lastRunAdded": 17
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"10b58cf77f9831592da032d133908a2e\"",
-    "https://www.universetoday.com/feed": "W/\"6ae3158a-7829\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"2bb94b0a3fc2f7133c8fdcda3dab9d38\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"e292f20d771453853705d89538a5a5a9\"",
+    "https://www.universetoday.com/feed": "W/\"6ae35c70-7650\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"e292f20d771453853705d89538a5a5a9\"",
     "http://arxiv.org/rss/astro-ph": "fefae73a4e8c7cac2445a9bba9a8a11a90d48b1474f9b978d7a809621b3d4b45",
-    "https://spacenews.com/feed/": "W/\"708d9027123b07d40b6e21c98a1c6114\"",
-    "https://www.astronomy.com/feed/": "W/\"ae5a8793df86df427b558a4776bf020a\"",
+    "https://spacenews.com/feed/": "W/\"b9ae89b699dcc1464d08c04d60c7c276\"",
+    "https://www.astronomy.com/feed/": "W/\"990ebfd927a4fb8442b94d7a0f8e1e0d\"",
     "https://spacepolicyonline.com/feed/": "\"e9a063482831eade1f3f8c892e632953\""
   },
   "articles": {
@@ -4995,6 +4995,210 @@
       "archivedDate": "2026-10-29",
       "collection": "morning",
       "archivedAt": "2026-10-29T10:20:40.914Z"
+    },
+    "0018934e221c139e": {
+      "id": "0018934e221c139e",
+      "canonicalUrl": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa",
+      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 15:21:23 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.115Z"
+    },
+    "001ca4531b971d41": {
+      "id": "001ca4531b971d41",
+      "canonicalUrl": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission",
+      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 15:10:18 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.115Z"
+    },
+    "000383a2b32b3336": {
+      "id": "000383a2b32b3336",
+      "canonicalUrl": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing",
+      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 15:06:40 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.115Z"
+    },
+    "0011fa0c76008539": {
+      "id": "0011fa0c76008539",
+      "canonicalUrl": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree",
+      "title": "Advice for optimizing the space industry with Laura Crabtree",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 29 Oct 2026 15:01:09 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "000926476f05f542": {
+      "id": "000926476f05f542",
+      "canonicalUrl": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope",
+      "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 14:49:27 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "001306d0f0830992": {
+      "id": "001306d0f0830992",
+      "canonicalUrl": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb",
+      "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 14:01:01 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "0013484f2a2e3ccc": {
+      "id": "0013484f2a2e3ccc",
+      "canonicalUrl": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "source": "ESA",
+      "sourceKey": "esa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0100",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "0010a4e1c2d06865": {
+      "id": "0010a4e1c2d06865",
+      "canonicalUrl": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
+      "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "0019c1c45752b445": {
+      "id": "0019c1c45752b445",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 13:27:34 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "00143acbbbce0d33": {
+      "id": "00143acbbbce0d33",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-29-1998-john-glenn-returns-to-space",
+      "title": "Oct. 29, 1998: John Glenn returns to space",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "00048d7efa9250c4": {
+      "id": "00048d7efa9250c4",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "000d7a2abc04ce67": {
+      "id": "000d7a2abc04ce67",
+      "canonicalUrl": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
+      "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "0009948424f3ef6c": {
+      "id": "0009948424f3ef6c",
+      "canonicalUrl": "https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets",
+      "title": "Astronomers Solve the Mystery of the Sun’s Spinning Plasma Jets",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 11:53:48 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "00109e721881e26a": {
+      "id": "00109e721881e26a",
+      "canonicalUrl": "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html",
+      "title": "Grand Theft Astro: Stars' criminal histories could reshape estimates of their internal magnetic fields",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 11:20:16 EDT",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "000163247bf3d7e7": {
+      "id": "000163247bf3d7e7",
+      "canonicalUrl": "https://phys.org/news/2026-10-modest-gamma-ray-dazzling-afterglow.html",
+      "title": "Modest gamma-ray flash followed by dazzling afterglow points to powerful stellar jet viewed off-axis",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 09:40:10 EDT",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "000e915d0b5f0eff": {
+      "id": "000e915d0b5f0eff",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 08:26:25 EDT",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
+    },
+    "0004de963fd63898": {
+      "id": "0004de963fd63898",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 08:07:58 EDT",
+      "archivedDate": "2026-10-29",
+      "collection": "evening",
+      "archivedAt": "2026-10-29T15:30:45.116Z"
     }
   }
 }
