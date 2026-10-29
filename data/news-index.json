@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-29T03:30:46.971Z",
-  "lastRunId": "run-1793244644869-vm73j0",
+  "lastUpdated": "2026-10-29T10:20:40.914Z",
+  "lastRunId": "run-1793269239455-euftaz",
   "stats": {
-    "totalStories": 409,
-    "lastRunAdded": 8
+    "totalStories": 415,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"562c5b38b3a338e1735acdbe0fbed5c4\"",
-    "https://www.universetoday.com/feed": "W/\"6ae2b3c8-7830\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"5711ebf64517126d8c680feafa23d782\"",
-    "http://arxiv.org/rss/astro-ph": "eefac9762c563a80af6e69bcd71210fb906f09888ddde6b3e5a56233ef0d5cbb",
-    "https://spacenews.com/feed/": "W/\"78d2b3d1f2380fb7c1df2634f16e4032\"",
-    "https://www.astronomy.com/feed/": "W/\"32b052ce6e0d36ec94e99a373307e400\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"10b58cf77f9831592da032d133908a2e\"",
+    "https://www.universetoday.com/feed": "W/\"6ae3158a-7829\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"2bb94b0a3fc2f7133c8fdcda3dab9d38\"",
+    "http://arxiv.org/rss/astro-ph": "fefae73a4e8c7cac2445a9bba9a8a11a90d48b1474f9b978d7a809621b3d4b45",
+    "https://spacenews.com/feed/": "W/\"708d9027123b07d40b6e21c98a1c6114\"",
+    "https://www.astronomy.com/feed/": "W/\"ae5a8793df86df427b558a4776bf020a\"",
     "https://spacepolicyonline.com/feed/": "\"e9a063482831eade1f3f8c892e632953\""
   },
   "articles": {
@@ -4923,6 +4923,78 @@
       "archivedDate": "2026-10-29",
       "collection": "morning",
       "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "001fcc1070ff76de": {
+      "id": "001fcc1070ff76de",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
+      "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T10:20:40.914Z"
+    },
+    "0015f9a4e5cc5fc7": {
+      "id": "0015f9a4e5cc5fc7",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-thursday-october-29-2026",
+      "title": "The Sky Today on Thursday, October 29: Open cluster Collinder 463",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 08:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T10:20:40.914Z"
+    },
+    "000da0571825e6e1": {
+      "id": "000da0571825e6e1",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus",
+      "title": "APOD: 29 October 2026 – The Horns of Venus",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 04:05:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T10:20:40.914Z"
+    },
+    "000fa08a168fc4b5": {
+      "id": "000fa08a168fc4b5",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india",
+      "title": "Arnab Strikes India",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 04:01:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T10:20:40.914Z"
+    },
+    "001bc4da551717e4": {
+      "id": "001bc4da551717e4",
+      "canonicalUrl": "https://www.universetoday.com/articles/virgin-galactic-flies-next-gen-space-plane-to-new-home-with-new-name",
+      "title": "Virgin Galactic Flies Next-Gen Space Plane to New Home With New Name",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 28 Oct 2026 23:22:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T10:20:40.914Z"
+    },
+    "000ae39aa4525bda": {
+      "id": "000ae39aa4525bda",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+      "title": "Meteors don't just burn up. What really happens is far more violent",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 23:06:41 EDT",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T10:20:40.914Z"
     }
   }
 }
