@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-28T20:28:12.957Z",
-  "lastRunId": "run-1793219290916-x5ym7q",
+  "lastUpdated": "2026-10-29T03:30:46.971Z",
+  "lastRunId": "run-1793244644869-vm73j0",
   "stats": {
-    "totalStories": 401,
-    "lastRunAdded": 15
+    "totalStories": 409,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"3979bbdf2a6644b6b72a8b47db2ed83e\"",
-    "https://www.universetoday.com/feed": "W/\"6ae2512b-76ae\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8c047d613917e92f364cd0f29b3739c1\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"562c5b38b3a338e1735acdbe0fbed5c4\"",
+    "https://www.universetoday.com/feed": "W/\"6ae2b3c8-7830\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"5711ebf64517126d8c680feafa23d782\"",
     "http://arxiv.org/rss/astro-ph": "eefac9762c563a80af6e69bcd71210fb906f09888ddde6b3e5a56233ef0d5cbb",
-    "https://spacenews.com/feed/": "W/\"62184e0d145b64f237ed5d64cf505440\"",
+    "https://spacenews.com/feed/": "W/\"78d2b3d1f2380fb7c1df2634f16e4032\"",
     "https://www.astronomy.com/feed/": "W/\"32b052ce6e0d36ec94e99a373307e400\"",
-    "https://spacepolicyonline.com/feed/": "\"8149dac834d51af86d5360d5391ad726\""
+    "https://spacepolicyonline.com/feed/": "\"e9a063482831eade1f3f8c892e632953\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -4827,6 +4827,102 @@
       "archivedDate": "2026-10-28",
       "collection": "evening",
       "archivedAt": "2026-10-28T20:28:12.957Z"
+    },
+    "0001646a7c1c9933": {
+      "id": "0001646a7c1c9933",
+      "canonicalUrl": "https://www.jpl.nasa.gov/news/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "source": "NASA JPL",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 19:50:00 -0700",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "00127bb988d56b72": {
+      "id": "00127bb988d56b72",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy",
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 02:49:59 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "0015c928999e2f47": {
+      "id": "0015c928999e2f47",
+      "canonicalUrl": "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat",
+      "title": "Moon Habitats May Use Layered Mylar to Block Extreme Heat",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 02:24:08 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "001833f911f10481": {
+      "id": "001833f911f10481",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026",
+      "title": "On this day in space! Oct. 28, 1971: Britain launches its 1st satellite Prospero into space on a Black Arrow rocket",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 28 Oct 2026 23:02:12 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "0013311abbe13752": {
+      "id": "0013311abbe13752",
+      "canonicalUrl": "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031",
+      "title": "NASA's New UV Space Telescope Will Launch in 2031",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 22:06:39 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "00081773eea4e7e4": {
+      "id": "00081773eea4e7e4",
+      "canonicalUrl": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory",
+      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 21:50:01 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "00069589991270c6": {
+      "id": "00069589991270c6",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/5-days-beneath-the-waves-what-its-like-to-live-in-an-underwater-space-station",
+      "title": "5 days beneath the waves: What it's like to live in an underwater 'space station'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 28 Oct 2026 21:00:00 +0000",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
+    },
+    "001eae1ae21e2efb": {
+      "id": "001eae1ae21e2efb",
+      "canonicalUrl": "https://phys.org/news/2026-10-gen-artificial-intelligence-future-space.html",
+      "title": "Could next-gen artificial intelligence help map out future space outposts?",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 28 Oct 2026 17:30:01 EDT",
+      "archivedDate": "2026-10-29",
+      "collection": "morning",
+      "archivedAt": "2026-10-29T03:30:46.971Z"
     }
   }
 }
