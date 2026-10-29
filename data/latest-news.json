@@ -1,8 +1,324 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T15:30:45.547Z",
-  "count": 161,
+  "generatedAt": "2026-10-29T20:26:23.892Z",
+  "count": 150,
   "articles": [
+    {
+      "id": "0007aea6eaf857fc",
+      "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
+      "link": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+      "desc": "NASA astronaut Anil Menon and Joshua Kutryk of the Canadian Space Agency deployed a new solar array on Thursday (Oct. 29) during a seven-hour spacewalk outside the International Space Station.",
+      "pubDate": "Thu, 29 Oct 2026 20:01:52 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0007348cdcc4da5d",
+      "title": "'Crystal Lake' is great, but nothing tops the space horror shenanigans of 'Jason X'",
+      "link": "https://www.space.com/entertainment/space-movies-shows/crystal-lake-is-great-but-nothing-tops-the-space-horror-shenanigans-of-jason-x",
+      "desc": "The Voorhees legend continues in Crystal Lake, but Jason X remains the Citizen Kane of this franchise.",
+      "pubDate": "Thu, 29 Oct 2026 20:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0019936c2ca69ab0",
+      "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
+      "link": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+      "desc": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
+      "pubDate": "Thu, 29 Oct 2026 18:55:22 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000b4243001647b7",
+      "title": "No Comets Required? How the Growing Earth May Have Created Its Own Water",
+      "link": "https://www.universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water",
+      "desc": "Earth may not have needed comets and asteroids to deliver its water after it formed and cooled. Instead, water creation could have been part of the planet's formation process. New research explains how, and even shows that water creation could be a part of every rocky planet's formation.",
+      "pubDate": "Thu, 29 Oct 2026 18:25:52 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0013e76177231291",
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "link": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found",
+      "desc": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making ",
+      "pubDate": "Thu, 29 Oct 2026 18:18:09 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001733d14304d91e",
+      "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+      "link": "https://www.jpl.nasa.gov/news/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found",
+      "desc": "Called Teghaza 001, the rock is from a piece of Mars that formed more than 4.1 billion years ago.",
+      "pubDate": "Thu, 29 Oct 2026 11:15:00 -0700",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
+    {
+      "id": "00188b6b2e57bc23",
+      "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+      "link": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director",
+      "desc": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since M",
+      "pubDate": "Thu, 29 Oct 2026 18:00:35 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0008337841561ef1",
+      "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate",
+      "link": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate",
+      "desc": "Two zombie exoplanets that rose from the grave to shuffle through the gory remains of their fellow planets may just agree with these immortal words from horror maestro Stephen King.",
+      "pubDate": "Thu, 29 Oct 2026 18:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001e5a9cd6465d65",
+      "title": "NIH–NASA QuSAFE Challenge",
+      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge",
+      "desc": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety whi",
+      "pubDate": "Thu, 29 Oct 2026 17:44:37 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001084d1e91799d6",
+      "title": "NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause",
+      "link": "https://www.jpl.nasa.gov/news/nasas-voyager-1-conserves-power-resolves-brief-communications-pause",
+      "desc": "The agency’s longest-running mission is approaching a historic distance milestone as its team members implement creative engineering solutions to keep it going.",
+      "pubDate": "Thu, 29 Oct 2026 10:30:00 -0700",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
+    {
+      "id": "000e3cdf750cd340",
+      "title": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween",
+      "link": "https://www.space.com/stargazing/big-cats-unexplained-lights-and-a-floodlit-eclipse-7-skywatching-horror-stories-to-keep-you-entertained-this-halloween",
+      "desc": "Stargazing doesn't always go to plan, and we have the stories to prove it.",
+      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0015271b53a2af96",
+      "title": "Colliding Dwarf Planets Created a 'Cat's Tail' 1,000 Astronomical Units Long",
+      "link": "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long",
+      "desc": "The Beta Pictoris system is only about 63 light years away. At only about 23 million years old, it's a sort of analogue for our Solar System when it was much younger. Observations show an elongated dust feature named the 'Cat's Tail' that has puzzled researchers. New research says it's the result of",
+      "pubDate": "Thu, 29 Oct 2026 15:46:02 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c6d000047b790",
+      "title": "Planetary collisions may help young worlds hold on to their atmospheres",
+      "link": "https://phys.org/news/2026-10-planetary-collisions-young-worlds-atmospheres.html",
+      "desc": "A new study lets some of the air out of a long-held theory that growing, rocky planets will lose their atmosphere if they smash into a large object in space.",
+      "pubDate": "Thu, 29 Oct 2026 15:30:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00110acacbc60208",
+      "title": "Built to take the blast: Students test prototype landing pad to make moon landings safer",
+      "link": "https://phys.org/news/2026-10-built-blast-students-prototype-pad.html",
+      "desc": "As NASA works toward a sustained human presence on the moon, researchers at The University of Alabama in Huntsville (UAH), a part of The University of Alabama System, are helping solve one of the most pressing challenges facing future lunar missions: how to land spacecraft safely without damaging th",
+      "pubDate": "Thu, 29 Oct 2026 14:40:05 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00067ae8580f7067",
+      "title": "Rubin observatory reveals two hidden companions of the Milky Way",
+      "link": "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html",
+      "desc": "Preview data from the recently completed NSF-DOE Vera C. Rubin Observatory in Chile point to a wave of discoveries that may complete the census of the Milky Way's neighboring galaxies—including its faintest companions.",
+      "pubDate": "Thu, 29 Oct 2026 12:40:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0001e14a40cdff95",
+      "title": "Cosmic microwave background offers evidence of gas flowing in galaxy clusters",
+      "link": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
+      "desc": "The cosmic microwave background (CMB) is a faint glow in the universe dating back to roughly 380,000 years after the Big Bang, long before stars or galaxies emerged. Detecting this light and mapping its fluctuations provide valuable insights into the age and composition of the universe.",
+      "pubDate": "Thu, 29 Oct 2026 12:10:01 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000b6b840b465f2c",
+      "title": "Enormous 'Cat's Tail' tells of cosmic collision 63 light-years away",
+      "link": "https://phys.org/news/2026-10-enormous-cat-tail-cosmic-collision.html",
+      "desc": "Sixty-three light-years from Earth, in the small, faint constellation known as Pictor (which is Latin for \"painter\"), there lies a strange structure that has puzzled astronomers for the last two years. Nicknamed the \"Cat's Tail,\" this dark feature stretches across an abyss of space about a thousand ",
+      "pubDate": "Thu, 29 Oct 2026 11:40:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
     {
       "id": "0018934e221c139e",
       "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
@@ -61,25 +377,6 @@
       }
     },
     {
-      "id": "0011fa0c76008539",
-      "title": "Advice for optimizing the space industry with Laura Crabtree",
-      "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree",
-      "desc": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize […]\nThe post Advice for optimizing the space industry with Laura Crabtree appeared first on SpaceNews.",
-      "pubDate": "Thu, 29 Oct 2026 15:01:09 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
       "id": "000926476f05f542",
       "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
       "link": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope",
@@ -118,43 +415,6 @@
       }
     },
     {
-      "id": "0013484f2a2e3ccc",
-      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-      "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-      "desc": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknam",
-      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0100",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ESA",
-        "key": "esa",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "ESA",
-          "Europe",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0010a4e1c2d06865",
-      "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
-      "link": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
-      "desc": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
-      "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "0019c1c45752b445",
       "title": "Contractor to Civil Servant: NASA Welcomes Jared Spiers",
       "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers",
@@ -174,215 +434,12 @@
       }
     },
     {
-      "id": "00143acbbbce0d33",
-      "title": "Oct. 29, 1998: John Glenn returns to space",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-29-1998-john-glenn-returns-to-space",
-      "desc": "John Glenn became the first American to orbit Earth when he blasted off in Friendship 7 on Feb. 20, 1962. His flight made him an American hero during the heights of the Space Race, and the oldest man in space at the time of that mission. He subsequently served four six-year terms in the SenateContin",
-      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00048d7efa9250c4",
-      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
-      "desc": "SpaceX just fired up all six engines on the Starship upper stage that will conduct the vehicle's 15th test flight, potentially keeping everything on track for a launch next month.",
-      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000d7a2abc04ce67",
-      "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
-      "link": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
-      "desc": "Solar eclipse photography provides a unique vista into the processes taking place in the sun's upper atmosphere.",
-      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0009948424f3ef6c",
-      "title": "Astronomers Solve the Mystery of the Sun’s Spinning Plasma Jets",
-      "link": "https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets",
-      "desc": "The torrent of corona related discoveries keeps coming. Lately we’ve covered a variety of potential solutions to the “coronal heating problem” - why the Sun’s corona is so much hotter than its surface. Now, a paper led by a team of researchers from the University of Newcastle, Indian Institute for A",
-      "pubDate": "Thu, 29 Oct 2026 11:53:48 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00109e721881e26a",
-      "title": "Grand Theft Astro: Stars' criminal histories could reshape estimates of their internal magnetic fields",
-      "link": "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html",
-      "desc": "Magnetic fields exist in many stars, including the sun. Yet they remain too poorly understood to be reliably included in stellar evolution models, limiting their accuracy. Now, a new study by researchers at the Institute of Science and Technology Austria (ISTA), published in Astronomy & Astrophysics",
-      "pubDate": "Thu, 29 Oct 2026 11:20:16 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000163247bf3d7e7",
-      "title": "Modest gamma-ray flash followed by dazzling afterglow points to powerful stellar jet viewed off-axis",
-      "link": "https://phys.org/news/2026-10-modest-gamma-ray-dazzling-afterglow.html",
-      "desc": "A cosmic explosion that announced itself with a modest flash of gamma rays went on to produce one of the brightest afterglows astronomers have recorded in the past 20 years. An international team of astronomers now finds evidence that the surprising mismatch comes down to perspective: Earth was outs",
-      "pubDate": "Thu, 29 Oct 2026 09:40:10 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000e915d0b5f0eff",
-      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-      "desc": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves pr",
-      "pubDate": "Thu, 29 Oct 2026 08:26:25 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004de963fd63898",
-      "title": "Einstein's equations may explain the universe without dark energy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "desc": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could",
-      "pubDate": "Thu, 29 Oct 2026 08:07:58 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000da0571825e6e1",
       "title": "APOD: 29 October 2026 – The Horns of Venus",
       "link": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus",
       "desc": "APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation ",
       "pubDate": "Thu, 29 Oct 2026 04:05:00 +0000",
       "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000fa08a168fc4b5",
-      "title": "Arnab Strikes India",
-      "link": "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india",
-      "desc": "The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.",
-      "pubDate": "Thu, 29 Oct 2026 04:01:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00127bb988d56b72",
-      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
-      "link": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy",
-      "desc": "Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space explor",
-      "pubDate": "Thu, 29 Oct 2026 02:49:59 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00081773eea4e7e4",
-      "title": "NASA Welcomes Vietnam as Newest Artemis Accords Signatory",
-      "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory",
-      "desc": "The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space.   “Vietnam is joining at an important point in the development of its own space progr",
-      "pubDate": "Wed, 28 Oct 2026 21:50:01 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -738,40 +795,21 @@
       }
     },
     {
-      "id": "001390d2e5d3bbec",
-      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-      "link": "https://www.jpl.nasa.gov/news/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
-      "desc": "Deep Space Station 23 at NASA’s Goldstone facility in the California desert is the latest next-generation antenna to be added by the network’s enhancement project.",
-      "pubDate": "Tue, 25 Aug 2026 13:00:00 -0700",
-      "category": "Missions & Exploration",
+      "id": "0013484f2a2e3ccc",
+      "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
+      "link": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
+      "desc": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from Earth. The two telescopes offer complementary views of the shadowy form, nicknam",
+      "pubDate": "Thu, 29 Oct 2026 15:00:00 +0100",
+      "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
+        "name": "ESA",
+        "key": "esa",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
         "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000f1690ff87935e",
-      "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-      "link": "https://www.jpl.nasa.gov/news/nasa-mission-studies-air-pollution-over-ethiopia",
-      "desc": "What scientists are learning about tiny PM2.5 aerosols in the country’s capital also could benefit U.S. cities.",
-      "pubDate": "Mon, 17 Aug 2026 11:30:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
+          "ESA",
+          "Europe",
+          "Science"
         ]
       }
     },
@@ -1042,6 +1080,60 @@
       }
     },
     {
+      "id": "0010a4e1c2d06865",
+      "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
+      "link": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
+      "desc": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
+      "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00048d7efa9250c4",
+      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+      "desc": "SpaceX just fired up all six engines on the Starship upper stage that will conduct the vehicle's 15th test flight, potentially keeping everything on track for a launch next month.",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000d7a2abc04ce67",
+      "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
+      "link": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
+      "desc": "Solar eclipse photography provides a unique vista into the processes taking place in the sun's upper atmosphere.",
+      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "001fcc1070ff76de",
       "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission",
@@ -1240,92 +1332,20 @@
       }
     },
     {
-      "id": "0000944f4bdfccfe",
-      "title": "Astronomers discover the secrets of 'string of pearls' supernova relic and the zombie star at its heart",
-      "link": "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart",
-      "desc": "Scientists are still learning about a cosmic 'string of pearls,' a unique celestial relic left by a supernova witnessed by humanity around 850 years ago, which has a zombie star at its heart.",
-      "pubDate": "Tue, 27 Oct 2026 19:00:00 +0000",
+      "id": "0009948424f3ef6c",
+      "title": "Astronomers Solve the Mystery of the Sun’s Spinning Plasma Jets",
+      "link": "https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets",
+      "desc": "The torrent of corona related discoveries keeps coming. Lately we’ve covered a variety of potential solutions to the “coronal heating problem” - why the Sun’s corona is so much hotter than its surface. Now, a paper led by a team of researchers from the University of Newcastle, Indian Institute for A",
+      "pubDate": "Thu, 29 Oct 2026 11:53:48 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0018e0ca671e2109",
-      "title": "November full moon 2026: When, where and how to see the Beaver Moon",
-      "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
-      "desc": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
-      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001f9a9268012253",
-      "title": "Cowboy Space unveils 'Big Iron' rocket to launch 20,000 AI data centers",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers",
-      "desc": "Cowboy Space just gave us our first look at its \"Big Iron\" rocket, which the company will use to build its AI data center constellation. Big Iron's debut is targeted for late 2028.",
-      "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00099b3e6bb2ff2c",
-      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
-      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
-      "desc": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
-      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001cda51476f52f8",
-      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
-      "desc": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
-      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1636,42 +1656,6 @@
       }
     },
     {
-      "id": "001cd7dcbda0bb96",
-      "title": "A Huge and Powerful New Simulation Helps Explain the Universe's Reionization",
-      "link": "https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization",
-      "desc": "Cosmologists have another powerful simulation to work with. Lumina is the one of the largest and most detailed cosmological simulations yet and runs on the Frontier supercomputer. It's larger and more detailed than Illustris TNG.",
-      "pubDate": "Mon, 26 Oct 2026 18:39:39 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001e892f91b4f787",
-      "title": "Scientists Can Now Spot Hidden Sunspots on the Solar Far Side",
-      "link": "https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side",
-      "desc": "Unlike the Moon, the Sun is constantly rotating from our perspective - but we still only see half of it at any given time. Since it takes 27 days to complete a full rotation, that leaves plenty of time for changes to happen to the side we can’t see that could directly impact Earth’s own space weathe",
-      "pubDate": "Mon, 26 Oct 2026 18:39:31 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000e69bad774c58f",
       "title": "ISS Daily Summary Report Discontinued",
       "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
@@ -1687,6 +1671,42 @@
           "ISS",
           "NASA",
           "Station"
+        ]
+      }
+    },
+    {
+      "id": "0004de963fd63898",
+      "title": "Einstein's equations may explain the universe without dark energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
+      "desc": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could",
+      "pubDate": "Thu, 29 Oct 2026 08:07:58 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e915d0b5f0eff",
+      "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
+      "desc": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves pr",
+      "pubDate": "Thu, 29 Oct 2026 08:26:25 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -1823,24 +1843,6 @@
       "desc": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
       "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
       "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014faa5802bf4e5",
-      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-      "desc": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
-      "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "ScienceDaily Space",
         "key": "sciencedaily",
