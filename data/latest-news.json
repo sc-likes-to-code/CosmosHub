@@ -1,22 +1,96 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T03:30:48.222Z",
-  "count": 160,
+  "generatedAt": "2026-10-30T10:22:55.528Z",
+  "count": 166,
   "articles": [
     {
-      "id": "0002ca83f18b104e",
-      "title": "How You Squeeze Planetary Minerals Changes Everything",
-      "link": "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything",
-      "desc": "Studying the interiors of planets is essential for understanding planetary formation, evolution, and their ability to potentially host life as we know it. To accomplish this, researchers use a combination of Earth as an analog, computer models, meteorites, and data collected from other planetary bod",
-      "pubDate": "Fri, 30 Oct 2026 02:28:22 +0000",
+      "id": "0012ce3fd9d1f6d0",
+      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+      "link": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+      "desc": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Universe Today",
-        "key": "universe",
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00017ef844955c90",
+      "title": "The Sky Today on Friday, October 30: Mars approaches Leo",
+      "link": "https://www.astronomy.com/observing/the-sky-today-friday-october-30-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 29: Open cluster Collinder 463 Magnitude 0.8 Mars, currently tracking eastward through the sky, now stands at the border of Cancer and Leo. It is still within the bounds of the Crab this morning, roughly 60° high in",
+      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
         "badgeClass": "badge-universe",
         "cardClass": "universe",
         "tags": [
           "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001f3ee2df9c0f67",
+      "title": "The Sky This Week from October 30 to November 6: The Moon jockeys with Jupiter and Mars",
+      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-30-to-november-6-2026",
+      "desc": "Friday, October 30Take a peek over at Pisces this evening before moonrise to look for its famous Circlet asterism of stars. You can find this star pattern easiest by first finding Saturn, the brightest point of light in this part of the sky, which stands about 30° high in the southeast by 8 P.M. loc",
+      "pubDate": "Fri, 30 Oct 2026 05:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00014184b8018324",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare",
+      "desc": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
+      "pubDate": "Fri, 30 Oct 2026 04:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001a67a1c9d320b2",
+      "title": "Vega Island Frozen in Fright",
+      "link": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright",
+      "desc": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+      "pubDate": "Fri, 30 Oct 2026 04:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
           "Science"
         ]
       }
@@ -41,60 +115,6 @@
       }
     },
     {
-      "id": "0013ac2f06823262",
-      "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
-      "link": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
-      "desc": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
-      "pubDate": "Thu, 29 Oct 2026 23:49:50 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00052bb745e21283",
-      "title": "It's a Ghost! No, It's a Stellar Crèche!",
-      "link": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
-      "desc": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation among the other clouds of gas and dust. Just in time for Hallowe'en, although, it tu",
-      "pubDate": "Thu, 29 Oct 2026 23:25:37 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0000d41a53b31ae0",
-      "title": "Examining the Cat's Head Nebula with the Hubble and JWST",
-      "link": "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst",
-      "desc": "Star formation is a complicated process. It involves metallicity, gas temperature and density, dust grains, and stellar feedback from existing stars. Sometimes, studying all these factors and how they work means studying some of Nature's most beautiful structures, like the Cat's Head nebula in the C",
-      "pubDate": "Thu, 29 Oct 2026 22:38:52 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "0001752e1c7624e0",
       "title": "Halloween Aboard the International Space Station",
       "link": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station",
@@ -110,173 +130,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "00190b3361bc5900",
-      "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
-      "desc": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
-      "pubDate": "Thu, 29 Oct 2026 21:28:58 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0002b90c4c2b2234",
-      "title": "A stellar illusion",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/a-stellar-illusion",
-      "desc": "Behyar Bakhshandeh from Carlsbad, California The emission nebula IC 1318, also known as the Gamma Cygni Nebula, glows roughly 5,300 light-years away in Cygnus — far beyond Sadr, the bright supergiant star it only appears to surround. The imager spent 24 hours exposing in the Hubble palette (Hα/OIII/",
-      "pubDate": "Thu, 29 Oct 2026 21:01:42 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0002a047470deed4",
-      "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
-      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
-      "desc": "The leader of NASA's first mission around the moon in half a century is the last to announce what's next for him after retiring from active astronaut duty.",
-      "pubDate": "Thu, 29 Oct 2026 21:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0001bb86b5a700f9",
-      "title": "A Brief-ish History of METI. Part II: From Interplanetary to Interstellar",
-      "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-ii-from-interplanetary-to-interstellar",
-      "desc": "The latter half of the 20th century saw a major expansion of the Search for Extraterrestrial Intelligence (SETI), accompanied by corresponding advances in Messaging Extraterrestrial Intelligence (METI). A key development was the first interstellar SETI and METI experiments: Project Ozma and the Arec",
-      "pubDate": "Thu, 29 Oct 2026 20:22:10 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000fb7e06fe1e72f",
-      "title": "Space station experiment to probe plant disease risks for future moon and Mars missions",
-      "link": "https://phys.org/news/2026-10-space-station-probe-disease-future.html",
-      "desc": "As NASA and its partners prepare for longer human missions beyond Earth, University of Florida researchers are investigating a challenge that could affect astronauts' ability to grow fresh food in space: plant disease.",
-      "pubDate": "Thu, 29 Oct 2026 23:00:01 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001c604eed5fcaaa",
-      "title": "NASA's new UV space telescope will launch in 2031",
-      "link": "https://phys.org/news/2026-10-nasa-uv-space-telescope.html",
-      "desc": "Most of us could spend our entire lives looking at the night sky and see very few changes. The moon becomes more or less illuminated, the planets drift placidly through the sky, satellites and the ISS intrude for a few moments at a time, and the bright, momentary streak of a meteor punctuates the oc",
-      "pubDate": "Thu, 29 Oct 2026 20:40:01 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001432efced7fee6",
-      "title": "Rare 4.1-billion-year-old Martian meteorite reveals clues to planet's ancient past",
-      "link": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html",
-      "desc": "Scientists at the University of New Mexico have played a key role in identifying a rare, 4.1-billion-year-old Martian meteorite that provides new evidence that the red planet may have once had a wetter, Earth-like environment.",
-      "pubDate": "Thu, 29 Oct 2026 19:30:05 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0008fae0d41d0dd3",
-      "title": "Asteroids venturing near white dwarfs don't break directly into dust, study reveals",
-      "link": "https://phys.org/news/2026-10-asteroids-venturing-white-dwarfs-dont.html",
-      "desc": "When asteroids travel too close to white dwarfs, the dense remnants of stars that have exhausted their nuclear fuel, powerful gravitational forces can tear them apart. However, new research from Planetary Science Institute (PSI) suggests that these asteroids don't immediately break into dust. Instea",
-      "pubDate": "Thu, 29 Oct 2026 18:50:01 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0014afd992fd896d",
-      "title": "Ghostly Cat's Head Nebula lurks within sight of NASA's Hubble, Webb",
-      "link": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
-      "desc": "NASA's Hubble and James Webb Space Telescopes have captured a hauntingly dynamic star-forming scene, like a spectral form rising out of a cold mist. It lies within the vast Carina Nebula, a diffuse star-forming region located about 7,500 light-years away from Earth. The small, select area both teles",
-      "pubDate": "Thu, 29 Oct 2026 16:20:01 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     },
@@ -363,44 +216,6 @@
       "desc": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your [",
       "pubDate": "Thu, 29 Oct 2026 15:10:18 +0000",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000383a2b32b3336",
-      "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-      "link": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing",
-      "desc": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew they had crossed an inflection point. “We’ve had some unnamed companies ask if we h",
-      "pubDate": "Thu, 29 Oct 2026 15:06:40 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000926476f05f542",
-      "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
-      "link": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope",
-      "desc": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Sp",
-      "pubDate": "Thu, 29 Oct 2026 14:49:27 +0000",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -1079,6 +894,60 @@
       }
     },
     {
+      "id": "0013ac2f06823262",
+      "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+      "link": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+      "desc": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
+      "pubDate": "Thu, 29 Oct 2026 23:49:50 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00190b3361bc5900",
+      "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
+      "desc": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
+      "pubDate": "Thu, 29 Oct 2026 21:28:58 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002a047470deed4",
+      "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
+      "desc": "The leader of NASA's first mission around the moon in half a century is the last to announce what's next for him after retiring from active astronaut duty.",
+      "pubDate": "Thu, 29 Oct 2026 21:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "0007aea6eaf857fc",
       "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
       "link": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
@@ -1349,20 +1218,74 @@
       }
     },
     {
-      "id": "001254ca9b62defc",
-      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
-      "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
-      "desc": "The Vera Rubin Observatory has discovered a suspected dwarf planet beyond Neptune's orbit. If confirmed, it would be the sixth known dwarf planet in our solar system.",
-      "pubDate": "Wed, 28 Oct 2026 12:58:18 +0000",
-      "category": "Other Space Transmissions",
+      "id": "0002ca83f18b104e",
+      "title": "How You Squeeze Planetary Minerals Changes Everything",
+      "link": "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything",
+      "desc": "Studying the interiors of planets is essential for understanding planetary formation, evolution, and their ability to potentially host life as we know it. To accomplish this, researchers use a combination of Earth as an analog, computer models, meteorites, and data collected from other planetary bod",
+      "pubDate": "Fri, 30 Oct 2026 02:28:22 +0000",
+      "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
         "tags": [
-          "Space",
-          "News"
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00052bb745e21283",
+      "title": "It's a Ghost! No, It's a Stellar Crèche!",
+      "link": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
+      "desc": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation among the other clouds of gas and dust. Just in time for Hallowe'en, although, it tu",
+      "pubDate": "Thu, 29 Oct 2026 23:25:37 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0000d41a53b31ae0",
+      "title": "Examining the Cat's Head Nebula with the Hubble and JWST",
+      "link": "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst",
+      "desc": "Star formation is a complicated process. It involves metallicity, gas temperature and density, dust grains, and stellar feedback from existing stars. Sometimes, studying all these factors and how they work means studying some of Nature's most beautiful structures, like the Cat's Head nebula in the C",
+      "pubDate": "Thu, 29 Oct 2026 22:38:52 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0001bb86b5a700f9",
+      "title": "A Brief-ish History of METI. Part II: From Interplanetary to Interstellar",
+      "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-ii-from-interplanetary-to-interstellar",
+      "desc": "The latter half of the 20th century saw a major expansion of the Search for Extraterrestrial Intelligence (SETI), accompanied by corresponding advances in Messaging Extraterrestrial Intelligence (METI). A key development was the first interstellar SETI and METI experiments: Project Ozma and the Arec",
+      "pubDate": "Thu, 29 Oct 2026 20:22:10 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1655,25 +1578,6 @@
       }
     },
     {
-      "id": "000e69bad774c58f",
-      "title": "ISS Daily Summary Report Discontinued",
-      "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
-      "desc": "Beginning Monday, July 29th, the IMC Daily Summary will be discontinued. To learn more about the groundbreaking science and engineering happening daily on the International Space Station, please visit the space station blog at https://blogs.nasa.gov/spacestation/, or browse a variety of space statio",
-      "pubDate": "Sat, 27 Jul 2024 02:23:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ISS Blog",
-        "key": "iss",
-        "badgeClass": "badge-iss",
-        "cardClass": "iss",
-        "tags": [
-          "ISS",
-          "NASA",
-          "Station"
-        ]
-      }
-    },
-    {
       "id": "0004de963fd63898",
       "title": "Einstein's equations may explain the universe without dark energy",
       "link": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
@@ -1841,6 +1745,96 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
       "desc": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
       "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0014faa5802bf4e5",
+      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
+      "desc": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
+      "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000edd11e4b03573",
+      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+      "desc": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
+      "pubDate": "Thu, 22 Oct 2026 22:54:41 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0014ecbfa57d8be6",
+      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
+      "desc": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
+      "pubDate": "Thu, 22 Oct 2026 07:03:49 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00170b101d71e261",
+      "title": "A train was delayed by a solar storm. But something didn't add up.",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+      "desc": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, an",
+      "pubDate": "Wed, 21 Oct 2026 08:35:57 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0008a0aa8640665c",
+      "title": "Astronauts’ hearts just passed a surprising test for Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+      "desc": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
+      "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
       "category": "Research & Science",
       "source": {
         "name": "ScienceDaily Space",

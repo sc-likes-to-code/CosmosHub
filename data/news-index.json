@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-30T03:30:47.486Z",
-  "lastRunId": "run-1793331045637-lzzqut",
+  "lastUpdated": "2026-10-30T10:22:54.915Z",
+  "lastRunId": "run-1793355773042-hzv3nl",
   "stats": {
-    "totalStories": 464,
-    "lastRunAdded": 15
+    "totalStories": 469,
+    "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b5937025bf4b2ae3854124dce2c7c918\"",
-    "https://www.universetoday.com/feed": "W/\"6ae40536-77ea\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c9567505b898ac98963dcfbef65a5dd0\"",
+    "https://www.universetoday.com/feed": "W/\"6ae46738-77ea\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"b5937025bf4b2ae3854124dce2c7c918\"",
-    "http://arxiv.org/rss/astro-ph": "fefae73a4e8c7cac2445a9bba9a8a11a90d48b1474f9b978d7a809621b3d4b45",
-    "https://spacenews.com/feed/": "W/\"d89416c7a6131f6438ec97d3a45cabf8\"",
-    "https://www.astronomy.com/feed/": "W/\"e3cb515f4324e2edbd1b2c9efc834e8d\"",
-    "https://spacepolicyonline.com/feed/": "\"e9a063482831eade1f3f8c892e632953\""
+    "http://arxiv.org/rss/astro-ph": "6f30ed8d37951ec92b7f656783c5bec604186924f43be5937a4943d939927e89",
+    "https://spacenews.com/feed/": "W/\"d1786e0877a69046e036bba566826f10\"",
+    "https://www.astronomy.com/feed/": "W/\"91963853caaef15e8c0bd5ff96f1fd07\"",
+    "https://spacepolicyonline.com/feed/": "\"9ee1980fd652978f064712ed164e64c7\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -5583,6 +5583,66 @@
       "archivedDate": "2026-10-30",
       "collection": "morning",
       "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0012ce3fd9d1f6d0": {
+      "id": "0012ce3fd9d1f6d0",
+      "canonicalUrl": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T10:22:54.915Z"
+    },
+    "00017ef844955c90": {
+      "id": "00017ef844955c90",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-friday-october-30-2026",
+      "title": "The Sky Today on Friday, October 30: Mars approaches Leo",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T10:22:54.915Z"
+    },
+    "001f3ee2df9c0f67": {
+      "id": "001f3ee2df9c0f67",
+      "canonicalUrl": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-30-to-november-6-2026",
+      "title": "The Sky This Week from October 30 to November 6: The Moon jockeys with Jupiter and Mars",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 05:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T10:22:54.915Z"
+    },
+    "00014184b8018324": {
+      "id": "00014184b8018324",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 04:05:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T10:22:54.915Z"
+    },
+    "001a67a1c9d320b2": {
+      "id": "001a67a1c9d320b2",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright",
+      "title": "Vega Island Frozen in Fright",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 04:01:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T10:22:54.915Z"
     }
   }
 }
