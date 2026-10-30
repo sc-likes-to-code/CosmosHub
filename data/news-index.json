@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-30T10:22:54.915Z",
-  "lastRunId": "run-1793355773042-hzv3nl",
+  "lastUpdated": "2026-10-30T15:30:57.919Z",
+  "lastRunId": "run-1793374256034-0oydes",
   "stats": {
-    "totalStories": 469,
-    "lastRunAdded": 5
+    "totalStories": 485,
+    "lastRunAdded": 16
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"c9567505b898ac98963dcfbef65a5dd0\"",
-    "https://www.universetoday.com/feed": "W/\"6ae46738-77ea\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b5937025bf4b2ae3854124dce2c7c918\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"9202e6c3a666aeeaf4664c341150c37b\"",
+    "https://www.universetoday.com/feed": "W/\"6ae4adfb-77ea\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"226252aba2f2d2a06de42454806f49b9\"",
     "http://arxiv.org/rss/astro-ph": "6f30ed8d37951ec92b7f656783c5bec604186924f43be5937a4943d939927e89",
-    "https://spacenews.com/feed/": "W/\"d1786e0877a69046e036bba566826f10\"",
-    "https://www.astronomy.com/feed/": "W/\"91963853caaef15e8c0bd5ff96f1fd07\"",
+    "https://spacenews.com/feed/": "W/\"0cf643e86ece0f965fc1ef697e56db70\"",
+    "https://www.astronomy.com/feed/": "W/\"11bdb3abe010b3a4b043b1c3dc447d7a\"",
     "https://spacepolicyonline.com/feed/": "\"9ee1980fd652978f064712ed164e64c7\""
   },
   "articles": {
@@ -5643,6 +5643,198 @@
       "archivedDate": "2026-10-30",
       "collection": "morning",
       "archivedAt": "2026-10-30T10:22:54.915Z"
+    },
+    "001d927c7fbef3d8": {
+      "id": "001d927c7fbef3d8",
+      "canonicalUrl": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
+      "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "001535febf70da3a": {
+      "id": "001535febf70da3a",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026",
+      "title": "On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 30 Oct 2026 14:46:35 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "001f30f53ca41015": {
+      "id": "001f30f53ca41015",
+      "canonicalUrl": "https://www.astronomy.com/science/rubin-spots-possible-dwarf-planet",
+      "title": "Rubin spots possible dwarf planet",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 14:28:22 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "001f2dee3bdb79e7": {
+      "id": "001f2dee3bdb79e7",
+      "canonicalUrl": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
+      "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "00172188fc3b6a7c": {
+      "id": "00172188fc3b6a7c",
+      "canonicalUrl": "https://www.universetoday.com/articles/earths-impenetrable-space-radiation-shield-was-just-breached-from-within",
+      "title": "Earth’s “Impenetrable” Space Radiation Shield Was Just Breached From Within",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 12:34:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "00188a916e8a7fd8": {
+      "id": "00188a916e8a7fd8",
+      "canonicalUrl": "https://www.space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
+      "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "0005e05db987bc82": {
+      "id": "0005e05db987bc82",
+      "canonicalUrl": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
+      "title": "Look up! China's mysterious space plane is visible over the US this week",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 30 Oct 2026 11:45:42 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "0015b7bdb0698856": {
+      "id": "0015b7bdb0698856",
+      "canonicalUrl": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "00143aa9eaa0f74a": {
+      "id": "00143aa9eaa0f74a",
+      "canonicalUrl": "https://phys.org/news/2026-10-nasa-voyager-power-communications.html",
+      "title": "NASA's Voyager 1 conserves power, resolves brief communications pause",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 10:20:10 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "001185d74cc81b49": {
+      "id": "001185d74cc81b49",
+      "canonicalUrl": "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html",
+      "title": "JWST reveals a distant galaxy that may let most of its ionizing radiation escape",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 09:40:14 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "000c3b7950cb3b41": {
+      "id": "000c3b7950cb3b41",
+      "canonicalUrl": "https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html",
+      "title": "NASA's TRACERS first results offer peek into violent magnetic process",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 30 Oct 2026 09:40:05 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "0003fcba6234516a": {
+      "id": "0003fcba6234516a",
+      "canonicalUrl": "https://phys.org/news/2026-10-extraterrestrial-firefly-communications-distinguish-alien.html",
+      "title": "Extraterrestrial detection inspired by firefly communications could distinguish alien signals from pulsars",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 08:50:02 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "00082ddda469305b": {
+      "id": "00082ddda469305b",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+      "title": "Physicists created a tiny universe and watched time emerge without a clock",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 07:42:36 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "00020b8377e3e1d0": {
+      "id": "00020b8377e3e1d0",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 06:50:22 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "001614e51937fc1a": {
+      "id": "001614e51937fc1a",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+      "title": "Astronauts just gave the International Space Station a powerful upgrade",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 30 Oct 2026 02:12:55 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
+    },
+    "0009f8718e1e753e": {
+      "id": "0009f8718e1e753e",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
+      "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 23:17:17 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "evening",
+      "archivedAt": "2026-10-30T15:30:57.919Z"
     }
   }
 }

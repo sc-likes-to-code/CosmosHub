@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T10:22:55.528Z",
-  "count": 166,
+  "generatedAt": "2026-10-30T15:30:58.653Z",
+  "count": 159,
   "articles": [
     {
-      "id": "0012ce3fd9d1f6d0",
-      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-      "link": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
-      "desc": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
-      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "id": "001d927c7fbef3d8",
+      "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
+      "link": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
+      "desc": "'Rest well, my dear friend. Keep navigating a steady course.'",
+      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Space.com",
@@ -22,11 +22,29 @@
       }
     },
     {
-      "id": "00017ef844955c90",
-      "title": "The Sky Today on Friday, October 30: Mars approaches Leo",
-      "link": "https://www.astronomy.com/observing/the-sky-today-friday-october-30-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 29: Open cluster Collinder 463 Magnitude 0.8 Mars, currently tracking eastward through the sky, now stands at the border of Cancer and Leo. It is still within the bounds of the Crab this morning, roughly 60° high in",
-      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "id": "001535febf70da3a",
+      "title": "On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026",
+      "desc": "On October 30, 1964, NASA's Lunar Landing Research Vehicle, or LLRV, took to the skies for the first time. Here's why it mattered.",
+      "pubDate": "Fri, 30 Oct 2026 14:46:35 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001f30f53ca41015",
+      "title": "Rubin spots possible dwarf planet",
+      "link": "https://www.astronomy.com/science/rubin-spots-possible-dwarf-planet",
+      "desc": "The Vera C. Rubin Observatory may have found its first dwarf planet. Orbiting beyond Pluto, the object may also be one of the brightest and biggest in that stretch of the solar system. Matthew Holman, a Rubin operations team member and senior astrophysicist at the Center for Astrophysics | Harvard &",
+      "pubDate": "Fri, 30 Oct 2026 14:28:22 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
@@ -40,19 +58,240 @@
       }
     },
     {
-      "id": "001f3ee2df9c0f67",
-      "title": "The Sky This Week from October 30 to November 6: The Moon jockeys with Jupiter and Mars",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-30-to-november-6-2026",
-      "desc": "Friday, October 30Take a peek over at Pisces this evening before moonrise to look for its famous Circlet asterism of stars. You can find this star pattern easiest by first finding Saturn, the brightest point of light in this part of the sky, which stands about 30° high in the southeast by 8 P.M. loc",
-      "pubDate": "Fri, 30 Oct 2026 05:00:00 +0000",
+      "id": "001f2dee3bdb79e7",
+      "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
+      "link": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
+      "desc": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos.",
+      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00172188fc3b6a7c",
+      "title": "Earth’s “Impenetrable” Space Radiation Shield Was Just Breached From Within",
+      "link": "https://www.universetoday.com/articles/earths-impenetrable-space-radiation-shield-was-just-breached-from-within",
+      "desc": "Remember the big solar storm back in May 2024? The one that caused auroras as far south as Florida and Mexico? Scientists are still parsing out the impacts that storm had on the local environment, and a new paper published in Geophysical Research Letters by Yoshizumi Miyoshi of Nagoya University and",
+      "pubDate": "Fri, 30 Oct 2026 12:34:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
         "badgeClass": "badge-universe",
         "cardClass": "universe",
         "tags": [
           "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00188a916e8a7fd8",
+      "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
+      "desc": "Virgin Galactic's first \"Delta-class\" space plane, the newly named Apeiron, lifted off for the first time on Thursday (Oct. 29) —beneath the wings of its carrier aircraft.",
+      "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0005e05db987bc82",
+      "title": "Look up! China's mysterious space plane is visible over the US this week",
+      "link": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
+      "desc": "Early risers across the U.S. could catch a glimpse of China's mysterious Shenlong spacecraft with the naked eye.",
+      "pubDate": "Fri, 30 Oct 2026 11:45:42 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0015b7bdb0698856",
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "link": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
+      "desc": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views o",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00143aa9eaa0f74a",
+      "title": "NASA's Voyager 1 conserves power, resolves brief communications pause",
+      "link": "https://phys.org/news/2026-10-nasa-voyager-power-communications.html",
+      "desc": "NASA's Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft's diminishing power supply. Then, on Oct. 20, an unexpected loss of communication with the spacecraft resolved itself aft",
+      "pubDate": "Fri, 30 Oct 2026 10:20:10 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001185d74cc81b49",
+      "title": "JWST reveals a distant galaxy that may let most of its ionizing radiation escape",
+      "link": "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html",
+      "desc": "Astronomers using the James Webb Space Telescope (JWST) have found evidence that a distant, exceptionally blue galaxy may allow most of its ionizing radiation to escape into space. Known as EBG-1, the gravitationally lensed galaxy is seen at a redshift of 9.244, about 530 million years after the Big",
+      "pubDate": "Fri, 30 Oct 2026 09:40:14 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000c3b7950cb3b41",
+      "title": "NASA's TRACERS first results offer peek into violent magnetic process",
+      "link": "https://phys.org/news/2026-10-nasa-tracers-results-peek-violent.html",
+      "desc": "NASA's TRACERS (Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites) mission has gathered its first clues to how space weather affects Earth's magnetic field. In a new paper published in the Journal of Geophysical Research: Space Physics, researchers break down how these interacti",
+      "pubDate": "Fri, 30 Oct 2026 09:40:05 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0003fcba6234516a",
+      "title": "Extraterrestrial detection inspired by firefly communications could distinguish alien signals from pulsars",
+      "link": "https://phys.org/news/2026-10-extraterrestrial-firefly-communications-distinguish-alien.html",
+      "desc": "When we think of extraterrestrial intelligence that might be out there among the stars, we tend to think of creatures not too unlike us, though maybe with gray skin, probably bald and with big black eyes. We focus on the familiar, humanoids. But there are many intelligent species on Earth that are n",
+      "pubDate": "Fri, 30 Oct 2026 08:50:02 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00082ddda469305b",
+      "title": "Physicists created a tiny universe and watched time emerge without a clock",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+      "desc": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated quantum system that repeatedly expands and c",
+      "pubDate": "Fri, 30 Oct 2026 07:42:36 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00020b8377e3e1d0",
+      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+      "desc": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and ",
+      "pubDate": "Fri, 30 Oct 2026 06:50:22 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001614e51937fc1a",
+      "title": "Astronauts just gave the International Space Station a powerful upgrade",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+      "desc": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical o",
+      "pubDate": "Fri, 30 Oct 2026 02:12:55 EDT",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0009f8718e1e753e",
+      "title": "A mysterious star system just 16 light-years away may be hiding habitable planets",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261028232711.htm",
+      "desc": "Astronomers have solved a 170-year-old planetary mystery in a nearby two-star system, discovering that a mysterious wobble was caused by stellar activity rather than a giant planet. Although Jupiter-sized worlds have been ruled out in key regions, smaller, potentially habitable planets could still b",
+      "pubDate": "Thu, 29 Oct 2026 23:17:17 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -197,25 +436,6 @@
       "desc": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]",
       "pubDate": "Thu, 29 Oct 2026 15:21:23 +0000",
       "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001ca4531b971d41",
-      "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-      "link": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission",
-      "desc": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world.   To have your [",
-      "pubDate": "Thu, 29 Oct 2026 15:10:18 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "NASA",
         "key": "nasa",
@@ -894,6 +1114,24 @@
       }
     },
     {
+      "id": "0012ce3fd9d1f6d0",
+      "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+      "link": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+      "desc": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "0013ac2f06823262",
       "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
       "link": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
@@ -1134,78 +1372,6 @@
       "desc": "Confined inside a research station 22 feet (7 meters) underwater, Analog Astronaut Commander Dr. Musilova and her crew performed research and maintenance activities like future astronauts on Mars.",
       "pubDate": "Wed, 28 Oct 2026 21:00:00 +0000",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0015fc592daf2598",
-      "title": "ISS astronaut will conduct Canada's 1st spacewalk in 7 years on Oct. 29: Watch it live",
-      "link": "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live",
-      "desc": "Joshua Kutryk will venture outside the International Space Station on Oct. 29, on the first spacewalk by a Canadian astronaut in more than seven years. Here's how to watch it live.",
-      "pubDate": "Wed, 28 Oct 2026 20:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0013444a1edf7150",
-      "title": "Meet Apeiron, Virgin Galactic's 1st 'Delta-class' space plane",
-      "link": "https://www.space.com/space-exploration/private-spaceflight/meet-apeiron-virgin-galactics-1st-delta-class-space-plane",
-      "desc": "Virgin Galactic has officially unveiled its first \"Delta-class\" space plane, and announced the results of the worldwide vote to choose its name.",
-      "pubDate": "Wed, 28 Oct 2026 19:28:10 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0015807a05894dd6",
-      "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
-      "desc": "A U.S. military intelligence agency has released an incredible new photograph of China's secretive space plane, showing it docked to another spacecraft in orbit.",
-      "pubDate": "Wed, 28 Oct 2026 15:50:04 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001dd5ac1c612ea2",
-      "title": "The final ‘Dune: Part Three’ trailer reignites war on Arrakis and leaves us with more questions than answers",
-      "link": "https://www.space.com/entertainment/space-movies-shows/the-final-dune-part-three-trailer-reignites-war-on-arrakis-and-leaves-us-with-more-questions-than-answers",
-      "desc": "The spoilerific final look at Denis Villeneuve's third and final sci-fi epic is loaded with action and drama that set it apart from Dune: Messiah's pages.",
-      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "category": "Other Space Transmissions",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",
@@ -1560,20 +1726,21 @@
       }
     },
     {
-      "id": "000360484221cf58",
-      "title": "This Oddbal Reflective Lava World is Challenging to Understand",
-      "link": "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand",
-      "desc": "Exoplanets extremely close to their stars are expected to have lost their atmospheres. But one of them, TOI-561 b, seems to have a thick atmosphere. Understanding how this super-Earth has an atmosphere is challenging.",
-      "pubDate": "Tue, 27 Oct 2026 16:02:28 +0000",
-      "category": "Astronomy & Astrophysics",
+      "id": "000e69bad774c58f",
+      "title": "ISS Daily Summary Report Discontinued",
+      "link": "https://www.nasa.gov/blogs/stationreport/2024/07/26/iss-daily-summary-report-discontinued",
+      "desc": "Beginning Monday, July 29th, the IMC Daily Summary will be discontinued. To learn more about the groundbreaking science and engineering happening daily on the International Space Station, please visit the space station blog at https://blogs.nasa.gov/spacestation/, or browse a variety of space statio",
+      "pubDate": "Sat, 27 Jul 2024 02:23:00 +0000",
+      "category": "Missions & Exploration",
       "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
+        "name": "ISS Blog",
+        "key": "iss",
+        "badgeClass": "badge-iss",
+        "cardClass": "iss",
         "tags": [
-          "Astronomy",
-          "Science"
+          "ISS",
+          "NASA",
+          "Station"
         ]
       }
     },
@@ -1673,168 +1840,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
       "desc": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark ma",
       "pubDate": "Tue, 27 Oct 2026 05:48:35 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0015309b23eceb33",
-      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
-      "desc": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 7",
-      "pubDate": "Mon, 26 Oct 2026 07:06:08 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00113a533e1e7a11",
-      "title": "Three giant black holes discovered in a galaxy from the dawn of time",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-      "desc": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lu",
-      "pubDate": "Sun, 25 Oct 2026 08:07:01 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004160efeb634c9",
-      "title": "Astronomers may have discovered the first moon beyond our Solar System",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "desc": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
-      "pubDate": "Sat, 24 Oct 2026 23:13:05 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0005f297676496ca",
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "desc": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014faa5802bf4e5",
-      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-      "desc": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
-      "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000edd11e4b03573",
-      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-      "desc": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
-      "pubDate": "Thu, 22 Oct 2026 22:54:41 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014ecbfa57d8be6",
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-      "desc": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-      "pubDate": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00170b101d71e261",
-      "title": "A train was delayed by a solar storm. But something didn't add up.",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-      "desc": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, an",
-      "pubDate": "Wed, 21 Oct 2026 08:35:57 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0008a0aa8640665c",
-      "title": "Astronauts’ hearts just passed a surprising test for Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-      "desc": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without m",
-      "pubDate": "Wed, 21 Oct 2026 07:59:14 EDT",
       "category": "Research & Science",
       "source": {
         "name": "ScienceDaily Space",
