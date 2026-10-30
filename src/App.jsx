@@ -9,8 +9,10 @@ import MissionsView from './views/MissionsView'
 import Modal from './components/Modal'
 import Onboarding from './components/Onboarding'
 import AlertToast from './components/AlertToast'
+import InstallPromptModal from './components/InstallPromptModal'
 import { getPrefs, hasSeenOnboarding } from './utils/personalization'
 import { useAlerts } from './utils/alerts'
+import { usePWA } from './utils/usePWA'
 import './styles/global.css'
 
 export default function App() {
@@ -22,6 +24,14 @@ export default function App() {
   const [statusText, setStatusText] = useState('Initializing...')
   const [prefs, setPrefs] = useState(getPrefs())
   const { toasts, notifyOn, toggleNotify } = useAlerts()
+  const {
+    canInstall,
+    isInstalled,
+    isIOS,
+    showIOSPrompt,
+    setShowIOSPrompt,
+    promptInstall,
+  } = usePWA()
   const isInitialMount = useRef(true)
 
   useLayoutEffect(() => {
@@ -62,7 +72,13 @@ export default function App() {
 
   return (
     <div id="cosmos-root">
-      <Header statusText={statusText} notifyOn={notifyOn} toggleNotify={toggleNotify} />
+      <Header
+        statusText={statusText}
+        notifyOn={notifyOn}
+        toggleNotify={toggleNotify}
+        canInstall={canInstall}
+        onInstallClick={promptInstall}
+      />
       <Ticker articles={articles} />
       <NavTabs activeTab={activeTab} setActiveTab={setActiveTab} />
 
@@ -95,6 +111,15 @@ export default function App() {
       )}
 
       <AlertToast toasts={toasts} />
+
+      <InstallPromptModal
+        canInstall={canInstall}
+        isInstalled={isInstalled}
+        isIOS={isIOS}
+        showIOSPrompt={showIOSPrompt}
+        setShowIOSPrompt={setShowIOSPrompt}
+        promptInstall={promptInstall}
+      />
     </div>
   )
 }

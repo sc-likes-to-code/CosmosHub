@@ -27,6 +27,10 @@
   position: relative;
   overflow-x: hidden;
   isolation: isolate;
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
 }
 #cosmos-root::before,
 #cosmos-root::after {
@@ -74,47 +78,37 @@
     radial-gradient(ellipse at 80% 50%, rgba(167,139,250,0.06), transparent 60%);
   pointer-events: none;
 }
-.cosmos-brand        { display: flex; align-items: center; gap: .75rem; animation: fadeInLeft .45s ease .08s both; }
-.cosmos-logo {
-  width: 36px; height: 36px;
-  background: radial-gradient(circle at 40% 40%, #63b3ed, #553c9a);
-  border-radius: 50%;
-  display: flex; align-items: center; justify-content: center;
-  font-size: 17px;
-  box-shadow: 0 0 16px rgba(99,179,237,0.3);
-  flex-shrink: 0;
+/* ── Brand Logo & Orbital Animations ── */
+.cosmos-brand { display: flex; align-items: center; gap: .75rem; animation: fadeInLeft .45s ease .08s both; }
+.cosmos-logo-wrapper {
   position: relative;
-  animation: floatOrbit 4.4s ease-in-out infinite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
 }
-.cosmos-logo::after {
-  content: '';
-  position: absolute;
-  inset: -5px;
-  border: 1px solid rgba(99,179,237,0.32);
-  border-radius: 50%;
-  animation: ringSpin 6s linear infinite;
+.cosmos-logo-wrapper:hover {
+  transform: scale(1.08);
 }
-.cosmos-brand-text {
-  font-family: 'Orbitron', monospace;
-  font-size: 1.2rem; font-weight: 700;
-  background: linear-gradient(90deg, #63b3ed, #a78bfa);
-  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-  background-clip: text; letter-spacing: .05em;
+.cosmos-logo-svg {
+  filter: drop-shadow(0 0 10px rgba(99, 179, 237, 0.45));
 }
-.cosmos-brand-sub {
-  font-size: 10px; color: var(--muted);
-  margin-top: 1px; letter-spacing: .08em; text-transform: uppercase;
+.cosmos-logo-svg .cosmos-orbit-primary {
+  transform-origin: 256px 256px;
+  animation: orbitPulse 8s ease-in-out infinite alternate;
 }
-.header-right        { display: flex; align-items: center; gap: 1rem; animation: fadeInRight .45s ease .12s both; }
-.status-pill         { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--muted); }
-.status-dot {
-  width: 7px; height: 7px; border-radius: 50%;
-  background: var(--green);
-  animation: pulsedot 2s infinite;
+.cosmos-logo-svg .cosmos-orbit-secondary {
+  transform-origin: 256px 256px;
+  animation: orbitPulseRev 10s ease-in-out infinite alternate;
 }
-@keyframes pulsedot {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50%       { opacity: .5; transform: scale(.8); }
+@keyframes orbitPulse {
+  0% { transform: rotate(-32deg) scale(0.98); }
+  100% { transform: rotate(-26deg) scale(1.02); }
+}
+@keyframes orbitPulseRev {
+  0% { transform: rotate(38deg) scale(1.02); }
+  100% { transform: rotate(32deg) scale(0.98); }
 }
 .notify-btn {
   padding: 5px 12px; border-radius: 20px;
@@ -127,6 +121,34 @@
 }
 .notify-btn:hover   { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); box-shadow: 0 6px 16px rgba(99,179,237,0.14); }
 .notify-btn.active  { border-color: var(--gold); color: var(--gold); background: rgba(246,224,94,0.08); }
+
+.install-header-btn {
+  padding: 5px 12px;
+  border-radius: 20px;
+  border: 1px solid rgba(99, 179, 237, 0.35);
+  background: linear-gradient(135deg, rgba(99, 179, 237, 0.14), rgba(167, 139, 250, 0.12));
+  color: #7dd3fc;
+  font-size: 11px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: 'DM Sans', sans-serif;
+  transition: all .25s ease;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  box-shadow: 0 0 10px rgba(99, 179, 237, 0.15);
+}
+.install-header-btn:hover {
+  border-color: #38bdf8;
+  color: #ffffff;
+  background: linear-gradient(135deg, rgba(99, 179, 237, 0.28), rgba(167, 139, 250, 0.22));
+  transform: translateY(-1px);
+  box-shadow: 0 0 16px rgba(99, 179, 237, 0.35);
+}
+.install-header-btn .install-icon {
+  font-size: 11px;
+  font-weight: bold;
+}
 
 /* ── Ticker ─────────────────────────────────────────── */
 .ticker {
@@ -523,4 +545,183 @@
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}
+/* ── PWA Installation Banner & iOS Modal ── */
+.install-toast-banner {
+  position: fixed;
+  bottom: max(1.25rem, calc(env(safe-area-inset-bottom) + 0.5rem));
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(640px, calc(100vw - 2rem));
+  background: rgba(10, 17, 32, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(99, 179, 237, 0.3);
+  border-radius: 14px;
+  padding: 12px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.7), 0 0 24px rgba(99, 179, 237, 0.16);
+  z-index: 10000;
+  animation: slideToastUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+@keyframes slideToastUp {
+  from { opacity: 0; transform: translate(-50%, 28px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+.install-toast-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+.install-toast-text {
+  min-width: 0;
+}
+.install-toast-title {
+  font-family: 'Orbitron', monospace, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #f1f5f9;
+  letter-spacing: 0.04em;
+}
+.install-toast-desc {
+  font-size: 11px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-top: 2px;
+}
+.install-toast-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+.install-action-btn {
+  padding: 7px 16px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: 'DM Sans', sans-serif;
+  border: none;
+}
+.install-action-btn.primary {
+  background: linear-gradient(135deg, #38bdf8, #818cf8);
+  color: #04080f;
+  box-shadow: 0 0 14px rgba(56, 189, 248, 0.4);
+}
+.install-action-btn.primary:hover {
+  background: linear-gradient(135deg, #7dd3fc, #a78bfa);
+  transform: translateY(-1px);
+  box-shadow: 0 0 18px rgba(99, 179, 237, 0.55);
+}
+.install-action-btn.secondary {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--muted);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.install-action-btn.secondary:hover {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* iOS Specific Modal */
+.install-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(4, 8, 15, 0.85);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10001;
+  padding: 1rem;
+}
+.install-modal-card {
+  width: min(440px, 100%);
+  background: #0a1120;
+  border: 1px solid rgba(99, 179, 237, 0.3);
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8), 0 0 25px rgba(99, 179, 237, 0.15);
+  animation: modalScaleIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+@keyframes modalScaleIn {
+  from { opacity: 0; transform: scale(0.94); }
+  to { opacity: 1; transform: scale(1); }
+}
+.install-modal-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+.install-modal-titles {
+  flex: 1;
+}
+.install-modal-titles h3 {
+  font-family: 'Orbitron', monospace;
+  font-size: 15px;
+  color: #fff;
+  letter-spacing: 0.03em;
+}
+.install-modal-titles p {
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+}
+.install-close-btn {
+  background: transparent;
+  border: none;
+  color: var(--muted);
+  font-size: 16px;
+  cursor: pointer;
+  padding: 4px 8px;
+}
+.install-close-btn:hover {
+  color: #fff;
+}
+.ios-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 22px;
+}
+.ios-step-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #cbd5e1;
+}
+.step-num {
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: rgba(99, 179, 237, 0.15);
+  color: #38bdf8;
+  border: 1px solid rgba(99, 179, 237, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: bold;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+.ios-icon-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  margin-left: 6px;
+  font-size: 13px;
 }

@@ -2,28 +2,202 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="description" content="CosmosHub — Verified intelligent space news aggregator covering NASA, ISRO, ESA, JAXA and more." />
+    
+    <!-- PWA & Mobile Web App Meta -->
+    <meta name="theme-color" content="#04080f" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="CosmosHub" />
+    <meta name="application-name" content="CosmosHub" />
+
+    <!-- Favicons & App Icons -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+
     <title>CosmosHub | Global Space Intelligence Platform</title>
+    
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+    
     <style>
       *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-      html, body, #root { height: 100%; }
-      body {
+      html, body, #root {
+        height: 100%;
         background: #04080f;
+      }
+      body {
         color: #e2e8f0;
         font-family: 'DM Sans', sans-serif;
         -webkit-font-smoothing: antialiased;
+        overscroll-behavior-y: contain;
       }
       ::-webkit-scrollbar { width: 6px; }
       ::-webkit-scrollbar-track { background: #0a1120; }
       ::-webkit-scrollbar-thumb { background: rgba(99,179,237,0.25); border-radius: 3px; }
+
+      /* ── Instant Cold-Start Splash Animation (Mobile & Web) ── */
+      .cosmos-splash-screen {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: radial-gradient(circle at 50% 45%, #0d1a38 0%, #060b18 55%, #04080f 100%);
+        z-index: 99999;
+        overflow: hidden;
+      }
+      .cosmos-splash-stars {
+        position: absolute;
+        inset: 0;
+        background-image:
+          radial-gradient(1px 1px at 25px 35px, #fff, rgba(0,0,0,0)),
+          radial-gradient(1.5px 1.5px at 150px 80px, #7dd3fc, rgba(0,0,0,0)),
+          radial-gradient(1px 1px at 220px 300px, #a78bfa, rgba(0,0,0,0)),
+          radial-gradient(2px 2px at 380px 180px, #fff, rgba(0,0,0,0)),
+          radial-gradient(1px 1px at 310px 420px, #38bdf8, rgba(0,0,0,0));
+        background-repeat: repeat;
+        background-size: 450px 450px;
+        opacity: 0.45;
+        animation: starDrift 60s linear infinite;
+      }
+      .cosmos-splash-emblem {
+        position: relative;
+        width: 120px;
+        height: 120px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 24px;
+      }
+      .cosmos-splash-ring {
+        position: absolute;
+        inset: -14px;
+        border-radius: 50%;
+        border: 2px dashed rgba(99, 179, 237, 0.4);
+        animation: ringSpin 12s linear infinite;
+      }
+      .cosmos-splash-ring-outer {
+        position: absolute;
+        inset: -28px;
+        border-radius: 50%;
+        border: 1px solid rgba(167, 139, 250, 0.2);
+        animation: ringSpinRev 18s linear infinite;
+      }
+      .cosmos-splash-pulse-glow {
+        position: absolute;
+        width: 140px;
+        height: 140px;
+        border-radius: 50%;
+        background: radial-gradient(circle, rgba(99, 179, 237, 0.3) 0%, rgba(167, 139, 250, 0.15) 50%, transparent 70%);
+        animation: coreBreath 2.6s ease-in-out infinite alternate;
+      }
+      .cosmos-splash-logo-img {
+        width: 96px;
+        height: 96px;
+        z-index: 2;
+        filter: drop-shadow(0 0 16px rgba(99, 179, 237, 0.6));
+      }
+      .cosmos-splash-title {
+        font-family: 'Orbitron', monospace, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        background: linear-gradient(135deg, #ffffff 20%, #7dd3fc 60%, #c084fc 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-bottom: 8px;
+        z-index: 2;
+      }
+      .cosmos-splash-sub {
+        font-family: 'Orbitron', monospace, sans-serif;
+        font-size: 11px;
+        letter-spacing: 0.16em;
+        color: #7dd3fc;
+        opacity: 0.85;
+        margin-bottom: 28px;
+        z-index: 2;
+        text-transform: uppercase;
+      }
+      .cosmos-splash-progress-track {
+        position: relative;
+        width: 220px;
+        height: 3px;
+        background: rgba(99, 179, 237, 0.15);
+        border-radius: 3px;
+        overflow: hidden;
+        z-index: 2;
+      }
+      .cosmos-splash-progress-bar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 40%;
+        background: linear-gradient(90deg, #63b3ed, #a78bfa, #ffffff);
+        border-radius: 3px;
+        box-shadow: 0 0 10px #63b3ed;
+        animation: progressSlide 1.8s ease-in-out infinite;
+      }
+      .cosmos-splash-status {
+        margin-top: 14px;
+        font-family: 'DM Sans', sans-serif;
+        font-size: 11px;
+        letter-spacing: 0.12em;
+        color: #94a3b8;
+        z-index: 2;
+      }
+
+      @keyframes ringSpin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes ringSpinRev {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes coreBreath {
+        0% { transform: scale(0.92); opacity: 0.4; }
+        100% { transform: scale(1.15); opacity: 0.85; }
+      }
+      @keyframes progressSlide {
+        0% { left: -40%; width: 30%; }
+        50% { left: 35%; width: 50%; }
+        100% { left: 100%; width: 30%; }
+      }
+      @keyframes starDrift {
+        from { background-position: 0 0; }
+        to { background-position: 450px 900px; }
+      }
     </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- 0ms Instant Native Launch Screen -->
+      <div class="cosmos-splash-screen" id="cosmos-launch-splash">
+        <div class="cosmos-splash-stars"></div>
+        <div class="cosmos-splash-emblem">
+          <div class="cosmos-splash-pulse-glow"></div>
+          <div class="cosmos-splash-ring-outer"></div>
+          <div class="cosmos-splash-ring"></div>
+          <img src="/logo-mark.svg" alt="CosmosHub" class="cosmos-splash-logo-img" />
+        </div>
+        <div class="cosmos-splash-title">COSMOSHUB</div>
+        <div class="cosmos-splash-sub">Global Space Intelligence</div>
+        <div class="cosmos-splash-progress-track">
+          <div class="cosmos-splash-progress-bar"></div>
+        </div>
+        <div class="cosmos-splash-status">CALIBRATING ORBITAL TELEMETRY...</div>
+      </div>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

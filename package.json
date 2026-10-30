@@ -29,6 +29,9 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
     "concurrently": "^8.2.1",
-    "vite": "^5.4.2"
+    "sharp": "^0.35.5",
+    "vite": "^5.4.2",
+    "vite-plugin-pwa": "^2.0.0",
+    "workbox-window": "^7.4.1"
   }
 }
