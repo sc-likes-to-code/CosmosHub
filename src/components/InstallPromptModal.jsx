@@ -15,12 +15,10 @@ export default function InstallPromptModal({
 
   const { isIOS, isAndroid, isMacSafari } = platformInfo || {}
 
-  useEffect(() => {
-    // Clear any previous dismissal so the bottom banner is always available to the user
-    try {
-      sessionStorage.removeItem('cosmoshub_install_banner_dismissed')
-    } catch {}
-  }, [])
+  // If already installed and running as an app, do not render anything
+  if (isInstalled) {
+    return null
+  }
 
   function handleDismiss() {
     setDismissed(true)
@@ -35,7 +33,7 @@ export default function InstallPromptModal({
     }
   }
 
-  // 1. Fallback modal for browsers that do not support beforeinstallprompt (e.g. iOS Safari)
+  // Fallback modal for browsers that do not support beforeinstallprompt (e.g. iOS Safari)
   const renderModalContent = () => {
     if (isIOS) {
       return (
@@ -106,7 +104,7 @@ export default function InstallPromptModal({
   return (
     <>
       {/* ── Optional Fallback Instructions Modal ── */}
-      {showInstallModal && (
+      {showInstallModal && !isInstalled && (
         <div className="install-modal-backdrop" onClick={() => setShowInstallModal(false)}>
           <div className="install-modal-card" onClick={(e) => e.stopPropagation()}>
             <div className="install-modal-header">
@@ -147,8 +145,8 @@ export default function InstallPromptModal({
         </div>
       )}
 
-      {/* ── Floating Bottom Install Banner (Exact Match to User Image) ── */}
-      {!dismissed && (
+      {/* ── Floating Bottom Install Banner (Only when NOT running as an installed app) ── */}
+      {!isInstalled && !dismissed && (
         <aside className="install-toast-banner" aria-label="Install CosmosHub application">
           <div className="install-toast-left">
             <CosmosLogo size={34} />

@@ -1,11 +1,26 @@
 import { useState, useEffect } from 'react'
 
+export function checkIsStandalone() {
+  if (typeof window === 'undefined') return false
+  return Boolean(
+    (window.matchMedia && (
+      window.matchMedia('(display-mode: standalone)').matches ||
+      window.matchMedia('(display-mode: window-controls-overlay)').matches ||
+      window.matchMedia('(display-mode: minimal-ui)').matches ||
+      window.matchMedia('(display-mode: fullscreen)').matches
+    )) ||
+    window.navigator.standalone === true ||
+    (document.referrer && document.referrer.includes('android-app://'))
+  )
+}
+
 export function usePWA() {
   const [deferredPrompt, setDeferredPrompt] = useState(
     () => window.__COSMOS_DEFERRED_PROMPT__ || null
   )
-  const [isInstalled, setIsInstalled] = useState(false)
-  const [canInstall, setCanInstall] = useState(true)
+  // Check standalone immediately on initial state initialization (0ms)
+  const [isInstalled, setIsInstalled] = useState(() => checkIsStandalone())
+  const [canInstall, setCanInstall] = useState(() => !checkIsStandalone())
   const [showInstallModal, setShowInstallModal] = useState(false)
   const [platformInfo, setPlatformInfo] = useState({
     isIOS: false,
@@ -16,13 +31,10 @@ export function usePWA() {
   })
 
   useEffect(() => {
-    // 1. Detect if running in standalone mode (already installed as PWA)
-    const isStandalone =
-      window.matchMedia('(display-mode: standalone)').matches ||
-      window.navigator.standalone === true ||
-      document.referrer.includes('android-app://')
-
+    // 1. Check if running in standalone mode (already installed as PWA)
+    const isStandalone = checkIsStandalone()
     setIsInstalled(isStandalone)
+
     if (isStandalone) {
       setCanInstall(false)
       return
@@ -51,13 +63,15 @@ export function usePWA() {
       setDeferredPrompt(window.__COSMOS_DEFERRED_PROMPT__)
     }
 
-    // Hook callback for any subsequent or future prompt
+    // Hook callback for future prompt event
     window.__COSMOS_PROMPT_CALLBACK__ = (e) => {
+      if (checkIsStandalone()) return
       setDeferredPrompt(e)
       setCanInstall(true)
     }
 
     function handleBeforeInstallPrompt(e) {
+      if (checkIsStandalone()) return
       e.preventDefault()
       window.__COSMOS_DEFERRED_PROMPT__ = e
       setDeferredPrompt(e)
@@ -72,17 +86,44 @@ export function usePWA() {
       setShowInstallModal(false)
     }
 
+    function handleDisplayChange() {
+      const active = checkIsStandalone()
+      setIsInstalled(active)
+      if (active) setCanInstall(false)
+    }
+
+    const standaloneMedia = window.matchMedia('(display-mode: standalone)')
+    const wcoMedia = window.matchMedia('(display-mode: window-controls-overlay)')
+
+    try {
+      standaloneMedia.addEventListener('change', handleDisplayChange)
+      wcoMedia.addEventListener('change', handleDisplayChange)
+    } catch {
+      if (standaloneMedia.addListener) standaloneMedia.addListener(handleDisplayChange)
+    }
+
     window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt)
     window.addEventListener('appinstalled', handleAppInstalled)
 
     return () => {
       window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt)
       window.removeEventListener('appinstalled', handleAppInstalled)
+      try {
+        standaloneMedia.removeEventListener('change', handleDisplayChange)
+        wcoMedia.removeEventListener('change', handleDisplayChange)
+      } catch {
+        if (standaloneMedia.removeListener) standaloneMedia.removeListener(handleDisplayChange)
+      }
       window.__COSMOS_PROMPT_CALLBACK__ = null
     }
   }, [])
 
   async function promptInstall() {
+    if (checkIsStandalone()) {
+      setIsInstalled(true)
+      return { outcome: 'already_installed' }
+    }
+
     const promptEvent = deferredPrompt || window.__COSMOS_DEFERRED_PROMPT__
 
     // If native prompt is available (Chrome / Edge / Chromium / Android) -> Trigger native dialog!

@@ -836,3 +836,12 @@
   display: flex;
   gap: 10px;
 }
+
+/* ── Never show install banners/prompts inside the installed app window ── */
+@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) {
+  .install-toast-banner,
+  .install-modal-backdrop,
+  .install-header-btn {
+    display: none !important;
+  }
+}
