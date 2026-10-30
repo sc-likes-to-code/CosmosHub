@@ -6,6 +6,7 @@ import Ticker from './components/Ticker'
 import NavTabs from './components/NavTabs'
 import FeedView from './views/FeedView'
 import MissionsView from './views/MissionsView'
+import SavedView from './views/SavedView'
 import Modal from './components/Modal'
 import Onboarding from './components/Onboarding'
 import AlertToast from './components/AlertToast'
@@ -183,6 +184,15 @@ export default function App() {
           <Route
             path="/missions"
             element={<MissionsView articles={articles} />}
+          />
+          <Route
+            path="/saved"
+            element={
+              <SavedView
+                prefs={prefs}
+                openModal={setModalData}
+              />
+            }
           />
         </Routes>
       </div>

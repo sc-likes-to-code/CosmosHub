@@ -5,6 +5,7 @@ import { fetchAllFeeds, SAMPLE_ARTICLES } from '../utils/rss'
 import { rankArticles, isPinnedForUser } from '../utils/personalization'
 import { getMultiSummary } from '../utils/ai'
 import { getTrustMeta } from '../utils/trust'
+import { searchArticles, loadHistoricalArticles } from '../utils/search'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
@@ -100,9 +101,32 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
   const [filter, setFilter] = useState(() => (prefs.length > 0 ? 'for-you' : 'all'))
   const [loading, setLoading] = useState(true)
   const [isRefreshing, setIsRefreshing] = useState(false)
+  const [searchInput, setSearchInput] = useState('')
+  const [debouncedQuery, setDebouncedQuery] = useState('')
+  const [historicalPool, setHistoricalPool] = useState([])
+
   const pollTimeoutRef = useRef(null)
   const viewRef = useRef(null)
   const prevPrefsLengthRef = useRef(prefs.length)
+
+  // 250ms debounce for search query
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setDebouncedQuery(searchInput.trim())
+    }, 250)
+    return () => clearTimeout(timer)
+  }, [searchInput])
+
+  // Preload historical archive in background for global search
+  useEffect(() => {
+    loadHistoricalArticles()
+      .then(pool => {
+        setHistoricalPool(pool || [])
+      })
+      .catch(err => {
+        console.warn('Historical search pool unavailable:', err)
+      })
+  }, [])
 
   useEffect(() => {
     loadFeed()
@@ -194,6 +218,12 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     loadFeed(true)
   }
 
+  function handleClearSearch() {
+    setSearchInput('')
+    setDebouncedQuery('')
+  }
+
+  // Animation on load, card updates, or search filter
   useLayoutEffect(() => {
     if (loading) return
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
@@ -242,8 +272,9 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     }, viewRef)
 
     return () => ctx.revert()
-  }, [loading, cards.length, filter])
+  }, [loading, cards.length, filter, debouncedQuery])
 
+  // Extract source tabs
   const sourceTabs = Array.from(
     new Set(cards.map(({ article }) => article.source?.name).filter(Boolean))
   ).sort((a, b) => a.localeCompare(b))
@@ -254,23 +285,53 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     }
   }, [filter, sourceTabs])
 
-  const filtered = cards.filter(({ article }) => {
-    if (filter === 'for-you') return isPinnedForUser(article, prefs)
-    if (filter === 'all') return true
-    return article.source?.name === filter
-  })
+  // Determine active display pool
+  let visibleCards = []
 
-  const visibleCards = filter === 'for-you'
-    ? rankArticles(filtered.map(({ article }) => article), prefs)
-        .map(article => filtered.find(card => card.article === article))
-        .filter(Boolean)
-    : filtered
+  if (debouncedQuery) {
+    // 1. Build comprehensive search pool: current cards + deduplicated historical archive
+    const existingIds = new Set(
+      cards.map(({ article }) => article.id || article.link).filter(Boolean)
+    )
+    const historicalCardItems = historicalPool
+      .filter(h => !existingIds.has(h.id) && !existingIds.has(h.link))
+      .map(h => ({
+        article: h,
+        summaries: fallbackSummaries(h.desc),
+      }))
+
+    const combinedPool = [...cards, ...historicalCardItems]
+
+    // 2. Filter by source or personalization
+    const sourceFiltered = combinedPool.filter(({ article }) => {
+      if (filter === 'for-you') return isPinnedForUser(article, prefs)
+      if (filter === 'all') return true
+      return article.source?.name === filter
+    })
+
+    // 3. Apply global relevance ranking search
+    visibleCards = searchArticles(debouncedQuery, sourceFiltered)
+  } else {
+    // Standard feed view
+    const filtered = cards.filter(({ article }) => {
+      if (filter === 'for-you') return isPinnedForUser(article, prefs)
+      if (filter === 'all') return true
+      return article.source?.name === filter
+    })
+
+    visibleCards = filter === 'for-you'
+      ? rankArticles(filtered.map(({ article }) => article), prefs)
+          .map(article => filtered.find(card => card.article === article))
+          .filter(Boolean)
+      : filtered
+  }
 
   return (
     <div ref={viewRef}>
       <FilterBar active={filter} onChange={setFilter} sources={sourceTabs} />
+
       <div className="section-header">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+        <div className="section-header-left">
           <span className="section-title">Latest transmissions</span>
           <button
             className={`refresh-btn${isRefreshing ? ' refreshing' : ''}`}
@@ -282,10 +343,66 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
             <span className="refresh-label">{isRefreshing ? 'Updating...' : 'Refresh'}</span>
           </button>
         </div>
-        <span className={`article-count${loading ? ' article-count-loading' : ''}`}>
-          {loading ? '' : `${visibleCards.length} articles`}
-        </span>
+
+        <div className="section-search-container">
+          <div className="search-input-wrapper">
+            <svg
+              className="search-icon"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <circle cx="11" cy="11" r="8" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            </svg>
+            <input
+              type="text"
+              className="search-input"
+              placeholder="Search space news, missions, discoveries..."
+              value={searchInput}
+              onChange={e => setSearchInput(e.target.value)}
+              aria-label="Search space news, missions, discoveries"
+            />
+            {searchInput && (
+              <button
+                type="button"
+                className="search-clear-btn"
+                onClick={handleClearSearch}
+                aria-label="Clear search"
+                title="Clear search"
+              >
+                ✕
+              </button>
+            )}
+          </div>
+        </div>
+
+        <div className="section-header-right">
+          <span className={`article-count${loading ? ' article-count-loading' : ''}`}>
+            {loading ? '' : (
+              debouncedQuery
+                ? `${visibleCards.length} ${visibleCards.length === 1 ? 'transmission' : 'transmissions'} found`
+                : `${visibleCards.length} articles`
+            )}
+          </span>
+        </div>
       </div>
+
+      {debouncedQuery && (
+        <div className="search-active-pill">
+          <span>
+            Search results for "<strong>{debouncedQuery}</strong>" ({visibleCards.length} found)
+          </span>
+          <button type="button" onClick={handleClearSearch} className="pill-clear-btn">
+            Clear search
+          </button>
+        </div>
+      )}
+
       <div className="cosmos-grid">
         {loading && cards.length === 0 && (
           <>
@@ -304,9 +421,10 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
             ))}
           </>
         )}
+
         {visibleCards.map(({ article, summaries }, i) => (
           <NewsCard
-            key={article.title + i}
+            key={article.id || article.title + i}
             article={article}
             summaries={summaries}
             index={i}
@@ -314,10 +432,40 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
             onExpand={openModal}
           />
         ))}
-        {!loading && visibleCards.length === 0 && (
-          <div className="error-state" style={{gridColumn:'1/-1'}}>
-            <div style={{fontSize:28,marginBottom:'0.5rem'}}>📡</div>
-            <strong>No articles found for this filter.</strong>
+
+        {/* Empty state when search produces 0 results */}
+        {!loading && debouncedQuery && visibleCards.length === 0 && (
+          <div className="empty-state-container">
+            <div className="empty-state-icon">📡</div>
+            <h2 className="empty-state-title">No transmissions found</h2>
+            <p className="empty-state-text">
+              Try different keywords or check your spelling.
+            </p>
+            <button
+              type="button"
+              className="empty-state-action-btn"
+              onClick={handleClearSearch}
+            >
+              Clear search
+            </button>
+          </div>
+        )}
+
+        {/* Empty state when filter produces 0 results without search */}
+        {!loading && !debouncedQuery && visibleCards.length === 0 && (
+          <div className="empty-state-container">
+            <div className="empty-state-icon">📡</div>
+            <h2 className="empty-state-title">No transmissions found</h2>
+            <p className="empty-state-text">
+              No articles match this source filter in recent transmissions.
+            </p>
+            <button
+              type="button"
+              className="empty-state-action-btn"
+              onClick={() => setFilter('all')}
+            >
+              Show all sources
+            </button>
           </div>
         )}
       </div>

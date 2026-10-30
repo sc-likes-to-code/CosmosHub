@@ -10,7 +10,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "npm run build && node server.js",
-    "test": "node --test tests/rss-pipeline.test.js",
+    "test": "node --test tests/*.test.js",
     "ingest": "node scripts/ingest.js",
     "commit-archive": "node scripts/commit-archive.js"
   },

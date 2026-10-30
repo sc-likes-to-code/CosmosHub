@@ -1,6 +1,7 @@
 import React from 'react'
 import { isPinnedForUser } from '../utils/personalization'
 import { getTrustMeta } from '../utils/trust'
+import { useSavedArticles } from '../utils/bookmarks'
 
 function formatDate(dateStr) {
   if (!dateStr) return 'Recently'
@@ -25,21 +26,29 @@ function TrustBadge({ sourceName }) {
   )
 }
 
-export default function NewsCard({ article, summaries, index, prefs, onExpand }) {
-  const s = article.source
+export default function NewsCard({ article, summaries, index = 0, prefs, onExpand }) {
+  const s = article.source || {}
   const pinned = isPinnedForUser(article, prefs)
   const summaryText = summaries?.shortSummary || article.desc?.slice(0, 180) || ''
-  const agencyFilter = s.key === 'iss' ? 'ISS' : s.name
+  const agencyFilter = s.key === 'iss' ? 'ISS' : (s.name || 'Space')
+  const { isSaved, toggleSave } = useSavedArticles()
+  const saved = isSaved(article)
+
+  function handleBookmarkToggle(e) {
+    e.preventDefault()
+    e.stopPropagation()
+    toggleSave(article, summaries)
+  }
 
   return (
     <div
-      className={`news-card ${s.cardClass}${pinned ? ' pinned' : ''}`}
+      className={`news-card ${s.cardClass || 'spacedotcom'}${pinned ? ' pinned' : ''}`}
       data-agency={agencyFilter}
       style={{ animation: `fadeUp 0.4s ease ${index * 0.04}s both` }}>
       {/* top row */}
       <div className="card-top">
         <div className="card-top-left">
-          <span className={`agency-badge ${s.badgeClass}`}>{s.name}</span>
+          <span className={`agency-badge ${s.badgeClass || 'badge-spacedotcom'}`}>{s.name || 'Space'}</span>
           <TrustBadge sourceName={s.name} />
         </div>
         <span className="card-date">{formatDate(article.pubDate)}</span>
@@ -55,7 +64,7 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
       {/* title */}
       <div className="card-title">{article.title}</div>
 
-      <div className="ai-label"><div className="ai-dot" /> AI Summary</div>
+      <div className="ai-label"><div className="ai-dot" /> Summary</div>
       <div className="card-summary">{summaryText}</div>
 
       {/* tags */}
@@ -70,6 +79,26 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
         <a href={article.link} target="_blank" rel="noreferrer" className="read-more-btn">
           Read full article →
         </a>
+        <button
+          type="button"
+          className={`bookmark-btn${saved ? ' saved' : ''}`}
+          onClick={handleBookmarkToggle}
+          aria-label={saved ? 'Remove from saved articles' : 'Save article'}
+          title={saved ? 'Remove from saved articles' : 'Save article'}
+        >
+          <svg
+            className="bookmark-icon"
+            viewBox="0 0 24 24"
+            fill={saved ? '#38bdf8' : 'none'}
+            stroke={saved ? '#38bdf8' : 'currentColor'}
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            aria-hidden="true"
+          >
+            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+          </svg>
+        </button>
       </div>
     </div>
   )

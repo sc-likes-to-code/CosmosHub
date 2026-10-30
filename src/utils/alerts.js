@@ -1,6 +1,6 @@
 // ── alerts.js ────────────────────────────────────────
 
-import { useState, useCallback, useRef } from 'react'
+import { useState, useCallback, useRef, useEffect } from 'react'
 
 const NOTIFY_KEY = 'cosmos_notify'
 
@@ -38,6 +38,16 @@ export function useAlerts() {
     }, 5000)
   }
 
+  useEffect(() => {
+    function handleCustomToast(e) {
+      if (e?.detail?.message) {
+        addToast(e.detail.icon || '🚀', e.detail.message)
+      }
+    }
+    window.addEventListener('cosmos-toast', handleCustomToast)
+    return () => window.removeEventListener('cosmos-toast', handleCustomToast)
+  }, [])
+
   function startAlerts() {
     if (intervalRef.current) return
     intervalRef.current = setInterval(() => {
@@ -69,4 +79,10 @@ export function useAlerts() {
   }, [])
 
   return { toasts, notifyOn, toggleNotify }
+}
+
+export function showToast(icon, message) {
+  if (typeof window !== 'undefined') {
+    window.dispatchEvent(new CustomEvent('cosmos-toast', { detail: { icon, message } }))
+  }
 }
