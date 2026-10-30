@@ -1,8 +1,6 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { isPinnedForUser } from '../utils/personalization'
-import { getFactCheck } from '../utils/ai'
 import { getTrustMeta } from '../utils/trust'
-import { getVotes, saveVotes } from '../utils/community'
 
 function formatDate(dateStr) {
   if (!dateStr) return 'Recently'
@@ -16,13 +14,6 @@ function formatDate(dateStr) {
   } catch { return 'Recently' }
 }
 
-function makeArticleId(article) {
-  try {
-    return btoa(encodeURIComponent(article.title.slice(0, 40)))
-      .replace(/=/g, '').slice(0, 16)
-  } catch { return Math.random().toString(36).slice(2, 10) }
-}
-
 function TrustBadge({ sourceName }) {
   const m = getTrustMeta(sourceName)
   const cls = m.type === 'official' ? 'trust-official' : 'trust-media'
@@ -34,48 +25,10 @@ function TrustBadge({ sourceName }) {
   )
 }
 
-function FactCheckBadge({ status }) {
-  const map = {
-    VERIFIED:           ['fc-verified',    '✅ Verified'],
-    PARTIALLY_VERIFIED: ['fc-partial',     '⚠️ Needs Review'],
-    SPECULATIVE:        ['fc-speculative', '❌ Speculative'],
-    PENDING:            ['fc-pending',     '⏳ Checking...'],
-  }
-  const [cls, label] = map[status] || map.PENDING
-  return <span className={`factcheck ${cls}`}>{label}</span>
-}
-
 export default function NewsCard({ article, summaries, index, prefs, onExpand }) {
-  const id = makeArticleId(article)
-  const s  = article.source
+  const s = article.source
   const pinned = isPinnedForUser(article, prefs)
-
-  const [fcStatus,    setFcStatus]    = useState('PENDING')
-  const [fcLoaded,    setFcLoaded]    = useState(false)
-  const [voteCount,   setVoteCount]   = useState(() => getVotes()[id] || 0)
-  const [voted,       setVoted]       = useState(false)
-
-  // lazy fact-check on first render
-  React.useEffect(() => {
-    if (fcLoaded) return
-    setFcLoaded(true)
-    getFactCheck(article.title, summaries?.shortSummary || '', s.name)
-      .then(setFcStatus)
-  }, [])
-
-  function handleUpvote() {
-    if (voted) return
-    const votes = getVotes()
-    votes[id] = (votes[id] || 0) + 1
-    saveVotes(votes)
-    setVoteCount(votes[id])
-    setVoted(true)
-  }
-
-
-
   const summaryText = summaries?.shortSummary || article.desc?.slice(0, 180) || ''
-
   const agencyFilter = s.key === 'iss' ? 'ISS' : s.name
 
   return (
@@ -92,11 +45,12 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
         <span className="card-date">{formatDate(article.pubDate)}</span>
       </div>
 
-      {/* fact-check + pinned */}
-      <div style={{ display: 'flex', alignItems: 'center', gap: '.4rem', flexWrap: 'wrap' }}>
-        <FactCheckBadge status={fcStatus} />
-        {pinned && <span className="tag pinned-tag">⭐ For you</span>}
-      </div>
+      {/* pinned */}
+      {pinned && (
+        <div style={{ display: 'flex', alignItems: 'center', gap: '.4rem', flexWrap: 'wrap' }}>
+          <span className="tag pinned-tag">⭐ For you</span>
+        </div>
+      )}
 
       {/* title */}
       <div className="card-title">{article.title}</div>
@@ -116,16 +70,7 @@ export default function NewsCard({ article, summaries, index, prefs, onExpand })
         <a href={article.link} target="_blank" rel="noreferrer" className="read-more-btn">
           Read full article →
         </a>
-        <div className="card-actions">
-          <button
-            className={`upvote-btn${voted ? ' voted' : ''}`}
-            onClick={handleUpvote}
-          >
-            ▲ {voteCount}
-          </button>
-        </div>
       </div>
-
     </div>
   )
 }
