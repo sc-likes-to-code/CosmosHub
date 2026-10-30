@@ -2,6 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <script>
+      window.__COSMOS_LAUNCH_TIME__ = performance.now();
+      window.__COSMOS_DEFERRED_PROMPT__ = null;
+      window.addEventListener('beforeinstallprompt', function (e) {
+        e.preventDefault();
+        window.__COSMOS_DEFERRED_PROMPT__ = e;
+        if (typeof window.__COSMOS_PROMPT_CALLBACK__ === 'function') {
+          window.__COSMOS_PROMPT_CALLBACK__(e);
+        }
+      });
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="description" content="CosmosHub — Verified intelligent space news aggregator covering NASA, ISRO, ESA, JAXA and more." />
     
@@ -24,7 +35,7 @@
     
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet" />
     
     <style>
       *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -53,6 +64,12 @@
         background: radial-gradient(circle at 50% 45%, #0d1a38 0%, #060b18 55%, #04080f 100%);
         z-index: 99999;
         overflow: hidden;
+        cursor: pointer;
+        user-select: none;
+        will-change: opacity, transform, filter;
+      }
+      .cosmos-splash-screen.splash-dismissing {
+        pointer-events: none;
       }
       .cosmos-splash-stars {
         position: absolute;
@@ -141,11 +158,11 @@
         top: 0;
         left: 0;
         bottom: 0;
-        width: 40%;
+        width: 0%;
         background: linear-gradient(90deg, #63b3ed, #a78bfa, #ffffff);
         border-radius: 3px;
         box-shadow: 0 0 10px #63b3ed;
-        animation: progressSlide 1.8s ease-in-out infinite;
+        animation: chargeProgress 1.9s cubic-bezier(0.16, 1, 0.3, 1) forwards;
       }
       .cosmos-splash-status {
         margin-top: 14px;
@@ -153,6 +170,16 @@
         font-size: 11px;
         letter-spacing: 0.12em;
         color: #94a3b8;
+        z-index: 2;
+        min-height: 18px;
+        transition: color 0.3s ease;
+      }
+      .cosmos-splash-hint {
+        margin-top: 10px;
+        font-size: 9px;
+        letter-spacing: 0.08em;
+        color: rgba(148, 163, 184, 0.45);
+        text-transform: uppercase;
         z-index: 2;
       }
 
@@ -168,10 +195,12 @@
         0% { transform: scale(0.92); opacity: 0.4; }
         100% { transform: scale(1.15); opacity: 0.85; }
       }
-      @keyframes progressSlide {
-        0% { left: -40%; width: 30%; }
-        50% { left: 35%; width: 50%; }
-        100% { left: 100%; width: 30%; }
+      @keyframes chargeProgress {
+        0% { width: 4%; }
+        25% { width: 35%; }
+        60% { width: 72%; }
+        85% { width: 92%; }
+        100% { width: 100%; }
       }
       @keyframes starDrift {
         from { background-position: 0 0; }
@@ -180,24 +209,25 @@
     </style>
   </head>
   <body>
-    <div id="root">
-      <!-- 0ms Instant Native Launch Screen -->
-      <div class="cosmos-splash-screen" id="cosmos-launch-splash">
-        <div class="cosmos-splash-stars"></div>
-        <div class="cosmos-splash-emblem">
-          <div class="cosmos-splash-pulse-glow"></div>
-          <div class="cosmos-splash-ring-outer"></div>
-          <div class="cosmos-splash-ring"></div>
-          <img src="/logo-mark.svg" alt="CosmosHub" class="cosmos-splash-logo-img" />
-        </div>
-        <div class="cosmos-splash-title">COSMOSHUB</div>
-        <div class="cosmos-splash-sub">Global Space Intelligence</div>
-        <div class="cosmos-splash-progress-track">
-          <div class="cosmos-splash-progress-bar"></div>
-        </div>
-        <div class="cosmos-splash-status">CALIBRATING ORBITAL TELEMETRY...</div>
+    <!-- 0ms Instant Native Launch Screen (Active during initial app boot) -->
+    <div class="cosmos-splash-screen" id="cosmos-launch-splash">
+      <div class="cosmos-splash-stars"></div>
+      <div class="cosmos-splash-emblem">
+        <div class="cosmos-splash-pulse-glow"></div>
+        <div class="cosmos-splash-ring-outer"></div>
+        <div class="cosmos-splash-ring"></div>
+        <img src="/logo-mark.svg" alt="CosmosHub" class="cosmos-splash-logo-img" />
       </div>
+      <div class="cosmos-splash-title">COSMOSHUB</div>
+      <div class="cosmos-splash-sub">Global Space Intelligence</div>
+      <div class="cosmos-splash-progress-track">
+        <div class="cosmos-splash-progress-bar"></div>
+      </div>
+      <div class="cosmos-splash-status" id="cosmos-splash-status">INITIALIZING QUANTUM TRANSCEIVER...</div>
+      <div class="cosmos-splash-hint">Tap anywhere to skip</div>
     </div>
+
+    <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>

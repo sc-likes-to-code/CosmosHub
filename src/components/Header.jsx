@@ -1,7 +1,11 @@
 import React from 'react'
 import CosmosLogo from './CosmosLogo'
 
-export default function Header({ statusText, notifyOn, toggleNotify, onInstallClick, canInstall }) {
+export default function Header({
+  statusText,
+  notifyOn,
+  toggleNotify,
+}) {
   const showStatusText = Boolean(statusText) && !/^(initializing|fetching|loading|using sample data|no updates|error loading)/i.test(statusText)
 
   return (
@@ -11,21 +15,14 @@ export default function Header({ statusText, notifyOn, toggleNotify, onInstallCl
           <CosmosLogo size={38} />
         </div>
         <div>
-          <div className="cosmos-brand-text">CosmosHub</div>
-          <div className="cosmos-brand-sub">Verified Space Intelligence Platform</div>
+          <div className="cosmos-brand-text" aria-label="CosmosHub">
+            <span className="brand-name-cosmos">Cosmos</span>
+            <span className="brand-name-hub">Hub</span>
+          </div>
+          <div className="cosmos-brand-sub">SPACE INTELLIGENCE NETWORK</div>
         </div>
       </div>
       <div className="header-right">
-        {canInstall && (
-          <button
-            className="install-header-btn"
-            onClick={onInstallClick}
-            title="Install CosmosHub App"
-          >
-            <span className="install-icon" aria-hidden="true">⬇</span>
-            <span>Install App</span>
-          </button>
-        )}
         <button
           className={`notify-btn${notifyOn ? ' active' : ''}`}
           onClick={toggleNotify}

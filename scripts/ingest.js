@@ -8,7 +8,7 @@
  * Maintains persistent article index and permanent Markdown archives.
  */
 
-import { readFileSync, writeFileSync, mkdirSync, renameSync, existsSync } from 'node:fs'
+import { readFileSync, writeFileSync, mkdirSync, renameSync, existsSync, copyFileSync, unlinkSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
 import {
   RSS_SOURCES,
@@ -373,7 +373,16 @@ export function updateArchiveFile(archivePath, dateStr, collectionLabel, collect
   const updatedContent = currentContent.replace(sectionMatch[1], newSection.trim() + '\n')
   const tmpPath = `${archivePath}.tmp.${Date.now()}`
   writeFileSync(tmpPath, updatedContent, 'utf8')
-  renameSync(tmpPath, archivePath)
+  try {
+    renameSync(tmpPath, archivePath)
+  } catch (err) {
+    if (err.code === 'EPERM' || err.code === 'EBUSY') {
+      copyFileSync(tmpPath, archivePath)
+      try { unlinkSync(tmpPath) } catch {}
+    } else {
+      throw err
+    }
+  }
 
   return {
     filePath: archivePath,
@@ -406,7 +415,16 @@ export function saveSnapshotAtomic(snapshotPath, articles, generatedAt) {
   }
   const tmpPath = `${snapshotPath}.tmp.${Date.now()}`
   writeFileSync(tmpPath, JSON.stringify(snapshotData, null, 2) + '\n', 'utf8')
-  renameSync(tmpPath, snapshotPath)
+  try {
+    renameSync(tmpPath, snapshotPath)
+  } catch (err) {
+    if (err.code === 'EPERM' || err.code === 'EBUSY') {
+      copyFileSync(tmpPath, snapshotPath)
+      try { unlinkSync(tmpPath) } catch {}
+    } else {
+      throw err
+    }
+  }
 }
 
 /* ── Main Ingestion Runner ── */

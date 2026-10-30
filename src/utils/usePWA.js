@@ -1,39 +1,65 @@
 import { useState, useEffect } from 'react'
 
 export function usePWA() {
-  const [deferredPrompt, setDeferredPrompt] = useState(null)
-  const [canInstall, setCanInstall] = useState(false)
+  const [deferredPrompt, setDeferredPrompt] = useState(
+    () => window.__COSMOS_DEFERRED_PROMPT__ || null
+  )
   const [isInstalled, setIsInstalled] = useState(false)
-  const [isIOS, setIsIOS] = useState(false)
-  const [showIOSPrompt, setShowIOSPrompt] = useState(false)
+  const [canInstall, setCanInstall] = useState(true)
+  const [showInstallModal, setShowInstallModal] = useState(false)
+  const [platformInfo, setPlatformInfo] = useState({
+    isIOS: false,
+    isAndroid: false,
+    isMacSafari: false,
+    isFirefox: false,
+    isChromium: true,
+  })
 
   useEffect(() => {
-    // Check if running in standalone mode (already installed as PWA)
+    // 1. Detect if running in standalone mode (already installed as PWA)
     const isStandalone =
       window.matchMedia('(display-mode: standalone)').matches ||
       window.navigator.standalone === true ||
       document.referrer.includes('android-app://')
 
     setIsInstalled(isStandalone)
-
-    // Detect iOS devices
-    const userAgent = window.navigator.userAgent || ''
-    const isAppleMobile = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream
-    setIsIOS(isAppleMobile)
-
     if (isStandalone) {
       setCanInstall(false)
       return
     }
 
-    if (isAppleMobile) {
-      // iOS doesn't fire beforeinstallprompt, but can be added to home screen
+    // 2. Platform / Browser detection
+    const userAgent = window.navigator.userAgent || ''
+    const isAppleMobile = /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream
+    const isAndroid = /Android/i.test(userAgent)
+    const isMac = /Macintosh|Mac OS X/i.test(userAgent) && !isAppleMobile
+    const isSafari = /^((?!chrome|android).)*safari/i.test(userAgent)
+    const isMacSafari = isMac && isSafari
+    const isFirefox = /firefox/i.test(userAgent)
+    const isChromium = Boolean(window.chrome) || /chrome|chromium|crios|edg/i.test(userAgent)
+
+    setPlatformInfo({
+      isIOS: isAppleMobile,
+      isAndroid,
+      isMacSafari,
+      isFirefox,
+      isChromium,
+    })
+
+    // If early event was already captured in <head>
+    if (window.__COSMOS_DEFERRED_PROMPT__) {
+      setDeferredPrompt(window.__COSMOS_DEFERRED_PROMPT__)
+    }
+
+    // Hook callback for any subsequent or future prompt
+    window.__COSMOS_PROMPT_CALLBACK__ = (e) => {
+      setDeferredPrompt(e)
       setCanInstall(true)
     }
 
     function handleBeforeInstallPrompt(e) {
-      // Prevent automatic mini-infobar on mobile Chrome
       e.preventDefault()
+      window.__COSMOS_DEFERRED_PROMPT__ = e
       setDeferredPrompt(e)
       setCanInstall(true)
     }
@@ -42,7 +68,8 @@ export function usePWA() {
       setIsInstalled(true)
       setCanInstall(false)
       setDeferredPrompt(null)
-      setShowIOSPrompt(false)
+      window.__COSMOS_DEFERRED_PROMPT__ = null
+      setShowInstallModal(false)
     }
 
     window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt)
@@ -51,39 +78,45 @@ export function usePWA() {
     return () => {
       window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt)
       window.removeEventListener('appinstalled', handleAppInstalled)
+      window.__COSMOS_PROMPT_CALLBACK__ = null
     }
   }, [])
 
   async function promptInstall() {
-    if (isIOS) {
-      setShowIOSPrompt(true)
-      return { outcome: 'ios_guide' }
-    }
+    const promptEvent = deferredPrompt || window.__COSMOS_DEFERRED_PROMPT__
 
-    if (!deferredPrompt) {
-      return { outcome: 'unavailable' }
-    }
-
-    try {
-      deferredPrompt.prompt()
-      const choiceResult = await deferredPrompt.userChoice
-      if (choiceResult.outcome === 'accepted') {
-        setCanInstall(false)
+    // If native prompt is available (Chrome / Edge / Chromium / Android) -> Trigger native dialog!
+    if (promptEvent) {
+      try {
+        promptEvent.prompt()
+        const choiceResult = await promptEvent.userChoice
+        if (choiceResult && choiceResult.outcome === 'accepted') {
+          setIsInstalled(true)
+          setCanInstall(false)
+          setShowInstallModal(false)
+        }
+        setDeferredPrompt(null)
+        window.__COSMOS_DEFERRED_PROMPT__ = null
+        return choiceResult
+      } catch (err) {
+        console.warn('[PWA] Prompt invocation error:', err)
+        setShowInstallModal(true)
+        return { outcome: 'error' }
       }
-      setDeferredPrompt(null)
-      return choiceResult
-    } catch (err) {
-      console.warn('[PWA] Prompt error:', err)
-      return { outcome: 'dismissed' }
     }
+
+    // Fallback if browser doesn't support beforeinstallprompt (e.g. iOS Safari)
+    setShowInstallModal(true)
+    return { outcome: 'modal_opened' }
   }
 
   return {
     canInstall,
     isInstalled,
-    isIOS,
-    showIOSPrompt,
-    setShowIOSPrompt,
+    showInstallModal,
+    setShowInstallModal,
+    platformInfo,
     promptInstall,
+    hasNativePrompt: Boolean(deferredPrompt || window.__COSMOS_DEFERRED_PROMPT__),
   }
 }

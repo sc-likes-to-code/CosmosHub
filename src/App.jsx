@@ -27,24 +27,111 @@ export default function App() {
   const {
     canInstall,
     isInstalled,
-    isIOS,
-    showIOSPrompt,
-    setShowIOSPrompt,
+    showInstallModal,
+    setShowInstallModal,
+    platformInfo,
     promptInstall,
+    hasNativePrompt,
   } = usePWA()
   const isInitialMount = useRef(true)
 
   useLayoutEffect(() => {
-    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+    const splashEl = document.getElementById('cosmos-launch-splash')
+    const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches
 
-    const ctx = gsap.context(() => {
+    if (!splashEl) {
+      if (!reducedMotion) {
+        const ctx = gsap.context(() => {
+          const tl = gsap.timeline({ defaults: { ease: 'power3.out' } })
+          tl.fromTo('.cosmos-header', { y: -50, opacity: 0, scale: 0.98 }, { y: 0, opacity: 1, scale: 1, duration: 0.75 })
+            .fromTo('.nav-tab', { y: -18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, stagger: 0.09 }, '-=0.35')
+            .fromTo('.app-view-shell', { y: 40, opacity: 0, filter: 'blur(6px)' }, { y: 0, opacity: 1, filter: 'blur(0px)', duration: 0.72 }, '-=0.2')
+        }, '#cosmos-root')
+        return () => ctx.revert()
+      }
+      return
+    }
+
+    if (reducedMotion) {
+      splashEl.remove()
+      return
+    }
+
+    // Hide root temporarily so it doesn't flash behind the splash
+    gsap.set('#cosmos-root', { opacity: 0 })
+
+    const statusEl = document.getElementById('cosmos-splash-status')
+    const statusMessages = [
+      { delay: 500, text: 'CALIBRATING ORBITAL TELEMETRY...' },
+      { delay: 1100, text: 'SYNCHRONIZING SATELLITE FEEDS...' },
+      { delay: 1650, text: 'SIGNAL ACQUIRED // SYSTEMS ONLINE' },
+    ]
+
+    const timers = statusMessages.map(({ delay, text }) =>
+      setTimeout(() => {
+        if (statusEl) statusEl.textContent = text
+      }, delay)
+    )
+
+    let dismissed = false
+
+    function dismissSplash() {
+      if (dismissed) return
+      dismissed = true
+      timers.forEach(clearTimeout)
+      splashEl.classList.add('splash-dismissing')
+
       const tl = gsap.timeline({ defaults: { ease: 'power3.out' } })
-      tl.fromTo('.cosmos-header', { y: -50, opacity: 0, scale: 0.98 }, { y: 0, opacity: 1, scale: 1, duration: 0.75 })
-        .fromTo('.nav-tab', { y: -18, opacity: 0 }, { y: 0, opacity: 1, duration: 0.45, stagger: 0.09 }, '-=0.35')
-        .fromTo('.app-view-shell', { y: 40, opacity: 0, filter: 'blur(6px)' }, { y: 0, opacity: 1, filter: 'blur(0px)', duration: 0.72 }, '-=0.2')
-    }, '#cosmos-root')
 
-    return () => ctx.revert()
+      // Dissolve splash screen with a cinematic blur & scale
+      tl.to(splashEl, {
+        opacity: 0,
+        scale: 1.05,
+        filter: 'blur(10px)',
+        duration: 0.65,
+        ease: 'power2.inOut',
+        onComplete: () => {
+          splashEl.remove()
+        },
+      })
+      // Smooth fade-in of CosmosHub dashboard
+      .to('#cosmos-root', {
+        opacity: 1,
+        duration: 0.45,
+        ease: 'power2.out',
+      }, '-=0.35')
+      .fromTo('.cosmos-header',
+        { y: -35, opacity: 0, scale: 0.98 },
+        { y: 0, opacity: 1, scale: 1, duration: 0.65 },
+        '-=0.3'
+      )
+      .fromTo('.nav-tab',
+        { y: -16, opacity: 0 },
+        { y: 0, opacity: 1, duration: 0.4, stagger: 0.08 },
+        '-=0.35'
+      )
+      .fromTo('.app-view-shell',
+        { y: 35, opacity: 0, filter: 'blur(6px)' },
+        { y: 0, opacity: 1, filter: 'blur(0px)', duration: 0.65 },
+        '-=0.25'
+      )
+    }
+
+    // User can tap/click anywhere to skip immediately
+    splashEl.addEventListener('click', dismissSplash, { once: true })
+
+    const MIN_SPLASH_TIME = 1950
+    const launchTime = window.__COSMOS_LAUNCH_TIME__ || performance.now()
+    const elapsed = performance.now() - launchTime
+    const remaining = Math.max(0, MIN_SPLASH_TIME - elapsed)
+
+    const timer = setTimeout(dismissSplash, remaining)
+
+    return () => {
+      clearTimeout(timer)
+      timers.forEach(clearTimeout)
+      splashEl.removeEventListener('click', dismissSplash)
+    }
   }, [])
 
   useLayoutEffect(() => {
@@ -76,8 +163,6 @@ export default function App() {
         statusText={statusText}
         notifyOn={notifyOn}
         toggleNotify={toggleNotify}
-        canInstall={canInstall}
-        onInstallClick={promptInstall}
       />
       <Ticker articles={articles} />
       <NavTabs activeTab={activeTab} setActiveTab={setActiveTab} />
@@ -115,10 +200,11 @@ export default function App() {
       <InstallPromptModal
         canInstall={canInstall}
         isInstalled={isInstalled}
-        isIOS={isIOS}
-        showIOSPrompt={showIOSPrompt}
-        setShowIOSPrompt={setShowIOSPrompt}
+        showInstallModal={showInstallModal}
+        setShowInstallModal={setShowInstallModal}
+        platformInfo={platformInfo}
         promptInstall={promptInstall}
+        hasNativePrompt={hasNativePrompt}
       />
     </div>
   )
