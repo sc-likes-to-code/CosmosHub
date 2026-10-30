@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import CosmosLogo from './CosmosLogo'
 
 export default function InstallPromptModal({
@@ -10,18 +10,28 @@ export default function InstallPromptModal({
   promptInstall,
   hasNativePrompt,
 }) {
-  const [dismissed, setDismissed] = useState(false)
+  const [dismissed, setDismissed] = useState(() => {
+    if (typeof window === 'undefined') return false
+    try {
+      return sessionStorage.getItem('cosmos_pwa_dismissed') === '1'
+    } catch {
+      return false
+    }
+  })
   const [isInstalling, setIsInstalling] = useState(false)
 
-  const { isIOS, isAndroid, isMacSafari } = platformInfo || {}
+  const { isIOS, isMacSafari } = platformInfo || {}
 
-  // If already installed and running as an app, do not render anything
+  // If already installed and running as a standalone app, do not render anything
   if (isInstalled) {
     return null
   }
 
   function handleDismiss() {
     setDismissed(true)
+    try {
+      sessionStorage.setItem('cosmos_pwa_dismissed', '1')
+    } catch {}
   }
 
   async function handleInstallAction() {
@@ -32,6 +42,10 @@ export default function InstallPromptModal({
       setIsInstalling(false)
     }
   }
+
+  // Only show the floating install pill if the browser supports installation
+  // (native beforeinstallprompt on Chromium/Android, or iOS Safari with Add to Home Screen instructions)
+  const canShowPill = !isInstalled && !dismissed && (hasNativePrompt || isIOS)
 
   // Fallback modal for browsers that do not support beforeinstallprompt (e.g. iOS Safari)
   const renderModalContent = () => {
@@ -103,7 +117,7 @@ export default function InstallPromptModal({
 
   return (
     <>
-      {/* ── Optional Fallback Instructions Modal ── */}
+      {/* ── Fallback Instructions Modal (for iOS or manual triggers) ── */}
       {showInstallModal && !isInstalled && (
         <div className="install-modal-backdrop" onClick={() => setShowInstallModal(false)}>
           <div className="install-modal-card" onClick={(e) => e.stopPropagation()}>
@@ -145,35 +159,30 @@ export default function InstallPromptModal({
         </div>
       )}
 
-      {/* ── Floating Bottom Install Banner (Only when NOT running as an installed app) ── */}
-      {!isInstalled && !dismissed && (
-        <aside className="install-toast-banner" aria-label="Install CosmosHub application">
-          <div className="install-toast-left">
-            <CosmosLogo size={34} />
-            <div className="install-toast-text">
-              <div className="install-toast-title">Install CosmosHub App</div>
-              <div className="install-toast-desc">
-                Get instant space transmissions, offline reading &amp; native performance.
-              </div>
-            </div>
-          </div>
-
-          <div className="install-toast-actions">
-            <button
-              className="install-action-btn primary"
-              onClick={handleInstallAction}
-              disabled={isInstalling}
-            >
+      {/* ── Compact Floating Install Pill Widget (Bottom-Right) ── */}
+      {canShowPill && (
+        <aside className="install-floating-widget" aria-label="Install CosmosHub application">
+          <button
+            type="button"
+            className="install-widget-action"
+            onClick={handleInstallAction}
+            disabled={isInstalling}
+            title="Install CosmosHub App"
+          >
+            <CosmosLogo size={20} />
+            <span className="install-widget-label">
               {isInstalling ? 'Opening...' : 'Install App'}
-            </button>
-            <button
-              className="install-action-btn secondary"
-              onClick={handleDismiss}
-              title="Dismiss"
-            >
-              Later
-            </button>
-          </div>
+            </span>
+          </button>
+          <button
+            type="button"
+            className="install-widget-close"
+            onClick={handleDismiss}
+            aria-label="Dismiss installation prompt"
+            title="Dismiss"
+          >
+            ✕
+          </button>
         </aside>
       )}
     </>

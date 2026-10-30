@@ -11,7 +11,8 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 const POLL_INTERVAL = 5 * 60 * 1000 // 5 minutes
 const AI_SUMMARY_LIMIT = Number(import.meta.env.VITE_AI_SUMMARY_LIMIT || 40)
-const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000
+const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000
+const PAGE_SIZE = 24
 gsap.registerPlugin(ScrollTrigger)
 
 function hasTimezoneInfo(value) {
@@ -104,10 +105,28 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
   const [searchInput, setSearchInput] = useState('')
   const [debouncedQuery, setDebouncedQuery] = useState('')
   const [historicalPool, setHistoricalPool] = useState([])
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE)
 
   const pollTimeoutRef = useRef(null)
   const viewRef = useRef(null)
   const prevPrefsLengthRef = useRef(prefs.length)
+  const prevVisibleCountRef = useRef(PAGE_SIZE)
+  const prevFilterRef = useRef(filter)
+  const prevQueryRef = useRef(debouncedQuery)
+  const prevPrefsRef = useRef(prefs)
+
+  // Synchronously reset pagination during render phase when filter, search, or prefs change
+  // to avoid multi-pass render flashes.
+  if (
+    prevFilterRef.current !== filter ||
+    prevQueryRef.current !== debouncedQuery ||
+    prevPrefsRef.current !== prefs
+  ) {
+    prevFilterRef.current = filter
+    prevQueryRef.current = debouncedQuery
+    prevPrefsRef.current = prefs
+    setVisibleCount(PAGE_SIZE)
+  }
 
   // 250ms debounce for search query
   useEffect(() => {
@@ -172,12 +191,13 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
       }
 
       const ranked = [...raw].sort(sortByNewest)
-      const cutoff = Date.now() - SEVEN_DAYS_MS
+      // Expanded 30-day rolling window
+      const cutoff = Date.now() - THIRTY_DAYS_MS
       const recent = ranked.filter(a => toTimestampIST(a.pubDate) >= cutoff)
       const displayPool = recent.length ? recent : ranked
 
       if (!recent.length) {
-        setStatusText('No updates in the last 7 days — showing latest available articles')
+        setStatusText('No updates in the last 30 days — showing latest available articles')
       }
 
       // Keep Feed and Missions views in sync with the same visible date window/fallback pool.
@@ -223,7 +243,8 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     setDebouncedQuery('')
   }
 
-  // Animation on load, card updates, or search filter
+  // 1. Initial load, filter changes, and search query changes:
+  // Animate the initial viewport cards and register ScrollTriggers for remaining initial batch.
   useLayoutEffect(() => {
     if (loading) return
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
@@ -231,6 +252,8 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     const ctx = gsap.context(() => {
       const cardsEls = gsap.utils.toArray('.cosmos-grid .news-card')
       if (!cardsEls.length) return
+
+      prevVisibleCountRef.current = Math.min(cardsEls.length, PAGE_SIZE)
 
       const introBatch = cardsEls.slice(0, 10)
       gsap.fromTo(
@@ -248,7 +271,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
         }
       )
 
-      cardsEls.slice(10).forEach((card, i) => {
+      cardsEls.slice(10, PAGE_SIZE).forEach((card, i) => {
         gsap.fromTo(
           card,
           { opacity: 0, y: 54, scale: 0.95 },
@@ -272,7 +295,41 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
     }, viewRef)
 
     return () => ctx.revert()
-  }, [loading, cards.length, filter, debouncedQuery])
+  }, [loading, cards.length, filter, debouncedQuery, prefs])
+
+  // 2. Incremental "Load More" animations:
+  // Animate only the newly appended batch of cards without reverting or disrupting
+  // previously registered ScrollTriggers on existing cards.
+  useLayoutEffect(() => {
+    if (loading) return
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return
+    if (visibleCount <= PAGE_SIZE) return
+
+    const cardsEls = gsap.utils.toArray('.cosmos-grid .news-card')
+    const prevCount = prevVisibleCountRef.current
+    prevVisibleCountRef.current = visibleCount
+
+    const newBatch = cardsEls.slice(prevCount, visibleCount)
+    if (!newBatch.length) return
+
+    const tween = gsap.fromTo(
+      newBatch,
+      { opacity: 0, y: 36, scale: 0.96 },
+      {
+        opacity: 1,
+        y: 0,
+        scale: 1,
+        duration: 0.5,
+        stagger: 0.04,
+        ease: 'power2.out',
+        clearProps: 'opacity,transform',
+      }
+    )
+
+    return () => {
+      tween.kill()
+    }
+  }, [visibleCount])
 
   // Extract source tabs
   const sourceTabs = Array.from(
@@ -325,6 +382,9 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
           .filter(Boolean)
       : filtered
   }
+
+  // Paginated card subset for progressive loading
+  const pagedCards = visibleCards.slice(0, visibleCount)
 
   return (
     <div ref={viewRef}>
@@ -386,7 +446,9 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
             {loading ? '' : (
               debouncedQuery
                 ? `${visibleCards.length} ${visibleCards.length === 1 ? 'transmission' : 'transmissions'} found`
-                : `${visibleCards.length} articles`
+                : visibleCards.length > PAGE_SIZE
+                  ? `Showing ${pagedCards.length} of ${visibleCards.length} articles`
+                  : `${visibleCards.length} articles`
             )}
           </span>
         </div>
@@ -422,7 +484,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
           </>
         )}
 
-        {visibleCards.map(({ article, summaries }, i) => (
+        {pagedCards.map(({ article, summaries }, i) => (
           <NewsCard
             key={article.id || article.title + i}
             article={article}
@@ -465,6 +527,22 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
               onClick={() => setFilter('all')}
             >
               Show all sources
+            </button>
+          </div>
+        )}
+
+        {/* Load More Pagination Control */}
+        {!loading && visibleCards.length > visibleCount && (
+          <div className="load-more-container">
+            <button
+              type="button"
+              className="load-more-btn"
+              onClick={() => setVisibleCount(prev => prev + PAGE_SIZE)}
+            >
+              <span>Load More Transmissions</span>
+              <span className="load-more-count">
+                ({visibleCards.length - visibleCount} remaining)
+              </span>
             </button>
           </div>
         )}

@@ -10,7 +10,7 @@ const CORS_PROXY =
 const MAX_PER_SOURCE = Number(
   (typeof import.meta !== 'undefined' && import.meta.env?.VITE_RSS_MAX_PER_SOURCE) ||
   (typeof process !== 'undefined' && process.env?.VITE_RSS_MAX_PER_SOURCE) ||
-  20
+  50
 )
 
 const STOP_WORDS = new Set([

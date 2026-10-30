@@ -32,7 +32,7 @@ function parseArgs() {
     summaryFile: null,
     concurrency: 4,
     timeoutMs: 10000,
-    maxPerSource: 20
+    maxPerSource: parseInt(process.env.VITE_RSS_MAX_PER_SOURCE, 10) || 50
   }
 
   for (let i = 0; i < args.length; i++) {
@@ -49,6 +49,8 @@ function parseArgs() {
       options.concurrency = parseInt(args[++i], 10) || 4
     } else if (arg === '--timeout' && args[i + 1]) {
       options.timeoutMs = parseInt(args[++i], 10) || 10000
+    } else if (arg === '--max-per-source' && args[i + 1]) {
+      options.maxPerSource = parseInt(args[++i], 10) || 50
     }
   }
 
@@ -393,23 +395,36 @@ export function updateArchiveFile(archivePath, dateStr, collectionLabel, collect
 /* ── Snapshot Management ── */
 export function saveSnapshotAtomic(snapshotPath, articles, generatedAt) {
   mkdirSync(dirname(snapshotPath), { recursive: true })
+
+  // Sort articles newest-first before applying 500-article slice.
+  // Invalid/missing timestamps return 0 and are sorted to the end.
+  const sorted = [...articles].sort((a, b) => {
+    const da = toTimestampIST(a.pubDate)
+    const db = toTimestampIST(b.pubDate)
+    if (db !== da) return db - da
+    const titleDiff = String(a.title || '').localeCompare(String(b.title || ''))
+    if (titleDiff !== 0) return titleDiff
+    return String(a.canonicalUrl || a.link || a.id || '').localeCompare(String(b.canonicalUrl || b.link || b.id || ''))
+  })
+
+  const sliced = sorted.slice(0, 500)
   const snapshotData = {
     version: 1,
     generatedAt,
-    count: articles.length,
-    articles: articles.slice(0, 100).map(a => ({
-      id: a.articleId,
+    count: sliced.length,
+    articles: sliced.map(a => ({
+      id: a.articleId || a.id,
       title: a.title,
       link: a.canonicalUrl || a.link,
       desc: a.desc,
       pubDate: a.pubDate,
       category: a.category,
       source: {
-        name: a.source.name,
-        key: a.source.key,
-        badgeClass: a.source.badgeClass,
-        cardClass: a.source.cardClass,
-        tags: a.source.tags
+        name: a.source?.name || a.source,
+        key: a.source?.key,
+        badgeClass: a.source?.badgeClass,
+        cardClass: a.source?.cardClass,
+        tags: a.source?.tags
       }
     }))
   }
@@ -464,7 +479,7 @@ export async function runIngestion(cliOptions = {}) {
     if (res.status === 'success') {
       feedsSucceeded++
       if (res.etag) index.etags[res.source.url] = res.etag
-      const parsed = parseRSS(res.contents, res.source, cliOptions.maxPerSource || 20)
+      const parsed = parseRSS(res.contents, res.source, cliOptions.maxPerSource || 50)
       for (const a of parsed) {
         rawArticles.push({ ...a, ingestOrder: ingestOrder++ })
       }
@@ -579,10 +594,19 @@ export async function runIngestion(cliOptions = {}) {
 
     // Update latest news snapshot for web client fallback only when new stories were found or snapshot missing
     if (newStories.length > 0 || !existsSync(snapshotPath)) {
-      const allKnownArticles = [...newStories, ...dedupedBatch]
+      let priorSnapshotArticles = []
+      if (existsSync(snapshotPath)) {
+        try {
+          const prior = JSON.parse(readFileSync(snapshotPath, 'utf8'))
+          if (Array.isArray(prior.articles)) {
+            priorSnapshotArticles = prior.articles
+          }
+        } catch {}
+      }
+      const allKnownArticles = [...newStories, ...dedupedBatch, ...priorSnapshotArticles]
       const uniqueSnapshotPool = dedupeArticles(allKnownArticles)
       saveSnapshotAtomic(snapshotPath, uniqueSnapshotPool, new Date().toISOString())
-      console.log(`📦 Web client snapshot saved: ${snapshotPath}`)
+      console.log(`📦 Web client snapshot saved: ${snapshotPath} (${Math.min(uniqueSnapshotPool.length, 500)} articles)`)
     }
   }
 

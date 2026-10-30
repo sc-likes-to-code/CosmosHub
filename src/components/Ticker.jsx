@@ -1,7 +1,7 @@
 import React, { useLayoutEffect, useRef } from 'react'
 import { gsap } from 'gsap'
 
-export default function Ticker({ articles }) {
+export default function Ticker({ articles = [] }) {
   const tickerRef = useRef(null)
 
   useLayoutEffect(() => {
@@ -21,8 +21,21 @@ export default function Ticker({ articles }) {
 
   if (!articles.length) return null
 
-  const headlines = articles.slice(0, 10).map(a => a.title).join(' \u00a0\u00a0\u2022\u00a0\u00a0 ')
+  // Extract up to 20 unique headlines without duplicates
+  const uniqueTitles = []
+  const seen = new Set()
+  for (const a of articles) {
+    const title = (a.title || '').trim()
+    if (title && !seen.has(title)) {
+      seen.add(title)
+      uniqueTitles.push(title)
+      if (uniqueTitles.length >= 20) break
+    }
+  }
 
+  if (!uniqueTitles.length) return null
+
+  const headlines = uniqueTitles.join(' \u00a0\u00a0\u2022\u00a0\u00a0 ')
   const doubled = headlines + ' \u00a0\u00a0\u2022\u00a0\u00a0 ' + headlines
 
   return (
