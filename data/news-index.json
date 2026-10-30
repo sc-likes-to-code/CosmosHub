@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-29T20:26:23.492Z",
-  "lastRunId": "run-1793305581913-p24f13",
+  "lastUpdated": "2026-10-30T03:30:47.486Z",
+  "lastRunId": "run-1793331045637-lzzqut",
   "stats": {
-    "totalStories": 449,
-    "lastRunAdded": 17
+    "totalStories": 464,
+    "lastRunAdded": 15
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"daa00cc0c6128b991f2772c2697aa5da\"",
-    "https://www.universetoday.com/feed": "W/\"6ae3a329-76d1\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"f03db33fdab8b056e32f646e54245e30\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"b5937025bf4b2ae3854124dce2c7c918\"",
+    "https://www.universetoday.com/feed": "W/\"6ae40536-77ea\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b5937025bf4b2ae3854124dce2c7c918\"",
     "http://arxiv.org/rss/astro-ph": "fefae73a4e8c7cac2445a9bba9a8a11a90d48b1474f9b978d7a809621b3d4b45",
-    "https://spacenews.com/feed/": "W/\"77a566c06783e67e3928b0c2c1483cd3\"",
-    "https://www.astronomy.com/feed/": "W/\"990ebfd927a4fb8442b94d7a0f8e1e0d\"",
+    "https://spacenews.com/feed/": "W/\"d89416c7a6131f6438ec97d3a45cabf8\"",
+    "https://www.astronomy.com/feed/": "W/\"e3cb515f4324e2edbd1b2c9efc834e8d\"",
     "https://spacepolicyonline.com/feed/": "\"e9a063482831eade1f3f8c892e632953\""
   },
   "articles": {
@@ -5403,6 +5403,186 @@
       "archivedDate": "2026-10-29",
       "collection": "evening",
       "archivedAt": "2026-10-29T20:26:23.492Z"
+    },
+    "0002ca83f18b104e": {
+      "id": "0002ca83f18b104e",
+      "canonicalUrl": "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything",
+      "title": "How You Squeeze Planetary Minerals Changes Everything",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 02:28:22 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0012c5fb46ef27bf": {
+      "id": "0012c5fb46ef27bf",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001",
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 00:07:39 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0013ac2f06823262": {
+      "id": "0013ac2f06823262",
+      "canonicalUrl": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+      "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 23:49:50 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "00052bb745e21283": {
+      "id": "00052bb745e21283",
+      "canonicalUrl": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
+      "title": "It's a Ghost! No, It's a Stellar Crèche!",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 23:25:37 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0000d41a53b31ae0": {
+      "id": "0000d41a53b31ae0",
+      "canonicalUrl": "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst",
+      "title": "Examining the Cat's Head Nebula with the Hubble and JWST",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 22:38:52 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0001752e1c7624e0": {
+      "id": "0001752e1c7624e0",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station",
+      "title": "Halloween Aboard the International Space Station",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 21:44:23 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "00190b3361bc5900": {
+      "id": "00190b3361bc5900",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
+      "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 29 Oct 2026 21:28:58 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0002b90c4c2b2234": {
+      "id": "0002b90c4c2b2234",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/a-stellar-illusion",
+      "title": "A stellar illusion",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 21:01:42 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0002a047470deed4": {
+      "id": "0002a047470deed4",
+      "canonicalUrl": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
+      "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 21:00:00 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0001bb86b5a700f9": {
+      "id": "0001bb86b5a700f9",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-ii-from-interplanetary-to-interstellar",
+      "title": "A Brief-ish History of METI. Part II: From Interplanetary to Interstellar",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 20:22:10 +0000",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "000fb7e06fe1e72f": {
+      "id": "000fb7e06fe1e72f",
+      "canonicalUrl": "https://phys.org/news/2026-10-space-station-probe-disease-future.html",
+      "title": "Space station experiment to probe plant disease risks for future moon and Mars missions",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 23:00:01 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "001c604eed5fcaaa": {
+      "id": "001c604eed5fcaaa",
+      "canonicalUrl": "https://phys.org/news/2026-10-nasa-uv-space-telescope.html",
+      "title": "NASA's new UV space telescope will launch in 2031",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 29 Oct 2026 20:40:01 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "001432efced7fee6": {
+      "id": "001432efced7fee6",
+      "canonicalUrl": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html",
+      "title": "Rare 4.1-billion-year-old Martian meteorite reveals clues to planet's ancient past",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 19:30:05 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0008fae0d41d0dd3": {
+      "id": "0008fae0d41d0dd3",
+      "canonicalUrl": "https://phys.org/news/2026-10-asteroids-venturing-white-dwarfs-dont.html",
+      "title": "Asteroids venturing near white dwarfs don't break directly into dust, study reveals",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 29 Oct 2026 18:50:01 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
+    },
+    "0014afd992fd896d": {
+      "id": "0014afd992fd896d",
+      "canonicalUrl": "https://phys.org/news/2026-10-ghostly-cat-nebula-lurks-sight.html",
+      "title": "Ghostly Cat's Head Nebula lurks within sight of NASA's Hubble, Webb",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 29 Oct 2026 16:20:01 EDT",
+      "archivedDate": "2026-10-30",
+      "collection": "morning",
+      "archivedAt": "2026-10-30T03:30:47.486Z"
     }
   }
 }
