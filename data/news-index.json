@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-30T19:59:28.226Z",
-  "lastRunId": "run-1793390365296-9izx19",
+  "lastUpdated": "2026-10-31T03:30:50.583Z",
+  "lastRunId": "run-1793417447877-xz68j1",
   "stats": {
-    "totalStories": 537,
-    "lastRunAdded": 52
+    "totalStories": 545,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"e8f80b1c1a3e6c5b2fef18e2b694b23b\"",
-    "https://www.universetoday.com/feed": "W/\"6ae4f3d3-76ed\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c48a49cb326faa54ce6f3e989319d9a8\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"3e28f4d838fbaf53904f0bbb84ffcd78\"",
+    "https://www.universetoday.com/feed": "W/\"6ae556a6-7520\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3e28f4d838fbaf53904f0bbb84ffcd78\"",
     "http://arxiv.org/rss/astro-ph": "6f30ed8d37951ec92b7f656783c5bec604186924f43be5937a4943d939927e89",
-    "https://spacenews.com/feed/": "W/\"1eebb98034683ab8d2bf0e69c391ce7c\"",
+    "https://spacenews.com/feed/": "W/\"dc40c9725d2cd7ab5de6dab01084e2d8\"",
     "https://www.astronomy.com/feed/": "W/\"11bdb3abe010b3a4b043b1c3dc447d7a\"",
-    "https://spacepolicyonline.com/feed/": "\"93fafe18f34f1c29677bd1a050df13c6\""
+    "https://spacepolicyonline.com/feed/": "\"b029550233a592560d80d34e67162291\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -6459,6 +6459,102 @@
       "archivedDate": "2026-10-30",
       "collection": "evening",
       "archivedAt": "2026-10-30T19:59:28.226Z"
+    },
+    "0014bc587c659dd4": {
+      "id": "0014bc587c659dd4",
+      "canonicalUrl": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
+      "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 31 Oct 2026 01:52:53 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "001bc80d9a1c5d3d": {
+      "id": "001bc80d9a1c5d3d",
+      "canonicalUrl": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+      "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 23:26:14 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "0014f6bc025d769f": {
+      "id": "0014f6bc025d769f",
+      "canonicalUrl": "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two",
+      "title": "What Could Split a Black Hole in Two?",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 21:30:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "0015c720f6640128": {
+      "id": "0015c720f6640128",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
+      "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "001994c9614d8f00": {
+      "id": "001994c9614d8f00",
+      "canonicalUrl": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
+      "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 30 Oct 2026 20:59:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "00180d0108262850": {
+      "id": "00180d0108262850",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+      "title": "India launches next-gen navigation satellite to orbit (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 30 Oct 2026 20:29:58 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "000587892adcd052": {
+      "id": "000587892adcd052",
+      "canonicalUrl": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
+      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 20:20:01 EDT",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "000b2d21aabfdd81": {
+      "id": "000b2d21aabfdd81",
+      "canonicalUrl": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
+      "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 16:20:06 EDT",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T03:30:50.583Z"
     }
   }
 }

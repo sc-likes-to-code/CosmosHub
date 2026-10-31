@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T19:59:30.124Z",
-  "count": 261,
+  "generatedAt": "2026-10-31T03:30:52.499Z",
+  "count": 269,
   "articles": [
+    {
+      "id": "0014bc587c659dd4",
+      "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
+      "link": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
+      "desc": "Planetary defense is a growing concern among the scientific community, as efforts have been made to design and implement missions meant to deflect incoming threats to the Earth well in advance. In 2022, NASA intentionally collided the Double Asteroid Redirection test (DART) planetary defense spacecr",
+      "pubDate": "Sat, 31 Oct 2026 01:52:53 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001bc80d9a1c5d3d",
+      "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+      "link": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+      "desc": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\"",
+      "pubDate": "Fri, 30 Oct 2026 23:26:14 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0014f6bc025d769f",
+      "title": "What Could Split a Black Hole in Two?",
+      "link": "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two",
+      "desc": "We all know that black holes can collide. It has happened since black holes began to form, early in cosmic time. The result is always a clash that gives off gravitational waves and a giant bang. Since black holes have such strong gravity, it's almost impossible to imagine a way that any force could ",
+      "pubDate": "Fri, 30 Oct 2026 21:30:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0015c720f6640128",
+      "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station'",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
+      "desc": "After five days of living underwater, Analog Astronaut Commander Dr. Musilova and her crew return to terra firma, affected by higher pressures and the team's disconnection from home.",
+      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001994c9614d8f00",
+      "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
+      "link": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
+      "desc": "Astronomers at Queen’s University Belfast have led an international team studying new solar system bodies near Neptune, helping to unravel the mysteries of our solar system’s evolution.",
+      "pubDate": "Fri, 30 Oct 2026 20:59:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00180d0108262850",
+      "title": "India launches next-gen navigation satellite to orbit (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+      "desc": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year.",
+      "pubDate": "Fri, 30 Oct 2026 20:29:58 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0014fd22f69a06a0",
       "title": "NASA Releases MAX POWER Key Events for Media, Participants",
@@ -207,6 +315,25 @@
       }
     },
     {
+      "id": "000587892adcd052",
+      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
+      "link": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
+      "desc": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass throu",
+      "pubDate": "Fri, 30 Oct 2026 20:20:01 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001535febf70da3a",
       "title": "On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026",
@@ -311,6 +438,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000b2d21aabfdd81",
+      "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
+      "link": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
+      "desc": "A tiny glass chip developed by researchers at Heriot-Watt University has linked two telescopes together to enable them to act as a single powerful instrument, marking an important step toward a new generation of astronomical technology.",
+      "pubDate": "Fri, 30 Oct 2026 16:20:06 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
