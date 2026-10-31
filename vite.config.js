@@ -22,6 +22,7 @@ export default defineConfig(({ command }) => {
         registerType: 'autoUpdate',
         devOptions: {
           enabled: true,
+          suppressWarnings: true,
         },
         includeAssets: [
           'favicon.ico',

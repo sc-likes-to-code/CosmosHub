@@ -183,7 +183,7 @@ export default function App() {
           />
           <Route
             path="/missions"
-            element={<MissionsView articles={articles} />}
+            element={<MissionsView articles={articles} openModal={setModalData} />}
           />
           <Route
             path="/saved"
