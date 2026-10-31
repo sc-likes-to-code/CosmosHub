@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T03:30:52.499Z",
-  "count": 269,
+  "generatedAt": "2026-10-31T09:54:17.672Z",
+  "count": 279,
   "articles": [
+    {
+      "id": "0005ca1d357bffcf",
+      "title": "The Sky Today on Saturday, October 31: Glimpse the ghostly Phantom Galaxy",
+      "link": "https://www.astronomy.com/observing/the-sky-today-saturday-october-31-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 30: Mars approaches Leo Let’s send off spooky season on a high note this Halloween with M74, also known as the Phantom Galaxy.  The best time to catch this ghostly galaxy is after darkness falls but before moonrise.",
+      "pubDate": "Sat, 31 Oct 2026 08:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0006c95d6e5f7f5d",
+      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+      "desc": "SpaceX sent another batch of its Starlink broadband satellites to orbit from California just after midnight on Halloween (Oct. 31).",
+      "pubDate": "Sat, 31 Oct 2026 05:24:11 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0008053517ae699f",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
+      "desc": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
+      "pubDate": "Sat, 31 Oct 2026 04:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0014bc587c659dd4",
       "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
@@ -388,6 +443,24 @@
       }
     },
     {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Fri, 30 Oct 2026 13:03:37 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "00172188fc3b6a7c",
       "title": "Earth’s “Impenetrable” Space Radiation Shield Was Just Breached From Within",
       "link": "https://www.universetoday.com/articles/earths-impenetrable-space-radiation-shield-was-just-breached-from-within",
@@ -498,6 +571,24 @@
       }
     },
     {
+      "id": "00017ef844955c90",
+      "title": "The Sky Today on Friday, October 30: Mars approaches Leo",
+      "link": "https://www.astronomy.com/observing/the-sky-today-friday-october-30-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 29: Open cluster Collinder 463 Magnitude 0.8 Mars, currently tracking eastward through the sky, now stands at the border of Cancer and Leo. It is still within the bounds of the Crab this morning, roughly 60° high in",
+      "pubDate": "Fri, 30 Oct 2026 08:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001aa1a5c505fce3",
       "title": "A gamma-ray powerhouse's smoking gun? Gas trail points to microquasar jets",
       "link": "https://phys.org/news/2026-10-gamma-ray-powerhouse-gun-gas.html",
@@ -513,6 +604,24 @@
           "Physics",
           "Space",
           "Research"
+        ]
+      }
+    },
+    {
+      "id": "001f3ee2df9c0f67",
+      "title": "The Sky This Week from October 30 to November 6: The Moon jockeys with Jupiter and Mars",
+      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-october-30-to-november-6-2026",
+      "desc": "Friday, October 30Take a peek over at Pisces this evening before moonrise to look for its famous Circlet asterism of stars. You can find this star pattern easiest by first finding Saturn, the brightest point of light in this part of the sky, which stands about 30° high in the southeast by 8 P.M. loc",
+      "pubDate": "Fri, 30 Oct 2026 05:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -570,25 +679,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "00014184b8018324",
-      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare",
-      "desc": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
-      "pubDate": "Fri, 30 Oct 2026 04:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -791,6 +881,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0002b90c4c2b2234",
+      "title": "A stellar illusion",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/a-stellar-illusion",
+      "desc": "Behyar Bakhshandeh from Carlsbad, California The emission nebula IC 1318, also known as the Gamma Cygni Nebula, glows roughly 5,300 light-years away in Cygnus — far beyond Sadr, the bright supergiant star it only appears to surround. The imager spent 24 hours exposing in the Hubble palette (Hα/OIII/",
+      "pubDate": "Thu, 29 Oct 2026 21:01:42 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1239,6 +1347,24 @@
       }
     },
     {
+      "id": "00143acbbbce0d33",
+      "title": "Oct. 29, 1998: John Glenn returns to space",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-29-1998-john-glenn-returns-to-space",
+      "desc": "John Glenn became the first American to orbit Earth when he blasted off in Friendship 7 on Feb. 20, 1962. His flight made him an American hero during the heights of the Space Race, and the oldest man in space at the time of that mission. He subsequently served four six-year terms in the SenateContin",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "00048d7efa9250c4",
       "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
@@ -1364,6 +1490,24 @@
           "Physics",
           "Space",
           "Research"
+        ]
+      }
+    },
+    {
+      "id": "0015f9a4e5cc5fc7",
+      "title": "The Sky Today on Thursday, October 29: Open cluster Collinder 463",
+      "link": "https://www.astronomy.com/observing/the-sky-today-thursday-october-29-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 28: The Moon hangs with Uranus The W-shaped constellation Cassiopeia is prominent in the northern sky after sunset as it wheels around the North Celestial Pole, which marked by the North Star, Polaris. Around 8 P.M.",
+      "pubDate": "Thu, 29 Oct 2026 08:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
         ]
       }
     },
@@ -1789,6 +1933,24 @@
       }
     },
     {
+      "id": "001745d9cc7d8d0c",
+      "title": "Oct. 28, 1971: The U.K. launches a satellite",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/oct-28-1971-the-u-k-launches-a-satellite",
+      "desc": "The Prospero satellite, which launched on Oct. 28, 1971, holds the distinction of being the first and only British satellite to be launched by a British rocket. (The first British satellite launched by any rocket had been Ariel 1, carried to space on a U.S. rocket in 1962.) British engineers develop",
+      "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001254ca9b62defc",
       "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet",
       "link": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
@@ -1896,6 +2058,24 @@
           "Physics",
           "Space",
           "Research"
+        ]
+      }
+    },
+    {
+      "id": "000a24be7fe48a0c",
+      "title": "The Sky Today on Wednesday, October 28: The Moon hangs with Uranus",
+      "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-october-28-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 27: Follow Kemble’s Cascade The Moon passes 5° north of Uranus at 6 A.M. EDT this morning. You’ll find our satellite hanging above the Pleiades (M45) in Taurus, roughly 45° high in the west around 6 A.M. local dayli",
+      "pubDate": "Wed, 28 Oct 2026 08:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
         ]
       }
     },

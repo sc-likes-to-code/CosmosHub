@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31T03:30:50.583Z",
-  "lastRunId": "run-1793417447877-xz68j1",
+  "lastUpdated": "2026-10-31T09:54:15.868Z",
+  "lastRunId": "run-1793440453015-gwxk7l",
   "stats": {
-    "totalStories": 545,
-    "lastRunAdded": 8
+    "totalStories": 548,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"3e28f4d838fbaf53904f0bbb84ffcd78\"",
-    "https://www.universetoday.com/feed": "W/\"6ae556a6-7520\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3e28f4d838fbaf53904f0bbb84ffcd78\"",
-    "http://arxiv.org/rss/astro-ph": "6f30ed8d37951ec92b7f656783c5bec604186924f43be5937a4943d939927e89",
+    "https://www.nasa.gov/news-release/feed/": "W/\"8862b1661b46809a18328b5d73f6b4e5\"",
+    "https://www.universetoday.com/feed": "W/\"6ae5b896-7520\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8862b1661b46809a18328b5d73f6b4e5\"",
+    "http://arxiv.org/rss/astro-ph": "dd9d2dd47cf03115d0420585f3a8739f9f6c08e4de73e708bb2ea0100c30f4c7",
     "https://spacenews.com/feed/": "W/\"dc40c9725d2cd7ab5de6dab01084e2d8\"",
-    "https://www.astronomy.com/feed/": "W/\"11bdb3abe010b3a4b043b1c3dc447d7a\"",
+    "https://www.astronomy.com/feed/": "W/\"db24f091d8f812894fcf71e6fc72de96\"",
     "https://spacepolicyonline.com/feed/": "\"b029550233a592560d80d34e67162291\""
   },
   "articles": {
@@ -6555,6 +6555,42 @@
       "archivedDate": "2026-10-31",
       "collection": "morning",
       "archivedAt": "2026-10-31T03:30:50.583Z"
+    },
+    "0005ca1d357bffcf": {
+      "id": "0005ca1d357bffcf",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-saturday-october-31-2026",
+      "title": "The Sky Today on Saturday, October 31: Glimpse the ghostly Phantom Galaxy",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 31 Oct 2026 08:00:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T09:54:15.868Z"
+    },
+    "0006c95d6e5f7f5d": {
+      "id": "0006c95d6e5f7f5d",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 31 Oct 2026 05:24:11 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T09:54:15.868Z"
+    },
+    "0008053517ae699f": {
+      "id": "0008053517ae699f",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
+      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sat, 31 Oct 2026 04:05:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "morning",
+      "archivedAt": "2026-10-31T09:54:15.868Z"
     }
   }
 }
