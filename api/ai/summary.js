@@ -67,8 +67,7 @@ export default async function handler(req, res) {
     return res.status(500).json({
       success: false,
       fallback: true,
-      error: 'Internal server error processing summary',
-      details: err.message,
+      error: 'Temporary service error processing summary',
       summary: generateFallbackSummary(desc)
     })
   }

@@ -156,16 +156,24 @@ export async function getMultiSummary(title, desc, meta = {}) {
 
     const data = await res.json()
 
-    // Handle quota exhaustion or importance rejections
+    // Handle quota exhaustion, provider overload, or importance rejections
     if (data.success === false) {
       const isQuotaExceeded = data.reason === 'DAILY_BUDGET_EXCEEDED' || data.reason === 'QUOTA_EXHAUSTED'
+      const isOverloaded = data.reason === 'PROVIDER_OVERLOADED'
       return {
         success: false,
         fallback: true,
         isQuotaExceeded,
+        isOverloaded,
         isRateLimited: false,
         reason: data.reason,
-        error: data.error || (isQuotaExceeded ? 'Daily AI summary limit (15/15) reached. Resets at midnight IST.' : 'Summary unavailable.'),
+        error: data.error || (
+          isOverloaded
+            ? 'Gemini 3.1 Flash-Lite is temporarily experiencing high demand. Please try again in a moment.'
+            : isQuotaExceeded
+            ? 'Daily AI summary limit (15/15) reached. Resets at midnight IST.'
+            : 'Summary unavailable.'
+        ),
         summary: data.summary || fallback,
         fromCache: Boolean(data.fromCache),
         shortSummary: (data.summary || fallback).shortSummary,

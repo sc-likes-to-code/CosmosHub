@@ -4,7 +4,7 @@ import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from 'node
 import { resolve, join } from 'node:path'
 import { SummaryCache, computeContentHash } from '../server/summaryCache.js'
 import { QuotaManager, getTodayISTDate } from '../server/quotaManager.js'
-import { GeminiService, generateFallbackSummary, isConfirmedNonConsumingError } from '../server/geminiService.js'
+import { GeminiService, generateFallbackSummary, isConfirmedNonConsumingError, isGeminiOverloadError } from '../server/geminiService.js'
 import { _resetRedisClient, resolveRedisCredentials, isRedisConfigured, getRedisClient } from '../server/redisClient.js'
 import statusHandler from '../api/ai/status.js'
 import summaryHandler from '../api/ai/summary.js'
@@ -559,6 +559,229 @@ describe('CosmosHub Phase 2 & Vercel Migration — Gemini 3.1 Flash-Lite & Upsta
     // Confirmed non-consuming error: Quota slot was reserved (6 -> 7) then safely rolled back (7 -> 6)
     const quotaAfterConfirmed = await mockRedis.get(`cosmos:quota:${today}`)
     assert.equal(quotaAfterConfirmed, '6', 'Quota slot must be RELEASED on confirmed non-consuming error')
+  })
+
+  /* ── 12b. Gemini 503 Provider Overload Quota Release & Classification ── */
+  it('releases quota reservation and returns PROVIDER_OVERLOADED on Gemini 503 high-demand error', async () => {
+    const mockRedis = new MockUpstashRedis()
+    _resetRedisClient(mockRedis)
+
+    const today = getTodayISTDate()
+    await mockRedis.set(`cosmos:quota:${today}`, '4')
+
+    const cache = new SummaryCache(testCachePath)
+    const quota = new QuotaManager(testUsagePath)
+    const service = new GeminiService(cache, quota)
+
+    // Simulate Google Gemini SDK throwing 503 high-demand error
+    const overloadError = new Error('503 — This model is currently experiencing high demand')
+    overloadError.status = 503
+
+    service.client = {
+      models: {
+        generateContent: async () => {
+          throw overloadError
+        }
+      }
+    }
+
+    assert.equal(isGeminiOverloadError(overloadError), true)
+    assert.equal(isConfirmedNonConsumingError(overloadError), true)
+
+    const res = await service.getOrGenerateSummary({
+      articleId: 'overloaded-gemini-article',
+      title: 'Solar Wind Plasma Disruption Detected by Parker Probe',
+      canonicalUrl: 'https://nasa.gov/parker-plasma',
+      desc: 'Parker Solar Probe recorded intense plasma flux in the corona.',
+      category: 'Research & Science',
+      source: { name: 'NASA' },
+      isManual: true
+    })
+
+    assert.equal(res.success, false)
+    assert.equal(res.fallback, true)
+    assert.equal(res.reason, 'PROVIDER_OVERLOADED')
+    assert.match(res.error, /high demand/)
+    assert.ok(res.summary.shortSummary)
+
+    // Quota slot was reserved (4 -> 5) then RELEASED on 503 overload (5 -> 4)
+    const quotaAfter503 = await mockRedis.get(`cosmos:quota:${today}`)
+    assert.equal(quotaAfter503, '4', 'Quota slot must be RELEASED on confirmed 503 overload error')
+
+    // Also test structured JSON error body often returned by @google/genai
+    const structured503 = new Error(JSON.stringify({
+      error: {
+        code: 503,
+        message: 'This model is currently experiencing high demand',
+        status: 'UNAVAILABLE'
+      }
+    }))
+    structured503.status = 503
+    assert.equal(isGeminiOverloadError(structured503), true)
+
+    service.client = {
+      models: {
+        generateContent: async () => {
+          throw structured503
+        }
+      }
+    }
+
+    const resJson = await service.getOrGenerateSummary({
+      articleId: 'overloaded-json-article',
+      title: 'Solar Wind Plasma Disruption Detected by Parker Probe 2',
+      canonicalUrl: 'https://nasa.gov/parker-plasma-2',
+      desc: 'Parker Solar Probe recorded intense plasma flux.',
+      category: 'Research & Science',
+      source: { name: 'NASA' },
+      isManual: true
+    })
+
+    assert.equal(resJson.reason, 'PROVIDER_OVERLOADED')
+    const quotaAfterJson503 = await mockRedis.get(`cosmos:quota:${today}`)
+    assert.equal(quotaAfterJson503, '4', 'Quota slot must be RELEASED on structured JSON 503 error')
+  })
+
+  /* ── 12c. Conservative Quota Accounting on Network Disconnects & Ambiguous 5xx ── */
+  it('retains quota reservation on socket hangup, network disconnect, and ambiguous 500 error', async () => {
+    const mockRedis = new MockUpstashRedis()
+    _resetRedisClient(mockRedis)
+
+    const today = getTodayISTDate()
+    await mockRedis.set(`cosmos:quota:${today}`, '7')
+
+    const cache = new SummaryCache(testCachePath)
+    const quota = new QuotaManager(testUsagePath)
+    const service = new GeminiService(cache, quota)
+
+    // 1. Socket hang up
+    const socketErr = new Error('socket hang up')
+    assert.equal(isGeminiOverloadError(socketErr), false)
+    assert.equal(isConfirmedNonConsumingError(socketErr), false)
+
+    service.client = {
+      models: {
+        generateContent: async () => {
+          throw socketErr
+        }
+      }
+    }
+
+    const resSocket = await service.getOrGenerateSummary({
+      articleId: 'socket-drop-article',
+      title: 'Supermassive Black Hole Jet Ejection Tracked',
+      canonicalUrl: 'https://eso.org/black-hole-jet',
+      desc: 'Very Large Telescope arrays tracked relativistic jet.',
+      category: 'Astronomy & Astrophysics',
+      source: { name: 'ESO' },
+      isManual: true
+    })
+
+    assert.equal(resSocket.fallback, true)
+    assert.equal(resSocket.reason, 'API_ERROR')
+    // Quota slot RETAINED (7 -> 8)
+    const quotaAfterSocket = await mockRedis.get(`cosmos:quota:${today}`)
+    assert.equal(quotaAfterSocket, '8', 'Quota slot must be RETAINED on socket hang up')
+
+    // 2. Ambiguous 500 Internal Server Error
+    const err500 = new Error('500 Internal Server Error')
+    assert.equal(isGeminiOverloadError(err500), false)
+    assert.equal(isConfirmedNonConsumingError(err500), false)
+
+    service.client = {
+      models: {
+        generateContent: async () => {
+          throw err500
+        }
+      }
+    }
+
+    const res500 = await service.getOrGenerateSummary({
+      articleId: 'error-500-article',
+      title: 'Interstellar Comet Trajectory Calculation Completed',
+      canonicalUrl: 'https://nasa.gov/interstellar-comet',
+      desc: 'Deep space trajectory confirmed hyperbolic orbit.',
+      category: 'Research & Science',
+      source: { name: 'NASA' },
+      isManual: true
+    })
+
+    assert.equal(res500.fallback, true)
+    assert.equal(res500.reason, 'API_ERROR')
+    // Quota slot RETAINED (8 -> 9)
+    const quotaAfter500 = await mockRedis.get(`cosmos:quota:${today}`)
+    assert.equal(quotaAfter500, '9', 'Quota slot must be RETAINED on ambiguous 500 error')
+  })
+
+  /* ── 12d. Production Vercel Caching vs Local Development Fallback ── */
+  it('SummaryCache in Vercel production does not attempt local JSON writes and rejects unconfigured Redis', async () => {
+    const originalVercel = process.env.VERCEL
+    process.env.VERCEL = '1'
+
+    try {
+      // 1. Without Redis configured on Vercel: must throw operational error and NOT write to local filesystem
+      _resetRedisClient(null)
+      const vercelCachePath = join(TEST_DIR, 'nonexistent-vercel-data', 'summary-cache.json')
+      const cache = new SummaryCache(vercelCachePath)
+
+      await assert.rejects(
+        async () => {
+          await cache.get('any-article-id', 'https://example.com/any')
+        },
+        /Upstash Redis cache not configured in production environment/
+      )
+
+      await assert.rejects(
+        async () => {
+          await cache.set('any-article-id', 'https://example.com/any', { shortSummary: 'Test' })
+        },
+        /Upstash Redis cache not configured in production environment/
+      )
+
+      // Verify that local file was NEVER created
+      assert.equal(existsSync(vercelCachePath), false, 'Vercel cache must NEVER create local cache files')
+
+      // 2. With Redis configured on Vercel: writes to Redis and does NOT create local JSON files
+      const mockRedis = new MockUpstashRedis()
+      _resetRedisClient(mockRedis)
+
+      const redisCache = new SummaryCache(vercelCachePath)
+      await redisCache.set('vercel-cached-art', 'https://nasa.gov/vercel-cached', {
+        shortSummary: 'Stored in Upstash Redis',
+        detailedSummary: 'Detailed text',
+        eli12Summary: 'Simple text'
+      })
+
+      const fromRedis = await redisCache.get('vercel-cached-art')
+      assert.equal(fromRedis.summary.shortSummary, 'Stored in Upstash Redis')
+      assert.equal(existsSync(vercelCachePath), false, 'Vercel cache must NOT write to local disk even when successful')
+    } finally {
+      if (originalVercel !== undefined) {
+        process.env.VERCEL = originalVercel
+      } else {
+        delete process.env.VERCEL
+      }
+      _resetRedisClient(null)
+    }
+  })
+
+  it('SummaryCache in local development uses local file fallback when Redis is unconfigured', async () => {
+    delete process.env.VERCEL
+    _resetRedisClient(null)
+
+    const localCachePath = join(TEST_DIR, 'local-dev-cache.json')
+    const cache = new SummaryCache(localCachePath)
+
+    await cache.set('local-art-1', 'https://nasa.gov/local-art', {
+      shortSummary: 'Local file summary',
+      detailedSummary: 'Local detailed',
+      eli12Summary: 'Local eli12'
+    })
+
+    assert.equal(existsSync(localCachePath), true, 'Local dev must write to local file cache')
+    const reloaded = new SummaryCache(localCachePath)
+    const hit = await reloaded.get('local-art-1')
+    assert.equal(hit.summary.shortSummary, 'Local file summary')
   })
 
   /* ── 13. Rate Limiting via Upstash Redis ── */

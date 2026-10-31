@@ -30,6 +30,7 @@ export default function Modal({ data, onClose }) {
   const [summaryMode, setSummaryMode] = useState('short') // 'short' | 'detailed' | 'eli12'
   const [errorMessage, setErrorMessage] = useState(null)
   const [isQuotaExceeded, setIsQuotaExceeded] = useState(false)
+  const [isOverloaded, setIsOverloaded] = useState(false)
 
   const activeArticleIdRef = useRef(articleId)
 
@@ -39,6 +40,7 @@ export default function Modal({ data, onClose }) {
     setErrorMessage(null)
     setIsGenerating(false)
     setIsQuotaExceeded(false)
+    setIsOverloaded(false)
 
     // Check if client cache already has a summary for this article
     const existing = getCachedAiSummary(articleId, article.link)
@@ -80,6 +82,7 @@ export default function Modal({ data, onClose }) {
     setIsGenerating(true)
     setErrorMessage(null)
     setIsQuotaExceeded(false)
+    setIsOverloaded(false)
 
     try {
       const res = await getMultiSummary(article.title, article.desc, {
@@ -103,6 +106,12 @@ export default function Modal({ data, onClose }) {
         getAiStatus(true).then(st => {
           if (activeArticleIdRef.current === articleId && st) setQuotaInfo(st)
         })
+      } else if (res.isOverloaded) {
+        setIsOverloaded(true)
+        setErrorMessage(res.error || 'Gemini model is currently experiencing high demand. Please try again in a few moments.')
+        getAiStatus(true).then(st => {
+          if (activeArticleIdRef.current === articleId && st) setQuotaInfo(st)
+        })
       } else if (res.isQuotaExceeded) {
         setIsQuotaExceeded(true)
         getAiStatus(true).then(st => {
@@ -110,11 +119,17 @@ export default function Modal({ data, onClose }) {
         })
       } else {
         setErrorMessage(res.error || 'Failed to generate summary. Please try again.')
+        getAiStatus(true).then(st => {
+          if (activeArticleIdRef.current === articleId && st) setQuotaInfo(st)
+        })
       }
     } catch (err) {
       if (activeArticleIdRef.current !== articleId) return
       setIsGenerating(false)
       setErrorMessage(err.message || 'An unexpected error occurred.')
+      getAiStatus(true).then(st => {
+        if (activeArticleIdRef.current === articleId && st) setQuotaInfo(st)
+      })
     }
   }
 
@@ -227,8 +242,28 @@ export default function Modal({ data, onClose }) {
             </div>
           )}
 
-          {/* State D: Error State */}
-          {!isGenerating && !aiResult && errorMessage && !isQuotaExceeded && (
+          {/* State D: Provider Overload State (Gemini 503 high demand) */}
+          {!isGenerating && !aiResult && isOverloaded && !isQuotaExceeded && (
+            <div className="ai-status-alert ai-overload-alert">
+              <span className="ai-alert-icon">⚡</span>
+              <div className="ai-alert-content">
+                <strong>Gemini Model High Demand</strong>
+                <p>
+                  {errorMessage || 'Google Gemini 3.1 Flash-Lite is temporarily experiencing high demand. Your daily quota was not consumed. You can try generating again in a few moments.'}
+                </p>
+                <button
+                  type="button"
+                  className="ai-retry-btn"
+                  onClick={handleGenerateSummary}
+                >
+                  ↻ Try Again
+                </button>
+              </div>
+            </div>
+          )}
+
+          {/* State E: Error State */}
+          {!isGenerating && !aiResult && errorMessage && !isQuotaExceeded && !isOverloaded && (
             <div className="ai-status-alert ai-error-alert">
               <span className="ai-alert-icon">⚠️</span>
               <div className="ai-alert-content">
@@ -244,8 +279,8 @@ export default function Modal({ data, onClose }) {
             </div>
           )}
 
-          {/* State E: Initial Idle State (Ready to generate) */}
-          {!isGenerating && !aiResult && !isQuotaExceeded && !errorMessage && (
+          {/* State F: Initial Idle State (Ready to generate) */}
+          {!isGenerating && !aiResult && !isQuotaExceeded && !isOverloaded && !errorMessage && (
             <div className="ai-trigger-box">
               <p className="ai-trigger-desc">
                 Generate a factual multi-level synthesis powered by Google Gemini 3.1 Flash-Lite.

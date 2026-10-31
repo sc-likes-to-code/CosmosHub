@@ -224,6 +224,40 @@ describe('CosmosHub Frontend AI Summarization Integration Tests', () => {
     assert.match(res.error, /Daily AI summary limit/)
   })
 
+  it('handles provider overload responses (PROVIDER_OVERLOADED) and marks isOverloaded: true', async () => {
+    globalThis.fetch = async () => {
+      return {
+        ok: true,
+        status: 200,
+        json: async () => ({
+          success: false,
+          fallback: true,
+          reason: 'PROVIDER_OVERLOADED',
+          error: 'Gemini model is currently experiencing high demand. Please try again in a few moments.',
+          summary: {
+            shortSummary: 'Source excerpt on overload.',
+            detailedSummary: 'Source excerpt detailed on overload.',
+            eli12Summary: 'Source excerpt simple on overload.'
+          }
+        })
+      }
+    }
+
+    const res = await getMultiSummary(
+      'High Demand Target Article',
+      'Test description of space observatory.',
+      { articleId: 'overloaded-art' }
+    )
+
+    assert.strictEqual(res.success, false)
+    assert.strictEqual(res.fallback, true)
+    assert.strictEqual(res.isOverloaded, true)
+    assert.strictEqual(res.isQuotaExceeded, false)
+    assert.strictEqual(res.reason, 'PROVIDER_OVERLOADED')
+    assert.match(res.error, /high demand/)
+    assert.strictEqual(res.shortSummary, 'Source excerpt on overload.')
+  })
+
   it('handles server 500 errors and network failures safely with fallback content', async () => {
     globalThis.fetch = async () => {
       return {

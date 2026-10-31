@@ -36,6 +36,10 @@ export function loadSummaryCache(filePath = CACHE_PATH) {
 }
 
 export function saveSummaryCacheAtomic(filePath = CACHE_PATH, cacheData) {
+  // In serverless production environments (Vercel/Lambda), the filesystem is read-only (/var/task).
+  // Upstash Redis is the authoritative persistent cache. Never attempt to write local cache files on Vercel.
+  if (process.env.VERCEL) return
+
   try {
     mkdirSync(dirname(filePath), { recursive: true })
     const payload = {
@@ -65,7 +69,9 @@ export function saveSummaryCacheAtomic(filePath = CACHE_PATH, cacheData) {
 export class SummaryCache {
   constructor(filePath = CACHE_PATH) {
     this.filePath = filePath
-    this.localData = loadSummaryCache(filePath)
+    this.localData = process.env.VERCEL
+      ? { version: 1, lastUpdated: null, articles: {} }
+      : loadSummaryCache(filePath)
   }
 
   async get(articleId, canonicalUrl) {
@@ -93,6 +99,9 @@ export class SummaryCache {
           throw new Error(`Upstash Redis storage error: ${err.message}`)
         }
       }
+    } else if (process.env.VERCEL) {
+      // In production on Vercel, Upstash Redis is authoritative. Do not silently fall back to local disk.
+      throw new Error('Upstash Redis cache not configured in production environment')
     }
 
     // Local in-memory / file fallback
@@ -142,15 +151,19 @@ export class SummaryCache {
           throw new Error(`Upstash Redis storage error on write: ${err.message}`)
         }
       }
+    } else if (process.env.VERCEL) {
+      throw new Error('Upstash Redis cache not configured in production environment')
     }
 
-    // Always update local cache copy for fast lookup and local dev
+    // Always update local cache copy for fast lookup in memory
     this.localData.articles[key] = record
     if (canonicalUrl && key !== canonicalUrl) {
       this.localData.articles[canonicalUrl] = record
     }
 
-    saveSummaryCacheAtomic(this.filePath, this.localData)
+    if (!process.env.VERCEL) {
+      saveSummaryCacheAtomic(this.filePath, this.localData)
+    }
     return record
   }
 

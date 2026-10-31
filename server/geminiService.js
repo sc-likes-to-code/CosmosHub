@@ -13,6 +13,81 @@ export function generateFallbackSummary(desc) {
 }
 
 /**
+ * Detects whether an error from Google Gemini is a confirmed provider overload / 503 rejection.
+ *
+ * In this state, Google's gateway explicitly rejected the request prior to token generation
+ * due to transient server capacity or high demand. It is safe to release reserved quota.
+ *
+ * Checks both SDK error properties (.status, .code, .statusCode) and structured error bodies,
+ * while strictly excluding client timeouts, network drops, and ambiguous 5xx errors.
+ */
+export function isGeminiOverloadError(err) {
+  if (!err) return false
+
+  // 1. Direct status / code inspection on SDK error object (e.g., ApiError)
+  const status = err.status || err.statusCode || err.code
+  const is503Status = status === 503 || status === '503' || status === 'UNAVAILABLE'
+
+  const rawMsg = String(err.message || err)
+  const lowerMsg = rawMsg.toLowerCase()
+
+  // Strict safeguard: Must NOT be a client-side timeout, socket drop, or network disconnect
+  if (
+    lowerMsg.includes('timed out') ||
+    lowerMsg.includes('econnreset') ||
+    lowerMsg.includes('etimedout') ||
+    lowerMsg.includes('enotfound') ||
+    lowerMsg.includes('socket hang up') ||
+    err.name === 'AbortError'
+  ) {
+    return false
+  }
+
+  // 2. Structured JSON error body inspection (often serialized into err.message by @google/genai)
+  if (rawMsg.startsWith('{') || rawMsg.includes('{"error"')) {
+    try {
+      const match = rawMsg.match(/\{[\s\S]*\}/)
+      if (match) {
+        const parsed = JSON.parse(match[0])
+        const errObj = parsed.error || parsed
+        if (
+          errObj.code === 503 ||
+          errObj.status === 'UNAVAILABLE' ||
+          (typeof errObj.message === 'string' && (
+            errObj.message.toLowerCase().includes('high demand') ||
+            errObj.message.toLowerCase().includes('overloaded')
+          ))
+        ) {
+          return true
+        }
+      }
+    } catch {}
+  }
+
+  // 3. Status code 503 from SDK
+  if (is503Status) {
+    return true
+  }
+
+  // 4. Specific high-demand / overload phrases from Google's gateway
+  if (
+    lowerMsg.includes('experiencing high demand') ||
+    lowerMsg.includes('model is overloaded') ||
+    lowerMsg.includes('temporarily overloaded') ||
+    (lowerMsg.includes('503') && (
+      lowerMsg.includes('unavailable') ||
+      lowerMsg.includes('demand') ||
+      lowerMsg.includes('overload') ||
+      lowerMsg.includes('capacity')
+    ))
+  ) {
+    return true
+  }
+
+  return false
+}
+
+/**
  * Distinguishes between confirmed non-consuming errors (where Google gateway explicitly
  * rejected the request before generation, safe to release quota) versus ambiguous outcomes
  * (timeouts, socket disconnects, 5xx server errors, JSON parse failures where Gemini
@@ -20,7 +95,17 @@ export function generateFallbackSummary(desc) {
  */
 export function isConfirmedNonConsumingError(err) {
   if (!err) return false
+
+  // Confirmed 503 overload rejection is non-consuming
+  if (isGeminiOverloadError(err)) return true
+
   const msg = String(err.message || err).toLowerCase()
+  const status = err.status || err.statusCode || err.code
+
+  if (status === 400 || status === 401 || status === 403 || status === 404 || status === 429) {
+    return true
+  }
+
   return (
     msg.includes('api key not valid') ||
     msg.includes('invalid_argument') ||
@@ -30,7 +115,8 @@ export function isConfirmedNonConsumingError(err) {
     msg.includes('api_key_invalid') ||
     msg.includes('400 bad request') ||
     msg.includes('403 forbidden') ||
-    msg.includes('404 not found')
+    msg.includes('404 not found') ||
+    msg.includes('429')
   )
 }
 
@@ -340,12 +426,17 @@ No markdown code fences, no introductory or trailing commentary. Just the JSON o
     } catch (err) {
       console.warn(`[GeminiService] API call failed for article "${title?.slice(0, 40)}":`, err.message)
 
-      const isQuotaError = /429|RESOURCE_EXHAUSTED|quota/i.test(err.message)
-      const isConfirmedNonConsuming = isConfirmedNonConsumingError(err)
+      const isOverloaded = isGeminiOverloadError(err)
+      const isQuotaError = !isOverloaded && /429|RESOURCE_EXHAUSTED|quota/i.test(err.message)
+      const isConfirmedNonConsuming = isOverloaded || isConfirmedNonConsumingError(err)
 
       if (isConfirmedNonConsuming) {
         // Safe to release: provider explicitly rejected request before consuming tokens
-        console.log(`[GeminiService] Confirmed non-consuming failure for article "${title?.slice(0, 30)}". Releasing reserved quota.`)
+        if (isOverloaded) {
+          console.log(`[GeminiService] Confirmed provider overload (503/high demand) for article "${title?.slice(0, 30)}". Releasing reserved quota.`)
+        } else {
+          console.log(`[GeminiService] Confirmed non-consuming failure for article "${title?.slice(0, 30)}". Releasing reserved quota.`)
+        }
         await this.quota.releaseQuota()
       } else {
         // Ambiguous failure: timeout, 5xx server crash, or network disconnect while in flight.
@@ -353,12 +444,23 @@ No markdown code fences, no introductory or trailing commentary. Just the JSON o
         console.warn(`[GeminiService] Ambiguous outcome for article "${title?.slice(0, 30)}" (${err.message}). Retaining quota reservation.`)
       }
 
+      let reason = 'API_ERROR'
+      let errorMessage = 'Upstream API error'
+
+      if (isOverloaded) {
+        reason = 'PROVIDER_OVERLOADED'
+        errorMessage = 'Gemini model is currently experiencing high demand. Please try again in a few moments.'
+      } else if (isQuotaError) {
+        reason = 'QUOTA_EXHAUSTED'
+        errorMessage = 'Gemini API quota exhausted'
+      }
+
       return {
         success: false,
         fallback: true,
         fromCache: false,
-        reason: isQuotaError ? 'QUOTA_EXHAUSTED' : 'API_ERROR',
-        error: isQuotaError ? 'Gemini API quota exhausted' : 'Upstream API error',
+        reason,
+        error: errorMessage,
         articleId,
         canonicalUrl,
         summary: fallback,

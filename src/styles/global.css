@@ -812,6 +812,28 @@
   font-size: 11px;
   margin: 0;
 }
+.ai-overload-alert {
+  background: rgba(99, 179, 237, 0.08);
+  border: 1px solid rgba(99, 179, 237, 0.3);
+  color: #e2e8f0;
+}
+.ai-overload-alert strong {
+  color: #38bdf8;
+}
+.ai-overload-alert p {
+  color: #8ca4c1;
+  font-size: 11px;
+  margin: 0;
+}
+.ai-overload-alert .ai-retry-btn {
+  background: rgba(56, 189, 248, 0.12);
+  border-color: rgba(56, 189, 248, 0.35);
+  color: #38bdf8;
+}
+.ai-overload-alert .ai-retry-btn:hover {
+  background: rgba(56, 189, 248, 0.22);
+  border-color: #38bdf8;
+}
 .ai-error-alert {
   background: rgba(252, 129, 129, 0.08);
   border: 1px solid rgba(252, 129, 129, 0.25);
