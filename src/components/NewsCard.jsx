@@ -2,6 +2,7 @@ import React from 'react'
 import { isPinnedForUser } from '../utils/personalization'
 import { getTrustMeta } from '../utils/trust'
 import { useSavedArticles } from '../utils/bookmarks'
+import { getCachedAiSummary } from '../utils/ai'
 
 function formatDate(dateStr) {
   if (!dateStr) return 'Recently'
@@ -29,10 +30,13 @@ function TrustBadge({ sourceName }) {
 export default function NewsCard({ article, summaries, index = 0, prefs, onExpand }) {
   const s = article.source || {}
   const pinned = isPinnedForUser(article, prefs)
-  const summaryText = summaries?.shortSummary || article.desc?.slice(0, 180) || ''
   const agencyFilter = s.key === 'iss' ? 'ISS' : (s.name || 'Space')
   const { isSaved, toggleSave } = useSavedArticles()
   const saved = isSaved(article)
+
+  const cachedAi = getCachedAiSummary(article.id || article.link)
+  const hasAiSummary = Boolean(cachedAi?.summary || (summaries && summaries.model && summaries.model.includes('gemini')))
+  const summaryText = cachedAi?.summary?.shortSummary || summaries?.shortSummary || article.desc?.slice(0, 180) || ''
 
   function handleBookmarkToggle(e) {
     e.preventDefault()
@@ -62,9 +66,18 @@ export default function NewsCard({ article, summaries, index = 0, prefs, onExpan
       )}
 
       {/* title */}
-      <div className="card-title">{article.title}</div>
+      <div
+        className="card-title"
+        onClick={() => onExpand?.({ article, summaries })}
+        style={{ cursor: onExpand ? 'pointer' : 'default' }}
+        title="View details and AI summary"
+      >
+        {article.title}
+      </div>
 
-      <div className="ai-label"><div className="ai-dot" /> Summary</div>
+      <div className="ai-label">
+        <div className="ai-dot" /> {hasAiSummary ? 'AI Summary' : 'Source Excerpt'}
+      </div>
       <div className="card-summary">{summaryText}</div>
 
       {/* tags */}
@@ -79,26 +92,38 @@ export default function NewsCard({ article, summaries, index = 0, prefs, onExpan
         <a href={article.link} target="_blank" rel="noreferrer" className="read-more-btn">
           Read full article →
         </a>
-        <button
-          type="button"
-          className={`bookmark-btn${saved ? ' saved' : ''}`}
-          onClick={handleBookmarkToggle}
-          aria-label={saved ? 'Remove from saved articles' : 'Save article'}
-          title={saved ? 'Remove from saved articles' : 'Save article'}
-        >
-          <svg
-            className="bookmark-icon"
-            viewBox="0 0 24 24"
-            fill={saved ? '#38bdf8' : 'none'}
-            stroke={saved ? '#38bdf8' : 'currentColor'}
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            aria-hidden="true"
+        <div className="card-actions">
+          {onExpand && (
+            <button
+              type="button"
+              className="expand-btn"
+              onClick={() => onExpand({ article, summaries })}
+              title="View details and AI summary"
+            >
+              ⚡ Details & AI
+            </button>
+          )}
+          <button
+            type="button"
+            className={`bookmark-btn${saved ? ' saved' : ''}`}
+            onClick={handleBookmarkToggle}
+            aria-label={saved ? 'Remove from saved articles' : 'Save article'}
+            title={saved ? 'Remove from saved articles' : 'Save article'}
           >
-            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
-          </svg>
-        </button>
+            <svg
+              className="bookmark-icon"
+              viewBox="0 0 24 24"
+              fill={saved ? '#38bdf8' : 'none'}
+              stroke={saved ? '#38bdf8' : 'currentColor'}
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z" />
+            </svg>
+          </button>
+        </div>
       </div>
     </div>
   )

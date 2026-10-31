@@ -210,7 +210,13 @@ Create a `.env` file from `.env.example`.
 PORT=3001
 
 GEMINI_API_KEY=your_key_here
-GEMINI_MODEL=gemini-2.0-flash
+GEMINI_MODEL=gemini-3.1-flash-lite
+# Vercel Upstash integration variables:
+UPSTASH_REDIS_REST_KV_REST_API_URL=https://your-database.upstash.io
+UPSTASH_REDIS_REST_KV_REST_API_TOKEN=your_token_here
+# Fallback / local dev variables:
+# UPSTASH_REDIS_REST_URL=https://your-database.upstash.io
+# UPSTASH_REDIS_REST_TOKEN=your_token_here
 AI_DAILY_SUMMARY_LIMIT=15
 AI_SUMMARIZATION_ENABLED=true
 
@@ -347,7 +353,9 @@ Ensure:
 
 ```env
 GEMINI_API_KEY=your_key_here
-GEMINI_MODEL=gemini-2.0-flash
+GEMINI_MODEL=gemini-3.1-flash-lite
+UPSTASH_REDIS_REST_KV_REST_API_URL=https://your-database.upstash.io
+UPSTASH_REDIS_REST_KV_REST_API_TOKEN=your_token_here
 AI_DAILY_SUMMARY_LIMIT=15
 AI_SUMMARIZATION_ENABLED=true
 ```

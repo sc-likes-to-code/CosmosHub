@@ -21,7 +21,16 @@ Edit `.env` and add your server-side API keys:
 ```env
 PORT=3001
 GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-2.0-flash
+GEMINI_MODEL=gemini-3.1-flash-lite
+
+# Option A: Vercel Marketplace Upstash integration variables (Auto-populated on Vercel):
+UPSTASH_REDIS_REST_KV_REST_API_URL=https://your-database.upstash.io
+UPSTASH_REDIS_REST_KV_REST_API_TOKEN=your_token_here
+
+# Option B: Local development / manual Upstash fallback variables:
+# UPSTASH_REDIS_REST_URL=https://your-database.upstash.io
+# UPSTASH_REDIS_REST_TOKEN=your_token_here
+
 AI_DAILY_SUMMARY_LIMIT=15
 AI_SUMMARIZATION_ENABLED=true
 VITE_RSS_MAX_PER_SOURCE=50
@@ -29,6 +38,7 @@ VITE_RSS_MAX_PER_SOURCE=50
 
 **Get API Keys:**
 - **Google Gemini API Key**: Visit https://aistudio.google.com/ and create an API key.
+- **Upstash Redis**: Connect through Vercel Marketplace (Storage tab) or visit https://console.upstash.com/.
 
 ### 3. Start Development Server
 ```bash

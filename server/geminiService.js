@@ -1,5 +1,6 @@
 import { GoogleGenAI } from '@google/genai'
 import { computeContentHash } from './summaryCache.js'
+import { getRedisClient } from './redisClient.js'
 
 export function generateFallbackSummary(desc) {
   const safe = String(desc || 'No summary available.').trim()
@@ -11,11 +12,33 @@ export function generateFallbackSummary(desc) {
   }
 }
 
+/**
+ * Distinguishes between confirmed non-consuming errors (where Google gateway explicitly
+ * rejected the request before generation, safe to release quota) versus ambiguous outcomes
+ * (timeouts, socket disconnects, 5xx server errors, JSON parse failures where Gemini
+ * may have processed tokens and charged quota).
+ */
+export function isConfirmedNonConsumingError(err) {
+  if (!err) return false
+  const msg = String(err.message || err).toLowerCase()
+  return (
+    msg.includes('api key not valid') ||
+    msg.includes('invalid_argument') ||
+    msg.includes('permission_denied') ||
+    msg.includes('not_found') ||
+    msg.includes('resource_exhausted') ||
+    msg.includes('api_key_invalid') ||
+    msg.includes('400 bad request') ||
+    msg.includes('403 forbidden') ||
+    msg.includes('404 not found')
+  )
+}
+
 export class GeminiService {
   constructor(summaryCache, quotaManager) {
     this.cache = summaryCache
     this.quota = quotaManager
-    this.modelName = process.env.GEMINI_MODEL || 'gemini-2.0-flash'
+    this.modelName = process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite'
   }
 
   set client(c) {
@@ -50,10 +73,10 @@ export class GeminiService {
 
     const contentHash = computeContentHash(title, desc)
 
-    // 1. Check existing persistent summary cache
-    const cached = this.cache.get(articleId, canonicalUrl)
+    // 1. Check persistent summary cache (Redis primary, local fallback)
+    // Cache hits consume ZERO Gemini quota and ZERO quota reservations
+    const cached = await this.cache.get(articleId, canonicalUrl)
     if (cached && cached.summary) {
-      // Content hash check: if content is unchanged or hash matches, reuse cache
       if (!cached.contentHash || cached.contentHash === contentHash) {
         return {
           success: true,
@@ -68,13 +91,84 @@ export class GeminiService {
       }
     }
 
-    // 2. In-flight concurrent request deduplication
+    // 2. In-memory concurrent request deduplication (same function container)
     const inFlightKey = articleId || canonicalUrl
     if (this.quota.inFlightRequests.has(inFlightKey)) {
       return this.quota.inFlightRequests.get(inFlightKey)
     }
 
     const executionPromise = (async () => {
+      // 3. Distributed Redis lock for cross-instance request deduplication
+      const redis = getRedisClient()
+      let lockKey = null
+      let lockToken = null
+      let lockAcquired = false
+
+      if (redis) {
+        lockKey = `cosmos:lock:${inFlightKey}`
+        lockToken = `${Date.now()}-${Math.random().toString(36).slice(2, 9)}`
+        try {
+          // Attempt to acquire distributed lock for 25 seconds
+          const res = await redis.set(lockKey, lockToken, { nx: true, ex: 25 })
+          lockAcquired = (res === 'OK' || res === true || res === 1)
+
+          if (!lockAcquired) {
+            // Another instance is generating this summary. Wait and poll cache.
+            const pollStart = Date.now()
+            while (Date.now() - pollStart < 12000) {
+              await new Promise(resolve => setTimeout(resolve, 350))
+              const newlyCached = await this.cache.get(articleId, canonicalUrl)
+              if (newlyCached && newlyCached.summary) {
+                return {
+                  success: true,
+                  fromCache: true,
+                  articleId: newlyCached.articleId,
+                  canonicalUrl: newlyCached.canonicalUrl,
+                  summary: newlyCached.summary,
+                  model: newlyCached.model,
+                  createdAt: newlyCached.createdAt,
+                  status: newlyCached.status
+                }
+              }
+
+              const currentHolder = await redis.get(lockKey)
+              if (!currentHolder) {
+                // Lock expired or was released by leader; double check cache
+                const finalCheck = await this.cache.get(articleId, canonicalUrl)
+                if (finalCheck && finalCheck.summary) {
+                  return {
+                    success: true,
+                    fromCache: true,
+                    articleId: finalCheck.articleId,
+                    canonicalUrl: finalCheck.canonicalUrl,
+                    summary: finalCheck.summary,
+                    model: finalCheck.model,
+                    createdAt: finalCheck.createdAt,
+                    status: finalCheck.status
+                  }
+                }
+                break
+              }
+            }
+
+            // If still not available after polling, return safe fallback without calling Gemini
+            return {
+              success: false,
+              fallback: true,
+              fromCache: false,
+              reason: 'CONCURRENT_GENERATION_IN_PROGRESS',
+              articleId,
+              canonicalUrl,
+              summary: generateFallbackSummary(desc),
+              model: 'fallback-rss',
+              status: 'fallback'
+            }
+          }
+        } catch (err) {
+          console.warn('[GeminiService] Redis lock acquisition error:', err.message)
+        }
+      }
+
       try {
         return await this._executeSummaryGeneration({
           articleId,
@@ -87,12 +181,25 @@ export class GeminiService {
           isManual
         })
       } finally {
-        this.quota.inFlightRequests.delete(inFlightKey)
+        if (redis && lockAcquired && lockKey && lockToken) {
+          try {
+            const currentOwner = await redis.get(lockKey)
+            if (currentOwner === lockToken) {
+              await redis.del(lockKey)
+            }
+          } catch (err) {
+            console.warn('[GeminiService] Failed to release Redis lock:', err.message)
+          }
+        }
       }
     })()
 
     this.quota.inFlightRequests.set(inFlightKey, executionPromise)
-    return executionPromise
+    try {
+      return await executionPromise
+    } finally {
+      this.quota.inFlightRequests.delete(inFlightKey)
+    }
   }
 
   async _executeSummaryGeneration({
@@ -106,21 +213,6 @@ export class GeminiService {
     isManual
   }) {
     const fallback = generateFallbackSummary(desc)
-
-    // 3. Verify server-side quota and daily budget
-    if (!this.quota.canConsume()) {
-      return {
-        success: false,
-        fallback: true,
-        fromCache: false,
-        reason: 'DAILY_BUDGET_EXCEEDED',
-        articleId,
-        canonicalUrl,
-        summary: fallback,
-        model: 'fallback-rss',
-        status: 'fallback'
-      }
-    }
 
     // 4. Verify importance eligibility for automatic generation
     if (!isManual && !this.quota.isEligibleForAutoSummary({ title, desc, category, source })) {
@@ -137,7 +229,7 @@ export class GeminiService {
       }
     }
 
-    // 5. Verify Gemini API key configuration
+    // 5. Verify Gemini API key configuration before reserving quota
     const ai = this.client
     if (!ai) {
       return {
@@ -153,7 +245,24 @@ export class GeminiService {
       }
     }
 
-    // 6. Generate summary via Gemini API
+    // 6. Atomically reserve daily budget slot (prevents concurrency race conditions)
+    const reservation = await this.quota.reserveQuota()
+    if (!reservation.allowed) {
+      return {
+        success: false,
+        fallback: true,
+        fromCache: false,
+        reason: reservation.reason || 'DAILY_BUDGET_EXCEEDED',
+        error: reservation.error,
+        articleId,
+        canonicalUrl,
+        summary: fallback,
+        model: 'fallback-rss',
+        status: 'fallback'
+      }
+    }
+
+    // 7. Generate summary via Gemini API
     const prompt = `You are a professional space science journalist for CosmosHub.
 Given the following space news transmission, produce a high quality factual summary.
 
@@ -191,7 +300,6 @@ No markdown code fences, no introductory or trailing commentary. Just the JSON o
       try {
         parsed = JSON.parse(cleanJson)
       } catch {
-        // Fallback regex extraction if model returned wrapped text
         const jsonMatch = cleanJson.match(/\{[\s\S]*\}/)
         if (jsonMatch) {
           parsed = JSON.parse(jsonMatch[0])
@@ -206,11 +314,11 @@ No markdown code fences, no introductory or trailing commentary. Just the JSON o
         eli12Summary: parsed.eli12Summary?.trim() || fallback.eli12Summary
       }
 
-      // Record successful usage in quota manager
-      this.quota.recordUsage(articleId, this.modelName, 'success')
+      // Record successful usage
+      await this.quota.recordSuccessfulUsage(articleId, this.modelName)
 
       // Save to persistent summary cache
-      const saved = this.cache.set(
+      const saved = await this.cache.set(
         articleId,
         canonicalUrl,
         structuredSummary,
@@ -231,7 +339,19 @@ No markdown code fences, no introductory or trailing commentary. Just the JSON o
       }
     } catch (err) {
       console.warn(`[GeminiService] API call failed for article "${title?.slice(0, 40)}":`, err.message)
+
       const isQuotaError = /429|RESOURCE_EXHAUSTED|quota/i.test(err.message)
+      const isConfirmedNonConsuming = isConfirmedNonConsumingError(err)
+
+      if (isConfirmedNonConsuming) {
+        // Safe to release: provider explicitly rejected request before consuming tokens
+        console.log(`[GeminiService] Confirmed non-consuming failure for article "${title?.slice(0, 30)}". Releasing reserved quota.`)
+        await this.quota.releaseQuota()
+      } else {
+        // Ambiguous failure: timeout, 5xx server crash, or network disconnect while in flight.
+        // We DO NOT release quota slot. This conservative accounting guarantees the daily limit of 15 is never breached.
+        console.warn(`[GeminiService] Ambiguous outcome for article "${title?.slice(0, 30)}" (${err.message}). Retaining quota reservation.`)
+      }
 
       return {
         success: false,

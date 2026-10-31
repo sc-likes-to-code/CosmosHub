@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync, mkdirSync, renameSync, existsSync, copyFileSync, unlinkSync } from 'node:fs'
 import { resolve, dirname } from 'node:path'
+import { getRedisClient, isRedisConfigured } from './redisClient.js'
 
 const USAGE_PATH = resolve(process.cwd(), 'data/ai-usage.json')
 
@@ -13,12 +14,13 @@ export function getTodayISTDate() {
   return formatter.format(new Date()) // YYYY-MM-DD
 }
 
+/* ── Local File Quota Fallback (for local dev & offline test suite) ── */
 export function loadUsageData(filePath = USAGE_PATH) {
   const today = getTodayISTDate()
   const defaultData = {
     version: 1,
     date: today,
-    dailyLimit: 15,
+    dailyLimit: parseInt(process.env.AI_DAILY_SUMMARY_LIMIT || process.env.DAILY_AI_BUDGET, 10) || 15,
     usedCount: 0,
     requests: []
   }
@@ -33,12 +35,11 @@ export function loadUsageData(filePath = USAGE_PATH) {
     const parsed = JSON.parse(raw)
     if (!parsed || typeof parsed !== 'object') return defaultData
 
-    // Rollover check: If date stored is from a previous calendar day, reset for today
     if (parsed.date !== today) {
       return {
         version: 1,
         date: today,
-        dailyLimit: parseInt(process.env.AI_DAILY_SUMMARY_LIMIT, 10) || 15,
+        dailyLimit: parseInt(process.env.AI_DAILY_SUMMARY_LIMIT || process.env.DAILY_AI_BUDGET, 10) || 15,
         usedCount: 0,
         requests: []
       }
@@ -46,139 +47,302 @@ export function loadUsageData(filePath = USAGE_PATH) {
 
     return parsed
   } catch (err) {
-    console.warn(`[QuotaManager] Warning: Corrupt usage file at ${filePath}. Initializing fresh usage tracker:`, err.message)
+    console.warn(`[QuotaManager] Warning: Corrupt usage file at ${filePath}:`, err.message)
     return defaultData
   }
 }
 
 export function saveUsageDataAtomic(filePath = USAGE_PATH, usageData) {
-  mkdirSync(dirname(filePath), { recursive: true })
-  const tmpPath = `${filePath}.tmp.${Date.now()}`
-  writeFileSync(tmpPath, JSON.stringify(usageData, null, 2) + '\n', 'utf8')
-
   try {
-    renameSync(tmpPath, filePath)
-  } catch (err) {
-    if (err.code === 'EPERM' || err.code === 'EBUSY') {
-      copyFileSync(tmpPath, filePath)
-      try { unlinkSync(tmpPath) } catch {}
-    } else {
-      throw err
+    mkdirSync(dirname(filePath), { recursive: true })
+    const tmpPath = `${filePath}.tmp.${Date.now()}`
+    writeFileSync(tmpPath, JSON.stringify(usageData, null, 2) + '\n', 'utf8')
+
+    try {
+      renameSync(tmpPath, filePath)
+    } catch (err) {
+      if (err.code === 'EPERM' || err.code === 'EBUSY') {
+        copyFileSync(tmpPath, filePath)
+        try { unlinkSync(tmpPath) } catch {}
+      } else {
+        throw err
+      }
     }
+  } catch (err) {
+    console.warn('[QuotaManager] Could not write local usage file:', err.message)
   }
 }
 
 export class QuotaManager {
   constructor(filePath = USAGE_PATH) {
     this.filePath = filePath
-    this.data = loadUsageData(filePath)
+    this.localData = loadUsageData(filePath)
     this.inFlightRequests = new Map()
-    this.rateLimitMap = new Map() // ip -> [timestamps]
+    this.localRateLimitMap = new Map()
   }
 
   get dailyLimit() {
-    return parseInt(process.env.AI_DAILY_SUMMARY_LIMIT, 10) || this.data.dailyLimit || 15
+    return parseInt(process.env.AI_DAILY_SUMMARY_LIMIT || process.env.DAILY_AI_BUDGET, 10) || this.localData.dailyLimit || 15
   }
 
   get isEnabled() {
     return process.env.AI_SUMMARIZATION_ENABLED !== 'false'
   }
 
-  refreshDay() {
+  refreshDayLocal() {
     const today = getTodayISTDate()
-    if (this.data.date !== today) {
-      this.data.date = today
-      this.data.usedCount = 0
-      this.data.requests = []
-      this.data.dailyLimit = this.dailyLimit
-      saveUsageDataAtomic(this.filePath, this.data)
+    if (this.localData.date !== today) {
+      this.localData.date = today
+      this.localData.usedCount = 0
+      this.localData.requests = []
+      this.localData.dailyLimit = this.dailyLimit
+      saveUsageDataAtomic(this.filePath, this.localData)
     }
   }
 
-  getStatus() {
-    this.refreshDay()
+  async getStatus() {
+    const today = getTodayISTDate()
     const limit = this.dailyLimit
-    const used = this.data.usedCount || 0
+    const redis = getRedisClient()
+
+    if (redis) {
+      try {
+        const rawUsed = await redis.get(`cosmos:quota:${today}`)
+        const used = rawUsed ? parseInt(rawUsed, 10) || 0 : 0
+        return {
+          enabled: this.isEnabled,
+          configured: Boolean(process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim().length > 0),
+          storageProvider: 'upstash-redis',
+          storageConfigured: true,
+          date: today,
+          dailyLimit: limit,
+          usedToday: used,
+          remainingToday: Math.max(0, limit - used)
+        }
+      } catch (err) {
+        console.warn('[QuotaManager] Redis status error:', err.message)
+        if (process.env.VERCEL) {
+          return {
+            enabled: false,
+            configured: false,
+            storageProvider: 'upstash-redis',
+            storageConfigured: false,
+            error: `Upstash Redis unavailable: ${err.message}`,
+            date: today,
+            dailyLimit: limit,
+            usedToday: 0,
+            remainingToday: 0
+          }
+        }
+      }
+    }
+
+    // Local fallback status
+    this.refreshDayLocal()
+    const used = this.localData.usedCount || 0
     return {
       enabled: this.isEnabled,
       configured: Boolean(process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim().length > 0),
-      date: this.data.date,
+      storageProvider: 'local-file',
+      storageConfigured: isRedisConfigured(),
+      date: this.localData.date,
       dailyLimit: limit,
       usedToday: used,
       remainingToday: Math.max(0, limit - used)
     }
   }
 
-  canConsume() {
-    if (!this.isEnabled) return false
-    this.refreshDay()
-    return (this.data.usedCount || 0) < this.dailyLimit
-  }
-
-  recordUsage(articleId, model, status = 'success') {
-    this.refreshDay()
-    this.data.usedCount = (this.data.usedCount || 0) + 1
-    this.data.requests.push({
-      articleId,
-      model,
-      status,
-      timestamp: new Date().toISOString()
-    })
-    // Retain only last 50 requests in log to keep file compact
-    if (this.data.requests.length > 50) {
-      this.data.requests = this.data.requests.slice(-50)
+  /**
+   * Atomically reserves a generation slot before calling Gemini.
+   * Prevents concurrency race conditions from exceeding the 15/day quota.
+   */
+  async reserveQuota() {
+    if (!this.isEnabled) {
+      return { allowed: false, reason: 'AI_SUMMARIZATION_DISABLED', remainingToday: 0 }
     }
-    saveUsageDataAtomic(this.filePath, this.data)
+
+    const today = getTodayISTDate()
+    const limit = this.dailyLimit
+    const redis = getRedisClient()
+
+    if (redis) {
+      const quotaKey = `cosmos:quota:${today}`
+      try {
+        const currentCount = await redis.incr(quotaKey)
+        if (currentCount === 1) {
+          // Key newly created, expire after 48 hours (covers timezone discrepancies)
+          await redis.expire(quotaKey, 48 * 60 * 60)
+        }
+
+        if (currentCount > limit) {
+          // Over quota! Atomically release slot
+          await redis.decr(quotaKey)
+          return { allowed: false, reason: 'DAILY_BUDGET_EXCEEDED', remainingToday: 0, usedToday: limit }
+        }
+
+        return {
+          allowed: true,
+          remainingToday: limit - currentCount,
+          usedToday: currentCount,
+          isRedis: true
+        }
+      } catch (err) {
+        console.warn('[QuotaManager] Redis atomic quota reservation error:', err.message)
+        if (process.env.VERCEL) {
+          throw new Error(`Upstash Redis storage error: ${err.message}`)
+        }
+      }
+    }
+
+    // Serverless safety rule: In production on Vercel, do NOT silently fall back to ephemeral memory
+    if (process.env.VERCEL) {
+      return {
+        allowed: false,
+        reason: 'STORAGE_UNAVAILABLE',
+        error: 'Upstash Redis storage is not configured or unavailable in production.'
+      }
+    }
+
+    // Local dev fallback
+    this.refreshDayLocal()
+    if ((this.localData.usedCount || 0) >= limit) {
+      return { allowed: false, reason: 'DAILY_BUDGET_EXCEEDED', remainingToday: 0, usedToday: limit }
+    }
+
+    this.localData.usedCount = (this.localData.usedCount || 0) + 1
+    saveUsageDataAtomic(this.filePath, this.localData)
+
+    return {
+      allowed: true,
+      remainingToday: limit - this.localData.usedCount,
+      usedToday: this.localData.usedCount,
+      isRedis: false
+    }
   }
 
-  // Check IP rate limit: max 10 requests / 60 seconds
-  checkRateLimit(ip) {
+  /**
+   * Releases a previously reserved quota slot if generation fails or times out.
+   */
+  async releaseQuota() {
+    const today = getTodayISTDate()
+    const redis = getRedisClient()
+
+    if (redis) {
+      const quotaKey = `cosmos:quota:${today}`
+      try {
+        await redis.decr(quotaKey)
+        return
+      } catch (err) {
+        console.warn('[QuotaManager] Redis release quota error:', err.message)
+      }
+    }
+
+    if (!process.env.VERCEL) {
+      this.refreshDayLocal()
+      if (this.localData.usedCount > 0) {
+        this.localData.usedCount -= 1
+        saveUsageDataAtomic(this.filePath, this.localData)
+      }
+    }
+  }
+
+  /**
+   * Logs summary generation metadata upon successful completion.
+   */
+  async recordSuccessfulUsage(articleId, model) {
+    const today = getTodayISTDate()
+    const redis = getRedisClient()
+
+    if (redis) {
+      try {
+        const logEntry = JSON.stringify({
+          articleId,
+          model,
+          timestamp: new Date().toISOString()
+        })
+        const logKey = `cosmos:quota_log:${today}`
+        await redis.lpush(logKey, logEntry)
+        await redis.ltrim(logKey, 0, 49) // Retain last 50 logs
+        await redis.expire(logKey, 48 * 60 * 60)
+      } catch (err) {
+        console.warn('[QuotaManager] Redis log usage error:', err.message)
+      }
+    }
+
+    if (!process.env.VERCEL) {
+      this.localData.requests.push({
+        articleId,
+        model,
+        status: 'success',
+        timestamp: new Date().toISOString()
+      })
+      if (this.localData.requests.length > 50) {
+        this.localData.requests = this.localData.requests.slice(-50)
+      }
+      saveUsageDataAtomic(this.filePath, this.localData)
+    }
+  }
+
+  /**
+   * Distributed rate limit check: max 10 requests per minute per IP.
+   */
+  async checkRateLimit(ip) {
     if (!ip) return true
+    const redis = getRedisClient()
+
+    if (redis) {
+      try {
+        const minuteEpoch = Math.floor(Date.now() / 60000)
+        const safeIp = String(ip).replace(/[^a-zA-Z0-9:._-]/g, '')
+        const rateKey = `cosmos:ratelimit:${safeIp}:${minuteEpoch}`
+        const count = await redis.incr(rateKey)
+
+        if (count === 1) {
+          await redis.expire(rateKey, 70) // 70-second TTL
+        }
+
+        return count <= 10
+      } catch (err) {
+        console.warn('[QuotaManager] Redis rate limit error:', err.message)
+        // If Redis has temporary error, don't crash request
+      }
+    }
+
+    // Local in-memory rate limiting fallback
     const now = Date.now()
     const windowMs = 60 * 1000
     const maxRequests = 10
 
-    let timestamps = this.rateLimitMap.get(ip) || []
+    let timestamps = this.localRateLimitMap.get(ip) || []
     timestamps = timestamps.filter(t => now - t < windowMs)
 
     if (timestamps.length >= maxRequests) {
-      this.rateLimitMap.set(ip, timestamps)
+      this.localRateLimitMap.set(ip, timestamps)
       return false
     }
 
     timestamps.push(now)
-    this.rateLimitMap.set(ip, timestamps)
+    this.localRateLimitMap.set(ip, timestamps)
     return true
   }
 
-  // Importance scoring algorithm:
-  // Evaluates title, description, category, and source credibility
   scoreImportance(article = {}) {
     let score = 0
     const text = `${article.title || ''} ${article.desc || ''}`.toLowerCase()
 
-    // High-impact astronomy / physics keywords
     if (/\b(james webb|jwst|hubble|exoplanet|gravitational wave|supernova|black hole|dark matter|pulsar|neutron star)\b/i.test(text)) {
       score += 3
     }
-
-    // Breakthrough & scientific discoveries
     if (/\b(discovery|breakthrough|reveals|first time|detected|found evidence|confirms|observation)\b/i.test(text)) {
       score += 2
     }
-
-    // Major planetary / exploration missions
     if (/\b(artemis|mars|chandrayaan|moon|sample return|perseverance|europa clipper|voyager|gaganyaan)\b/i.test(text)) {
       score += 2
     }
-
-    // Official scientific source bonus
     const sourceName = (article.source?.name || article.source || '').toLowerCase()
     if (sourceName.includes('nasa') || sourceName.includes('esa') || sourceName.includes('isro') || sourceName.includes('webb')) {
       score += 1
     }
-
-    // Preferred categories
     const cat = article.category || ''
     if (cat === 'Astronomy & Astrophysics' || cat === 'Research & Science' || cat === 'Missions & Exploration') {
       score += 1

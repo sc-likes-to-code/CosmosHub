@@ -62,20 +62,21 @@ app.get(['/health', '/api/health'], (req, res) => {
     status: 'ok', 
     timestamp: new Date().toISOString(),
     geminiConfigured: hasGeminiKey ? '✓ configured' : '✗ missing',
-    model: process.env.GEMINI_MODEL || 'gemini-2.0-flash'
+    model: process.env.GEMINI_MODEL || 'gemini-3.1-flash-lite'
   })
 })
 
 // ── AI Status & Quota Check ──
-app.get('/api/ai/status', (req, res) => {
-  res.json(quotaManager.getStatus())
+app.get('/api/ai/status', async (req, res) => {
+  const status = await quotaManager.getStatus()
+  res.json(status)
 })
 
 // ── Retrieve Cached Summary by Article ID or URL ──
-app.get('/api/ai/summary/:articleId', (req, res) => {
+app.get('/api/ai/summary/:articleId', async (req, res) => {
   const { articleId } = req.params
   const canonicalUrl = req.query?.url
-  const cached = summaryCache.get(articleId, canonicalUrl)
+  const cached = await summaryCache.get(articleId, canonicalUrl)
 
   if (!cached) {
     return res.status(404).json({
@@ -98,7 +99,8 @@ app.get('/api/ai/summary/:articleId', (req, res) => {
 // ── Request Summary (Auto or Manual) ──
 app.post('/api/ai/summary', async (req, res) => {
   const clientIp = req.ip || req.headers['x-forwarded-for'] || req.socket.remoteAddress
-  if (!quotaManager.checkRateLimit(clientIp)) {
+  const rateLimitOk = await quotaManager.checkRateLimit(clientIp)
+  if (!rateLimitOk) {
     return res.status(429).json({
       error: 'Rate limit exceeded. Maximum 10 summary requests per minute.',
       fallback: true,

@@ -27,6 +27,8 @@ coverage/
 # =========================
 .dev-run-id
 scripts/.dev-run-id
+data/ai-usage.json
+data/summary-cache.json
 
 
 # =========================
