@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T09:54:17.672Z",
-  "count": 279,
+  "generatedAt": "2026-10-31T15:31:10.108Z",
+  "count": 286,
   "articles": [
+    {
+      "id": "000b1a681741770a",
+      "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
+      "link": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
+      "desc": "Grab your high-lumen flashlight and gargantuan gun to explore these vicious vessels",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001753656839ac26",
+      "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
+      "desc": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
+      "pubDate": "Sat, 31 Oct 2026 13:36:59 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00084ef9ced9ba6d",
+      "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
+      "desc": "On October 31, 2015, an asteroid shaped like a human skull flew by Earth. Here's why it was so creepy.",
+      "pubDate": "Sat, 31 Oct 2026 13:26:33 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001b47c9b825f10b",
+      "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
+      "link": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
+      "desc": "The waning moon shines with Jupiter, Mars and the brilliant star Regulus in the eastern sky overnight Nov. 1-2.",
+      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000ffb61321dcf13",
+      "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+      "link": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
+      "desc": "Radio images show the supergiant's atmosphere recovering from its dramatic dimming, while a companion plows through its outer layers.",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000880fad5da0416",
+      "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
+      "link": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
+      "desc": "From Saturn's spectacular rings to Halloween fireballs and a space station flyover, there are plenty of celestial treats in store this Halloween. Here's when and where to look.",
+      "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0005ca1d357bffcf",
       "title": "The Sky Today on Saturday, October 31: Glimpse the ghostly Phantom Galaxy",
@@ -22,8 +130,27 @@
       }
     },
     {
+      "id": "000ba2a6d7405895",
+      "title": "New gel fuel could make rocket and satellite propulsion easier to control",
+      "link": "https://phys.org/news/2026-10-gel-fuel-rocket-satellite-propulsion.html",
+      "desc": "A kerosene-based gel developed by Concordia researchers could make rocket and satellite fuels easier to store and control.",
+      "pubDate": "Sat, 31 Oct 2026 11:00:01 EDT",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0006c95d6e5f7f5d",
-      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California",
+      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
       "desc": "SpaceX sent another batch of its Starlink broadband satellites to orbit from California just after midnight on Halloween (Oct. 31).",
       "pubDate": "Sat, 31 Oct 2026 05:24:11 +0000",
@@ -274,6 +401,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000925d26c988b00",
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+      "desc": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known bounda",
+      "pubDate": "Fri, 30 Oct 2026 22:09:38 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -2481,24 +2626,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "001f172a73d1d8a2",
-      "title": "SpaceX Falcon 9 launches early morning Starlink mission from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly",
-      "desc": "SpaceX launched 27 more Starlink satellites to low Earth orbit overnight (Oct. 27), aboard a Falcon 9 rocket that lifted off from California in the wee hours of darkness.",
-      "pubDate": "Tue, 27 Oct 2026 11:04:19 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     },

@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31T09:54:15.868Z",
-  "lastRunId": "run-1793440453015-gwxk7l",
+  "lastUpdated": "2026-10-31T15:31:07.579Z",
+  "lastRunId": "run-1793460664635-rubqro",
   "stats": {
-    "totalStories": 548,
-    "lastRunAdded": 3
+    "totalStories": 556,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"8862b1661b46809a18328b5d73f6b4e5\"",
-    "https://www.universetoday.com/feed": "W/\"6ae5b896-7520\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8862b1661b46809a18328b5d73f6b4e5\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"15f58b9577ff93250c0a2c533676c3fa\"",
+    "https://www.universetoday.com/feed": "W/\"6ae5fed7-7520\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"15f58b9577ff93250c0a2c533676c3fa\"",
     "http://arxiv.org/rss/astro-ph": "dd9d2dd47cf03115d0420585f3a8739f9f6c08e4de73e708bb2ea0100c30f4c7",
-    "https://spacenews.com/feed/": "W/\"dc40c9725d2cd7ab5de6dab01084e2d8\"",
+    "https://spacenews.com/feed/": "W/\"a14b2261daf5b4c15760084fd6886eb8\"",
     "https://www.astronomy.com/feed/": "W/\"db24f091d8f812894fcf71e6fc72de96\"",
     "https://spacepolicyonline.com/feed/": "\"b029550233a592560d80d34e67162291\""
   },
@@ -6591,6 +6591,102 @@
       "archivedDate": "2026-10-31",
       "collection": "morning",
       "archivedAt": "2026-10-31T09:54:15.868Z"
+    },
+    "000b1a681741770a": {
+      "id": "000b1a681741770a",
+      "canonicalUrl": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
+      "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "001753656839ac26": {
+      "id": "001753656839ac26",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
+      "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 31 Oct 2026 13:36:59 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "00084ef9ced9ba6d": {
+      "id": "00084ef9ced9ba6d",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
+      "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 31 Oct 2026 13:26:33 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "001b47c9b825f10b": {
+      "id": "001b47c9b825f10b",
+      "canonicalUrl": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
+      "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "000ffb61321dcf13": {
+      "id": "000ffb61321dcf13",
+      "canonicalUrl": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
+      "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "000880fad5da0416": {
+      "id": "000880fad5da0416",
+      "canonicalUrl": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
+      "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "000ba2a6d7405895": {
+      "id": "000ba2a6d7405895",
+      "canonicalUrl": "https://phys.org/news/2026-10-gel-fuel-rocket-satellite-propulsion.html",
+      "title": "New gel fuel could make rocket and satellite propulsion easier to control",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 31 Oct 2026 11:00:01 EDT",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "000925d26c988b00": {
+      "id": "000925d26c988b00",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Fri, 30 Oct 2026 22:09:38 EDT",
+      "archivedDate": "2026-10-31",
+      "collection": "evening",
+      "archivedAt": "2026-10-31T15:31:07.579Z"
     }
   }
 }
