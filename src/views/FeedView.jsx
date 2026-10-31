@@ -10,7 +10,6 @@ import { gsap } from 'gsap'
 import { ScrollTrigger } from 'gsap/ScrollTrigger'
 
 const POLL_INTERVAL = 5 * 60 * 1000 // 5 minutes
-const AI_SUMMARY_LIMIT = Number(import.meta.env.VITE_AI_SUMMARY_LIMIT || 40)
 const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000
 const PAGE_SIZE = 24
 gsap.registerPlugin(ScrollTrigger)
@@ -207,9 +206,7 @@ export default function FeedView({ prefs, setArticles, setStatusText, openModal 
       const targetCount = displayPool.length
       for (let i = 0; i < targetCount; i++) {
         const article = displayPool[i]
-        const summaries = i < AI_SUMMARY_LIMIT
-          ? await getMultiSummary(article.title, article.desc)
-          : fallbackSummaries(article.desc)
+        const summaries = fallbackSummaries(article.desc)
 
         const candidate = { article, summaries }
         const duplicateIndex = grid.findIndex(existing => isSummaryDuplicate(candidate, existing))

@@ -34,7 +34,7 @@ Fetches and updates live RSS feeds from trusted sources including:
 
 ### AI Summaries
 
-Short AI-generated summaries for articles using Anthropic AI.
+Short AI-generated summaries for articles powered by Google Gemini (server-side).
 
 ### Trust & Fact-Check Indicators
 
@@ -209,7 +209,10 @@ Create a `.env` file from `.env.example`.
 ```env
 PORT=3001
 
-VITE_ANTHROPIC_API_KEY=
+GEMINI_API_KEY=your_key_here
+GEMINI_MODEL=gemini-2.0-flash
+AI_DAILY_SUMMARY_LIMIT=15
+AI_SUMMARIZATION_ENABLED=true
 
 VITE_RSS_MAX_PER_SOURCE=20
 
@@ -343,7 +346,10 @@ CosmosHub automatically skips failed feeds and continues loading available ones.
 Ensure:
 
 ```env
-VITE_ANTHROPIC_API_KEY=your_key_here
+GEMINI_API_KEY=your_key_here
+GEMINI_MODEL=gemini-2.0-flash
+AI_DAILY_SUMMARY_LIMIT=15
+AI_SUMMARIZATION_ENABLED=true
 ```
 
 Then restart the development server.

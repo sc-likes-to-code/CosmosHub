@@ -132,7 +132,7 @@ export default defineConfig(({ command }) => {
     },
     server: {
       proxy: {
-        '/api/rss-proxy': {
+        '/api': {
           target: 'http://localhost:3001',
           changeOrigin: true,
         },
