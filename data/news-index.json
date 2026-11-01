@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-31T15:31:07.579Z",
-  "lastRunId": "run-1793460664635-rubqro",
+  "lastUpdated": "2026-11-01T03:31:07.031Z",
+  "lastRunId": "run-1793503864165-espd29",
   "stats": {
-    "totalStories": 556,
-    "lastRunAdded": 8
+    "totalStories": 560,
+    "lastRunAdded": 4
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"15f58b9577ff93250c0a2c533676c3fa\"",
-    "https://www.universetoday.com/feed": "W/\"6ae5fed7-7520\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"15f58b9577ff93250c0a2c533676c3fa\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"05921a4f4fcd3a16e954143aae277550\"",
+    "https://www.universetoday.com/feed": "W/\"6ae6ad8f-77ce\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"05921a4f4fcd3a16e954143aae277550\"",
     "http://arxiv.org/rss/astro-ph": "dd9d2dd47cf03115d0420585f3a8739f9f6c08e4de73e708bb2ea0100c30f4c7",
-    "https://spacenews.com/feed/": "W/\"a14b2261daf5b4c15760084fd6886eb8\"",
+    "https://spacenews.com/feed/": "W/\"959de1260d05f55ff8543c2a89b1aa38\"",
     "https://www.astronomy.com/feed/": "W/\"db24f091d8f812894fcf71e6fc72de96\"",
-    "https://spacepolicyonline.com/feed/": "\"b029550233a592560d80d34e67162291\""
+    "https://spacepolicyonline.com/feed/": "\"2a2bf21a037e1aebc6aefbcacbf01fd3\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -6687,6 +6687,54 @@
       "archivedDate": "2026-10-31",
       "collection": "evening",
       "archivedAt": "2026-10-31T15:31:07.579Z"
+    },
+    "0019257d89900f2c": {
+      "id": "0019257d89900f2c",
+      "canonicalUrl": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
+      "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 01 Nov 2026 03:06:40 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "morning",
+      "archivedAt": "2026-11-01T03:31:07.031Z"
+    },
+    "001e1c7488cc7df6": {
+      "id": "001e1c7488cc7df6",
+      "canonicalUrl": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
+      "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 31 Oct 2026 23:35:52 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "morning",
+      "archivedAt": "2026-11-01T03:31:07.031Z"
+    },
+    "0010065c2d812644": {
+      "id": "0010065c2d812644",
+      "canonicalUrl": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
+      "title": "Space Outposts Beyond the Moon May Rely on Planetary AI",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 31 Oct 2026 19:24:37 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "morning",
+      "archivedAt": "2026-11-01T03:31:07.031Z"
+    },
+    "00125b246f41778a": {
+      "id": "00125b246f41778a",
+      "canonicalUrl": "https://phys.org/news/2026-10-oddball-lava-world.html",
+      "title": "This oddball reflective lava world is challenging to understand",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 31 Oct 2026 20:30:01 EDT",
+      "archivedDate": "2026-11-01",
+      "collection": "morning",
+      "archivedAt": "2026-11-01T03:31:07.031Z"
     }
   }
 }

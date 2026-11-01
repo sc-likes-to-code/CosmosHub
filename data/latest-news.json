@@ -1,8 +1,81 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T15:31:10.108Z",
-  "count": 286,
+  "generatedAt": "2026-11-01T03:31:09.802Z",
+  "count": 290,
   "articles": [
+    {
+      "id": "0019257d89900f2c",
+      "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
+      "link": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
+      "desc": "The planet Mars shares many landforms and weather patterns with the Earth, including changing seasons, volcanoes, canyons, dust storms and dust devils, and water ice. But one feature that Earth and Mars share among the eight planets in our solar system are polar ice caps. Both are one of each planet",
+      "pubDate": "Sun, 01 Nov 2026 03:06:40 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001e1c7488cc7df6",
+      "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
+      "link": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
+      "desc": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the entire solar system. This could be because while Ceres has the same dwarf planet designation as Pluto, Ceres is largely considered an “asteroid” since it resides the in main asteroid belt. How",
+      "pubDate": "Sat, 31 Oct 2026 23:35:52 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010065c2d812644",
+      "title": "Space Outposts Beyond the Moon May Rely on Planetary AI",
+      "link": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
+      "desc": "NASA plans to return astronauts to the lunar surface in 2028 for the first time since Apollo 17 in 1972. But the famed agency has no intention of stopping there, as they plan to establish a permanent human presence on the Moon through a slow and meticulous process involving power, resource extractio",
+      "pubDate": "Sat, 31 Oct 2026 19:24:37 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00125b246f41778a",
+      "title": "This oddball reflective lava world is challenging to understand",
+      "link": "https://phys.org/news/2026-10-oddball-lava-world.html",
+      "desc": "Among Kepler and TESS's many surprising exoplanet discoveries are the ultra-short-period (USP) planets. These planets move very quickly and complete an orbit in less than 24 hours. Ancient astronomers thought that Mercury was so fast—it goes around the sun every 88 days—that they named it after the ",
+      "pubDate": "Sat, 31 Oct 2026 20:30:01 EDT",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
     {
       "id": "000b1a681741770a",
       "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
