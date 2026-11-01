@@ -1,8 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T10:44:48.878Z",
-  "count": 293,
+  "generatedAt": "2026-11-01T15:31:10.188Z",
+  "count": 298,
   "articles": [
+    {
+      "id": "00010e7c2bd90e62",
+      "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+      "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+      "desc": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002ee35370f0366",
+      "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+      "desc": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+      "pubDate": "Sun, 01 Nov 2026 14:50:15 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00024e3da8381e75",
+      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+      "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+      "desc": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001e0607ea2be809",
+      "title": "5 bright planets to spot in November — when and where to see them",
+      "link": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
+      "desc": "From a close encounter between Mars and Jupiter to dazzling Venus and elusive Mercury, November offers plenty of planetary highlights. Here's when and where to look.",
+      "pubDate": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0016f7e96230adc0",
       "title": "The Sky Today on Sunday, November 1: The Moon in Cancer",
@@ -36,6 +108,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "0009fb719efc1248",
+      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+      "link": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+      "desc": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environme",
+      "pubDate": "Sun, 01 Nov 2026 10:20:02 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },

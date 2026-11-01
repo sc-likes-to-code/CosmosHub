@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-01T10:44:47.154Z",
-  "lastRunId": "run-1793529884826-g6allu",
+  "lastUpdated": "2026-11-01T15:31:07.407Z",
+  "lastRunId": "run-1793547064462-0sl77g",
   "stats": {
-    "totalStories": 564,
-    "lastRunAdded": 4
+    "totalStories": 569,
+    "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"101ea211b386fc2a3922d5a85cf34fb1\"",
-    "https://www.universetoday.com/feed": "W/\"6ae70a0b-77ce\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"101ea211b386fc2a3922d5a85cf34fb1\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"1f52958da3e26b883610a79a73c59a1e\"",
+    "https://www.universetoday.com/feed": "W/\"6ae75054-77ce\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"1f52958da3e26b883610a79a73c59a1e\"",
     "http://arxiv.org/rss/astro-ph": "6c21a2b754d4fd9884e2083ba269997465b94004b1074ebd0959402736181c67",
-    "https://spacenews.com/feed/": "W/\"959de1260d05f55ff8543c2a89b1aa38\"",
+    "https://spacenews.com/feed/": "W/\"dcd702871981dbb2fe0528939ed039bd\"",
     "https://www.astronomy.com/feed/": "W/\"d3cf6ec564234cf799e062e676fa1bac\"",
     "https://spacepolicyonline.com/feed/": "\"2a2bf21a037e1aebc6aefbcacbf01fd3\""
   },
@@ -6783,6 +6783,66 @@
       "archivedDate": "2026-11-01",
       "collection": "morning",
       "archivedAt": "2026-11-01T10:44:47.154Z"
+    },
+    "00010e7c2bd90e62": {
+      "id": "00010e7c2bd90e62",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
+      "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Research & Science",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "evening",
+      "archivedAt": "2026-11-01T15:31:07.407Z"
+    },
+    "0002ee35370f0366": {
+      "id": "0002ee35370f0366",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+      "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sun, 01 Nov 2026 14:50:15 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "evening",
+      "archivedAt": "2026-11-01T15:31:07.407Z"
+    },
+    "00024e3da8381e75": {
+      "id": "00024e3da8381e75",
+      "canonicalUrl": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 01 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "evening",
+      "archivedAt": "2026-11-01T15:31:07.407Z"
+    },
+    "001e0607ea2be809": {
+      "id": "001e0607ea2be809",
+      "canonicalUrl": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
+      "title": "5 bright planets to spot in November — when and where to see them",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sun, 01 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-01",
+      "collection": "evening",
+      "archivedAt": "2026-11-01T15:31:07.407Z"
+    },
+    "0009fb719efc1248": {
+      "id": "0009fb719efc1248",
+      "canonicalUrl": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Sun, 01 Nov 2026 10:20:02 EST",
+      "archivedDate": "2026-11-01",
+      "collection": "evening",
+      "archivedAt": "2026-11-01T15:31:07.407Z"
     }
   }
 }
