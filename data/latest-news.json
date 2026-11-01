@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T03:31:09.802Z",
-  "count": 290,
+  "generatedAt": "2026-11-01T10:44:48.878Z",
+  "count": 293,
   "articles": [
+    {
+      "id": "0016f7e96230adc0",
+      "title": "The Sky Today on Sunday, November 1: The Moon in Cancer",
+      "link": "https://www.astronomy.com/observing/the-sky-today-sunday-november-1-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 31: Glimpse the ghostly Phantom Galaxy Daylight saving time ends at 2 A.M. local daylight time this morning, when clocks fall back one hour to 1 A.M. local standard time.  Early this morning, the waning gibbous Moon",
+      "pubDate": "Sun, 01 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000cfb8d1856ff3c",
+      "title": "November 2026: What’s in the sky this month?",
+      "link": "https://www.astronomy.com/observing/sky-this-month-november-2026",
+      "desc": "Saturn is already visible as darkness falls; some challenging transits of its moons occur this month. Neptune is a binocular object close to Saturn, while Uranus is an easy target in Taurus. A Full Moon courses in front of the Pleiades in late November. Mars and Jupiter dominate the early-morning sk",
+      "pubDate": "Sun, 01 Nov 2026 05:01:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001443eb78b66796",
+      "title": "APOD: 2026 November 1 – Colors of the Moon",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+      "desc": "APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
+      "pubDate": "Sun, 01 Nov 2026 04:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0019257d89900f2c",
       "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
@@ -53,6 +108,24 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0008e4bd0669e276",
+      "title": "Scientists say a forgotten particle may explain why the universe exists",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+      "desc": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cos",
+      "pubDate": "Sun, 01 Nov 2026 00:33:36 EDT",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -236,25 +309,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "0008053517ae699f",
-      "title": "APOD: 2026 October 31 – Night on a Spooky Planet",
-      "link": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet",
-      "desc": "APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
-      "pubDate": "Sat, 31 Oct 2026 04:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
