@@ -1,8 +1,26 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T15:31:10.188Z",
-  "count": 298,
+  "generatedAt": "2026-11-01T19:51:35.419Z",
+  "count": 299,
   "articles": [
+    {
+      "id": "001df73427c2c6ce",
+      "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
+      "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
+      "desc": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems.",
+      "pubDate": "Sun, 01 Nov 2026 17:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "00010e7c2bd90e62",
       "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
