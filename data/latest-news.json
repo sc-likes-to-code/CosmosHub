@@ -1,8 +1,45 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T19:51:35.419Z",
-  "count": 299,
+  "generatedAt": "2026-11-02T03:31:11.227Z",
+  "count": 301,
   "articles": [
+    {
+      "id": "0019d51da9067f1a",
+      "title": "New Research Resolves the Mystery Behind Van Gogh's The Starry Night",
+      "link": "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night",
+      "desc": "The sky in Vincent van Gogh’s The Starry Night (1889) matches, in both observation and shape, the pre-dawn sky over Saint-Rémy around 22 July 1889, when a waning crescent moon, Venus and the Hyades star cluster appeared close together, according to a study published inScientific Reports.",
+      "pubDate": "Mon, 02 Nov 2026 03:00:42 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0015e65eda04849a",
+      "title": "What’s Happening in Space Policy November 1-8, 2026",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026",
+      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
+      "pubDate": "Sun, 01 Nov 2026 22:31:25 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001df73427c2c6ce",
       "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
@@ -90,6 +127,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "001cefe97f12f1ac",
+      "title": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest",
+      "link": "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html",
+      "desc": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but the swatches—each less than a square inch (6.5 square centimeters) in size—serve an important purpose: They're helping sc",
+      "pubDate": "Sun, 01 Nov 2026 15:00:01 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -3211,25 +3267,6 @@
         "tags": [
           "Research",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "00120a7e4220487c",
-      "title": "What’s Happening in Space Policy October 25-November 1, 2026",
-      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-october-25-november-1-2026",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of October 25-November 1, 2026 and any insight we can offer about them. The House and […]",
-      "pubDate": "Sun, 25 Oct 2026 20:35:16 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
         ]
       }
     },
