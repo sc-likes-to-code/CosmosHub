@@ -1,8 +1,135 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T11:36:25.923Z",
-  "count": 353,
+  "generatedAt": "2026-11-02T15:31:14.341Z",
+  "count": 363,
   "articles": [
+    {
+      "id": "001d68637ab3b7ea",
+      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+      "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+      "desc": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000f31803161e151",
+      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
+      "desc": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
+      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Mon, 02 Nov 2026 14:52:32 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f0f756b9e5e71",
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
+      "desc": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
+      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "00036ee40f4d9639",
+      "title": "What is the physical size of a 1-billion-solar-mass black hole compared to the Sun?",
+      "link": "https://www.astronomy.com/science/how-big-is-a-supermassive-black-hole",
+      "desc": "When a supermassive black hole is measured as 1 billion solar masses, what would be its actual physical size relative to the size of our Sun? Joseph De BenedettoOxford, New Jersey The size of a black hole is generally taken to be the size of its event horizon. The event horizon is a mathematical bou",
+      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001aa718dc7023b0",
+      "title": "California gleaming",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/california-gleaming",
+      "desc": "Andrei Pleskatsevich from Minsk, Belarus The California Nebula (NGC 1499), is a roughly 2.5°-long cloud of glowing hydrogen gas in Perseus between 1,000 and 1,500 light-years away, lit by ultraviolet light from the nearby star Xi Persei. The imager collected 8⅓ hours of exposure through a 3-inch f/4",
+      "pubDate": "Mon, 02 Nov 2026 13:30:38 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000fbc4157f8f41f",
+      "title": "'VisionQuest' homework guide: Everything you need to watch to understand Marvel's WandaVision follow-up",
+      "link": "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
+      "desc": "White Vision, Hex Vision, and Ultron all converge in this spirited new superhero series.",
+      "pubDate": "Mon, 02 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "00188d36a4301fe2",
       "title": "What is Starshield? A look at SpaceX's military satellite network",
@@ -1046,6 +1173,24 @@
       }
     },
     {
+      "id": "0004fce18985a702",
+      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+      "desc": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarctic ice. These elusive “ghost particles” could hold extraordinary clues about the",
+      "pubDate": "Mon, 02 Nov 2026 08:42:07 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "0019d51da9067f1a",
       "title": "New Research Resolves the Mystery Behind Van Gogh's The Starry Night",
       "link": "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night",
@@ -1059,6 +1204,43 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0018721578dd229d",
+      "title": "Dust-shrouded Milky Way star cluster may be nearly as old as the universe",
+      "link": "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html",
+      "desc": "Astronomers have determined that VVV CL001, a metal-poor globular cluster near the center of the Milky Way, is about 13.4 billion years old, making it one of the oldest known star clusters in our galaxy. The cluster lies behind thick clouds of interstellar dust, which made its distance and age diffi",
+      "pubDate": "Mon, 02 Nov 2026 06:40:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000140c5ad9fe0b5",
+      "title": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
+      "desc": "NASA’s Perseverance rover has set a historic record by traveling 28.10 miles across Mars, farther than any vehicle has ever driven on another world. Armed with groundbreaking autonomous navigation technology and increasingly advanced driving capabilities, the rover is pushing the boundaries of robot",
+      "pubDate": "Mon, 02 Nov 2026 06:28:04 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -1097,6 +1279,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "00171352017c70c0",
+      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+      "desc": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while thei",
+      "pubDate": "Sun, 01 Nov 2026 22:07:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -1881,24 +2081,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Fri, 30 Oct 2026 13:03:37 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },

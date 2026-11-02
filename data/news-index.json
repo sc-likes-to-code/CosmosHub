@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-02T11:36:21.761Z",
-  "lastRunId": "run-1793619378010-hyvqzn",
+  "lastUpdated": "2026-11-02T15:31:10.087Z",
+  "lastRunId": "run-1793633466805-5zrwbh",
   "stats": {
-    "totalStories": 628,
-    "lastRunAdded": 55
+    "totalStories": 638,
+    "lastRunAdded": 10
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"a6b130383a840b70c56c2ebc16b44cca\"",
-    "https://www.universetoday.com/feed": "W/\"6ae869db-7804\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a6b130383a840b70c56c2ebc16b44cca\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"19110777242dd8516ede414b55c50fa7\"",
+    "https://www.universetoday.com/feed": "W/\"6ae8a21b-7804\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3b17847b0bd48b3d33fb1ec8517ec64e\"",
     "http://arxiv.org/rss/astro-ph": "e182dac2d1bfbd566b6eabbe9f4050f06f82d6f3177d316b10f0a6963d4d60c9",
-    "https://spacenews.com/feed/": "W/\"9d96d9cc32d73c3f8ba0e9e714d91685\"",
-    "https://www.astronomy.com/feed/": "W/\"880499197238ba0114dd3163910a16aa\"",
-    "https://spacepolicyonline.com/feed/": "\"94a3a441969fe833d11f1f88bf4982a2\""
+    "https://spacenews.com/feed/": "W/\"fcd46aabb8383add489838d0a6fb4b42\"",
+    "https://www.astronomy.com/feed/": "W/\"9318187250bc230880ac3048a1012317\"",
+    "https://spacepolicyonline.com/feed/": "\"a11cbcf6eff806db59b6e629b62b878d\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -7551,6 +7551,126 @@
       "archivedDate": "2026-11-02",
       "collection": "morning",
       "archivedAt": "2026-11-02T11:36:21.761Z"
+    },
+    "001d68637ab3b7ea": {
+      "id": "001d68637ab3b7ea",
+      "canonicalUrl": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "000f31803161e151": {
+      "id": "000f31803161e151",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
+      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "000f0f756b9e5e71": {
+      "id": "000f0f756b9e5e71",
+      "canonicalUrl": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
+      "title": "How to Expand Reliable, Flexible Access to Space",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "00036ee40f4d9639": {
+      "id": "00036ee40f4d9639",
+      "canonicalUrl": "https://www.astronomy.com/science/how-big-is-a-supermassive-black-hole",
+      "title": "What is the physical size of a 1-billion-solar-mass black hole compared to the Sun?",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "001aa718dc7023b0": {
+      "id": "001aa718dc7023b0",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/california-gleaming",
+      "title": "California gleaming",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 13:30:38 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "000fbc4157f8f41f": {
+      "id": "000fbc4157f8f41f",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
+      "title": "'VisionQuest' homework guide: Everything you need to watch to understand Marvel's WandaVision follow-up",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 02 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "0004fce18985a702": {
+      "id": "0004fce18985a702",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm",
+      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 08:42:07 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "0018721578dd229d": {
+      "id": "0018721578dd229d",
+      "canonicalUrl": "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html",
+      "title": "Dust-shrouded Milky Way star cluster may be nearly as old as the universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 06:40:01 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "000140c5ad9fe0b5": {
+      "id": "000140c5ad9fe0b5",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
+      "title": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 02 Nov 2026 06:28:04 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "00171352017c70c0": {
+      "id": "00171352017c70c0",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
+      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Sun, 01 Nov 2026 22:07:01 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T15:31:10.087Z"
     }
   }
 }
