@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-02T15:31:10.087Z",
-  "lastRunId": "run-1793633466805-5zrwbh",
+  "lastUpdated": "2026-11-02T23:11:33.868Z",
+  "lastRunId": "run-1793661090882-g3fsbt",
   "stats": {
-    "totalStories": 638,
-    "lastRunAdded": 10
+    "totalStories": 654,
+    "lastRunAdded": 16
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"19110777242dd8516ede414b55c50fa7\"",
-    "https://www.universetoday.com/feed": "W/\"6ae8a21b-7804\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3b17847b0bd48b3d33fb1ec8517ec64e\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"7c051047a6501c7b354d4be1f3eb6576\"",
+    "https://www.universetoday.com/feed": "W/\"6ae912ef-7a9b\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"7c051047a6501c7b354d4be1f3eb6576\"",
     "http://arxiv.org/rss/astro-ph": "e182dac2d1bfbd566b6eabbe9f4050f06f82d6f3177d316b10f0a6963d4d60c9",
-    "https://spacenews.com/feed/": "W/\"fcd46aabb8383add489838d0a6fb4b42\"",
-    "https://www.astronomy.com/feed/": "W/\"9318187250bc230880ac3048a1012317\"",
-    "https://spacepolicyonline.com/feed/": "\"a11cbcf6eff806db59b6e629b62b878d\""
+    "https://spacenews.com/feed/": "W/\"869c1eee3d2b9bf98ca37e1edc3cdfb6\"",
+    "https://www.astronomy.com/feed/": "W/\"9f5776eddb389f95fb52b7daf4c3c4b5\"",
+    "https://spacepolicyonline.com/feed/": "\"57eef8630cc2a6b98333a2b07cdfb4f7\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -7671,6 +7671,198 @@
       "archivedDate": "2026-11-02",
       "collection": "evening",
       "archivedAt": "2026-11-02T15:31:10.087Z"
+    },
+    "000a5dfc5a76b403": {
+      "id": "000a5dfc5a76b403",
+      "canonicalUrl": "https://www.astronomy.com/whats-launching-this-week/south-korea-eyes-rocket-debut-and-china-lines-up-four-launches",
+      "title": "South Korea eyes rocket debut and China lines up four launches",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 22:25:24 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "0019d2feb6348cb5": {
+      "id": "0019d2feb6348cb5",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 02 Nov 2026 21:35:59 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "000e4c66bfbc9046": {
+      "id": "000e4c66bfbc9046",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 20:47:41 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "00012aa7633631c8": {
+      "id": "00012aa7633631c8",
+      "canonicalUrl": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand",
+      "title": "New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "0009e77139e448ed": {
+      "id": "0009e77139e448ed",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed",
+      "title": "The JWST May Have Found Where Heavy Black Hole Seeds Formed",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 19:28:28 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "0002f9fca7622fea": {
+      "id": "0002f9fca7622fea",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography",
+      "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 02 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "0009a6e2d5a761b6": {
+      "id": "0009a6e2d5a761b6",
+      "canonicalUrl": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 02 Nov 2026 18:50:42 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "00195d34cb9f8052": {
+      "id": "00195d34cb9f8052",
+      "canonicalUrl": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa",
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 18:19:58 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "001f01808e2f38b0": {
+      "id": "001f01808e2f38b0",
+      "canonicalUrl": "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample",
+      "title": "Researchers May Have Solved a Puzzling Contradiction in the Ryugu Sample",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 18:08:23 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "000795a6ea055202": {
+      "id": "000795a6ea055202",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 02 Nov 2026 17:33:22 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "001a4177884a07ed": {
+      "id": "001a4177884a07ed",
+      "canonicalUrl": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+      "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "000c5e9394c8fa2f": {
+      "id": "000c5e9394c8fa2f",
+      "canonicalUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 15:00:39 +0000",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "000b6d4716b409f0": {
+      "id": "000b6d4716b409f0",
+      "canonicalUrl": "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html",
+      "title": "Stars make oxygen for small galaxies, but they lose most of it",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 15:00:02 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "000625325d5e5558": {
+      "id": "000625325d5e5558",
+      "canonicalUrl": "https://phys.org/news/2026-11-scientists-earth-simulation-life-planets.html",
+      "title": "Scientists build whole-Earth simulation to help find life on other planets",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 13:50:01 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "000de6ea141ebaf6": {
+      "id": "000de6ea141ebaf6",
+      "canonicalUrl": "https://phys.org/news/2026-11-cubesat-laser-link-ground.html",
+      "title": "CubeSat achieves challenging laser link to ground",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 02 Nov 2026 12:40:09 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "00009a1a7a691f81": {
+      "id": "00009a1a7a691f81",
+      "canonicalUrl": "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html",
+      "title": "Overlooked material in Ryugu and meteorites may explain how water spared ancient chemistry",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 11:40:13 EST",
+      "archivedDate": "2026-11-02",
+      "collection": "evening",
+      "archivedAt": "2026-11-02T23:11:33.868Z"
     }
   }
 }

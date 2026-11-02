@@ -1,8 +1,230 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T15:31:14.341Z",
-  "count": 363,
+  "generatedAt": "2026-11-02T23:11:38.617Z",
+  "count": 379,
   "articles": [
+    {
+      "id": "000a5dfc5a76b403",
+      "title": "South Korea eyes rocket debut and China lines up four launches",
+      "link": "https://www.astronomy.com/whats-launching-this-week/south-korea-eyes-rocket-debut-and-china-lines-up-four-launches",
+      "desc": "Rocket launches this week On Monday, Nov. 2, Rocket Lab launched The Sea God Surveys on an Electron rocket from its Launch Complex 1 on New Zealand’s Māhia Peninsula at 11:41 a.m. EST. Aboard was a QPS-SAR satellite for private Japanese company iQPS It marked Electron’s 10th flight for iQPS. The com",
+      "pubDate": "Mon, 02 Nov 2026 22:25:24 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019d2feb6348cb5",
+      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now",
+      "desc": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Ce",
+      "pubDate": "Mon, 02 Nov 2026 21:35:59 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e4c66bfbc9046",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs",
+      "desc": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contact",
+      "pubDate": "Mon, 02 Nov 2026 20:47:41 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00012aa7633631c8",
+      "title": "New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand",
+      "link": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand",
+      "desc": "Keep the 60th anniversary party going with this visual salute to the series that launched a legacy",
+      "pubDate": "Mon, 02 Nov 2026 20:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0009e77139e448ed",
+      "title": "The JWST May Have Found Where Heavy Black Hole Seeds Formed",
+      "link": "https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed",
+      "desc": "Astrophysicists think that black holes grow through a hierarchical merger framework. But the elusive Intermediate Mass Black Holes are the missing link between stellar mass black holes, and the gargantuan supermassive black holes like the one at the center of the Milky Way. The JWST may have found t",
+      "pubDate": "Mon, 02 Nov 2026 19:28:28 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0002f9fca7622fea",
+      "title": "Viltrox AF 35mm f/1.8 II EVO FE (APO) lens review — how good is this budget lens for astrophotography?",
+      "link": "https://www.space.com/stargazing/skywatching-kit/viltrox-af-35mm-f-1-8-ii-evo-fe-apo-lens-review-how-good-is-this-budget-lens-for-astrophotography",
+      "desc": "The Viltrox AF 35mm f/1.8 II FE (APO) is an inexpensive prime that works well for astrophotography thanks to its focal length and maximum aperture.",
+      "pubDate": "Mon, 02 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0009a6e2d5a761b6",
+      "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+      "link": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth",
+      "desc": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ell",
+      "pubDate": "Mon, 02 Nov 2026 18:50:42 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00195d34cb9f8052",
+      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa",
+      "desc": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a superm",
+      "pubDate": "Mon, 02 Nov 2026 18:19:58 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001f01808e2f38b0",
+      "title": "Researchers May Have Solved a Puzzling Contradiction in the Ryugu Sample",
+      "link": "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample",
+      "desc": "Samples from the asteroid Ryugu, and from carbonaceous chondrites that have crashed on Earth, present an apparent contradiction. Their fine-grained matrices have widely varied compositions of their clay-like minerals. That suggests that there were widely different aqueous environments in the same pa",
+      "pubDate": "Mon, 02 Nov 2026 18:08:23 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000795a6ea055202",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch",
+      "desc": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as ",
+      "pubDate": "Mon, 02 Nov 2026 17:33:22 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001a4177884a07ed",
+      "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+      "link": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+      "desc": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000c5e9394c8fa2f",
+      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
+      "desc": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
+      "pubDate": "Mon, 02 Nov 2026 15:00:39 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001d68637ab3b7ea",
       "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
@@ -149,6 +371,25 @@
       }
     },
     {
+      "id": "000b6d4716b409f0",
+      "title": "Stars make oxygen for small galaxies, but they lose most of it",
+      "link": "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html",
+      "desc": "Scientists examining data collected by NASA's Hubble Space Telescope have found that dozens of small galaxies contain far less oxygen than their stars are estimated to have produced. The researchers, including a Rutgers astrophysicist, studied 37 dwarf galaxies, which are much smaller than the Milky",
+      "pubDate": "Mon, 02 Nov 2026 15:00:02 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "00035732e7eb9963",
       "title": "The Sky Today on Monday, November 2: The Moon passes Jupiter and Mars",
       "link": "https://www.astronomy.com/observing/the-sky-today-monday-november-2-2026",
@@ -167,10 +408,48 @@
       }
     },
     {
+      "id": "000625325d5e5558",
+      "title": "Scientists build whole-Earth simulation to help find life on other planets",
+      "link": "https://phys.org/news/2026-11-scientists-earth-simulation-life-planets.html",
+      "desc": "It's a dizzyingly busy time for scientists searching for life on distant planets. To date, astronomers have cataloged more than 6,000 planets beyond our solar system and are searching the atmospheres of the most promising worlds for chemicals that might be byproducts of life. Astrobiologists are par",
+      "pubDate": "Mon, 02 Nov 2026 13:50:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000de6ea141ebaf6",
+      "title": "CubeSat achieves challenging laser link to ground",
+      "link": "https://phys.org/news/2026-11-cubesat-laser-link-ground.html",
+      "desc": "Despite the complexity of the operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station, marking an important step in validating optical communications on small satellites. The demonstration, supported by ",
+      "pubDate": "Mon, 02 Nov 2026 12:40:09 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000f66129926ef7a",
-      "title": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today",
+      "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-      "desc": "Rocket Lab will launch its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite to orbit. Here's how to watch live.",
+      "desc": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
       "pubDate": "Mon, 02 Nov 2026 06:20:05 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -185,10 +464,29 @@
       }
     },
     {
+      "id": "00009a1a7a691f81",
+      "title": "Overlooked material in Ryugu and meteorites may explain how water spared ancient chemistry",
+      "link": "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html",
+      "desc": "Asteroid Ryugu and some carbonaceous meteorites, which are thought to have similar origins in the early solar system, are known as chemically \"primitive\" materials because they preserve the chemical composition of the early solar system remarkably well. Yet these rocks also reacted extensively with ",
+      "pubDate": "Mon, 02 Nov 2026 11:40:13 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001f7989fe468053",
       "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars",
-      "desc": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
+      "desc": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a pro",
       "pubDate": "Mon, 02 Nov 2026 05:05:00 +0000",
       "category": "Research & Science",
       "source": {
