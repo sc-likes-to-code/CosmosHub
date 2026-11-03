@@ -1,8 +1,154 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T11:15:40.706Z",
-  "count": 385,
+  "generatedAt": "2026-11-03T15:31:18.893Z",
+  "count": 397,
   "articles": [
+    {
+      "id": "000a1f7a15909228",
+      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day",
+      "desc": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of",
+      "pubDate": "Tue, 03 Nov 2026 15:15:50 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000fae0b919d2d2b",
+      "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
+      "desc": "On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth.",
+      "pubDate": "Tue, 03 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001fd1db131a9fe4",
+      "title": "Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026",
+      "link": "https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026",
+      "desc": "An Astrobee, a tiny robot cube, is zipping around the International Space Station helping out the astronauts on board.",
+      "pubDate": "Tue, 03 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0005e5e6b7cd90e9",
+      "title": "Sailing through Cassiopeia",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/sailing-through-cassiopeia",
+      "desc": "Andrea Arbizzi, taken from Maremma, Italy A vast sea of faintly lit dust in Cassiopeia envelops the Sailboat Cluster (NGC 225, upper right), an open cluster named for the way its brightest stars and the blue haze of the reflection nebula VdB 4 sketch out a sail. NGC 225 lies about 2,200 light-years ",
+      "pubDate": "Tue, 03 Nov 2026 14:36:54 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Tue, 03 Nov 2026 14:13:34 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010bbefbe89ef28",
+      "title": "Nov. 3, 1957: The flight of Laika",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-3-1957-the-flight-of-laika",
+      "desc": "Less than a month after the launch of Sputnik 1, the Soviets launched Sputnik 2. The mission was readied quickly in order to keep the propaganda momentum from Sputnik 1 and to coincide with the 40th anniversary of the Bolshevik Revolution. Carrying mixed-breed dog Laika, Sputnik 2 was the first flig",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0016814b58e07e17",
+      "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
+      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution",
+      "desc": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […]\nThe post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on",
+      "pubDate": "Tue, 03 Nov 2026 13:30:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "001ec93e5298acf7",
+      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
+      "link": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
+      "desc": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. The massive spacecraft will need an unknown number of refuel flights in two separate orbits.",
+      "pubDate": "Tue, 03 Nov 2026 13:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0011f3c529d90da7",
       "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
@@ -97,6 +243,63 @@
       }
     },
     {
+      "id": "000375977ebf2d05",
+      "title": "JWST may have found where heavy black hole seeds formed",
+      "link": "https://phys.org/news/2026-11-jwst-heavy-black-hole-seeds.html",
+      "desc": "Astrophysicists think that the supermassive black holes (SMBH) we see in the modern universe are the result of a long, drawn-out process. That process is referred to as the hierarchical black hole mergers framework. It explains how some SMBHs can reach such staggering masses. Some of the most massiv",
+      "pubDate": "Tue, 03 Nov 2026 10:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001a4cec5ba2a753",
+      "title": "A tiny shift exposes a cold brown dwarf masquerading as an early galaxy",
+      "link": "https://phys.org/news/2026-11-tiny-shift-exposes-cold-brown.html",
+      "desc": "A faint red object spotted by the James Webb Space Telescope originally appeared to offer a possible glimpse of the universe's first galaxies. But images taken about 3½ years apart revealed a giveaway: The object, nicknamed Capotauro, had moved.",
+      "pubDate": "Tue, 03 Nov 2026 08:40:08 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000d0e4fc8b2bbe9",
+      "title": "Leviathan's sprawling stars challenge idea that dusty giants become compact galaxies",
+      "link": "https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html",
+      "desc": "Astronomers using the James Webb Space Telescope (JWST) have confirmed a massive, dust-rich galaxy called Leviathan in the early universe. Seen when the universe was roughly 1.5 billion years old, the galaxy has its stars spread out rather than in a concentrated fashion. A paper, describing its stra",
+      "pubDate": "Tue, 03 Nov 2026 07:40:06 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001558f2ce88f80b",
       "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
       "link": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
@@ -115,6 +318,42 @@
       }
     },
     {
+      "id": "001161fc3dba3cb5",
+      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "desc": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecu",
+      "pubDate": "Tue, 03 Nov 2026 05:58:24 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0002173ac1ebae2d",
+      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
+      "desc": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far m",
+      "pubDate": "Tue, 03 Nov 2026 04:46:21 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "000a5dfc5a76b403",
       "title": "South Korea eyes rocket debut and China lines up four launches",
       "link": "https://www.astronomy.com/whats-launching-this-week/south-korea-eyes-rocket-debut-and-china-lines-up-four-launches",
@@ -128,6 +367,24 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0000bb961f0c15f7",
+      "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
+      "desc": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications black",
+      "pubDate": "Tue, 03 Nov 2026 03:11:10 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -355,24 +612,6 @@
       }
     },
     {
-      "id": "000f31803161e151",
-      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
-      "desc": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
-      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "0001c9c8b8867c80",
       "title": "Scientists just found a loophole that could let black holes split in two",
       "link": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
@@ -386,24 +625,6 @@
         "cardClass": "spacedotcom",
         "tags": [
           "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Mon, 02 Nov 2026 14:52:32 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
           "Science"
         ]
       }
