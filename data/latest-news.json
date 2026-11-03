@@ -1,8 +1,26 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T23:11:38.617Z",
-  "count": 379,
+  "generatedAt": "2026-11-03T03:31:09.937Z",
+  "count": 381,
   "articles": [
+    {
+      "id": "001558f2ce88f80b",
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "link": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "desc": "The Vera Rubin Observatory has detected two more of the Milky Ways' dim, hard to see satellites. One is an ultra-faint dwarf galaxy, and one is a globular cluster. Each one is a missing piece of the puzzle in the Milky Way's merger history. By finding more of these satellites, our understanding of g",
+      "pubDate": "Tue, 03 Nov 2026 01:33:59 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000a5dfc5a76b403",
       "title": "South Korea eyes rocket debut and China lines up four launches",
@@ -276,6 +294,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "001cf6266685b9d0",
+      "title": "Queen's University Belfast students find Neptune's elusive Trojan asteroids",
+      "link": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
+      "desc": "An international team led by researchers at Queen's University Belfast has made a discovery that has eluded astronomers for decades. Beginning in 1906, telescope observations revealed a population of asteroids leading and trailing Jupiter, which came to be known as the \"Trojan\" and \"Greek\" populatio",
+      "pubDate": "Mon, 02 Nov 2026 20:00:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },

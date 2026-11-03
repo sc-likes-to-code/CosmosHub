@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-02T23:11:33.868Z",
-  "lastRunId": "run-1793661090882-g3fsbt",
+  "lastUpdated": "2026-11-03T03:31:05.583Z",
+  "lastRunId": "run-1793676662733-0563zv",
   "stats": {
-    "totalStories": 654,
-    "lastRunAdded": 16
+    "totalStories": 656,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"7c051047a6501c7b354d4be1f3eb6576\"",
-    "https://www.universetoday.com/feed": "W/\"6ae912ef-7a9b\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"7c051047a6501c7b354d4be1f3eb6576\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"a5e56e220d0c3d61b1d0d1153dcd7654\"",
+    "https://www.universetoday.com/feed": "W/\"6ae94ae6-7a67\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a5e56e220d0c3d61b1d0d1153dcd7654\"",
     "http://arxiv.org/rss/astro-ph": "e182dac2d1bfbd566b6eabbe9f4050f06f82d6f3177d316b10f0a6963d4d60c9",
-    "https://spacenews.com/feed/": "W/\"869c1eee3d2b9bf98ca37e1edc3cdfb6\"",
+    "https://spacenews.com/feed/": "W/\"ba0743c2bb9da4dc40842bd08f6bb9da\"",
     "https://www.astronomy.com/feed/": "W/\"9f5776eddb389f95fb52b7daf4c3c4b5\"",
     "https://spacepolicyonline.com/feed/": "\"57eef8630cc2a6b98333a2b07cdfb4f7\""
   },
@@ -7863,6 +7863,30 @@
       "archivedDate": "2026-11-02",
       "collection": "evening",
       "archivedAt": "2026-11-02T23:11:33.868Z"
+    },
+    "001558f2ce88f80b": {
+      "id": "001558f2ce88f80b",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-vera-rubin-has-found-two-more-of-the-milky-ways-dim-satellites",
+      "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 01:33:59 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T03:31:05.583Z"
+    },
+    "001cf6266685b9d0": {
+      "id": "001cf6266685b9d0",
+      "canonicalUrl": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
+      "title": "Queen's University Belfast students find Neptune's elusive Trojan asteroids",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 20:00:01 EST",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T03:31:05.583Z"
     }
   }
 }
