@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-03T15:31:13.846Z",
-  "lastRunId": "run-1793719870549-jqpy8k",
+  "lastUpdated": "2026-11-03T21:12:44.231Z",
+  "lastRunId": "run-1793740360360-t5fpdk",
   "stats": {
-    "totalStories": 675,
+    "totalStories": 688,
     "lastRunAdded": 13
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"a5cc5e9439197f9e7e5bdc559a013cc9\"",
-    "https://www.universetoday.com/feed": "W/\"6ae9f40e-7a67\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"eeb58ee4b0c045a1b6efadf22ab82c4a\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"06c3e911394b92f30b7a383437575f90\"",
+    "https://www.universetoday.com/feed": "W/\"6aea4804-7887\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"04001464d6257926a0f9d4cb2aa89f62\"",
     "http://arxiv.org/rss/astro-ph": "e220c615778576702c129c334ebd70a13f68158dd883d96d8f02c460aa8505ba",
-    "https://spacenews.com/feed/": "W/\"216db6433522060f15ae123b82ac6f55\"",
-    "https://www.astronomy.com/feed/": "W/\"f5e4ea8d37bb772aacdfcf9924206a81\"",
+    "https://spacenews.com/feed/": "W/\"6a9886b2fdd062cd00b218233a4e46d7\"",
+    "https://www.astronomy.com/feed/": "W/\"e422c925a442accdd5350a53d5687d03\"",
     "https://spacepolicyonline.com/feed/": "\"fa2a7a55cfb3c9b3b7a51da868d3ff4c\""
   },
   "articles": {
@@ -8115,6 +8115,162 @@
       "archivedDate": "2026-11-03",
       "collection": "evening",
       "archivedAt": "2026-11-03T15:31:13.846Z"
+    },
+    "000ea35b00d19265": {
+      "id": "000ea35b00d19265",
+      "canonicalUrl": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+      "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 21:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "001f8ec3942ad5dd": {
+      "id": "001f8ec3942ad5dd",
+      "canonicalUrl": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
+      "title": "Voting in space: NASA astronauts cast ballots from International Space Station",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 03 Nov 2026 20:46:36 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "00129505e32ef6b3": {
+      "id": "00129505e32ef6b3",
+      "canonicalUrl": "https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update",
+      "title": "'OGame' developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 03 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "000684e63e59f7ca": {
+      "id": "000684e63e59f7ca",
+      "canonicalUrl": "https://www.universetoday.com/articles/what-will-politics-look-like-on-other-planets-its-likely-to-be-a-mishmash",
+      "title": "What Will Politics Look Like on Other Planets? It's Likely to Be a Mishmash",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 19:21:05 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "000bcb42dad0c723": {
+      "id": "000bcb42dad0c723",
+      "canonicalUrl": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
+      "title": "Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 03 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "000985eaf4da44ad": {
+      "id": "000985eaf4da44ad",
+      "canonicalUrl": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
+      "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "00022a19ac7e0991": {
+      "id": "00022a19ac7e0991",
+      "canonicalUrl": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution",
+      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "0018e22eda8c0d8d": {
+      "id": "0018e22eda8c0d8d",
+      "canonicalUrl": "https://www.nasa.gov/image-article/astronaut-and-earth",
+      "title": "Astronaut and Earth",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 03 Nov 2026 16:37:42 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "0012d8cf55b0a71c": {
+      "id": "0012d8cf55b0a71c",
+      "canonicalUrl": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "000d24c9bb7842bb": {
+      "id": "000d24c9bb7842bb",
+      "canonicalUrl": "https://www.universetoday.com/articles/stubborn-asteroids-around-white-dwarfs-resist-becoming-dust",
+      "title": "Stubborn Asteroids Around White Dwarfs Resist Becoming Dust",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 15:54:04 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "0006250c0989748f": {
+      "id": "0006250c0989748f",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 03 Nov 2026 15:35:14 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "0000d3701055e71f": {
+      "id": "0000d3701055e71f",
+      "canonicalUrl": "https://phys.org/news/2026-11-red-green-auroras-electron-driven.html",
+      "title": "Red and green auroras may share electron-driven origins",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 03 Nov 2026 11:40:15 EST",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "0011e4f2ec0e526c": {
+      "id": "0011e4f2ec0e526c",
+      "canonicalUrl": "https://phys.org/news/2026-11-asteroid-nuclear-blast-aimed-deflect.html",
+      "title": "An asteroid's shape influences where a nuclear blast must be aimed to deflect it",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 03 Nov 2026 11:20:09 EST",
+      "archivedDate": "2026-11-03",
+      "collection": "evening",
+      "archivedAt": "2026-11-03T21:12:44.231Z"
     }
   }
 }

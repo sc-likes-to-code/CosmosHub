@@ -1,8 +1,209 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T15:31:18.893Z",
-  "count": 397,
+  "generatedAt": "2026-11-03T21:12:50.686Z",
+  "count": 410,
   "articles": [
+    {
+      "id": "000ea35b00d19265",
+      "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
+      "link": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
+      "desc": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
+      "pubDate": "Tue, 03 Nov 2026 21:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001f8ec3942ad5dd",
+      "title": "Voting in space: NASA astronauts cast ballots from International Space Station",
+      "link": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
+      "desc": "The three Americans currently living off Earth made sure their voices were heard, voting in the midterm election from the International Space Station.",
+      "pubDate": "Tue, 03 Nov 2026 20:46:36 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00129505e32ef6b3",
+      "title": "'OGame' developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update",
+      "link": "https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update",
+      "desc": "The OG sci-fi browser game is still going strong.",
+      "pubDate": "Tue, 03 Nov 2026 20:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000684e63e59f7ca",
+      "title": "What Will Politics Look Like on Other Planets? It's Likely to Be a Mishmash",
+      "link": "https://www.universetoday.com/articles/what-will-politics-look-like-on-other-planets-its-likely-to-be-a-mishmash",
+      "desc": "When we make our home on other worlds, who will be in charge? Will it be an emperor? A billionaire? A rebel alliance? Or none of the above? Astrobiologist Jacob Haqq Misra runs through the legal and political options.",
+      "pubDate": "Tue, 03 Nov 2026 19:21:05 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000bcb42dad0c723",
+      "title": "Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo)",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
+      "desc": "Europe's Hera planetary defense spacecraft is closing in on the binary asteroid system targeted by NASA's DART deflection test, and can now tell the two rocky bodies apart.",
+      "pubDate": "Tue, 03 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000985eaf4da44ad",
+      "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
+      "desc": "Using the Hubble Space Telescope, astronomers have investigated a cosmic cat's tail formed when two Pluto-sized bodies smashed together.",
+      "pubDate": "Tue, 03 Nov 2026 17:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00022a19ac7e0991",
+      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution",
+      "desc": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+      "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "0018e22eda8c0d8d",
+      "title": "Astronaut and Earth",
+      "link": "https://www.nasa.gov/image-article/astronaut-and-earth",
+      "desc": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the s",
+      "pubDate": "Tue, 03 Nov 2026 16:37:42 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0012d8cf55b0a71c",
+      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
+      "link": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
+      "desc": "From Mos Eisley to Mos Espa and the Jundland Wastes, here's where to experience the Aug. 2, 2027 total solar eclipse from Tunisia's Star Wars filming locations.",
+      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000d24c9bb7842bb",
+      "title": "Stubborn Asteroids Around White Dwarfs Resist Becoming Dust",
+      "link": "https://www.universetoday.com/articles/stubborn-asteroids-around-white-dwarfs-resist-becoming-dust",
+      "desc": "Astronomers are finding more dusty disks around white dwarf stars, and some of them are home to asteroids. But how these rocky asteroids are turned to dust and form these rings isn't clear. New research shows that the white dwarf's gravity alone can't shred them to dust.",
+      "pubDate": "Tue, 03 Nov 2026 15:54:04 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0006250c0989748f",
+      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
+      "desc": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were obser",
+      "pubDate": "Tue, 03 Nov 2026 15:35:14 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000a1f7a15909228",
       "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
@@ -182,6 +383,44 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "0000d3701055e71f",
+      "title": "Red and green auroras may share electron-driven origins",
+      "link": "https://phys.org/news/2026-11-red-green-auroras-electron-driven.html",
+      "desc": "With their mysterious glow and swirling veils of color, auroras enchant even experienced researchers. When a particularly intense solar storm reached Earth on the night of May 10, 2024, and relevant websites predicted auroras even for southern Lower Saxony, several researchers from the Technical Uni",
+      "pubDate": "Tue, 03 Nov 2026 11:40:15 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0011e4f2ec0e526c",
+      "title": "An asteroid's shape influences where a nuclear blast must be aimed to deflect it",
+      "link": "https://phys.org/news/2026-11-asteroid-nuclear-blast-aimed-deflect.html",
+      "desc": "If a dangerous asteroid were headed toward Earth, one defense could be a nuclear detonation to blast one side with X-rays and nudge it off course. But new simulations suggest that for a lumpy, irregular asteroid, exactly where those X-rays hit could make a huge difference.",
+      "pubDate": "Tue, 03 Nov 2026 11:20:09 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
