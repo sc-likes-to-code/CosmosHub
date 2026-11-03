@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-03T03:31:05.583Z",
-  "lastRunId": "run-1793676662733-0563zv",
+  "lastUpdated": "2026-11-03T11:15:36.234Z",
+  "lastRunId": "run-1793704532292-fvswi0",
   "stats": {
-    "totalStories": 656,
-    "lastRunAdded": 2
+    "totalStories": 662,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"a5e56e220d0c3d61b1d0d1153dcd7654\"",
-    "https://www.universetoday.com/feed": "W/\"6ae94ae6-7a67\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a5e56e220d0c3d61b1d0d1153dcd7654\"",
-    "http://arxiv.org/rss/astro-ph": "e182dac2d1bfbd566b6eabbe9f4050f06f82d6f3177d316b10f0a6963d4d60c9",
+    "https://www.nasa.gov/news-release/feed/": "W/\"d73ac2561cdb9f1093a981f6443e4276\"",
+    "https://www.universetoday.com/feed": "W/\"6ae9bb4d-7a67\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"d73ac2561cdb9f1093a981f6443e4276\"",
+    "http://arxiv.org/rss/astro-ph": "e220c615778576702c129c334ebd70a13f68158dd883d96d8f02c460aa8505ba",
     "https://spacenews.com/feed/": "W/\"ba0743c2bb9da4dc40842bd08f6bb9da\"",
-    "https://www.astronomy.com/feed/": "W/\"9f5776eddb389f95fb52b7daf4c3c4b5\"",
-    "https://spacepolicyonline.com/feed/": "\"57eef8630cc2a6b98333a2b07cdfb4f7\""
+    "https://www.astronomy.com/feed/": "W/\"aef61b721e8d040e4a8660748c1cbe41\"",
+    "https://spacepolicyonline.com/feed/": "\"12859b4f0c0cd05c1182edc520e64ad3\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -7887,6 +7887,78 @@
       "archivedDate": "2026-11-03",
       "collection": "morning",
       "archivedAt": "2026-11-03T03:31:05.583Z"
+    },
+    "0011f3c529d90da7": {
+      "id": "0011f3c529d90da7",
+      "canonicalUrl": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T11:15:36.234Z"
+    },
+    "001dc0117b7a8996": {
+      "id": "001dc0117b7a8996",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-3-2026",
+      "title": "The Sky Today on Tuesday, November 3: The Moon passes Regulus",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T11:15:36.234Z"
+    },
+    "0010608c62401aac": {
+      "id": "0010608c62401aac",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 03 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T11:15:36.234Z"
+    },
+    "001b0b73ef0bcacc": {
+      "id": "001b0b73ef0bcacc",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season",
+      "title": "The Pacific’s Busy Storm Season",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 03 Nov 2026 05:01:00 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T11:15:36.234Z"
+    },
+    "001d2c7060be31c2": {
+      "id": "001d2c7060be31c2",
+      "canonicalUrl": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon",
+      "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 03 Nov 2026 04:51:09 +0000",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T11:15:36.234Z"
+    },
+    "0001c9c8b8867c80": {
+      "id": "0001c9c8b8867c80",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
+      "title": "Scientists just found a loophole that could let black holes split in two",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 02 Nov 2026 20:27:49 EST",
+      "archivedDate": "2026-11-03",
+      "collection": "morning",
+      "archivedAt": "2026-11-03T11:15:36.234Z"
     }
   }
 }

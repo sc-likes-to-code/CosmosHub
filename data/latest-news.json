@@ -1,8 +1,101 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T03:31:09.937Z",
-  "count": 381,
+  "generatedAt": "2026-11-03T11:15:40.706Z",
+  "count": 385,
   "articles": [
+    {
+      "id": "0011f3c529d90da7",
+      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
+      "link": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+      "desc": "From stellar pulsations to giant dust clouds and a mysterious companion, astronomers are piecing together why Betelguese keeps changing brightness.",
+      "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001dc0117b7a8996",
+      "title": "The Sky Today on Tuesday, November 3: The Moon passes Regulus",
+      "link": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-3-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 2: The Moon passes Jupiter and Mars The Moon now passes 0.8° south of the bright star Regulus in Leo at 4 A.M. EST. Some regions of the world will see our satellite pass in front of Regulus in an occultation,Contin",
+      "pubDate": "Tue, 03 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010608c62401aac",
+      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
+      "desc": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
+      "pubDate": "Tue, 03 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001b0b73ef0bcacc",
+      "title": "The Pacific’s Busy Storm Season",
+      "link": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season",
+      "desc": "Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.",
+      "pubDate": "Tue, 03 Nov 2026 05:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001d2c7060be31c2",
+      "title": "China Plans “Two Launches, Lunar Orbit Rendezvous” to Land Taikonauts on Moon",
+      "link": "https://spacepolicyonline.com/news/china-plans-two-launches-lunar-orbit-rendezvous-to-land-taikonauts-on-moon",
+      "desc": "China is sharing more information about how it plans to land taikonauts on the Moon by 2030. Development of the Long March-10 rocket, Mengzhou crew spacecraft, and Lanyue lunar lander […]",
+      "pubDate": "Tue, 03 Nov 2026 04:51:09 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001558f2ce88f80b",
       "title": "The Vera Rubin Has Found Two More of the Milky Way's Dim Satellites",
@@ -280,6 +373,24 @@
       }
     },
     {
+      "id": "0001c9c8b8867c80",
+      "title": "Scientists just found a loophole that could let black holes split in two",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
+      "desc": "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of an entirely new black hole phenomenon that future telescopes ",
+      "pubDate": "Mon, 02 Nov 2026 20:27:49 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001513ee8a4aa279",
       "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
       "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
@@ -427,24 +538,6 @@
       }
     },
     {
-      "id": "00035732e7eb9963",
-      "title": "The Sky Today on Monday, November 2: The Moon passes Jupiter and Mars",
-      "link": "https://www.astronomy.com/observing/the-sky-today-monday-november-2-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 1: The Moon in Cancer The Moon slides 1.1° south of Mars at 9 A.M. EST, then passes 0.5° south of Jupiter at 6 P.M. EST. Some parts of the world will see these planets disappear behind the Moon, although thisContin",
-      "pubDate": "Mon, 02 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000625325d5e5558",
       "title": "Scientists build whole-Earth simulation to help find life on other planets",
       "link": "https://phys.org/news/2026-11-scientists-earth-simulation-life-planets.html",
@@ -516,25 +609,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "001f7989fe468053",
-      "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars",
-      "desc": "APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a pro",
-      "pubDate": "Mon, 02 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
