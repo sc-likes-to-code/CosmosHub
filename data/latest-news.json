@@ -1,8 +1,284 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T15:31:18.748Z",
-  "count": 425,
+  "generatedAt": "2026-11-04T21:24:27.239Z",
+  "count": 444,
   "articles": [
+    {
+      "id": "00185e408bde900b",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon",
+      "desc": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s A",
+      "pubDate": "Wed, 04 Nov 2026 21:04:10 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0001b05ea5061d98",
+      "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
+      "link": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
+      "desc": "The MCU’s Multiverse Saga is nearly over, but there are plenty more Marvel movies and shows on the horizon.",
+      "pubDate": "Wed, 04 Nov 2026 21:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00036632ce772620",
+      "title": "Game Theory Helps SETI Search for Alien Civilizations",
+      "link": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations",
+      "desc": "SETI can be more effective the more the targets in the search are refined. SETI's newest survey effort uses game theory to inform its search. It's based on the idea that other ETIs would almost certainly use the transit method to detect habitable worlds like Earth.",
+      "pubDate": "Wed, 04 Nov 2026 20:50:16 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000cdee6841c88e6",
+      "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
+      "link": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
+      "desc": "How \"Forrest Gump\", pizza, and a massive supporting cast of furballs came together to make one of \"Star Trek\"'s finest hours.",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0009b9eb9b6086b2",
+      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+      "link": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+      "desc": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
+      "pubDate": "Wed, 04 Nov 2026 19:06:08 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0008d0b3bd8a6dcd",
+      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
+      "link": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests",
+      "desc": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scie",
+      "pubDate": "Wed, 04 Nov 2026 19:01:39 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0005833115b8fc41",
+      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
+      "link": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+      "desc": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
+      "pubDate": "Wed, 04 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0003e82aff9141b5",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications",
+      "desc": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will",
+      "pubDate": "Wed, 04 Nov 2026 18:00:02 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001eceaab4949add",
+      "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
+      "link": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2",
+      "desc": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the country. The final tally is not […]",
+      "pubDate": "Wed, 04 Nov 2026 17:13:37 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "000cb24574ee2a5c",
+      "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+      "desc": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
+      "pubDate": "Wed, 04 Nov 2026 17:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000f99d5360fd233",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
+      "desc": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control paylo",
+      "pubDate": "Wed, 04 Nov 2026 16:52:43 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f5e624e9df881",
+      "title": "A cosmic pond",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/a-cosmic-pond",
+      "desc": "Massimo Tamajo from Syracuse, Sicily, Italy IC 410 is an emission nebula about 12,000 light-years away in Auriga, lit by the radiation from the embedded star cluster NGC 1893. The region is best known as home to the Tadpoles — two pillars of gas and dust that are forming stars. The imager took about",
+      "pubDate": "Wed, 04 Nov 2026 16:52:35 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0005b207dac01232",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour",
+      "desc": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brou",
+      "pubDate": "Wed, 04 Nov 2026 16:16:41 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0009f0b892f510a0",
+      "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
+      "link": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
+      "desc": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
+      "pubDate": "Wed, 04 Nov 2026 16:14:46 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0018f82bfa035c64",
+      "title": "Hubble Reveals Cosmic Mystery",
+      "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery",
+      "desc": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expect",
+      "pubDate": "Wed, 04 Nov 2026 15:59:36 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000e9bc4722f3985",
       "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
@@ -130,6 +406,44 @@
       }
     },
     {
+      "id": "001aee564dbc2061",
+      "title": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
+      "link": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html",
+      "desc": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies. Based on what they knew about the early universe, such galaxies should have been far less common in the few hundred million years following ",
+      "pubDate": "Wed, 04 Nov 2026 16:00:11 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000c7ff0909cfa5e",
+      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions",
+      "link": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html",
+      "desc": "One of NASA's premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of the universe's biggest explosions.",
+      "pubDate": "Wed, 04 Nov 2026 15:40:11 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001aac7abe80d8bf",
       "title": "The Sky Today on Wednesday, November 4: Venus and Spica stand close",
       "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-4-2026",
@@ -144,6 +458,63 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00089c504e8b15a7",
+      "title": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
+      "link": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
+      "desc": "Less than a decade ago, there were about 2,000 operational satellites orbiting Earth. Today there are more than 15,000. Millions more are planned.",
+      "pubDate": "Wed, 04 Nov 2026 12:20:22 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001a3e6e197b1946",
+      "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+      "link": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+      "desc": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to dat",
+      "pubDate": "Wed, 04 Nov 2026 11:30:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00013c290e813334",
+      "title": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
+      "link": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
+      "desc": "Even the world's most powerful telescopes have their blind spots. Although NASA's James Webb Space Telescope (JWST) can peer billions of years into the past, it still struggles to photograph planets orbiting nearby stars. Stars shine with such extraordinary brightness that their glare overwhelms nea",
+      "pubDate": "Wed, 04 Nov 2026 11:00:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -5443,24 +5814,6 @@
       "desc": "If you only knew the power of the infinity stones!",
       "pubDate": "Mon, 26 Oct 2026 19:00:00 +0000",
       "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0008299193385f22",
-      "title": "NASA ends Swift space telescope mission after failed rescue attempt",
-      "link": "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt",
-      "desc": "NASA has officially ended the mission of its Swift Observatory, after a private satellite failed to meet up with the aging spacecraft in orbit.",
-      "pubDate": "Mon, 26 Oct 2026 18:43:21 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",

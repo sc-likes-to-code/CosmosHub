@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-04T15:31:13.017Z",
-  "lastRunId": "run-1793806269912-lpsisk",
+  "lastUpdated": "2026-11-04T21:24:22.553Z",
+  "lastRunId": "run-1793827459957-utsv2k",
   "stats": {
-    "totalStories": 704,
-    "lastRunAdded": 6
+    "totalStories": 724,
+    "lastRunAdded": 20
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"38e57fa3e246779b65363ec3e9b4a2e7\"",
-    "https://www.universetoday.com/feed": "W/\"6aeb4518-7997\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"dd82d10720325e800a44edd5de689207\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"316c16eb4ed51ac366f8bf83a2fe9edb\"",
+    "https://www.universetoday.com/feed": "W/\"6aeb9b53-7877\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3d9180d2fab66a879b06a50495a4724a\"",
     "http://arxiv.org/rss/astro-ph": "a5fe2bb69d929a4ccd9d986f360eca9c0bc182e5cb849b40d89a02819d53094f",
-    "https://spacenews.com/feed/": "W/\"f3631d238e7867131845ae5f9a764b81\"",
-    "https://www.astronomy.com/feed/": "W/\"8c7b218ddca835e7ab3dc13f6ad6b37b\"",
-    "https://spacepolicyonline.com/feed/": "\"f5686c02bfa47acfb9beddf4e5121bda\""
+    "https://spacenews.com/feed/": "W/\"01b574dd257fa98306dc807f0eb0526d\"",
+    "https://www.astronomy.com/feed/": "W/\"eb739402e7cf93072090acb597d7fe23\"",
+    "https://spacepolicyonline.com/feed/": "\"2303300e23ec56045b574d2e776e5e04\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -8463,6 +8463,246 @@
       "archivedDate": "2026-11-04",
       "collection": "evening",
       "archivedAt": "2026-11-04T15:31:13.017Z"
+    },
+    "00185e408bde900b": {
+      "id": "00185e408bde900b",
+      "canonicalUrl": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 04 Nov 2026 21:04:10 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0001b05ea5061d98": {
+      "id": "0001b05ea5061d98",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
+      "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 04 Nov 2026 21:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "00036632ce772620": {
+      "id": "00036632ce772620",
+      "canonicalUrl": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations",
+      "title": "Game Theory Helps SETI Search for Alien Civilizations",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 20:50:16 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "000cdee6841c88e6": {
+      "id": "000cdee6841c88e6",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
+      "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0009b9eb9b6086b2": {
+      "id": "0009b9eb9b6086b2",
+      "canonicalUrl": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
+      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 19:06:08 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0008d0b3bd8a6dcd": {
+      "id": "0008d0b3bd8a6dcd",
+      "canonicalUrl": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests",
+      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 19:01:39 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0005833115b8fc41": {
+      "id": "0005833115b8fc41",
+      "canonicalUrl": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 04 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0003e82aff9141b5": {
+      "id": "0003e82aff9141b5",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 04 Nov 2026 18:00:02 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "001eceaab4949add": {
+      "id": "001eceaab4949add",
+      "canonicalUrl": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2",
+      "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 04 Nov 2026 17:13:37 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "000cb24574ee2a5c": {
+      "id": "000cb24574ee2a5c",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
+      "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 04 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "000f99d5360fd233": {
+      "id": "000f99d5360fd233",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 04 Nov 2026 16:52:43 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "000f5e624e9df881": {
+      "id": "000f5e624e9df881",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/a-cosmic-pond",
+      "title": "A cosmic pond",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 16:52:35 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0005b207dac01232": {
+      "id": "0005b207dac01232",
+      "canonicalUrl": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour",
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 04 Nov 2026 16:16:41 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0009f0b892f510a0": {
+      "id": "0009f0b892f510a0",
+      "canonicalUrl": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
+      "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 16:14:46 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "0018f82bfa035c64": {
+      "id": "0018f82bfa035c64",
+      "canonicalUrl": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery",
+      "title": "Hubble Reveals Cosmic Mystery",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 15:59:36 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "001aee564dbc2061": {
+      "id": "001aee564dbc2061",
+      "canonicalUrl": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html",
+      "title": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 16:00:11 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "000c7ff0909cfa5e": {
+      "id": "000c7ff0909cfa5e",
+      "canonicalUrl": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html",
+      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 15:40:11 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "00089c504e8b15a7": {
+      "id": "00089c504e8b15a7",
+      "canonicalUrl": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
+      "title": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 04 Nov 2026 12:20:22 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "001a3e6e197b1946": {
+      "id": "001a3e6e197b1946",
+      "canonicalUrl": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
+      "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 11:30:01 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "00013c290e813334": {
+      "id": "00013c290e813334",
+      "canonicalUrl": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
+      "title": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 11:00:01 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T21:24:22.553Z"
     }
   }
 }
