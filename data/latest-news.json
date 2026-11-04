@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T11:26:14.336Z",
-  "count": 419,
+  "generatedAt": "2026-11-04T15:31:18.748Z",
+  "count": 425,
   "articles": [
+    {
+      "id": "000e9bc4722f3985",
+      "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
+      "link": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026",
+      "desc": "Over 1,400 students gathered in Hawaii recently to learn about astronomy as part of the annual Journey Through the Universe program.",
+      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001fd091c02febae",
+      "title": "Nov. 4, 1922: Tutankhamun’s tomb is discovered",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-4-1922-tutankhamuns-tomb-is-discovered",
+      "desc": "When archaeologists peered inside Tutankhamun’s tomb a few weeks after its discovery on Nov. 4, 1922, they found antechambers packed to the brim with thousands of artifacts: statues, furniture, jewelry, clothes, chariots, paintings. Among these possessions was an iron dagger — just over one foot in ",
+      "pubDate": "Wed, 04 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Wed, 04 Nov 2026 13:24:15 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001840a1e911ab34",
+      "title": "A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets",
+      "link": "https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets",
+      "desc": "Researchers have created a model lifeless Earth that couples the atmosphere with interior planetary processes. The model can reproduce Earth's modern habitable state without including life, showing that a planet that appears habitable isn't necessarily inhabited. The tool will be useful when and if ",
+      "pubDate": "Wed, 04 Nov 2026 13:22:25 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0013e8653065eea6",
+      "title": "Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit",
+      "link": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
+      "desc": "The U.K. startup Shield Space is racing to apply the lessons of drone warfare in Ukraine to develop swarms of up to 100 autonomous, satellite-defending cubesats.",
+      "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0013925f388157d3",
+      "title": "Don't miss out on 'Dark Matter' — this early Black Friday NordVPN deal has up to $386 off, meaning you can stream the latest sci-fi series from anywhere",
+      "link": "https://www.space.com/technology/dark-matter-early-black-friday-nordvpn-deal-386-dollars-off",
+      "desc": "NordVPN is recommended as one of the best VPN services, offering privacy, online security, and convenience and is now up to 78% cheaper.",
+      "pubDate": "Wed, 04 Nov 2026 11:27:47 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "00130c36c4f1573c",
       "title": "The Taurid meteor shower peaks tonight — and fireballs could steal the show",
@@ -73,6 +181,24 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001298fea8dfb74e",
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+      "desc": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 203",
+      "pubDate": "Wed, 04 Nov 2026 06:22:33 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -411,24 +537,6 @@
       "link": "https://www.astronomy.com/picture-of-the-day/photo/sailing-through-cassiopeia",
       "desc": "Andrea Arbizzi, taken from Maremma, Italy A vast sea of faintly lit dust in Cassiopeia envelops the Sailboat Cluster (NGC 225, upper right), an open cluster named for the way its brightest stars and the blue haze of the reflection nebula VdB 4 sketch out a sail. NGC 225 lies about 2,200 light-years ",
       "pubDate": "Tue, 03 Nov 2026 14:36:54 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Tue, 03 Nov 2026 14:13:34 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",

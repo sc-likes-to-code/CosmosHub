@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-04T11:26:08.724Z",
-  "lastRunId": "run-1793791565492-9tmqp9",
+  "lastUpdated": "2026-11-04T15:31:13.017Z",
+  "lastRunId": "run-1793806269912-lpsisk",
   "stats": {
-    "totalStories": 698,
+    "totalStories": 704,
     "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"74df763bb497602de1b73a85fa966f8c\"",
-    "https://www.universetoday.com/feed": "W/\"6aeb0cdf-7865\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"74df763bb497602de1b73a85fa966f8c\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"38e57fa3e246779b65363ec3e9b4a2e7\"",
+    "https://www.universetoday.com/feed": "W/\"6aeb4518-7997\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"dd82d10720325e800a44edd5de689207\"",
     "http://arxiv.org/rss/astro-ph": "a5fe2bb69d929a4ccd9d986f360eca9c0bc182e5cb849b40d89a02819d53094f",
-    "https://spacenews.com/feed/": "W/\"2ab30b9f13c0a71fd9421e69a5b2c53e\"",
-    "https://www.astronomy.com/feed/": "W/\"e58a847e856b47e43a83816e1650f0ce\"",
+    "https://spacenews.com/feed/": "W/\"f3631d238e7867131845ae5f9a764b81\"",
+    "https://www.astronomy.com/feed/": "W/\"8c7b218ddca835e7ab3dc13f6ad6b37b\"",
     "https://spacepolicyonline.com/feed/": "\"f5686c02bfa47acfb9beddf4e5121bda\""
   },
   "articles": {
@@ -8391,6 +8391,78 @@
       "archivedDate": "2026-11-04",
       "collection": "morning",
       "archivedAt": "2026-11-04T11:26:08.724Z"
+    },
+    "000e9bc4722f3985": {
+      "id": "000e9bc4722f3985",
+      "canonicalUrl": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026",
+      "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T15:31:13.017Z"
+    },
+    "001fd091c02febae": {
+      "id": "001fd091c02febae",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-4-1922-tutankhamuns-tomb-is-discovered",
+      "title": "Nov. 4, 1922: Tutankhamun’s tomb is discovered",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T15:31:13.017Z"
+    },
+    "001840a1e911ab34": {
+      "id": "001840a1e911ab34",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets",
+      "title": "A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 13:22:25 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T15:31:13.017Z"
+    },
+    "0013e8653065eea6": {
+      "id": "0013e8653065eea6",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
+      "title": "Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T15:31:13.017Z"
+    },
+    "0013925f388157d3": {
+      "id": "0013925f388157d3",
+      "canonicalUrl": "https://www.space.com/technology/dark-matter-early-black-friday-nordvpn-deal-386-dollars-off",
+      "title": "Don't miss out on 'Dark Matter' — this early Black Friday NordVPN deal has up to $386 off, meaning you can stream the latest sci-fi series from anywhere",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 04 Nov 2026 11:27:47 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T15:31:13.017Z"
+    },
+    "001298fea8dfb74e": {
+      "id": "001298fea8dfb74e",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+      "title": "NASA is racing against time to save the Hubble Space Telescope",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 06:22:33 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "evening",
+      "archivedAt": "2026-11-04T15:31:13.017Z"
     }
   }
 }
