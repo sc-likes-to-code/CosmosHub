@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-03T21:12:44.231Z",
-  "lastRunId": "run-1793740360360-t5fpdk",
+  "lastUpdated": "2026-11-04T03:31:11.027Z",
+  "lastRunId": "run-1793763067452-7tuplg",
   "stats": {
-    "totalStories": 688,
-    "lastRunAdded": 13
+    "totalStories": 692,
+    "lastRunAdded": 4
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"06c3e911394b92f30b7a383437575f90\"",
-    "https://www.universetoday.com/feed": "W/\"6aea4804-7887\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"04001464d6257926a0f9d4cb2aa89f62\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"3590c4eb9337dc2e8ea92953d9fd4e14\"",
+    "https://www.universetoday.com/feed": "W/\"6aea9c83-7865\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3590c4eb9337dc2e8ea92953d9fd4e14\"",
     "http://arxiv.org/rss/astro-ph": "e220c615778576702c129c334ebd70a13f68158dd883d96d8f02c460aa8505ba",
-    "https://spacenews.com/feed/": "W/\"6a9886b2fdd062cd00b218233a4e46d7\"",
-    "https://www.astronomy.com/feed/": "W/\"e422c925a442accdd5350a53d5687d03\"",
-    "https://spacepolicyonline.com/feed/": "\"fa2a7a55cfb3c9b3b7a51da868d3ff4c\""
+    "https://spacenews.com/feed/": "W/\"a7896f1ede5d435d611c0128ab23cf47\"",
+    "https://www.astronomy.com/feed/": "W/\"de2451a310c5a3f811cf6edb6b82e7e3\"",
+    "https://spacepolicyonline.com/feed/": "\"f5686c02bfa47acfb9beddf4e5121bda\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -8271,6 +8271,54 @@
       "archivedDate": "2026-11-03",
       "collection": "evening",
       "archivedAt": "2026-11-03T21:12:44.231Z"
+    },
+    "00093b7d3493ca8d": {
+      "id": "00093b7d3493ca8d",
+      "canonicalUrl": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
+      "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T03:31:11.027Z"
+    },
+    "000bfb4b4e3ec032": {
+      "id": "000bfb4b4e3ec032",
+      "canonicalUrl": "https://www.universetoday.com/articles/students-test-prototype-landing-pad-to-make-lunar-operations-safe",
+      "title": "Students Test Prototype Landing Pad to Make Lunar Operations Safe",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 21:45:06 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T03:31:11.027Z"
+    },
+    "000ec1ea68077a4d": {
+      "id": "000ec1ea68077a4d",
+      "canonicalUrl": "https://phys.org/news/2026-11-vibrations-reveal-beneath-planets-surfaces.html",
+      "title": "Using vibrations to reveal what lies beneath other planets' surfaces",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 19:10:01 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T03:31:11.027Z"
+    },
+    "001902230c8f1319": {
+      "id": "001902230c8f1319",
+      "canonicalUrl": "https://phys.org/news/2026-11-alien-scientists-game-theory.html",
+      "title": "When should we listen for alien signals? Scientists turn to game theory",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 17:50:01 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T03:31:11.027Z"
     }
   }
 }

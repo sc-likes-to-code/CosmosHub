@@ -1,8 +1,44 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-03T21:12:50.686Z",
-  "count": 410,
+  "generatedAt": "2026-11-04T03:31:16.475Z",
+  "count": 414,
   "articles": [
+    {
+      "id": "00093b7d3493ca8d",
+      "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
+      "desc": "The Hubble Space Telescope is healthy but is being pulled down toward Earth by atmospheric drag. NASA is considering options to extend the iconic telescope's work.",
+      "pubDate": "Tue, 03 Nov 2026 22:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000bfb4b4e3ec032",
+      "title": "Students Test Prototype Landing Pad to Make Lunar Operations Safe",
+      "link": "https://www.universetoday.com/articles/students-test-prototype-landing-pad-to-make-lunar-operations-safe",
+      "desc": "This summer, a team of students and researchers at the University of Alabama in Huntsville successfully conducted three rocket-motor firing tests on a prototype lunar landing pad. The tests showed the prototype’s ability to capture and redirect rocket exhaust through an integrated vent system, marki",
+      "pubDate": "Tue, 03 Nov 2026 21:45:06 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000ea35b00d19265",
       "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
@@ -314,6 +350,25 @@
       }
     },
     {
+      "id": "000ec1ea68077a4d",
+      "title": "Using vibrations to reveal what lies beneath other planets' surfaces",
+      "link": "https://phys.org/news/2026-11-vibrations-reveal-beneath-planets-surfaces.html",
+      "desc": "Modern space exploration hasn't quite reached \"Star Trek\" levels of boldly going where no one has gone before. But if, like the denizens of the USS Enterprise, astronauts one day want to land on an uncharted planet, they'd first want to know what's on—and under—the surface.",
+      "pubDate": "Tue, 03 Nov 2026 19:10:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0016814b58e07e17",
       "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
       "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution",
@@ -347,6 +402,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "001902230c8f1319",
+      "title": "When should we listen for alien signals? Scientists turn to game theory",
+      "link": "https://phys.org/news/2026-11-alien-scientists-game-theory.html",
+      "desc": "Finding a signal from an extraterrestrial civilization takes more than just pointing a telescope in the right direction. We may also need to listen at exactly the right time.",
+      "pubDate": "Tue, 03 Nov 2026 17:50:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
