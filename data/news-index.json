@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-04T03:31:11.027Z",
-  "lastRunId": "run-1793763067452-7tuplg",
+  "lastUpdated": "2026-11-04T11:26:08.724Z",
+  "lastRunId": "run-1793791565492-9tmqp9",
   "stats": {
-    "totalStories": 692,
-    "lastRunAdded": 4
+    "totalStories": 698,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"3590c4eb9337dc2e8ea92953d9fd4e14\"",
-    "https://www.universetoday.com/feed": "W/\"6aea9c83-7865\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3590c4eb9337dc2e8ea92953d9fd4e14\"",
-    "http://arxiv.org/rss/astro-ph": "e220c615778576702c129c334ebd70a13f68158dd883d96d8f02c460aa8505ba",
-    "https://spacenews.com/feed/": "W/\"a7896f1ede5d435d611c0128ab23cf47\"",
-    "https://www.astronomy.com/feed/": "W/\"de2451a310c5a3f811cf6edb6b82e7e3\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"74df763bb497602de1b73a85fa966f8c\"",
+    "https://www.universetoday.com/feed": "W/\"6aeb0cdf-7865\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"74df763bb497602de1b73a85fa966f8c\"",
+    "http://arxiv.org/rss/astro-ph": "a5fe2bb69d929a4ccd9d986f360eca9c0bc182e5cb849b40d89a02819d53094f",
+    "https://spacenews.com/feed/": "W/\"2ab30b9f13c0a71fd9421e69a5b2c53e\"",
+    "https://www.astronomy.com/feed/": "W/\"e58a847e856b47e43a83816e1650f0ce\"",
     "https://spacepolicyonline.com/feed/": "\"f5686c02bfa47acfb9beddf4e5121bda\""
   },
   "articles": {
@@ -8319,6 +8319,78 @@
       "archivedDate": "2026-11-04",
       "collection": "morning",
       "archivedAt": "2026-11-04T03:31:11.027Z"
+    },
+    "00130c36c4f1573c": {
+      "id": "00130c36c4f1573c",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-2026-peaks-tonight-and-fireballs-could-steal-the-show",
+      "title": "The Taurid meteor shower peaks tonight — and fireballs could steal the show",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T11:26:08.724Z"
+    },
+    "001aac7abe80d8bf": {
+      "id": "001aac7abe80d8bf",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-4-2026",
+      "title": "The Sky Today on Wednesday, November 4: Venus and Spica stand close",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T11:26:08.724Z"
+    },
+    "000cb3a21a72b1f2": {
+      "id": "000cb3a21a72b1f2",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342",
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 04 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T11:26:08.724Z"
+    },
+    "000928ae7254ce1e": {
+      "id": "000928ae7254ce1e",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland",
+      "title": "Before the Dawn in America’s Heartland",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 04 Nov 2026 05:01:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T11:26:08.724Z"
+    },
+    "00048fe5a66d33d2": {
+      "id": "00048fe5a66d33d2",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 21:52:16 EST",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T11:26:08.724Z"
+    },
+    "0000fbf75e3ee148": {
+      "id": "0000fbf75e3ee148",
+      "canonicalUrl": "https://www.space.com/stargazing/solar-eclipses/2027-total-solar-eclipse-star-wars-filming-locations-tunisia",
+      "title": "The 2027 'eclipse of the century' will plunge real Star Wars filming locations into darkness",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-04",
+      "collection": "morning",
+      "archivedAt": "2026-11-04T11:26:08.724Z"
     }
   }
 }

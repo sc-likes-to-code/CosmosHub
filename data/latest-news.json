@@ -1,8 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T03:31:16.475Z",
-  "count": 414,
+  "generatedAt": "2026-11-04T11:26:14.336Z",
+  "count": 419,
   "articles": [
+    {
+      "id": "00130c36c4f1573c",
+      "title": "The Taurid meteor shower peaks tonight — and fireballs could steal the show",
+      "link": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-2026-peaks-tonight-and-fireballs-could-steal-the-show",
+      "desc": "The Taurid meteor shower could spawn dazzling fireballs in the coming weeks! Here's when and where to look.",
+      "pubDate": "Wed, 04 Nov 2026 11:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001aac7abe80d8bf",
+      "title": "The Sky Today on Wednesday, November 4: Venus and Spica stand close",
+      "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-4-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 3: The Moon passes Regulus Venus sits 2° south of Virgo’s brightest star, Spica, in the early-morning sky. The pair is joined by a lovely crescent Moon high above them in Leo, creating a gorgeous sight that early r",
+      "pubDate": "Wed, 04 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000cb3a21a72b1f2",
+      "title": "APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342",
+      "desc": "APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation ",
+      "pubDate": "Wed, 04 Nov 2026 05:05:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000928ae7254ce1e",
+      "title": "Before the Dawn in America’s Heartland",
+      "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland",
+      "desc": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
+      "pubDate": "Wed, 04 Nov 2026 05:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "00093b7d3493ca8d",
       "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
@@ -182,6 +256,42 @@
           "NASA",
           "Space",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00048fe5a66d33d2",
+      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
+      "desc": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and ",
+      "pubDate": "Tue, 03 Nov 2026 21:52:16 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0000fbf75e3ee148",
+      "title": "The 2027 'eclipse of the century' will plunge real Star Wars filming locations into darkness",
+      "link": "https://www.space.com/stargazing/solar-eclipses/2027-total-solar-eclipse-star-wars-filming-locations-tunisia",
+      "desc": "On Aug. 2, 2027, the moon's shadow will sweep across Tunisia, giving Star Wars fans a rare chance to experience a total solar eclipse at the real-life filming locations of Tatooine.",
+      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
         ]
       }
     },
@@ -495,25 +605,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "0010608c62401aac",
-      "title": "APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor",
-      "desc": "APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
-      "pubDate": "Tue, 03 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
