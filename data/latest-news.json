@@ -1,8 +1,190 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T15:31:17.738Z",
+  "generatedAt": "2026-11-05T21:32:03.053Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00108d82fa5e49bb",
+      "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+      "desc": "Blue Origin has developed a third stage for its New Glenn rocket, which it says will make the launcher even more flexible and capable. The company has also built a new engine, called Northstar.",
+      "pubDate": "Thu, 05 Nov 2026 20:55:15 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0000489c1ec44f4c",
+      "title": "Make the most of long nights with this month’s new astronomy products",
+      "link": "https://www.astronomy.com/observing/make-the-most-of-long-nights-with-this-months-new-astronomy-products",
+      "desc": "GS-100AR/AC High-Precision Guide Scope ToupTekHangzhou, China The GS-100AR/AC High-Precision Guide Scope is a guide scope, a wide-field imaging system, and a visual instrument. Its apochromatic design produces a flat 1-inch image circle and reduces purple fringing seen in earlier models. With a choi",
+      "pubDate": "Thu, 05 Nov 2026 19:42:26 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011c9e088570c49",
+      "title": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
+      "link": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+      "desc": "In a pinch, we could use a stand-off nuclear blast to redirect a dangerous asteroid on short notice. There's no atmospheric shock wave in space, but the x-ray pulse could still deflect the space rock. But asteroids aren't round and uniform, so their weird shapes make it difficult.",
+      "pubDate": "Thu, 05 Nov 2026 19:26:56 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010f3b9d3b1864a",
+      "title": "Earth has captured a new mini moon  — but it won't stick around for long",
+      "link": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long",
+      "desc": "Earth has caught itself a new mini-moon, and QQ8 is sticking around for Christmas.",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001d3f1feaa2bac4",
+      "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
+      "desc": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
+      "pubDate": "Thu, 05 Nov 2026 18:27:44 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001e3cdf4de0c86d",
+      "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
+      "link": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+      "desc": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies about 400 to 500 million years after the Big Bang. But these galaxies should have been far less common so soon after the Big Bang. Researcher",
+      "pubDate": "Thu, 05 Nov 2026 17:11:33 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001d96623b4bd8a5",
+      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive",
+      "desc": "Mozelos, Portugal, September 2, 2026 – Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture rare in-flight […]\nThe post Cork Takes the Heat So DRACO’s Data Can Survive appeared first on SpaceNews.",
+      "pubDate": "Thu, 05 Nov 2026 17:05:59 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "001d846f50d65feb",
+      "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
+      "link": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon",
+      "desc": "After a record-breaking journey around the moon, Artemis 2 astronaut Victor Glover explains why you don't need to travel into space to see Earth differently.",
+      "pubDate": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001099e6dbfdd0f3",
+      "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
+      "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+      "desc": "NASA's Voyager 1 probe is back in communication after the 49-year-old spacecraft briefly fell silent last month, during its interstellar-space mission.",
+      "pubDate": "Thu, 05 Nov 2026 15:18:15 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002f242cd1c2f05",
+      "title": "Midwestern City Lights",
+      "link": "https://www.nasa.gov/image-article/midwestern-city-lights",
+      "desc": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Stat",
+      "pubDate": "Thu, 05 Nov 2026 15:17:19 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001af0d201dd0478",
       "title": "NASA Astronauts to Answer Questions from Florida Students",
@@ -241,6 +423,25 @@
       }
     },
     {
+      "id": "00077f27991df83a",
+      "title": "Hubble learns galactic history from stars",
+      "link": "https://phys.org/news/2026-11-hubble-galactic-history-stars.html",
+      "desc": "This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier'",
+      "pubDate": "Thu, 05 Nov 2026 15:00:09 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000ca6c869337bba",
       "title": "The Sky Today on Thursday, November 5: Smoke out the Southern Cigar",
       "link": "https://www.astronomy.com/observing/the-sky-today-thursday-november-5-2026",
@@ -273,6 +474,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0013129d5610895e",
+      "title": "NASA's Swift telescope has burned up, months after a robot sent to save it failed",
+      "link": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
+      "desc": "NASA's Neil Gehrels Swift Observatory took its last look at the sky on Oct. 20, 2026, while orbiting about 171 miles (275 kilometers) above Earth. NASA ended the telescope's mission three days later, because Swift had sunk so low that drag from the thin air there meant its telescopes couldn't hold s",
+      "pubDate": "Thu, 05 Nov 2026 10:40:14 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -1400,7 +1620,7 @@
       "title": "China Unveils Their Plan for a Crewed Moon Landing",
       "link": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
       "desc": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
-      "pubDate": "Wed, 04 Nov 2026 21:29:39 +0000",
+      "pubDate": "Wed, 04 Nov 2026 21:29:00 +0000",
       "category": "Missions & Exploration",
       "source": {
         "name": "Universe Today",
@@ -9051,234 +9271,6 @@
           "NASA",
           "JPL",
           "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000a5255040ba11f",
-      "title": "NASA’s Perseverance Rover Watches Earth Vanish Behind Martian Moon",
-      "link": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-watches-earth-vanish-behind-martian-moon",
-      "desc": "The first observation of its kind captures our home planet slipping behind Phobos in the Martian evening sky.",
-      "pubDate": "Wed, 05 Aug 2026 08:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001c30cfa725c8ce",
-      "title": "Science Release: Astronomers Catch Massive Star’s Death From the First Explosive Moment",
-      "link": "https://noirlab.edu/public/news/noirlab2619",
-      "desc": "A rare cosmic explosion has given astronomers an unprecedented view of a massive star in its final moments, revealing a previously missing link between ordinary supernovae and the most energetic explosions in the Universe. Several NSF NOIRLab facilities and instruments helped to unravel the nature o",
-      "pubDate": "Wed, 05 Aug 2026 08:00:00 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001caa97b77b4c07",
-      "title": "NASA Engineers Help Prolong Voyager 2’s Science Mission",
-      "link": "https://www.jpl.nasa.gov/news/nasa-engineers-help-prolong-voyager-2s-science-mission",
-      "desc": "By switching off certain powered devices and substituting them with lower-powered alternatives, the team has been able to avoid turning off more science instruments.",
-      "pubDate": "Tue, 04 Aug 2026 16:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001ee5f55772d129",
-      "title": "Photo Release: NSF–DOE Rubin Observatory Opens Deep Window on Famous Cosmic Field",
-      "link": "https://noirlab.edu/public/news/noirlab2618",
-      "desc": "A new image from NSF–DOE Vera C. Rubin Observatory offers a spectacularly deep view into a famous region of sky known as the COSMOS field. Located in the constellation Sextans, COSMOS is one of the most observed patches of the Universe — and Rubin’s new image adds a powerful new view of this well-kn",
-      "pubDate": "Fri, 31 Jul 2026 13:20:00 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0003e950029b6c61",
-      "title": "NASA Awards 2026 Innovative Technology Concepts",
-      "link": "https://www.jpl.nasa.gov/news/nasa-awards-2026-innovative-technology-concepts",
-      "desc": "JPL is leading three of the 18 visionary concepts awarded funding by an innovation incubator program at NASA.",
-      "pubDate": "Wed, 29 Jul 2026 15:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0001f2fdad4b1cc8",
-      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
-      "link": "https://www.jpl.nasa.gov/news/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures",
-      "desc": "Mission scientists have never seen so many of the many-sided geologic features in one place on the Red Planet.",
-      "pubDate": "Wed, 29 Jul 2026 09:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "00074181dfe11773",
-      "title": "NASA’s Juno Takes Temperature of Jupiter’s Fiery Moon Io",
-      "link": "https://www.jpl.nasa.gov/news/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io",
-      "desc": "The first measurements of the subsurface of the most volcanic world in the solar system reveal heat rising from below.",
-      "pubDate": "Wed, 22 Jul 2026 08:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0013d382200150f0",
-      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
-      "link": "https://www.jpl.nasa.gov/news/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica",
-      "desc": "Data from NISAR, one of the most powerful radar systems ever launched, is now available to the world. A vivid image of Antarctic ice showcases what the satellite can do.",
-      "pubDate": "Tue, 21 Jul 2026 11:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000952eaf76245b5",
-      "title": "New NASA Earth Missions Gear Up to Start Science Flights",
-      "link": "https://www.jpl.nasa.gov/news/new-nasa-earth-missions-gear-up-to-start-science-flights",
-      "desc": "The first of six new venture-class missions will hit the skies this summer to chase dangerous and little understood pyrocumulonimbus storms out West.",
-      "pubDate": "Mon, 20 Jul 2026 15:30:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0017c53f781f736a",
-      "title": "NASA’s Psyche Mission Delivers Mars Flyby Data, Time-lapse Video",
-      "link": "https://www.jpl.nasa.gov/news/nasas-psyche-mission-delivers-mars-flyby-data-time-lapse-video",
-      "desc": "The spacecraft aced its encounter with Mars. Now mission scientists are studying a trove of data from the flyby in preparation for its arrival at asteroid Psyche in 2029.",
-      "pubDate": "Fri, 17 Jul 2026 10:30:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "00124de298e05b48",
-      "title": "NASA Study Finds Near-Earth Asteroid Is Actually Comet",
-      "link": "https://www.jpl.nasa.gov/news/nasa-study-finds-near-earth-asteroid-is-actually-comet",
-      "desc": "The object looks like an asteroid but moves like a comet, so astronomers used some of the most powerful observatories on the planet to confirm its identity.",
-      "pubDate": "Thu, 16 Jul 2026 12:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "00119bbe7974bb46",
-      "title": "Photo Release: The Starry Night Redux",
-      "link": "https://noirlab.edu/public/news/noirlab2617",
-      "desc": "The 570-megapixel Department of Energy-fabricated Dark Energy Camera (DECam) captures a vibrant scene, filled with swirls and stars reminiscent of Van Gogh’s The Starry Night. This new cosmic masterpiece features glowing nebula NGC 6729 on the left and globular star cluster NGC 6723 on the right. DE",
-      "pubDate": "Thu, 16 Jul 2026 09:00:00 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
         ]
       }
     }

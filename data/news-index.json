@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-05T15:31:11.396Z",
-  "lastRunId": "run-1793892668786-pjtjyl",
+  "lastUpdated": "2026-11-05T21:31:57.862Z",
+  "lastRunId": "run-1793914315632-hjw6q4",
   "stats": {
-    "totalStories": 800,
-    "lastRunAdded": 15
+    "totalStories": 812,
+    "lastRunAdded": 12
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"c74fcd040350637f5beb57bf1e8b97a9\"",
-    "https://www.universetoday.com/feed": "W/\"6aec9ce8-7732\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"ca63139938a051a36025277c20b58b54\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"abccfba1854b6148078946bc416da8ce\"",
+    "https://www.universetoday.com/feed": "W/\"6aeceab8-79e3\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"abccfba1854b6148078946bc416da8ce\"",
     "http://arxiv.org/rss/astro-ph": "35cb9029087df5617fcea431e79dfef0bce3a85cb55e5173d2b6e955f99359e9",
-    "https://spacenews.com/feed/": "W/\"da86b7f7089d2400dd2b02089d8cb100\"",
-    "https://www.astronomy.com/feed/": "W/\"c265c3da625d90dbf6e72e7a90400b3d\"",
+    "https://spacenews.com/feed/": "W/\"f601a076d5822e7b8360b00068bfba5f\"",
+    "https://www.astronomy.com/feed/": "W/\"2b225cc280c2e1e04d2e83664716d236\"",
     "https://spacepolicyonline.com/feed/": "\"d5837171da16de925f2099e2d13d75d0\""
   },
   "articles": {
@@ -9615,6 +9615,150 @@
       "archivedDate": "2026-11-05",
       "collection": "evening",
       "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "00108d82fa5e49bb": {
+      "id": "00108d82fa5e49bb",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+      "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 05 Nov 2026 20:55:15 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "0000489c1ec44f4c": {
+      "id": "0000489c1ec44f4c",
+      "canonicalUrl": "https://www.astronomy.com/observing/make-the-most-of-long-nights-with-this-months-new-astronomy-products",
+      "title": "Make the most of long nights with this month’s new astronomy products",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 19:42:26 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "0011c9e088570c49": {
+      "id": "0011c9e088570c49",
+      "canonicalUrl": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+      "title": "Asteroids' Oddball Shapes Make Deflecting Them Challenging",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 19:26:56 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "0010f3b9d3b1864a": {
+      "id": "0010f3b9d3b1864a",
+      "canonicalUrl": "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long",
+      "title": "Earth has captured a new mini moon  — but it won't stick around for long",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "001d3f1feaa2bac4": {
+      "id": "001d3f1feaa2bac4",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
+      "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 05 Nov 2026 18:27:44 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "001e3cdf4de0c86d": {
+      "id": "001e3cdf4de0c86d",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+      "title": "A Mighty Wind Blew Away Gas and Made Early Galaxies Brighter",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 17:11:33 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "001d96623b4bd8a5": {
+      "id": "001d96623b4bd8a5",
+      "canonicalUrl": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive",
+      "title": "Cork Takes the Heat So DRACO’s Data Can Survive",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 17:05:59 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "001d846f50d65feb": {
+      "id": "001d846f50d65feb",
+      "canonicalUrl": "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon",
+      "title": "You don't have to go to the moon to see Earth differently: Artemis II astronaut Victor Glover on what really matters",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "001099e6dbfdd0f3": {
+      "id": "001099e6dbfdd0f3",
+      "canonicalUrl": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+      "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 15:18:15 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "0002f242cd1c2f05": {
+      "id": "0002f242cd1c2f05",
+      "canonicalUrl": "https://www.nasa.gov/image-article/midwestern-city-lights",
+      "title": "Midwestern City Lights",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 15:17:19 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "00077f27991df83a": {
+      "id": "00077f27991df83a",
+      "canonicalUrl": "https://phys.org/news/2026-11-hubble-galactic-history-stars.html",
+      "title": "Hubble learns galactic history from stars",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 15:00:09 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "0013129d5610895e": {
+      "id": "0013129d5610895e",
+      "canonicalUrl": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
+      "title": "NASA's Swift telescope has burned up, months after a robot sent to save it failed",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 10:40:14 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T21:31:57.862Z"
     }
   }
 }
