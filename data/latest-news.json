@@ -1,8 +1,245 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T11:24:13.746Z",
+  "generatedAt": "2026-11-05T15:31:17.738Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001af0d201dd0478",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "link": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2",
+      "desc": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouT",
+      "pubDate": "Thu, 05 Nov 2026 15:11:25 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00025774b55b6def",
+      "title": "Curiosity captures a martian dawn",
+      "link": "https://www.astronomy.com/science/curiosity-captures-a-martian-dawn",
+      "desc": "The morning Sun casts a hazy glow over Mars’ Mount Sharp, lighting up distant wind-carved rock formations known as yardangs. This scene is cropped from a six-image panorama captured by the Mastcam on NASA’s Curiosity rover at 8:30 a.m. local time on Aug. 11, 2026, the mission’s 4,982nd sol (martian ",
+      "pubDate": "Thu, 05 Nov 2026 15:09:27 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017fbd3a5320579",
+      "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+      "link": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+      "desc": "Targets of opportunity sometimes happen in astronomy, and we got a major one when the third interstellar object, 3I/ATLAS, was discovered in July 2025. And it just so happens that in the intervening years between the last known interstellar visitor (2I/Borisov in 2019), we got a major upgrade in our",
+      "pubDate": "Thu, 05 Nov 2026 15:08:44 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001553d1f88a0f4b",
+      "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026",
+      "desc": "Canadian astronaut Joshua Kutryk poses for a photo mid-spacewalk on Oct. 29, 2026.",
+      "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00093663b2a4d81f",
+      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+      "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai",
+      "desc": "In this episode, SpaceNews’ Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that “catapults” small launch vehicles could cut down on […]\nThe post Building a ‘highway to the moon and back’ with Winnie Lai appeared first on SpaceNews.",
+      "pubDate": "Thu, 05 Nov 2026 14:15:38 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "000ecaf6df594d05",
+      "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+      "desc": "\"Diversity makes the crew stronger.\"",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00112023cc15b193",
+      "title": "Nov. 5, 2006: Mars Global Surveyor goes quiet",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-5-2006-mars-global-surveyor-goes-quiet",
+      "desc": "Designed to study Mars in a comprehensive way, examining its atmosphere, its interior, and its surface, the Mars Global Surveyor (MGS) launched Nov. 7, 1996. By Sept. 12, 1997, it would reach Mars and slip into orbit around the Red Planet. Over the next nine years, it revealed an evolving world of o",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Thu, 05 Nov 2026 13:45:02 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00124d0e74656f00",
+      "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+      "link": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+      "desc": "NASA has announced its next X-plane, known as the X-70 Fractal, designed to test advanced maneuverability and which will feature a rapidly reconfigurable design.",
+      "pubDate": "Thu, 05 Nov 2026 13:33:52 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002d1838c755941",
+      "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
+      "link": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+      "desc": "China has laid out its roadmap for landing astronauts on the moon \"before 2030,\" a milestone that NASA hopes to achieve in 2028.",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000942dcf4a75cf0",
+      "title": "Hubble Learns Galactic History From Stars",
+      "link": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars",
+      "desc": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "pubDate": "Thu, 05 Nov 2026 12:56:21 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000bbb59db9a0382",
+      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+      "link": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+      "desc": "Finding dim exoplanets hidden in the glare of their stars is an ongoing challenge in astronomy. Telescopes use coronagraphs to block out starlight, but even they have their limitations. Researchers have developed a new technique with the JWST that can find dim exoplanets more easily than ever.",
+      "pubDate": "Thu, 05 Nov 2026 12:42:40 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000ef82c82f30f9a",
+      "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
+      "link": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
+      "desc": "This portable and beginner-friendly telescope is perfect for stargazing newbies or those who want better views but aren't ready to spend thousands.",
+      "pubDate": "Thu, 05 Nov 2026 12:05:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000ca6c869337bba",
       "title": "The Sky Today on Thursday, November 5: Smoke out the Southern Cigar",
@@ -990,6 +1227,63 @@
       }
     },
     {
+      "id": "00133e3365a26b81",
+      "title": "Earth's slowing spin may have shaped its primordial crust",
+      "link": "https://phys.org/news/2026-11-earth-primordial-crust.html",
+      "desc": "Around 4.5 billion years ago, a planet-sized object collided with the newly formed Earth, throwing out the debris that would later form the moon. The collision left Earth spinning extremely fast, with days lasting just two to five hours. Yet existing models of how Earth's first crust formed and evol",
+      "pubDate": "Thu, 05 Nov 2026 10:20:06 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0014ead6a012cd11",
+      "title": "Webb Space Telescope's little red dots could hold key to first black holes",
+      "link": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
+      "desc": "Johns Hopkins researchers searching the expanse of the universe for the existence of the first black holes are zeroing in on little red dots that may hold the key to the theoretical phenomenon.",
+      "pubDate": "Thu, 05 Nov 2026 09:20:02 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0003421c6bbebdaa",
+      "title": "Microbial growth in simulated Mars conditions could guide search for life",
+      "link": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
+      "desc": "A new experiment reveals that Earth's microbes can grow in harsh conditions similar to what may exist just below the surface of Mars, suggesting new directions in the search for potential cellular life on the red planet.",
+      "pubDate": "Thu, 05 Nov 2026 09:00:10 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000664616ba5ddaf",
       "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
       "link": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency",
@@ -1438,24 +1732,6 @@
       "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-4-1922-tutankhamuns-tomb-is-discovered",
       "desc": "When archaeologists peered inside Tutankhamun’s tomb a few weeks after its discovery on Nov. 4, 1922, they found antechambers packed to the brim with thousands of artifacts: statues, furniture, jewelry, clothes, chariots, paintings. Among these possessions was an iron dagger — just over one foot in ",
       "pubDate": "Wed, 04 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Wed, 04 Nov 2026 13:24:15 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
@@ -7162,9 +7438,9 @@
     },
     {
       "id": "0019ee4ec7cbad4b",
-      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "title": "Satellite Mission Management at the Edge",
       "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event",
-      "desc": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews.",
+      "desc": "Explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Satellite Mission Management at the Edge appeared first on SpaceNews.",
       "pubDate": "Fri, 23 Oct 2026 19:53:25 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -9003,291 +9279,6 @@
           "Observatories",
           "Astronomy",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "0017f02b8b0b9ebd",
-      "title": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
-      "link": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts",
-      "desc": "Old rocks exposed on the rim of Jezero Crater preserve a roughly 4-billion-year-old cosmic “weather report” from the solar system’s most dynamic era.",
-      "pubDate": "Wed, 15 Jul 2026 09:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000fd930fdd20e82",
-      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
-      "link": "https://www.jpl.nasa.gov/news/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice",
-      "desc": "Collecting data by plane, satellite, and on the ground, researchers are improving measurements of Arctic sea ice to better understand how the system is evolving over time.",
-      "pubDate": "Thu, 09 Jul 2026 09:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0006c52a5cf0934f",
-      "title": "Caltech Welcomes Astrophysicist Ray Jayawardhana as New President",
-      "link": "https://www.jpl.nasa.gov/news/caltech-welcomes-astrophysicist-ray-jayawardhana-as-new-president",
-      "desc": "Taking the helm of the institute that manages JPL for NASA, the distinguished astrophysicist brings a lifelong interest in space exploration and a track record of scientific discovery.",
-      "pubDate": "Wed, 01 Jul 2026 07:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0017adfb0f59ba85",
-      "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
-      "link": "https://www.jpl.nasa.gov/news/nasa-testing-advanced-capabilities-for-moon-mars-rovers",
-      "desc": "A prototype rover built with a new design for tackling rugged terrain is helping teams refine capabilities that could one day be used on future lunar and Red Planet missions.",
-      "pubDate": "Thu, 18 Jun 2026 11:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001d7b92b3177404",
-      "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
-      "link": "https://www.jpl.nasa.gov/news/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade",
-      "desc": "Upgraded hardware will allow the Cold Atom Lab to set new records in quantum physics and help develop new technologies.",
-      "pubDate": "Tue, 16 Jun 2026 10:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001f62c31b15a250",
-      "title": "Explore JPL to Take Place Oct. 10, 11",
-      "link": "https://www.jpl.nasa.gov/news/explore-jpl-to-take-place-oct-10-11",
-      "desc": "NASA’s leading center for the robotic exploration of the universe is opening its doors for a two-day event. Tickets, available in late August, will go fast.",
-      "pubDate": "Mon, 15 Jun 2026 17:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0017c40c1b8ce5a2",
-      "title": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
-      "link": "https://www.jpl.nasa.gov/news/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert",
-      "desc": "The discovery of topaz on a volcanic outcrop in the Mojave Desert may hint at a porphyry copper deposit below.",
-      "pubDate": "Thu, 11 Jun 2026 09:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "00047cf81da7c367",
-      "title": "NASA’s INCUS Mission on Road to Launch, Study Storms From Space",
-      "link": "https://www.jpl.nasa.gov/news/nasas-incus-mission-on-road-to-launch-study-storms-from-space",
-      "desc": "The mission’s three SmallSats will provide insights to improve storm forecasting, potentially mitigating loss of life and property damage in affected communities.",
-      "pubDate": "Fri, 05 Jun 2026 13:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000b5fb75cf89ae9",
-      "title": "NASA-European Sea Level Mission Homes in on El Niño",
-      "link": "https://www.jpl.nasa.gov/news/nasa-european-sea-level-mission-homes-in-on-el-nino",
-      "desc": "Waves of higher, warmer water move eastward across the Pacific Ocean a few months before an El Niño emerges. Several have shown up in 2026 satellite data.",
-      "pubDate": "Wed, 27 May 2026 08:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001f785b653c3a67",
-      "title": "JPL Prime Contract Update",
-      "link": "https://www.jpl.nasa.gov/news/jpl-prime-contract-update",
-      "desc": "Caltech President Thomas F. Rosenbaum along with Caltech Vice President and JPL Director Dave Gallagher issued the following memo to the Caltech and Jet Propulsion Laboratory community.",
-      "pubDate": "Fri, 22 May 2026 07:30:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000183f45ad960f7",
-      "title": "NASA-developed AI Could Help Track Harmful Algae",
-      "link": "https://www.jpl.nasa.gov/news/nasa-developed-ai-could-help-track-harmful-algae",
-      "desc": "By fusing data from different space missions, AI could someday support ‘maps without gaps’ when it comes to noxious blooms.",
-      "pubDate": "Wed, 20 May 2026 11:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000db7f01e355e16",
-      "title": "NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid",
-      "link": "https://www.jpl.nasa.gov/news/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid",
-      "desc": "The successful flyby of Mars on May 15 provided the mission team with a valuable practice run ahead of the spacecraft’s arrival at the mysterious asteroid Psyche in 2029.",
-      "pubDate": "Tue, 19 May 2026 12:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "00062ed05fc46dee",
-      "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
-      "link": "https://www.jpl.nasa.gov/news/hello-universe-nasas-next-gen-space-processor-undergoes-testing",
-      "desc": "As part of a commercial partnership, the project is developing a sophisticated chip that will give spacecraft the processing capabilities to think for themselves.",
-      "pubDate": "Tue, 12 May 2026 08:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000c908abdb90453",
-      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
-      "link": "https://www.jpl.nasa.gov/news/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier",
-      "desc": "The agency’s six-wheeled geologist took a self-portrait during its survey of an ancient landscape that may predate the formation of Jezero Crater itself.",
-      "pubDate": "Tue, 12 May 2026 08:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0014e86fa243c5e3",
-      "title": "NASA’s Psyche Mission to Fly by Mars for Gravity Assist",
-      "link": "https://www.jpl.nasa.gov/news/nasas-psyche-mission-to-fly-by-mars-for-gravity-assist",
-      "desc": "The spacecraft is using the Red Planet’s gravity to increase speed and tilt its trajectory on the journey to the metal-rich asteroid Psyche.",
-      "pubDate": "Fri, 08 May 2026 11:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
         ]
       }
     }

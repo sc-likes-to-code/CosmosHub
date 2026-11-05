@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-05T11:24:05.725Z",
-  "lastRunId": "run-1793877841912-c54h8k",
+  "lastUpdated": "2026-11-05T15:31:11.396Z",
+  "lastRunId": "run-1793892668786-pjtjyl",
   "stats": {
-    "totalStories": 785,
-    "lastRunAdded": 52
+    "totalStories": 800,
+    "lastRunAdded": 15
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"8db839ada8e8199b4d33ac579da90a2b\"",
-    "https://www.universetoday.com/feed": "W/\"6aec5e7a-7661\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"9bb26711fa14854415fbb6fc8845de8e\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c74fcd040350637f5beb57bf1e8b97a9\"",
+    "https://www.universetoday.com/feed": "W/\"6aec9ce8-7732\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"ca63139938a051a36025277c20b58b54\"",
     "http://arxiv.org/rss/astro-ph": "35cb9029087df5617fcea431e79dfef0bce3a85cb55e5173d2b6e955f99359e9",
-    "https://spacenews.com/feed/": "W/\"b8733489e3628fa9b08098e83a39922f\"",
-    "https://www.astronomy.com/feed/": "W/\"e0dad0c5241df98618f05f7db94a9da6\"",
+    "https://spacenews.com/feed/": "W/\"da86b7f7089d2400dd2b02089d8cb100\"",
+    "https://www.astronomy.com/feed/": "W/\"c265c3da625d90dbf6e72e7a90400b3d\"",
     "https://spacepolicyonline.com/feed/": "\"d5837171da16de925f2099e2d13d75d0\""
   },
   "articles": {
@@ -9435,6 +9435,186 @@
       "archivedDate": "2026-11-05",
       "collection": "morning",
       "archivedAt": "2026-11-05T11:24:05.725Z"
+    },
+    "001af0d201dd0478": {
+      "id": "001af0d201dd0478",
+      "canonicalUrl": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 15:11:25 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.395Z"
+    },
+    "00025774b55b6def": {
+      "id": "00025774b55b6def",
+      "canonicalUrl": "https://www.astronomy.com/science/curiosity-captures-a-martian-dawn",
+      "title": "Curiosity captures a martian dawn",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 15:09:27 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "0017fbd3a5320579": {
+      "id": "0017fbd3a5320579",
+      "canonicalUrl": "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems",
+      "title": "Interstellar Visitor 3I/ATLAS Shows Water Ice Behaves the Same Across Alien Star Systems",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 15:08:44 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "001553d1f88a0f4b": {
+      "id": "001553d1f88a0f4b",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026",
+      "title": "Earth photobombs spacewalking Canadian astronaut | Space photo of the day for Nov. 5, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "00093663b2a4d81f": {
+      "id": "00093663b2a4d81f",
+      "canonicalUrl": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai",
+      "title": "Building a ‘highway to the moon and back’ with Winnie Lai",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 05 Nov 2026 14:15:38 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "000ecaf6df594d05": {
+      "id": "000ecaf6df594d05",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
+      "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "00112023cc15b193": {
+      "id": "00112023cc15b193",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-5-2006-mars-global-surveyor-goes-quiet",
+      "title": "Nov. 5, 2006: Mars Global Surveyor goes quiet",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "00124d0e74656f00": {
+      "id": "00124d0e74656f00",
+      "canonicalUrl": "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics",
+      "title": "NASA announces experimental X-70 Fractal aircraft: A 'new beginning for aeronautics'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 05 Nov 2026 13:33:52 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "0002d1838c755941": {
+      "id": "0002d1838c755941",
+      "canonicalUrl": "https://www.space.com/astronomy/moon/china-lays-out-plans-to-land-astronauts-on-the-moon-before-2030-can-nasa-still-win-this-race",
+      "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "000942dcf4a75cf0": {
+      "id": "000942dcf4a75cf0",
+      "canonicalUrl": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars",
+      "title": "Hubble Learns Galactic History From Stars",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 12:56:21 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "000bbb59db9a0382": {
+      "id": "000bbb59db9a0382",
+      "canonicalUrl": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+      "title": "Exoplanets Can't Hide From The JWST's 'Digital Twin'",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 12:42:40 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "000ef82c82f30f9a": {
+      "id": "000ef82c82f30f9a",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/early-black-friday-beginner-telescope-deal-this-portable-celestron-is-now-25-percent-off-at-amazon",
+      "title": "Early Black Friday beginner telescope deal — this portable Celestron is now 25% off at Amazon",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 12:05:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "00133e3365a26b81": {
+      "id": "00133e3365a26b81",
+      "canonicalUrl": "https://phys.org/news/2026-11-earth-primordial-crust.html",
+      "title": "Earth's slowing spin may have shaped its primordial crust",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 10:20:06 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "0014ead6a012cd11": {
+      "id": "0014ead6a012cd11",
+      "canonicalUrl": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
+      "title": "Webb Space Telescope's little red dots could hold key to first black holes",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 09:20:02 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
+    },
+    "0003421c6bbebdaa": {
+      "id": "0003421c6bbebdaa",
+      "canonicalUrl": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
+      "title": "Microbial growth in simulated Mars conditions could guide search for life",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 09:00:10 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "evening",
+      "archivedAt": "2026-11-05T15:31:11.396Z"
     }
   }
 }
