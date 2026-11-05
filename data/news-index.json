@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-04T21:24:22.553Z",
-  "lastRunId": "run-1793827459957-utsv2k",
+  "lastUpdated": "2026-11-05T03:31:11.535Z",
+  "lastRunId": "run-1793849468223-4nk7ph",
   "stats": {
-    "totalStories": 724,
-    "lastRunAdded": 20
+    "totalStories": 733,
+    "lastRunAdded": 9
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"316c16eb4ed51ac366f8bf83a2fe9edb\"",
-    "https://www.universetoday.com/feed": "W/\"6aeb9b53-7877\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3d9180d2fab66a879b06a50495a4724a\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"3cd695ffec22bead2b6d691ad0cfae64\"",
+    "https://www.universetoday.com/feed": "W/\"6aebedfe-7661\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3cd695ffec22bead2b6d691ad0cfae64\"",
     "http://arxiv.org/rss/astro-ph": "a5fe2bb69d929a4ccd9d986f360eca9c0bc182e5cb849b40d89a02819d53094f",
-    "https://spacenews.com/feed/": "W/\"01b574dd257fa98306dc807f0eb0526d\"",
-    "https://www.astronomy.com/feed/": "W/\"eb739402e7cf93072090acb597d7fe23\"",
-    "https://spacepolicyonline.com/feed/": "\"2303300e23ec56045b574d2e776e5e04\""
+    "https://spacenews.com/feed/": "W/\"c1016a9c06cd78b75227ace0f388e3d4\"",
+    "https://www.astronomy.com/feed/": "W/\"313e7907dbfbf26a781f7465a6426253\"",
+    "https://spacepolicyonline.com/feed/": "\"d5837171da16de925f2099e2d13d75d0\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -8703,6 +8703,114 @@
       "archivedDate": "2026-11-04",
       "collection": "evening",
       "archivedAt": "2026-11-04T21:24:22.553Z"
+    },
+    "000664616ba5ddaf": {
+      "id": "000664616ba5ddaf",
+      "canonicalUrl": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency",
+      "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 05 Nov 2026 02:53:28 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "001aba8d2a1d89ff": {
+      "id": "001aba8d2a1d89ff",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 01:43:21 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "001c7a3a5f1d8fa4": {
+      "id": "001c7a3a5f1d8fa4",
+      "canonicalUrl": "https://spacepolicyonline.com/news/farewell-swift",
+      "title": "Farewell Swift",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 00:16:40 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "001d8e060096a081": {
+      "id": "001d8e060096a081",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
+      "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 04 Nov 2026 23:00:36 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "0006e1f8557ef3ef": {
+      "id": "0006e1f8557ef3ef",
+      "canonicalUrl": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space",
+      "title": "Trump Issues “American Declaration of Freedom in Space”",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 04 Nov 2026 22:34:11 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "0019c0ee6241c925": {
+      "id": "0019c0ee6241c925",
+      "canonicalUrl": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+      "title": "Trump declares 'American space superiority for all eternity' in election night proclamation",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 04 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "0015e0a16f4f81f9": {
+      "id": "0015e0a16f4f81f9",
+      "canonicalUrl": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+      "title": "China Unveils Their Plan for a Crewed Moon Landing",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 04 Nov 2026 21:29:39 +0000",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "0006a9450ea272bb": {
+      "id": "0006a9450ea272bb",
+      "canonicalUrl": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
+      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 04 Nov 2026 19:40:07 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
+    },
+    "001433d895d513bc": {
+      "id": "001433d895d513bc",
+      "canonicalUrl": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+      "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 04 Nov 2026 17:20:01 EST",
+      "archivedDate": "2026-11-05",
+      "collection": "morning",
+      "archivedAt": "2026-11-05T03:31:11.535Z"
     }
   }
 }

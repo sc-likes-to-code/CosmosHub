@@ -1,8 +1,138 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T21:24:27.239Z",
-  "count": 444,
+  "generatedAt": "2026-11-05T03:31:17.807Z",
+  "count": 453,
   "articles": [
+    {
+      "id": "000664616ba5ddaf",
+      "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
+      "link": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency",
+      "desc": "Alexander MacDonald is the new President of the Canadian Space Agency. Canadian-born MacDonald was NASA’s Chief Economist until December 2024. The Canadian Government announced MacDonald’s selection this evening. He succeeds […]",
+      "pubDate": "Thu, 05 Nov 2026 02:53:28 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "001aba8d2a1d89ff",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
+      "desc": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  Th",
+      "pubDate": "Thu, 05 Nov 2026 01:43:21 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001c7a3a5f1d8fa4",
+      "title": "Farewell Swift",
+      "link": "https://spacepolicyonline.com/news/farewell-swift",
+      "desc": "NASA’s Neil Gehrels Swift Observatory reentered this morning, bringing the 22-year-old mission to an end. NASA contracted with Katalyst Space in September 2025 to revamp an existing system to try […]",
+      "pubDate": "Thu, 05 Nov 2026 00:16:40 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "001d8e060096a081",
+      "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
+      "desc": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it  failed just after liftoff from Hawaii.",
+      "pubDate": "Wed, 04 Nov 2026 23:00:36 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0006e1f8557ef3ef",
+      "title": "Trump Issues “American Declaration of Freedom in Space”",
+      "link": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space",
+      "desc": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exploration, development, use, and settlement of new frontiers […]",
+      "pubDate": "Wed, 04 Nov 2026 22:34:11 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "0019c0ee6241c925",
+      "title": "Trump declares 'American space superiority for all eternity' in election night proclamation",
+      "link": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
+      "desc": "President Trump has declared space a frontier for all humanity, asserting America's right to develop and settle the solar system under U.S. law.",
+      "pubDate": "Wed, 04 Nov 2026 22:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0015e0a16f4f81f9",
+      "title": "China Unveils Their Plan for a Crewed Moon Landing",
+      "link": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
+      "desc": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
+      "pubDate": "Wed, 04 Nov 2026 21:29:39 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "00185e408bde900b",
       "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
@@ -298,6 +428,25 @@
       }
     },
     {
+      "id": "0006a9450ea272bb",
+      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
+      "link": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
+      "desc": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
+      "pubDate": "Wed, 04 Nov 2026 19:40:07 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001fd091c02febae",
       "title": "Nov. 4, 1922: Tutankhamun’s tomb is discovered",
       "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-4-1922-tutankhamuns-tomb-is-discovered",
@@ -366,6 +515,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "001433d895d513bc",
+      "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
+      "link": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
+      "desc": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
+      "pubDate": "Wed, 04 Nov 2026 17:20:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
