@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-05T21:31:57.862Z",
-  "lastRunId": "run-1793914315632-hjw6q4",
+  "lastUpdated": "2026-11-06T03:31:07.308Z",
+  "lastRunId": "run-1793935864497-76xppv",
   "stats": {
-    "totalStories": 812,
-    "lastRunAdded": 12
+    "totalStories": 817,
+    "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"abccfba1854b6148078946bc416da8ce\"",
-    "https://www.universetoday.com/feed": "W/\"6aeceab8-79e3\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"abccfba1854b6148078946bc416da8ce\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"fc80277220b2222a45fbea93cf10ec86\"",
+    "https://www.universetoday.com/feed": "W/\"6aed3f94-79e3\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"fc80277220b2222a45fbea93cf10ec86\"",
     "http://arxiv.org/rss/astro-ph": "35cb9029087df5617fcea431e79dfef0bce3a85cb55e5173d2b6e955f99359e9",
-    "https://spacenews.com/feed/": "W/\"f601a076d5822e7b8360b00068bfba5f\"",
-    "https://www.astronomy.com/feed/": "W/\"2b225cc280c2e1e04d2e83664716d236\"",
+    "https://spacenews.com/feed/": "W/\"5ee8004e2b36803dd04f4e405b592ae0\"",
+    "https://www.astronomy.com/feed/": "W/\"833cceec763e67792ec8fc9cc5767ae5\"",
     "https://spacepolicyonline.com/feed/": "\"d5837171da16de925f2099e2d13d75d0\""
   },
   "articles": {
@@ -9759,6 +9759,66 @@
       "archivedDate": "2026-11-05",
       "collection": "evening",
       "archivedAt": "2026-11-05T21:31:57.862Z"
+    },
+    "00037dcf21c752a8": {
+      "id": "00037dcf21c752a8",
+      "canonicalUrl": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
+      "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 22:01:01 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "morning",
+      "archivedAt": "2026-11-06T03:31:07.308Z"
+    },
+    "001de019eeed1e96": {
+      "id": "001de019eeed1e96",
+      "canonicalUrl": "https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview",
+      "title": "Andy Weir says his new sci-fi audio drama 'Exoplanet' is a way to 'revive the old art of radio plays' (interview)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "morning",
+      "archivedAt": "2026-11-06T03:31:07.308Z"
+    },
+    "0007fd9fb06f1509": {
+      "id": "0007fd9fb06f1509",
+      "canonicalUrl": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission",
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 05 Nov 2026 21:45:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "morning",
+      "archivedAt": "2026-11-06T03:31:07.308Z"
+    },
+    "000f3d77cffc0d28": {
+      "id": "000f3d77cffc0d28",
+      "canonicalUrl": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
+      "title": "Astronomers deliver the sharpest and deepest view yet of the low-frequency radio sky",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 05 Nov 2026 19:40:06 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "morning",
+      "archivedAt": "2026-11-06T03:31:07.308Z"
+    },
+    "000612555e303743": {
+      "id": "000612555e303743",
+      "canonicalUrl": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
+      "title": "Connecting artificial intelligence with the tools of astrophysical research",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 17:00:07 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "morning",
+      "archivedAt": "2026-11-06T03:31:07.308Z"
     }
   }
 }

@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T21:32:03.053Z",
+  "generatedAt": "2026-11-06T03:31:15.860Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00037dcf21c752a8",
+      "title": "'We got it done!' Spacewalking astronauts finish installing next-gen ISS solar arrays",
+      "link": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
+      "desc": "Spacewalkers Anil Menon and Joshua Kutryk installed the final ISS Roll-Out Solar Array on Thursday (Nov. 5), wrapping up a multiyear effort to boost the station's power generation by 30%.",
+      "pubDate": "Thu, 05 Nov 2026 22:01:01 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001de019eeed1e96",
+      "title": "Andy Weir says his new sci-fi audio drama 'Exoplanet' is a way to 'revive the old art of radio plays' (interview)",
+      "link": "https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview",
+      "desc": "\"Earlier on in my life, even before 'The Martian,' I wanted to bring back audio-only entertainment.\"",
+      "pubDate": "Thu, 05 Nov 2026 22:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0007fd9fb06f1509",
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission",
+      "desc": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than […]\nThe post CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Bi",
+      "pubDate": "Thu, 05 Nov 2026 21:45:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
     {
       "id": "00108d82fa5e49bb",
       "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket —and a new engine",
@@ -77,7 +132,7 @@
     },
     {
       "id": "001d3f1feaa2bac4",
-      "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Almathea only to find it's a 'pile of icy rubble less dense than water'",
+      "title": "On this day in space! Nov. 5, 2002: NASA's Galileo spacecraft flies by Jupiter moon Amalthea only to find it's a 'pile of icy rubble less dense than water'",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026",
       "desc": "On Nov. 5, 2002, NASA's old Galileo spacecraft flew by a small moon called Amalthea and made a surprising find. Here's why it mattered.",
       "pubDate": "Thu, 05 Nov 2026 18:27:44 +0000",
@@ -278,6 +333,25 @@
       }
     },
     {
+      "id": "000f3d77cffc0d28",
+      "title": "Astronomers deliver the sharpest and deepest view yet of the low-frequency radio sky",
+      "link": "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html",
+      "desc": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies. The image reveals almost 63,000 radio sources, such as active galactic nuclei and star-forming galaxies, acros",
+      "pubDate": "Thu, 05 Nov 2026 19:40:06 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000ecaf6df594d05",
       "title": "NASA astronaut Jessica Watkins is the 1st Black woman to command a space mission. Will we see more diversity in the future on the final frontier?",
       "link": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-jessica-watkins-is-the-1st-black-woman-to-command-a-space-mission-will-we-see-more-diversity-in-the-future-on-the-final-frontier",
@@ -419,6 +493,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000612555e303743",
+      "title": "Connecting artificial intelligence with the tools of astrophysical research",
+      "link": "https://phys.org/news/2026-11-artificial-intelligence-tools-astrophysical.html",
+      "desc": "Investigating a scientific question is often a complex process. As an astrophysicist studying some of the most energetic phenomena in the universe, I know that finding answers requires much more than reading scientific papers or understanding existing theories. Astrophysical research involves collec",
+      "pubDate": "Thu, 05 Nov 2026 17:00:07 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -7658,9 +7751,9 @@
     },
     {
       "id": "0019ee4ec7cbad4b",
-      "title": "Satellite Mission Management at the Edge",
+      "title": "Replay: Satellite Mission Management at the Edge",
       "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event",
-      "desc": "Explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Satellite Mission Management at the Edge appeared first on SpaceNews.",
+      "desc": "Explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Replay: Satellite Mission Management at the Edge appeared first on SpaceNews.",
       "pubDate": "Fri, 23 Oct 2026 19:53:25 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -9166,101 +9259,6 @@
       "link": "https://www.jpl.nasa.gov/news/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network",
       "desc": "Deep Space Station 23 at NASA’s Goldstone facility in the California desert is the latest next-generation antenna to be added by the network’s enhancement project.",
       "pubDate": "Tue, 25 Aug 2026 13:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001ff97b93ffc333",
-      "title": "Fly around Schiaparelli Crater with Mars Express",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Fly_around_Schiaparelli_Crater_with_Mars_Express",
-      "desc": "Video: \n\t\t\t00:04:10\n\t\t\t\tESA’s Mars Express takes us on another mesmerising flight, this time around one of the biggest craters on Mars. Despite measuring a huge 460 km across, Schiaparelli Crater seems to be relatively shallow. Perhaps it has been filled in over the last few billion years by sedimen",
-      "pubDate": "Wed, 19 Aug 2026 11:00:00 +0200",
-      "category": "Research & Science",
-      "source": {
-        "name": "ESA",
-        "key": "esa",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "ESA",
-          "Europe",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f1690ff87935e",
-      "title": "NASA Mission Studies Air Pollution Over Ethiopia",
-      "link": "https://www.jpl.nasa.gov/news/nasa-mission-studies-air-pollution-over-ethiopia",
-      "desc": "What scientists are learning about tiny PM2.5 aerosols in the country’s capital also could benefit U.S. cities.",
-      "pubDate": "Mon, 17 Aug 2026 11:30:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "0017d8fe2145bcbf",
-      "title": "Total solar eclipse 2026 (Official ESA broadcast)",
-      "link": "https://www.esa.int/ESA_Multimedia/Videos/2026/08/Total_solar_eclipse_2026_Official_ESA_broadcast",
-      "desc": "Video: \n\t\t\t01:10:42\n\t\t\t\tWe broadcast live from the Observatorio Astrofísico de Javalambre in Spain as a total solar eclipse crossed Europe on 12 August 2026. The path of totality swept across Greenland, Iceland, Spain and a small area of northeastern Portugal, while much of Europe experienced a part",
-      "pubDate": "Mon, 17 Aug 2026 16:00:00 +0200",
-      "category": "Research & Science",
-      "source": {
-        "name": "ESA",
-        "key": "esa",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "ESA",
-          "Europe",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001055f268ba9649",
-      "title": "Organization Release: Scientists Release Biggest 2D Map of the Universe",
-      "link": "https://noirlab.edu/public/news/noirlab2620",
-      "desc": "The newest DESI Legacy Imaging Surveys map, 13 years in the making, covers three-quarters of the sky and catalogs nearly four billion objects. This treasure trove is available to all and contains stars, galaxies, supernovae, gravitational lenses, and much more. Two NSF NOIRLab facilities contributed",
-      "pubDate": "Mon, 10 Aug 2026 09:10:00 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0014ee66935da266",
-      "title": "NASA Tests Featherweight Radar Antenna for SkyFall Mars Helicopters",
-      "link": "https://www.jpl.nasa.gov/news/nasa-tests-featherweight-radar-antenna-for-skyfall-mars-helicopters",
-      "desc": "The hardware will enable the SkyFall mission’s trio of planetary rotorcraft to use ground-penetrating radar to study the Martian subsurface.",
-      "pubDate": "Thu, 06 Aug 2026 11:00:00 -0700",
       "category": "Missions & Exploration",
       "source": {
         "name": "NASA JPL",
