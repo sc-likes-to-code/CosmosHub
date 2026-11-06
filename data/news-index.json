@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-06T11:23:18.565Z",
-  "lastRunId": "run-1793964194693-l57sh6",
+  "lastUpdated": "2026-11-06T15:31:10.730Z",
+  "lastRunId": "run-1793979068369-0stbff",
   "stats": {
-    "totalStories": 874,
-    "lastRunAdded": 57
+    "totalStories": 887,
+    "lastRunAdded": 13
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"1027a3924f7f951d5b7c014bf69eccc0\"",
-    "https://www.universetoday.com/feed": "W/\"6aedaff1-79e3\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"1027a3924f7f951d5b7c014bf69eccc0\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"b3d2e7c98bb350d8d5b56424c73640b8\"",
+    "https://www.universetoday.com/feed": "W/\"6aede9d8-7a04\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"addd9affe037e786dc11fd0f92f16ac8\"",
     "http://arxiv.org/rss/astro-ph": "246e3e31a73b64588a53689a749ffe2e40ceb2ccc8e0502cbfcfa35f6e7e367f",
-    "https://spacenews.com/feed/": "W/\"9f97f6581c93129fb8e1f4139deec7d4\"",
-    "https://www.astronomy.com/feed/": "W/\"3501793f9c684bdc26151035d7407ada\"",
+    "https://spacenews.com/feed/": "W/\"b86c8d18c3ae8ef86ae399e95c6e19ea\"",
+    "https://www.astronomy.com/feed/": "W/\"1d787724499cc6ad9aa5b4ce511b7d0e\"",
     "https://spacepolicyonline.com/feed/": "\"b16bbd6135b42439120e8927e8e7b26b\""
   },
   "articles": {
@@ -10503,6 +10503,162 @@
       "archivedDate": "2026-11-06",
       "collection": "morning",
       "archivedAt": "2026-11-06T11:23:18.565Z"
+    },
+    "000578a4d0d0b4cc": {
+      "id": "000578a4d0d0b4cc",
+      "canonicalUrl": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
+      "title": "Hera probe gets 1st good luck at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 06 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "000a307a7f6c4f71": {
+      "id": "000a307a7f6c4f71",
+      "canonicalUrl": "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating",
+      "title": "Earth's Gravity May Have Kept the Early Moon's Volcanic Heart Beating",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 14:42:30 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "001484c8f7ab85b6": {
+      "id": "001484c8f7ab85b6",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-musk-online-stream-the-spacex-billionaire-biography-from-anywhere",
+      "title": "How to watch 'Musk' online — stream the SpaceX billionaire biography from anywhere",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 06 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "0018121900004034": {
+      "id": "0018121900004034",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-6-1919-einstein-is-right",
+      "title": "Nov. 6, 1919: Einstein is right",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "001a38f5960b4175": {
+      "id": "001a38f5960b4175",
+      "canonicalUrl": "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth",
+      "title": "Northern lights could reach New York and Idaho this weekend as speedy solar wind races toward Earth",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 06 Nov 2026 13:26:32 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "000fe2a7452f7c18": {
+      "id": "000fe2a7452f7c18",
+      "canonicalUrl": "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast",
+      "title": "Max Power: NASA hosting its 1st air show this weekend on Florida's Space Coast",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "000edc320b2087a6": {
+      "id": "000edc320b2087a6",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/realistic-star-projections-at-home-this-early-black-friday-deal-takes-our-favorite-star-projector-to-one-of-its-cheapest-ever-prices",
+      "title": "Realistic star projections at home — this early Black Friday deal takes our favorite star projector to one of its cheapest-ever prices",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 12:10:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "000c734abbe2fe10": {
+      "id": "000c734abbe2fe10",
+      "canonicalUrl": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
+      "title": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 11:49:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "0005ff3882af1411": {
+      "id": "0005ff3882af1411",
+      "canonicalUrl": "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html",
+      "title": "Wacky magnetic fields of ice giants may stem from conductivity changes in their deep interiors",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 06 Nov 2026 09:00:04 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "0011838a97b9f61a": {
+      "id": "0011838a97b9f61a",
+      "canonicalUrl": "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html",
+      "title": "A galaxy nicknamed Misty Moons offers a glimpse of early star formation",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 07:40:10 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "00004a50e76e901a": {
+      "id": "00004a50e76e901a",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Fri, 06 Nov 2026 03:21:08 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "00141598a538364e": {
+      "id": "00141598a538364e",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 02:12:55 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "000e3228e111c290": {
+      "id": "000e3228e111c290",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+      "title": "Dead stars could break one of physics' most famous limits",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Thu, 05 Nov 2026 22:11:09 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T15:31:10.730Z"
     }
   }
 }
