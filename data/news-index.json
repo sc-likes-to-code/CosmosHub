@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-06T15:31:10.730Z",
-  "lastRunId": "run-1793979068369-0stbff",
+  "lastUpdated": "2026-11-06T20:59:15.770Z",
+  "lastRunId": "run-1793998752655-tiawfb",
   "stats": {
-    "totalStories": 887,
-    "lastRunAdded": 13
+    "totalStories": 898,
+    "lastRunAdded": 11
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b3d2e7c98bb350d8d5b56424c73640b8\"",
-    "https://www.universetoday.com/feed": "W/\"6aede9d8-7a04\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"addd9affe037e786dc11fd0f92f16ac8\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"633da9d49ded6d42a68fd09cc5038937\"",
+    "https://www.universetoday.com/feed": "W/\"6aee3e18-795f\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b7ad6a88f9f451d27ce3ef57ad273270\"",
     "http://arxiv.org/rss/astro-ph": "246e3e31a73b64588a53689a749ffe2e40ceb2ccc8e0502cbfcfa35f6e7e367f",
-    "https://spacenews.com/feed/": "W/\"b86c8d18c3ae8ef86ae399e95c6e19ea\"",
+    "https://spacenews.com/feed/": "W/\"e74a25045b68ade1330a08cf737dda66\"",
     "https://www.astronomy.com/feed/": "W/\"1d787724499cc6ad9aa5b4ce511b7d0e\"",
-    "https://spacepolicyonline.com/feed/": "\"b16bbd6135b42439120e8927e8e7b26b\""
+    "https://spacepolicyonline.com/feed/": "\"baec2046e73c07e2bbf34d984a3f09b4\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -10659,6 +10659,138 @@
       "archivedDate": "2026-11-06",
       "collection": "evening",
       "archivedAt": "2026-11-06T15:31:10.730Z"
+    },
+    "001c5b3bd717c59d": {
+      "id": "001c5b3bd717c59d",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
+      "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 20:34:10 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "0015b7cf308de7e4": {
+      "id": "0015b7cf308de7e4",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
+      "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 06 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "00113f9451e05765": {
+      "id": "00113f9451e05765",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/see-the-space-race-like-youve-never-seen-it-before-in-pbss-new-living-documentary-we-chose-to-go-to-the-moon",
+      "title": "See the space race like you’ve never seen it before in PBS’s new living documentary, ‘We Chose to Go to the Moon’",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 06 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "0002dbde0764363e": {
+      "id": "0002dbde0764363e",
+      "canonicalUrl": "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it",
+      "title": "You can see another galaxy with the naked eye — here's how to find it",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "00086cc5cf794281": {
+      "id": "00086cc5cf794281",
+      "canonicalUrl": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+      "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "00085c9080330d9a": {
+      "id": "00085c9080330d9a",
+      "canonicalUrl": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
+      "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 06 Nov 2026 16:35:09 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "0010fb419d80febf": {
+      "id": "0010fb419d80febf",
+      "canonicalUrl": "https://www.nasa.gov/image-article/m30s-sparkling-stars",
+      "title": "M30’s Sparkling Stars",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 16:23:41 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "001a5a92e9b425b4": {
+      "id": "001a5a92e9b425b4",
+      "canonicalUrl": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule",
+      "title": "Supercomputing Tech Demo Schedule",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 06 Nov 2026 16:03:52 +0000",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "000bfb77a075889c": {
+      "id": "000bfb77a075889c",
+      "canonicalUrl": "https://phys.org/news/2026-11-vibrating-mirrors-analog-black-hole.html",
+      "title": "Vibrating mirrors of light create analog of a black hole event horizon",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 12:40:11 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "001b5b1a2faaab57": {
+      "id": "001b5b1a2faaab57",
+      "canonicalUrl": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+      "title": "Robot successfully builds space structure in first autonomous construction demo",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 06 Nov 2026 11:20:04 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "0007e85dc101e4e0": {
+      "id": "0007e85dc101e4e0",
+      "canonicalUrl": "https://phys.org/news/2026-11-ceres-ice-mask-massive-surface.html",
+      "title": "Ceres' water ice can mask massive surface salt deposits",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Mon, 02 Nov 2026 21:20:01 EST",
+      "archivedDate": "2026-11-06",
+      "collection": "evening",
+      "archivedAt": "2026-11-06T20:59:15.770Z"
     }
   }
 }

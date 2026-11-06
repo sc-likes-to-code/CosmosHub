@@ -1,11 +1,157 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T15:31:18.668Z",
+  "generatedAt": "2026-11-06T20:59:25.659Z",
   "count": 500,
   "articles": [
     {
+      "id": "001c5b3bd717c59d",
+      "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
+      "link": "https://www.universetoday.com/articles/the-elt-can-probe-ultra-diffuse-galaxies-and-their-dark-matter-mysteries",
+      "desc": "Ultra-Diffuse Galaxies are strange because they're as large as the Milky Way, but have far fewer stars. It's as if they're puffed up for some reason. Determining what's going on with them could help confirm the Lambda-CDM model. A new proposed instrument for the Extremely Large Telescope could give ",
+      "pubDate": "Fri, 06 Nov 2026 20:34:10 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0015b7cf308de7e4",
+      "title": "I finally got my hands on the Unistellar Envision smart binoculars with augmented reality and I can’t wait to stargaze with them",
+      "link": "https://www.space.com/stargazing/skywatching-kit/i-finally-got-my-hands-on-the-unistellar-envision-smart-binoculars-with-augmented-reality-for-the-night-sky-heres-what-theyre-like",
+      "desc": "The Unistellar Envision smart binoculars have an augmented reality (AR) overlay that provides smart functionality to 10x50 binoculars, enabling night sky and landmark identification.",
+      "pubDate": "Fri, 06 Nov 2026 20:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00113f9451e05765",
+      "title": "See the space race like you’ve never seen it before in PBS’s new living documentary, ‘We Chose to Go to the Moon’",
+      "link": "https://www.space.com/entertainment/space-movies-shows/see-the-space-race-like-youve-never-seen-it-before-in-pbss-new-living-documentary-we-chose-to-go-to-the-moon",
+      "desc": "Hear Neil Armstrong's son and granddaughter sing a moving tribute to the legendary Apollo 11 astronaut",
+      "pubDate": "Fri, 06 Nov 2026 19:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002dbde0764363e",
+      "title": "You can see another galaxy with the naked eye — here's how to find it",
+      "link": "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it",
+      "desc": "The Andromeda galaxy is one of the most distant things you can see with the naked eye. The difficult part isn't finding it. It's believing that faint smudge really is another galaxy.",
+      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00086cc5cf794281",
+      "title": "Giant exoplanet emerges from the dark when the James Webb Space Telescope turns out the starlight",
+      "link": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+      "desc": "Astronomers have filtered out starlight from James Webb Space Telescope observations to see a giant exoplanet emerge in the darkness.",
+      "pubDate": "Fri, 06 Nov 2026 17:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00085c9080330d9a",
+      "title": "NASA's Twin Spacecraft Will Execute Powered Slingshot Maneuvers on Their Way to Mars",
+      "link": "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars",
+      "desc": "NASA's ESCAPADE mission features a pair of identical spacecraft on their way to Mars. They launched outside of the normal launch window, so they'll perform powered slingshot maneuvers to boost their speed. Once there, they'll \"fly\" in formation and study how the solar wind interacts with what remain",
+      "pubDate": "Fri, 06 Nov 2026 16:35:09 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010fb419d80febf",
+      "title": "M30’s Sparkling Stars",
+      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars",
+      "desc": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the earl",
+      "pubDate": "Fri, 06 Nov 2026 16:23:41 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001a5a92e9b425b4",
+      "title": "Supercomputing Tech Demo Schedule",
+      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule",
+      "desc": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028T",
+      "pubDate": "Fri, 06 Nov 2026 16:03:52 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "000578a4d0d0b4cc",
-      "title": "Hera probe gets 1st good luck at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
+      "title": "Hera probe gets 1st good look at asteroid system clobbered by NASA's DART mission | Space photo of the day for Nov. 6, 2026",
       "link": "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026",
       "desc": "The European Space Agency's Hera spacecraft has gotten its first close-up look at the Didymos binary asteroid, the first space rock system \"punched\" by humanity.",
       "pubDate": "Fri, 06 Nov 2026 15:00:00 +0000",
@@ -220,6 +366,25 @@
       }
     },
     {
+      "id": "000bfb77a075889c",
+      "title": "Vibrating mirrors of light create analog of a black hole event horizon",
+      "link": "https://phys.org/news/2026-11-vibrating-mirrors-analog-black-hole.html",
+      "desc": "Optical cavities are pairs of light-trapping mirrors and underpin the operation of lasers, atomic clocks and many types of precision sensors. If the distance between the mirrors is changed rapidly enough, some theories predict that the waves inside them should bunch together into short, intense puls",
+      "pubDate": "Fri, 06 Nov 2026 12:40:11 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000318534f872291",
       "title": "The Sky This Week from November 6 to 13: Venus in the spotlight",
       "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-6-to-13-2026",
@@ -234,6 +399,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "001b5b1a2faaab57",
+      "title": "Robot successfully builds space structure in first autonomous construction demo",
+      "link": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
+      "desc": "A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) p",
+      "pubDate": "Fri, 06 Nov 2026 11:20:04 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9089,194 +9273,6 @@
       "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt",
       "desc": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […]\nThe post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews.",
       "pubDate": "Thu, 22 Oct 2026 18:13:38 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "000edd11e4b03573",
-      "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-      "desc": "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time. The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works.",
-      "pubDate": "Thu, 22 Oct 2026 22:54:41 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001d7c762e2a9e3a",
-      "title": "Pedal to the Metal: NASA’s Psyche Heads Toward Asteroid Belt",
-      "link": "https://www.jpl.nasa.gov/news/pedal-to-the-metal-nasas-psyche-heads-toward-asteroid-belt",
-      "desc": "The spacecraft will use its solar electric propulsion system for 90% of its cruise until it reaches the asteroid Psyche by the summer of 2029.",
-      "pubDate": "Thu, 22 Oct 2026 09:30:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000097caf7a4fbbd",
-      "title": "Photo Release: Seagull Nebula Through the Eyes of NSF–DOE Vera C. Rubin Observatory Commissioning Camera",
-      "link": "https://noirlab.edu/public/news/noirlab2625",
-      "desc": "Two years ago this month, NSF–DOE Vera C. Rubin Observatory’s engineering test camera, named the LSST Commissioning Camera (ComCam), began capturing images of the sky to prepare for the revolutionary Legacy Survey of Space and Time, which began earlier this year. This image featuring the head of the",
-      "pubDate": "Thu, 22 Oct 2026 09:00:00 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00115d4cd64c29e7",
-      "title": "Stars brewing in a nebulous cauldron",
-      "link": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "desc": "Image:\n\t\t\tStars brewing in a nebulous cauldron",
-      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0200",
-      "category": "Research & Science",
-      "source": {
-        "name": "ESA",
-        "key": "esa",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "ESA",
-          "Europe",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014ecbfa57d8be6",
-      "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261021231238.htm",
-      "desc": "NASA’s Curiosity rover has revealed a spectacular new view of mysterious, wind-carved cliffs on Mars that may hold evidence of ancient volcanic activity. With the rover approaching these unusual formations, scientists hope to uncover the secrets behind their strange appearance in 2027.",
-      "pubDate": "Thu, 22 Oct 2026 07:03:49 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0013239dcbe2bddd",
-      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-      "link": "https://www.jpl.nasa.gov/news/nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
-      "desc": "The Jet Propulsion Laboratory has been expanding the boundaries of space exploration since 1936, and with a roster of new missions, it’s poised for what’s next.",
-      "pubDate": "Wed, 21 Oct 2026 11:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001acb127fa639c1",
-      "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
-      "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner",
-      "desc": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, has been named a 2026 Inc. Power Partner Awards winner, recognizing the company among the leading B2B […]\nThe post TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner appeared first on",
-      "pubDate": "Wed, 21 Oct 2026 15:26:29 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001494b1c275ea6d",
-      "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-      "link": "https://spacenews.com/global-satcom-services-revenues-to-reach-145-billion-by-2035",
-      "desc": "Paris, France | October 2026 – Global satellite services revenues are forecast to grow 44% to reach $145 billion by 2035, according to the 33rd edition of Novaspace’s Satellite Connectivity […]\nThe post Global Satcom Services Revenues to Reach $145 Billion by 2035 appeared first on SpaceNews.",
-      "pubDate": "Wed, 21 Oct 2026 15:00:22 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0017a5689583c21a",
-      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-      "link": "https://spacenews.com/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller",
-      "desc": "LOS ALAMOS, N.M. — October 21, 2026 — Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction […]\nThe post Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomou",
-      "pubDate": "Wed, 21 Oct 2026 14:29:57 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001a390355f781c7",
-      "title": "Summer of Quantum: Building momentum for space-based QKD",
-      "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd",
-      "desc": "Glasgow, UK | 21 October 2026 – The pace of development in quantum technologies continues to accelerate, and over the past few months, space engineering company Craft Prospect has been […]\nThe post Summer of Quantum: Building momentum for space-based QKD appeared first on SpaceNews.",
-      "pubDate": "Wed, 21 Oct 2026 11:54:30 +0000",
       "category": "Space Industry & Policy",
       "source": {
         "name": "SpaceNews",
