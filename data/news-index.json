@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-07T03:30:59.959Z",
-  "lastRunId": "run-1794022257632-vgkoai",
+  "lastUpdated": "2026-11-07T10:36:42.964Z",
+  "lastRunId": "run-1794047800357-tqdf7e",
   "stats": {
-    "totalStories": 903,
+    "totalStories": 908,
     "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"19882618b058b3a4f3556ec28fd3a415\"",
-    "https://www.universetoday.com/feed": "W/\"6aee90c8-795f\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"19882618b058b3a4f3556ec28fd3a415\"",
-    "http://arxiv.org/rss/astro-ph": "246e3e31a73b64588a53689a749ffe2e40ceb2ccc8e0502cbfcfa35f6e7e367f",
+    "https://www.nasa.gov/news-release/feed/": "W/\"cf3fb2b47e2fe29d9e63fc3ab039488f\"",
+    "https://www.universetoday.com/feed": "W/\"6aeef49b-7723\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"cf3fb2b47e2fe29d9e63fc3ab039488f\"",
+    "http://arxiv.org/rss/astro-ph": "14c85b28f843756fc4e8d809de1fede9f8189b29849944983db593d2af236523",
     "https://spacenews.com/feed/": "W/\"e74a25045b68ade1330a08cf737dda66\"",
-    "https://www.astronomy.com/feed/": "W/\"45dfa90e20e24dbbe4ecd1062345a4c4\"",
+    "https://www.astronomy.com/feed/": "W/\"20c8d0f8415d4b7bfb0f9953f09461f5\"",
     "https://spacepolicyonline.com/feed/": "\"4144d4831713d1009966f07d2d4f5bfc\""
   },
   "articles": {
@@ -10851,6 +10851,66 @@
       "archivedDate": "2026-11-07",
       "collection": "morning",
       "archivedAt": "2026-11-07T03:30:59.959Z"
+    },
+    "0016cfab3a1dd966": {
+      "id": "0016cfab3a1dd966",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-saturday-november-7-2026",
+      "title": "The Sky Today on Saturday, November 7: Venus meets the Moon",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 07 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T10:36:42.964Z"
+    },
+    "000980190c6357c7": {
+      "id": "000980190c6357c7",
+      "canonicalUrl": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 07 Nov 2026 08:47:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T10:36:42.964Z"
+    },
+    "000b2eeb93d27aaf": {
+      "id": "000b2eeb93d27aaf",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sat, 07 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T10:36:42.964Z"
+    },
+    "000cea874e4a42fc": {
+      "id": "000cea874e4a42fc",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+      "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 07 Nov 2026 04:12:43 EST",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T10:36:42.964Z"
+    },
+    "00155fcb98818c98": {
+      "id": "00155fcb98818c98",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+      "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 17:12:56 EST",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T10:36:42.964Z"
     }
   }
 }

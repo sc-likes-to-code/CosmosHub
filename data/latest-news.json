@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T03:31:05.564Z",
+  "generatedAt": "2026-11-07T10:36:50.612Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0016cfab3a1dd966",
+      "title": "The Sky Today on Saturday, November 7: Venus meets the Moon",
+      "link": "https://www.astronomy.com/observing/the-sky-today-saturday-november-7-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 6: Nab the North America Nebula Venus is already primed to capture attention above the eastern horizon before sunrise. This morning, the Moon passes 1.1° due south of Earth’s sister planet at 7 A.M. EST.  You can e",
+      "pubDate": "Sat, 07 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000980190c6357c7",
+      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist",
+      "link": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
+      "desc": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record.  Or so says a well known physicist who has long championed this idea.",
+      "pubDate": "Sat, 07 Nov 2026 08:47:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000b2eeb93d27aaf",
+      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif",
+      "desc": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
+      "pubDate": "Sat, 07 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001ac7f62c9e2028",
       "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
@@ -18,6 +73,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000cea874e4a42fc",
+      "title": "Rubin Observatory discovers two hidden companions of the Milky Way. Hundreds more may be waiting",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012252.htm",
+      "desc": "The Vera C. Rubin Observatory has already uncovered two previously unknown companions of the Milky Way using preliminary observations covering just 7% of the night sky. The discoveries include an extremely faint galaxy 355,000 light-years away and a star cluster hidden behind cosmic dust. Scientists",
+      "pubDate": "Sat, 07 Nov 2026 04:12:43 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -403,6 +476,24 @@
       }
     },
     {
+      "id": "00155fcb98818c98",
+      "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
+      "desc": "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future. The two rings are separated by a mysterious gap that researchers believe is maintained by surviving planetary bodies, including one potential",
+      "pubDate": "Fri, 06 Nov 2026 17:12:56 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001fdfd4cc728b83",
       "title": "4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars",
       "link": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
@@ -509,25 +600,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "001567730db22c5e",
-      "title": "APOD: 2026 November 6 – A Farewell to Swift",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift",
-      "desc": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wr",
-      "pubDate": "Fri, 06 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -4304,24 +4376,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001dc0117b7a8996",
-      "title": "The Sky Today on Tuesday, November 3: The Moon passes Regulus",
-      "link": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-3-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 2: The Moon passes Jupiter and Mars The Moon now passes 0.8° south of the bright star Regulus in Leo at 4 A.M. EST. Some regions of the world will see our satellite pass in front of Regulus in an occultation,Contin",
-      "pubDate": "Tue, 03 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -9216,60 +9270,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
       "desc": "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lu",
       "pubDate": "Sun, 25 Oct 2026 08:07:01 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004160efeb634c9",
-      "title": "Astronomers may have discovered the first moon beyond our Solar System",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
-      "desc": "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement chall",
-      "pubDate": "Sat, 24 Oct 2026 23:13:05 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0005f297676496ca",
-      "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-      "desc": "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.",
-      "pubDate": "Sat, 24 Oct 2026 08:50:06 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0014faa5802bf4e5",
-      "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-      "desc": "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. The",
-      "pubDate": "Sat, 24 Oct 2026 08:23:38 EDT",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "ScienceDaily Space",
