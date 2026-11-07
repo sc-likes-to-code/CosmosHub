@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-06T20:59:15.770Z",
-  "lastRunId": "run-1793998752655-tiawfb",
+  "lastUpdated": "2026-11-07T03:30:59.959Z",
+  "lastRunId": "run-1794022257632-vgkoai",
   "stats": {
-    "totalStories": 898,
-    "lastRunAdded": 11
+    "totalStories": 903,
+    "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"633da9d49ded6d42a68fd09cc5038937\"",
-    "https://www.universetoday.com/feed": "W/\"6aee3e18-795f\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b7ad6a88f9f451d27ce3ef57ad273270\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"19882618b058b3a4f3556ec28fd3a415\"",
+    "https://www.universetoday.com/feed": "W/\"6aee90c8-795f\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"19882618b058b3a4f3556ec28fd3a415\"",
     "http://arxiv.org/rss/astro-ph": "246e3e31a73b64588a53689a749ffe2e40ceb2ccc8e0502cbfcfa35f6e7e367f",
     "https://spacenews.com/feed/": "W/\"e74a25045b68ade1330a08cf737dda66\"",
-    "https://www.astronomy.com/feed/": "W/\"1d787724499cc6ad9aa5b4ce511b7d0e\"",
-    "https://spacepolicyonline.com/feed/": "\"baec2046e73c07e2bbf34d984a3f09b4\""
+    "https://www.astronomy.com/feed/": "W/\"45dfa90e20e24dbbe4ecd1062345a4c4\"",
+    "https://spacepolicyonline.com/feed/": "\"4144d4831713d1009966f07d2d4f5bfc\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -10791,6 +10791,66 @@
       "archivedDate": "2026-11-06",
       "collection": "evening",
       "archivedAt": "2026-11-06T20:59:15.770Z"
+    },
+    "001ac7f62c9e2028": {
+      "id": "001ac7f62c9e2028",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 07 Nov 2026 01:41:58 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T03:30:59.959Z"
+    },
+    "0017a95473f9ee15": {
+      "id": "0017a95473f9ee15",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+      "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 22:05:58 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T03:30:59.959Z"
+    },
+    "00008523c72158a5": {
+      "id": "00008523c72158a5",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
+      "title": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 06 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T03:30:59.959Z"
+    },
+    "00041e6cd75c562d": {
+      "id": "00041e6cd75c562d",
+      "canonicalUrl": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
+      "title": "What's that bright 'star' in the early morning sky? It's not a star at all!",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 06 Nov 2026 21:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T03:30:59.959Z"
+    },
+    "00065039127cda45": {
+      "id": "00065039127cda45",
+      "canonicalUrl": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
+      "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 06 Nov 2026 19:20:01 EST",
+      "archivedDate": "2026-11-07",
+      "collection": "morning",
+      "archivedAt": "2026-11-07T03:30:59.959Z"
     }
   }
 }

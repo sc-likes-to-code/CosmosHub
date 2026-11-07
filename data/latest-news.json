@@ -1,8 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T20:59:25.659Z",
+  "generatedAt": "2026-11-07T03:31:05.564Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001ac7f62c9e2028",
+      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
+      "desc": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
+      "pubDate": "Sat, 07 Nov 2026 01:41:58 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0017a95473f9ee15",
+      "title": "On this day in space! Nov. 6, 1572: A German astronomer discovers the Tycho supernova with the naked eye, but everyone thought the cosmic explosion was a 'new star'",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026",
+      "desc": "On Nov. 6, 1572, the German astronomer Wolfgang Schulër observed a supernova later caleld the Tycho supernova with his bare eyes. Here's why it mattered.",
+      "pubDate": "Fri, 06 Nov 2026 22:05:58 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00008523c72158a5",
+      "title": "AST SpaceMobile announces new 'Blacklift' rocket, targets 2028 launch debut",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut",
+      "desc": "AST SpaceMobile plans to launch its broadband satellites on a new rocket called Blacklift, which it will build in house and plans to start flying in 2028.",
+      "pubDate": "Fri, 06 Nov 2026 22:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00041e6cd75c562d",
+      "title": "What's that bright 'star' in the early morning sky? It's not a star at all!",
+      "link": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
+      "desc": "Spotted a dazzling light in the eastern sky before sunrise? It's Venus, and the planet is only going to get brighter as it heads toward its spectacular peak later this month.",
+      "pubDate": "Fri, 06 Nov 2026 21:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001c5b3bd717c59d",
       "title": "The ELT Can Probe Ultra-Diffuse Galaxies and Their Dark Matter Mysteries",
@@ -218,6 +290,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00065039127cda45",
+      "title": "Untangling the patterns of the cosmic microwave background to better understand the early universe",
+      "link": "https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html",
+      "desc": "A figure in red trudges across a blanket of white. Snow squeaks under the scientist's feet, too dry to be slick or soft. Only a line of flags and a few large buildings—the scientist's destination—break up the landscape. The sun hovers on the horizon, never quite setting against a blue sky devoid of ",
+      "pubDate": "Fri, 06 Nov 2026 19:20:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9188,101 +9279,6 @@
         "tags": [
           "Research",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "001a666e27f8a4b9",
-      "title": "NASA is Full Steam Ahead on Artemis III, IV and V",
-      "link": "https://spacepolicyonline.com/news/nasa-is-full-steam-ahead-on-artemis-iii-iv-and-v",
-      "desc": "NASA officials projected confidence today in their plans to launch the Artemis III earth-orbital test flight in mid-2027 and land American astronauts on the Moon in 2028.  Whether SpaceX’s Starship […]",
-      "pubDate": "Fri, 23 Oct 2026 22:39:54 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "0019ee4ec7cbad4b",
-      "title": "Replay: Satellite Mission Management at the Edge",
-      "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event",
-      "desc": "Explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Replay: Satellite Mission Management at the Edge appeared first on SpaceNews.",
-      "pubDate": "Fri, 23 Oct 2026 19:53:25 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "00180aa8d35334d8",
-      "title": "NASA Safety Panel Concerned About Artemis IV, Future Access to LEO",
-      "link": "https://spacepolicyonline.com/news/nasa-safety-panel-concerned-about-artemis-iv-future-access-to-leo",
-      "desc": "NASA’s Aerospace Safety Advisory Panel will soon open a formal recommendation that NASA re-examine plans for the Artemis IV mission.  Currently that will be a landing at the Moon’s South […]",
-      "pubDate": "Fri, 23 Oct 2026 03:23:10 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "001472589b87c365",
-      "title": "Moon’s South Pole Not the Only Compelling Location for Human Exploration",
-      "link": "https://spacepolicyonline.com/news/moons-south-pole-not-the-only-compelling-location-for-human-exploration",
-      "desc": "A new report from the National Academies of Sciences, Engineering, and Medicine identifies four locations on the Moon separate from the South Pole where human exploration could yield valuable scientific […]",
-      "pubDate": "Thu, 22 Oct 2026 20:44:04 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "00190ac92b7ba8c0",
-      "title": "Rethinking networks in space with Aalyria’s Brian Barritt",
-      "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt",
-      "desc": "In this episode, SpaceNews’ Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability […]\nThe post Rethinking networks in space with Aalyria’s Brian Barritt appeared first on SpaceNews.",
-      "pubDate": "Thu, 22 Oct 2026 18:13:38 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
         ]
       }
     }
