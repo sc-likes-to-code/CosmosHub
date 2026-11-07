@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-07T15:31:06.848Z",
-  "lastRunId": "run-1794065464074-0rw9fa",
+  "lastUpdated": "2026-11-07T19:32:31.289Z",
+  "lastRunId": "run-1794079948723-4n11q2",
   "stats": {
-    "totalStories": 914,
-    "lastRunAdded": 6
+    "totalStories": 917,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"929a0cd488325e64974345e74b371b5c\"",
-    "https://www.universetoday.com/feed": "W/\"6aef39bb-7723\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"929a0cd488325e64974345e74b371b5c\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c8ea337cc8f0c313bce4e4f38c3cb547\"",
+    "https://www.universetoday.com/feed": "W/\"6aef725a-7723\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c8ea337cc8f0c313bce4e4f38c3cb547\"",
     "http://arxiv.org/rss/astro-ph": "14c85b28f843756fc4e8d809de1fede9f8189b29849944983db593d2af236523",
     "https://spacenews.com/feed/": "W/\"e74a25045b68ade1330a08cf737dda66\"",
     "https://www.astronomy.com/feed/": "W/\"9e5f41ac87236571465c9d2e8e3870ea\"",
-    "https://spacepolicyonline.com/feed/": "\"4144d4831713d1009966f07d2d4f5bfc\""
+    "https://spacepolicyonline.com/feed/": "\"cae0b8011330ba8e2b29bfb7fd87d8f8\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -10983,6 +10983,42 @@
       "archivedDate": "2026-11-07",
       "collection": "evening",
       "archivedAt": "2026-11-07T15:31:06.848Z"
+    },
+    "0017939c2613be7a": {
+      "id": "0017939c2613be7a",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sat, 07 Nov 2026 18:11:57 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T19:32:31.288Z"
+    },
+    "000729a234c550de": {
+      "id": "000729a234c550de",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-235-robots-in-dark-and-scary-places",
+      "title": "This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 07 Nov 2026 17:10:54 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T19:32:31.289Z"
+    },
+    "000e48cbbc930385": {
+      "id": "000e48cbbc930385",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
+      "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 07 Nov 2026 16:31:11 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T19:32:31.289Z"
     }
   }
 }

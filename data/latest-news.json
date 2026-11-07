@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T15:31:15.314Z",
+  "generatedAt": "2026-11-07T19:32:37.186Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0017939c2613be7a",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps",
+      "desc": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. Th",
+      "pubDate": "Sat, 07 Nov 2026 18:11:57 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000729a234c550de",
+      "title": "This Week In Space podcast: Episode 235 — Robots in Dark and Scary Places",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-235-robots-in-dark-and-scary-places",
+      "desc": "On Episode 235 of This Week In Space, Tariq Malik and Rod Pyle are joined by Dr. Jim Green to talk about the past, present, and future of planetary exploration.",
+      "pubDate": "Sat, 07 Nov 2026 17:10:54 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000e48cbbc930385",
+      "title": "On this day in space! Nov. 7, 1992: NASA launches Mars Global Surveyor, its 1st Mars mission in 20 years at the time, to map the Red Planet like never before",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-7-2026",
+      "desc": "On Nov. 7, 1996, NASA launched its Mars Global Surveyor mission, the first Mars mission in 20 years. Here's why it mattered.",
+      "pubDate": "Sat, 07 Nov 2026 16:31:11 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001b95857dd33db7",
       "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
@@ -9226,60 +9281,6 @@
           "Industry",
           "Policy",
           "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001782952e443cd2",
-      "title": "On this day in space! Oct. 26, 2004: Cassini spacecraft takes 1st-ever closeup photos of Saturn moon Titan",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026",
-      "desc": "On Oct. 26, 2004, NASA's Cassini spacecraft took the first close-up images of Saturn's largest moon Titan. Here's why it mattered.",
-      "pubDate": "Mon, 26 Oct 2026 19:47:12 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001283dc5f75d015",
-      "title": "Darth Vader wields the Infinity Gauntlet in the first-ever official 'Star Wars' & 'Marvel' crossover",
-      "link": "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover",
-      "desc": "If you only knew the power of the infinity stones!",
-      "pubDate": "Mon, 26 Oct 2026 19:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000318781739d6cc",
-      "title": "'Donnie Darko' at 25: How a giant rabbit, time loops, and teen angst became a sci-fi cult classic",
-      "link": "https://www.space.com/entertainment/donnie-darko-at-25-how-a-giant-rabbit-time-loops-and-teen-angst-became-a-sci-fi-cult-classic",
-      "desc": "\"28 days, 6 hours, 42 minutes, 12 seconds. That is when the world will end.\"",
-      "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }
