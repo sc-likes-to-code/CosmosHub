@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-07T10:36:42.964Z",
-  "lastRunId": "run-1794047800357-tqdf7e",
+  "lastUpdated": "2026-11-07T15:31:06.848Z",
+  "lastRunId": "run-1794065464074-0rw9fa",
   "stats": {
-    "totalStories": 908,
-    "lastRunAdded": 5
+    "totalStories": 914,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"cf3fb2b47e2fe29d9e63fc3ab039488f\"",
-    "https://www.universetoday.com/feed": "W/\"6aeef49b-7723\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"cf3fb2b47e2fe29d9e63fc3ab039488f\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"929a0cd488325e64974345e74b371b5c\"",
+    "https://www.universetoday.com/feed": "W/\"6aef39bb-7723\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"929a0cd488325e64974345e74b371b5c\"",
     "http://arxiv.org/rss/astro-ph": "14c85b28f843756fc4e8d809de1fede9f8189b29849944983db593d2af236523",
     "https://spacenews.com/feed/": "W/\"e74a25045b68ade1330a08cf737dda66\"",
-    "https://www.astronomy.com/feed/": "W/\"20c8d0f8415d4b7bfb0f9953f09461f5\"",
+    "https://www.astronomy.com/feed/": "W/\"9e5f41ac87236571465c9d2e8e3870ea\"",
     "https://spacepolicyonline.com/feed/": "\"4144d4831713d1009966f07d2d4f5bfc\""
   },
   "articles": {
@@ -10911,6 +10911,78 @@
       "archivedDate": "2026-11-07",
       "collection": "morning",
       "archivedAt": "2026-11-07T10:36:42.964Z"
+    },
+    "001b95857dd33db7": {
+      "id": "001b95857dd33db7",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
+      "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T15:31:06.848Z"
+    },
+    "0017718bddefb4ea": {
+      "id": "0017718bddefb4ea",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-7-1882-a-great-comet-transforms-astrophotography",
+      "title": "Nov. 7, 1882: A Great Comet transforms astrophotography",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 07 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T15:31:06.848Z"
+    },
+    "000873efa1944797": {
+      "id": "000873efa1944797",
+      "canonicalUrl": "https://www.space.com/entertainment/space-games/star-wars-is-experiencing-a-golden-age-of-video-games",
+      "title": "Star Wars is experiencing a golden age of video games",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T15:31:06.848Z"
+    },
+    "000b1a58694cf630": {
+      "id": "000b1a58694cf630",
+      "canonicalUrl": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
+      "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T15:31:06.848Z"
+    },
+    "0000eb18df327319": {
+      "id": "0000eb18df327319",
+      "canonicalUrl": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
+      "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 07 Nov 2026 09:00:02 EST",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T15:31:06.848Z"
+    },
+    "001e0b5aebd8b716": {
+      "id": "001e0b5aebd8b716",
+      "canonicalUrl": "https://phys.org/news/2026-11-pakistani-astronaut-board-shenzhou-foreigner.html",
+      "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 07 Nov 2026 06:20:01 EST",
+      "archivedDate": "2026-11-07",
+      "collection": "evening",
+      "archivedAt": "2026-11-07T15:31:06.848Z"
     }
   }
 }
