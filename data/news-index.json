@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-08T15:31:10.290Z",
-  "lastRunId": "run-1794151867561-t1eutc",
+  "lastUpdated": "2026-11-08T19:53:13.964Z",
+  "lastRunId": "run-1794167591206-1tmtmh",
   "stats": {
-    "totalStories": 930,
-    "lastRunAdded": 9
+    "totalStories": 935,
+    "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"547f343b1304fb027c188aa3b2c42c5f\"",
-    "https://www.universetoday.com/feed": "W/\"6af08b3a-7723\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"547f343b1304fb027c188aa3b2c42c5f\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c0a497453f34ccad6393aa34b86f821b\"",
+    "https://www.universetoday.com/feed": "W/\"6af0d197-7723\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c0a497453f34ccad6393aa34b86f821b\"",
     "http://arxiv.org/rss/astro-ph": "a21e7ebaf69355a29e9eaa78f6428e2fcd4cd2a139a95b3c2473a24cf2e6acf9",
     "https://spacenews.com/feed/": "W/\"df61fd16b78a5e51ebb0a3fdac434375\"",
-    "https://www.astronomy.com/feed/": "W/\"721d74858b14230f5a1c22444d6b946c\"",
-    "https://spacepolicyonline.com/feed/": "\"cae0b8011330ba8e2b29bfb7fd87d8f8\""
+    "https://www.astronomy.com/feed/": "W/\"4ef1c201ee25041d648c3424fc17d58f\"",
+    "https://spacepolicyonline.com/feed/": "\"02c3b06366ee40fa5eca4fb36d837d26\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -11175,6 +11175,66 @@
       "archivedDate": "2026-11-08",
       "collection": "evening",
       "archivedAt": "2026-11-08T15:31:10.290Z"
+    },
+    "0009c49315ee3330": {
+      "id": "0009c49315ee3330",
+      "canonicalUrl": "https://www.astronomy.com/science/gemini-north-reveals-twin-spirits-in-pegasus",
+      "title": "Gemini North reveals Twin Spirits in Pegasus",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-08",
+      "collection": "evening",
+      "archivedAt": "2026-11-08T19:53:13.964Z"
+    },
+    "0015c565b4e18d5e": {
+      "id": "0015c565b4e18d5e",
+      "canonicalUrl": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+      "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-08",
+      "collection": "evening",
+      "archivedAt": "2026-11-08T19:53:13.964Z"
+    },
+    "00173c09e7d30138": {
+      "id": "00173c09e7d30138",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge",
+      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sun, 08 Nov 2026 15:26:38 +0000",
+      "archivedDate": "2026-11-08",
+      "collection": "evening",
+      "archivedAt": "2026-11-08T19:53:13.964Z"
+    },
+    "001d49b04c37d2dc": {
+      "id": "001d49b04c37d2dc",
+      "canonicalUrl": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+      "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 08 Nov 2026 14:20:01 EST",
+      "archivedDate": "2026-11-08",
+      "collection": "evening",
+      "archivedAt": "2026-11-08T19:53:13.964Z"
+    },
+    "00093b35670ab0c6": {
+      "id": "00093b35670ab0c6",
+      "canonicalUrl": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
+      "title": "How space weather powers auroras in the sky and threatens power grids on the ground",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Sun, 08 Nov 2026 14:00:01 EST",
+      "archivedDate": "2026-11-08",
+      "collection": "evening",
+      "archivedAt": "2026-11-08T19:53:13.964Z"
     }
   }
 }

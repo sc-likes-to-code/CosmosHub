@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T15:31:20.267Z",
+  "generatedAt": "2026-11-08T19:53:23.922Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0009c49315ee3330",
+      "title": "Gemini North reveals Twin Spirits in Pegasus",
+      "link": "https://www.astronomy.com/science/gemini-north-reveals-twin-spirits-in-pegasus",
+      "desc": "Three high school students in the Project Hōkūlani internship at Gemini North on Maunakea, Hawaii, chose this pair of clashing spirals, cataloged collectively as NGC 7253 or Arp 278, for imaging with the 8.1-meter telescope. It captured this photo — the most detailed ever taken of these galaxies — i",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0015c565b4e18d5e",
+      "title": "Legendary sci-fi magazine 'Starlog' returns as a yearly release, just in time for its 50th anniversary",
+      "link": "https://www.space.com/entertainment/legendary-sci-fi-magazine-starlog-returns-as-a-yearly-release-just-in-time-for-its-50th-anniversary",
+      "desc": "Before the rise of online entertainment sites, this is where genre fans got their news",
+      "pubDate": "Sun, 08 Nov 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00173c09e7d30138",
+      "title": "NASA Announces $1 Million to Students for Moon Base Challenge",
+      "link": "https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge",
+      "desc": "On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute des",
+      "pubDate": "Sun, 08 Nov 2026 15:26:38 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0007e3f952a185fa",
       "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
@@ -90,6 +145,44 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "001d49b04c37d2dc",
+      "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
+      "link": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
+      "desc": "Using the James Webb Space Telescope (JWST), a team of astronomers identified 104 magnified stellar events in a galaxy known as the Dragon, located around 6.5 billion light-years away. This discovery more than doubles the previous record of 44 such detections in the same galaxy. Because these kinds ",
+      "pubDate": "Sun, 08 Nov 2026 14:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00093b35670ab0c6",
+      "title": "How space weather powers auroras in the sky and threatens power grids on the ground",
+      "link": "https://phys.org/news/2026-11-space-weather-powers-auroras-sky.html",
+      "desc": "An aurora is one of nature's most spectacular light shows: It looks like green or red curtains rippling across the night sky. When viewed from the ground, this colorful display might seem far away and disconnected from anything happening on Earth's surface.",
+      "pubDate": "Sun, 08 Nov 2026 14:00:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9186,99 +9279,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001cda51476f52f8",
-      "title": "On this day in space! Oct. 27, 1961: NASA launches Saturn I rocket on 1st test flight from Florida to set stage for the mighty Saturn V moon rocket",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026",
-      "desc": "On Oct. 27, 1961, NASA launched the first test flight of its new Saturn I space launch vehicle. Here's why it mattered.",
-      "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000e922d7da2d44f",
-      "title": "Rubin Observatory reveals its first dwarf planet candidate in our solar system",
-      "link": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
-      "desc": "Scientists may add a new dwarf planet to the official roster of our solar system. The distant, icy body, provisionally dubbed 2026 ED138, orbits our system beyond Pluto. It was spotted earlier this month by a scientist combing through data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rub",
-      "pubDate": "Tue, 27 Oct 2026 18:30:05 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001a26bf468af32a",
-      "title": "Double debris disk orbiting a dead star hints at our solar system's future",
-      "link": "https://phys.org/news/2026-10-debris-disk-orbiting-dead-star.html",
-      "desc": "Astronomers using the European Southern Observatory's Very Large Telescope (ESO's VLT) have found a rare disk of debris around a dead star that provides a glimpse of what may happen to our solar system. Unlike in similar systems previously found, the debris—the leftovers of planets that once orbited",
-      "pubDate": "Tue, 27 Oct 2026 18:00:12 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0017c1a592ca0ea6",
-      "title": "'Star Trek' legend and sci-fi luminary Walter Koenig dies at 90",
-      "link": "https://www.space.com/entertainment/star-trek-legend-and-sci-fi-luminary-walter-koenig-dies-at-90",
-      "desc": "The man who portrayed the U.S.S. Enterprise’s Pavel Chekov has left us after a 60-year stage and screen career",
-      "pubDate": "Tue, 27 Oct 2026 12:15:39 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00085b93fef3ba42",
-      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-      "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space",
-      "desc": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-performance optical communications […]\nThe post Craft Prospect kicks off PERSEUS project to advance optic",
-      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
         ]
       }
     }
