@@ -1,8 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T10:42:05.212Z",
+  "generatedAt": "2026-11-08T15:31:20.267Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0007e3f952a185fa",
+      "title": "On this day in space! Nov. 8, 2005: Europe launches Venus Express, its first mission to Venus",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-8-2026",
+      "desc": "On Nov. 8, 2005, Europe launched its first mission to Venus. Here's why Venus Express mattered.",
+      "pubDate": "Sun, 08 Nov 2026 15:25:42 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00057fd334f17a85",
+      "title": "Nov. 8, 1656: The birth of Edmond Halley",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-8-1656-the-birth-of-edmond-halley",
+      "desc": "It’s been said that the general public knows three astronomical objects: the Moon, the rings of Saturn, and Halley’s Comet. English astronomer Edmond Halley, born Nov. 8, 1656, didn’t discover the object named for him. In fact, he never even saw it — but his mathematical prediction of its return in ",
+      "pubDate": "Sun, 08 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000012f8a0ce505c",
+      "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
+      "link": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe",
+      "desc": "Godzilla will go toe-to-toe with long-time foe King Ghidorah in Godzilla Minus Zero. This three-headed Kaiju's origins aren't just space-based; one of the largest structures in the universe shares its name.",
+      "pubDate": "Sun, 08 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00129535faf2a9f7",
+      "title": "Scientists simulate an Earth without life to help hunt for aliens and inhabited worlds",
+      "link": "https://www.space.com/space-exploration/search-for-life/scientists-simulate-an-earth-without-life-to-help-hunt-for-aliens-and-inhabited-worlds",
+      "desc": "By modeling how a planet without life develops its atmosphere, astronomers hope to be able to better distinguish rocky planets without life from those that are inhabited.",
+      "pubDate": "Sun, 08 Nov 2026 11:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000e6e3715ebc23f",
       "title": "The Sky Today on Sunday, November 8: Io and Callisto race across Jupiter",
@@ -36,6 +108,81 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001e334c028e9ce2",
+      "title": "Game theory helps SETI search for alien civilizations",
+      "link": "https://phys.org/news/2026-11-game-theory-seti-alien-civilizations.html",
+      "desc": "The search for extraterrestrial intelligence (SETI) is mostly concerned with where to look for technosignatures from another civilization. Between 2012 and 2015, SETI's Project Phoenix targeted about 1,000 sun-like stars for signs of intelligent life. But where to look might not be as important as w",
+      "pubDate": "Sun, 08 Nov 2026 10:30:06 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0018c8cefc3677aa",
+      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source",
+      "link": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+      "desc": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars collapse. Some theories suggest that \"st",
+      "pubDate": "Sun, 08 Nov 2026 09:40:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0000dce2a56edcde",
+      "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program",
+      "link": "https://phys.org/news/2026-11-fly-moon-nasa-astronauts-artemis.html",
+      "desc": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program.",
+      "pubDate": "Sun, 08 Nov 2026 06:45:12 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0005bff63a802280",
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+      "desc": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection ef",
+      "pubDate": "Sun, 08 Nov 2026 05:11:25 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -148,6 +295,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0003cabc026b6d84",
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+      "desc": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Plan",
+      "pubDate": "Sat, 07 Nov 2026 20:09:55 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -9114,173 +9279,6 @@
           "Industry",
           "Policy",
           "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0005e72d0898c2ea",
-      "title": "What causes mysterious long delayed radio echoes in Earth's atmosphere?",
-      "link": "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere",
-      "desc": "Baffling long radio echo delays have prompted a range of potential explanations, most of which focus on a variety of unexplained natural phenomena occurring in Earth's atmosphere.",
-      "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00094c2acc41bca3",
-      "title": "A brief-ish history of METI. Part I: Early ideas and experiments",
-      "link": "https://phys.org/news/2026-10-ish-history-meti-early-ideas.html",
-      "desc": "Long before modern astronomy, humans looked to the stars and were astounded by what they saw. Even by the most ancient reckoning, the night sky offered enough to inspire awe and wonder, make us feel insignificant, fire our imaginations and foster hope and a sense of connection. Yet, for as long as h",
-      "pubDate": "Tue, 27 Oct 2026 17:10:01 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00050b24539d43b5",
-      "title": "Autonomous rendezvous system overcomes simulated spacecraft failures in lab tests",
-      "link": "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html",
-      "desc": "There is a problem in low Earth orbit, and it's growing. According to the European Space Agency, there are about 19,440 satellites on orbit, 3,540 of which are nonfunctioning and/or not emitting a signal to warn other spacecraft of their location. The need to service these sleepwalking satellites in",
-      "pubDate": "Tue, 27 Oct 2026 16:00:03 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0018fbd2804583ff",
-      "title": "Astroscale proposes fleet of 'bodyguard' spacecraft to protect satellites from orbital attacks",
-      "link": "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks",
-      "desc": "Technologies developed to remove space junk and fix broken satellites can be repurposed to build fleets of bodyguard spacecraft to protect important assets from attacks.",
-      "pubDate": "Tue, 27 Oct 2026 10:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000b00ba4aaab7d1",
-      "title": "First light: Hera resolves two asteroids instead of one",
-      "link": "https://phys.org/news/2026-10-hera-asteroids.html",
-      "desc": "The European Space Agency's Hera spacecraft for planetary defense has resolved its two target asteroids separately for the first time, revealing the binary nature of the Didymos system, currently some 197 million km (122 million miles) away from Earth.",
-      "pubDate": "Tue, 27 Oct 2026 14:10:09 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00170e7e7a74cc09",
-      "title": "Perseverance offers clues to protect crews from ultrafine Mars dust",
-      "link": "https://phys.org/news/2026-10-perseverance-clues-crews-ultrafine-mars.html",
-      "desc": "Over 1,645 Martian days, NASA's Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including particles small enough to penetrate the lungs and enter the bloodstream. The findings are publi",
-      "pubDate": "Tue, 27 Oct 2026 12:00:01 EDT",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00071f6c4d8f1188",
-      "title": "Earth may have formed much of its water as the planet grew",
-      "link": "https://phys.org/news/2026-10-earth-planet-grew.html",
-      "desc": "Earth may have produced much of its water during the planet's formation, as rocky pebbles reacted with the hydrogen-rich atmosphere surrounding the young planet, according to new research published in Nature Geoscience. The findings offer a potential explanation for how Earth acquired one of the ess",
-      "pubDate": "Tue, 27 Oct 2026 11:40:01 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001478f3242f7384",
-      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm",
-      "desc": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope observations suggest that TOI-561 b reflects about 75% of incoming starlight, pos",
-      "pubDate": "Tue, 27 Oct 2026 06:20:52 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001607ba681cf625",
-      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm",
-      "desc": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark ma",
-      "pubDate": "Tue, 27 Oct 2026 05:48:35 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
         ]
       }
     }
