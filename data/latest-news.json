@@ -1,8 +1,46 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T19:32:37.186Z",
+  "generatedAt": "2026-11-08T03:31:09.961Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0016313d3f53e3ab",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "link": "https://www.jpl.nasa.gov/news/nasa-awards-moon-base-transportation-technology-science-projects",
+      "desc": "Announcements include the agency’s decision to move forward with the nuclear-powered rover PROMISE and transportation for the MoonFall lunar drones — two missions managed by JPL.",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00 -0800",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
+    {
+      "id": "0016ac697d0fcf48",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects",
+      "desc": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surfac",
+      "pubDate": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0017939c2613be7a",
       "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
@@ -9243,44 +9281,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "0017a8676bcfcd63",
-      "title": "NASA’s Perseverance Offers Clues to Protect Crews from Mars Dust",
-      "link": "https://www.jpl.nasa.gov/news/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust",
-      "desc": "By studying tiny particles clinging to spacesuit samples aboard the rover, scientists could help develop better ways to reduce astronauts’ exposure to dust on Mars.",
-      "pubDate": "Mon, 26 Oct 2026 14:00:00 -0700",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "001f557d3a3b5023",
-      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-      "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence",
-      "desc": "– Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe– New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews to supply […]\nThe post Flexell Space Establishes French Subsidiary to Strengthen European Presence a",
-      "pubDate": "Mon, 26 Oct 2026 20:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
         ]
       }
     }
