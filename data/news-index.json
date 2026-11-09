@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-09T11:59:13.796Z",
-  "lastRunId": "run-1794225550163-3al82m",
+  "lastUpdated": "2026-11-09T15:31:11.069Z",
+  "lastRunId": "run-1794238268618-72umyo",
   "stats": {
-    "totalStories": 995,
-    "lastRunAdded": 58
+    "totalStories": 1004,
+    "lastRunAdded": 9
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"e9a903ca347c51a13fbfdcee03349490\"",
-    "https://www.universetoday.com/feed": "W/\"6af1b262-77fe\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"9cadb083d6ab8b560a3b1f69eb20070e\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"ca66c35a4b29c58ceb01d5056ddbe4a8\"",
+    "https://www.universetoday.com/feed": "W/\"6af1dc67-77fe\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"ca66c35a4b29c58ceb01d5056ddbe4a8\"",
     "http://arxiv.org/rss/astro-ph": "9e6dc5cecd8a23c383e978a052a58ae059b0884e23238a01c46d5eb5584611e6",
-    "https://spacenews.com/feed/": "W/\"35a18035b6033edfabd99de2ff96e6cb\"",
-    "https://www.astronomy.com/feed/": "W/\"dec53ab1d7dd6a85a1c8124f855b0785\"",
+    "https://spacenews.com/feed/": "W/\"1a79a9e919e23ec20d4d9b3bc60b187e\"",
+    "https://www.astronomy.com/feed/": "W/\"e61d170a9c7856f82ba8a962eba54e11\"",
     "https://spacepolicyonline.com/feed/": "\"7265adf1578f20e2d62c1c7ebcb66ae3\""
   },
   "articles": {
@@ -11955,6 +11955,114 @@
       "archivedDate": "2026-11-09",
       "collection": "morning",
       "archivedAt": "2026-11-09T11:59:13.796Z"
+    },
+    "0012d4355d2eb49f": {
+      "id": "0012d4355d2eb49f",
+      "canonicalUrl": "https://www.astronomy.com/science/mysterious-gas-on-mars-suggests-magma-below",
+      "title": "Mysterious gas on Mars suggests magma below",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 09 Nov 2026 15:15:08 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "001bede967fc5f8c": {
+      "id": "001bede967fc5f8c",
+      "canonicalUrl": "https://www.space.com/technology/aerospace/futuristic-aircraft-takes-flight-at-nasa-space-photo-of-the-day-for-nov-9-2026",
+      "title": "Futuristic aircraft takes flight at NASA | Space photo of the day for Nov. 9, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 09 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "0009a154b38085c4": {
+      "id": "0009a154b38085c4",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
+      "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 09 Nov 2026 14:30:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "00062300b4a66099": {
+      "id": "00062300b4a66099",
+      "canonicalUrl": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth",
+      "title": "CCIA Report Highlights Satellite Connectivity’s Potential to Expand Internet Access and Drive Economic Growth",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "000af5c06f589635": {
+      "id": "000af5c06f589635",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/meteorite-that-landed-in-cape-cod-was-a-lone-wolf-from-beyond-jupiter-scientists-find",
+      "title": "Meteorite that landed in Cape Cod was a 'lone wolf' from the outer solar system, scientists find",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "001c409efb5303a0": {
+      "id": "001c409efb5303a0",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-9-1939-the-birth-of-carl-sagan",
+      "title": "Nov. 9, 1939: The birth of Carl Sagan",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "0008e241c2f1d694": {
+      "id": "0008e241c2f1d694",
+      "canonicalUrl": "https://www.astronomy.com/science/what-would-happen-if-a-planet-crashed-into-the-sun",
+      "title": "What would happen if a planet crashed into the Sun?",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "0010c8ac79a2619d": {
+      "id": "0010c8ac79a2619d",
+      "canonicalUrl": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
+      "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
+    },
+    "0015bfdb59ce9be1": {
+      "id": "0015bfdb59ce9be1",
+      "canonicalUrl": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
+      "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "evening",
+      "archivedAt": "2026-11-09T15:31:11.069Z"
     }
   }
 }
