@@ -1,8 +1,45 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T19:53:23.922Z",
+  "generatedAt": "2026-11-09T03:31:22.803Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000c920a34b1a376",
+      "title": "What’s Happening in Space Policy November 8-14, 2026",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026",
+      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+      "pubDate": "Sun, 08 Nov 2026 22:27:24 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Sun, 08 Nov 2026 20:31:30 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0009c49315ee3330",
       "title": "Gemini North reveals Twin Spirits in Pegasus",
@@ -109,6 +146,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0001b461018fc2bc",
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+      "desc": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical process called \"gravitational reconnection",
+      "pubDate": "Sun, 08 Nov 2026 17:14:42 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -879,24 +934,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Fri, 06 Nov 2026 13:19:47 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -6568,25 +6605,6 @@
       }
     },
     {
-      "id": "0015e65eda04849a",
-      "title": "What’s Happening in Space Policy November 1-8, 2026",
-      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 1-8, 2026 and any insight we can offer about them. The House and Senate […]",
-      "pubDate": "Sun, 01 Nov 2026 22:31:25 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
       "id": "001df73427c2c6ce",
       "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
       "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
@@ -9252,24 +9270,6 @@
       "link": "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon",
       "desc": "Your guide to November's full Beaver Moon, from peak times to skywatching highlights.",
       "pubDate": "Tue, 27 Oct 2026 18:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00099b3e6bb2ff2c",
-      "title": "'Dungeon Crawler Carl' is getting a killer new comic book series",
-      "link": "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series",
-      "desc": "'The fact that I get to work with some of the greatest creators and artists working today feels like a dream.'",
-      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
       "category": "Other Space Transmissions",
       "source": {
         "name": "Space.com",

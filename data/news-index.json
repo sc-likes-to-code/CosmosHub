@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-08T19:53:13.964Z",
-  "lastRunId": "run-1794167591206-1tmtmh",
+  "lastUpdated": "2026-11-09T03:31:12.776Z",
+  "lastRunId": "run-1794195069585-cnexsp",
   "stats": {
-    "totalStories": 935,
-    "lastRunAdded": 5
+    "totalStories": 937,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"c0a497453f34ccad6393aa34b86f821b\"",
-    "https://www.universetoday.com/feed": "W/\"6af0d197-7723\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c0a497453f34ccad6393aa34b86f821b\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"079ff370e344697a2c2c87e5f2e69ee8\"",
+    "https://www.universetoday.com/feed": "W/\"6af133b2-7723\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"079ff370e344697a2c2c87e5f2e69ee8\"",
     "http://arxiv.org/rss/astro-ph": "a21e7ebaf69355a29e9eaa78f6428e2fcd4cd2a139a95b3c2473a24cf2e6acf9",
-    "https://spacenews.com/feed/": "W/\"df61fd16b78a5e51ebb0a3fdac434375\"",
-    "https://www.astronomy.com/feed/": "W/\"4ef1c201ee25041d648c3424fc17d58f\"",
-    "https://spacepolicyonline.com/feed/": "\"02c3b06366ee40fa5eca4fb36d837d26\""
+    "https://spacenews.com/feed/": "W/\"35a18035b6033edfabd99de2ff96e6cb\"",
+    "https://www.astronomy.com/feed/": "W/\"dc61f89002851a0c61bead141f742542\"",
+    "https://spacepolicyonline.com/feed/": "\"7265adf1578f20e2d62c1c7ebcb66ae3\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -11235,6 +11235,30 @@
       "archivedDate": "2026-11-08",
       "collection": "evening",
       "archivedAt": "2026-11-08T19:53:13.964Z"
+    },
+    "000c920a34b1a376": {
+      "id": "000c920a34b1a376",
+      "canonicalUrl": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026",
+      "title": "What’s Happening in Space Policy November 8-14, 2026",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 08 Nov 2026 22:27:24 +0000",
+      "archivedDate": "2026-11-09",
+      "collection": "morning",
+      "archivedAt": "2026-11-09T03:31:12.776Z"
+    },
+    "0001b461018fc2bc": {
+      "id": "0001b461018fc2bc",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
+      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Sun, 08 Nov 2026 17:14:42 EST",
+      "archivedDate": "2026-11-09",
+      "collection": "morning",
+      "archivedAt": "2026-11-09T03:31:12.776Z"
     }
   }
 }
