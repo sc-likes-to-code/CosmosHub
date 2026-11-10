@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-09T23:49:59.723Z",
-  "lastRunId": "run-1794268196477-mgzr0b",
+  "lastUpdated": "2026-11-10T03:31:11.052Z",
+  "lastRunId": "run-1794281468436-2ugueb",
   "stats": {
-    "totalStories": 1040,
-    "lastRunAdded": 36
+    "totalStories": 1041,
+    "lastRunAdded": 1
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"8f307b9b02afc23ff75939f226760b7b\"",
-    "https://www.universetoday.com/feed": "W/\"6af25b34-77ce\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3ab21235e687144aa895a97bb18b2d95\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"354a9accd778c8ec9de0b9a19b2722a8\"",
+    "https://www.universetoday.com/feed": "W/\"6af28532-77ce\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"354a9accd778c8ec9de0b9a19b2722a8\"",
     "http://arxiv.org/rss/astro-ph": "9e6dc5cecd8a23c383e978a052a58ae059b0884e23238a01c46d5eb5584611e6",
-    "https://spacenews.com/feed/": "W/\"50d2c04def03d3b744030bef8d514b07\"",
+    "https://spacenews.com/feed/": "W/\"5b25efab8852915fffd6bc7b6f1e36a7\"",
     "https://www.astronomy.com/feed/": "W/\"c4b04e39a6fb7c597146f387f3f59557\"",
     "https://spacepolicyonline.com/feed/": "\"1fc62d47d7ef54e86e780ab0e2b5796d\""
   },
@@ -12495,6 +12495,18 @@
       "archivedDate": "2026-11-10",
       "collection": "evening",
       "archivedAt": "2026-11-09T23:49:59.723Z"
+    },
+    "0009be95760d4960": {
+      "id": "0009be95760d4960",
+      "canonicalUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up",
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 01:07:45 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "morning",
+      "archivedAt": "2026-11-10T03:31:11.052Z"
     }
   }
 }
