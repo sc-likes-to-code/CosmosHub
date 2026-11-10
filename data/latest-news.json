@@ -1,8 +1,120 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T03:31:21.404Z",
+  "generatedAt": "2026-11-10T11:36:40.494Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001d1edd43572d8a",
+      "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+      "link": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
+      "desc": "NASA's twin ESCAPADE spacecraft are wrapping up a year-long voyage to Mars, and are now ready to make a beeline to the Red Planet.",
+      "pubDate": "Tue, 10 Nov 2026 11:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000e42ef28d96616",
+      "title": "The Sky Today on Tuesday, November 10: Seek Saturn’s two-toned moon",
+      "link": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-10-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 9: Chase Comet 161P/Hartley-IRAS Challenge yourself to pick up Saturn’s moon Iapetus, which tonight reaches greatest eastern elongation 9.4’ east of the ringed planet. The two-toned moon is tidally locked to its pa",
+      "pubDate": "Tue, 10 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00153836ccbcbc63",
+      "title": "ESCAPADE on its way to Mars after Earth flybys",
+      "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys",
+      "desc": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
+      "pubDate": "Tue, 10 Nov 2026 08:01:39 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "001ca8bf331d2e77",
+      "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon",
+      "desc": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "pubDate": "Tue, 10 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00128e7afbb996d7",
+      "title": "Autumn Mornings Bring Valley Fog",
+      "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog",
+      "desc": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+      "pubDate": "Tue, 10 Nov 2026 05:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c108714b750a9",
+      "title": "NASA Shares Moon Base Progress, Contract Awards",
+      "link": "https://spacepolicyonline.com/news/nasa-shares-moon-base-progress-contract-awards",
+      "desc": "NASA provided another update on the Moon Base project this weekend in conjunction with the MAX POWER airshow at Kennedy Space Center. Billions of dollars were awarded or soon will […]",
+      "pubDate": "Tue, 10 Nov 2026 04:54:58 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "0009be95760d4960",
       "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
@@ -938,25 +1050,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "00141c9df67dbb64",
-      "title": "APOD: 2026 November 9 – Rigel and the Witch Head Nebula",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula",
-      "desc": "APOD Science APOD APOD: 2026 November 9 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
-      "pubDate": "Mon, 09 Nov 2026 05:05:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -9209,99 +9302,6 @@
       "desc": "The Taurids produce only a handful of meteors an hour. That sounds disappointing, but I've learned that expecting almost nothing can make this one of the most enjoyable meteor showers of the year.",
       "pubDate": "Fri, 30 Oct 2026 16:00:00 +0000",
       "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00177956ab688797",
-      "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-      "link": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head",
-      "desc": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive sta",
-      "pubDate": "Fri, 30 Oct 2026 15:56:26 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001d927c7fbef3d8",
-      "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
-      "link": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
-      "desc": "'Rest well, my dear friend. Keep navigating a steady course.'",
-      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000e0a9dc2c8d87c",
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "link": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope",
-      "desc": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-      "pubDate": "Fri, 30 Oct 2026 14:51:21 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000587892adcd052",
-      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin",
-      "link": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
-      "desc": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neutrinos stream through space and pass throu",
-      "pubDate": "Fri, 30 Oct 2026 20:20:01 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001535febf70da3a",
-      "title": "On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026",
-      "desc": "On October 30, 1964, NASA's Lunar Landing Research Vehicle, or LLRV, took to the skies for the first time. Here's why it mattered.",
-      "pubDate": "Fri, 30 Oct 2026 14:46:35 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",
