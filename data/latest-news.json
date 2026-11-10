@@ -1,8 +1,283 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T15:31:30.572Z",
+  "generatedAt": "2026-11-10T21:23:03.760Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0018acc31dfac8e2",
+      "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
+      "link": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
+      "desc": "Astronomers have solved the mystery of an exoplanet that \"disappeared\" after seven years of observations.",
+      "pubDate": "Tue, 10 Nov 2026 21:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0008934c7a6294a9",
+      "title": "How to watch 'We Chose to Go to the Moon' online — stream space race stage show from anywhere",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere",
+      "desc": "How to stream \"We Chose to Go to the Moon\", a live broadcast of the dazzling new stage retelling of the space race story.",
+      "pubDate": "Tue, 10 Nov 2026 20:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0016490882673a11",
+      "title": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
+      "link": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+      "desc": "The ability to build large structures in space is maturing. The ISS, Mir, and Tiangong were built in space from pre-constructed modules, but a new program called NOM4D is taking space construction to the next level. It recently showed that a simple robot can create truss-like structures in space fro",
+      "pubDate": "Tue, 10 Nov 2026 19:52:32 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00151ce86ed53e97",
+      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+      "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
+      "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001d7836fac210ef",
+      "title": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
+      "link": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
+      "desc": "There's a strange gamma-ray emitter in the Large Magellanic Cloud that has astronomers stumped about its source. It lies within the ashes left behind by a supernova that created a compact object that's part of the system. The supernova remnant provides some evidence for the emissions, but not the wh",
+      "pubDate": "Tue, 10 Nov 2026 19:39:42 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011a83ec81113cc",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+      "desc": "Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecra",
+      "pubDate": "Tue, 10 Nov 2026 19:22:45 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0016b39e871cfa18",
+      "title": "First Direct Measurement of Cosmic Hydrogen Could Change How We Map the Universe",
+      "link": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+      "desc": "The MeerKLASS international collaboration achieves the first direct measurement of the large-scale clustering of cosmic hydrogen in the Universe.",
+      "pubDate": "Tue, 10 Nov 2026 19:01:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001096ba26a3462d",
+      "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why",
+      "link": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
+      "desc": "The lopsided magnetic fields of Uranus and Neptune could be the product of extreme conditions inside the planets, increasing the electrical conductivity that enhances the dynamo effect.",
+      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00006a7d9f818f3a",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "link": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
+      "desc": "NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot",
+      "pubDate": "Tue, 10 Nov 2026 18:06:33 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0009c7c903000d5c",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "link": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+      "desc": "Everyone is encouraged to ‘Shine Bright for Voyager's Light-Day’ on Nov. 17 and to watch a moderated discussion on Nov. 19.",
+      "pubDate": "Tue, 10 Nov 2026 10:00:00 -0800",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
+    {
+      "id": "001279005c3637a0",
+      "title": "Science Release: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
+      "link": "https://noirlab.edu/public/news/noirlab2627",
+      "desc": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the Universe. The pair of quasars has",
+      "pubDate": "Tue, 10 Nov 2026 11:00:00 -0700",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NOIRLab News",
+        "key": "noirlab",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Observatories",
+          "Astronomy",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001d4ffff4a5fe25",
+      "title": "Why Aging Stars Suffer A Sudden Luminosity Dip",
+      "link": "https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip",
+      "desc": "When low-mass stars like our Sun age, they leave the main sequence and follow the Red Giant Branch. As they ascend this branch, their luminosity steadily increases. But there's a sort of hiccup in the path called the RGB luminosity bump, where their luminosity suddenly dips. Astrophysicists have str",
+      "pubDate": "Tue, 10 Nov 2026 17:22:37 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001ce280cf057387",
+      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
+      "desc": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
+      "pubDate": "Tue, 10 Nov 2026 17:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0019a21aa4737ceb",
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
+      "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — w",
+      "pubDate": "Tue, 10 Nov 2026 16:00:26 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001eda9846b5d5e9",
+      "title": "A robot just built a structure autonomously in space for the 1st time ever",
+      "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
+      "desc": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
+      "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000d07dbe294af22",
       "title": "Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026",
@@ -168,6 +443,63 @@
       }
     },
     {
+      "id": "000b870ffd62d7c5",
+      "title": "Earth's 'core carbon' may have come from the far reaches of the solar system",
+      "link": "https://phys.org/news/2026-11-earth-core-carbon-solar.html",
+      "desc": "A new study suggests that most of Earth's carbon originated in the outer solar system and didn't arrive here until the late stages of planetary development. The study, led by researchers at Yale and Columbia, is based upon an analysis of magma droplets called \"melt inclusions\" from historic volcano ",
+      "pubDate": "Tue, 10 Nov 2026 16:20:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000aa234a337950f",
+      "title": "Webb's controversial 'little red dots' may finally have an explanation",
+      "link": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
+      "desc": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dots\" (LRDs) are likely the birthplaces of the first supermassive black holes.",
+      "pubDate": "Tue, 10 Nov 2026 15:40:05 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000bbd73f2144ee5",
+      "title": "Gravitational waves hint at black holes born from failed supernovae",
+      "link": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
+      "desc": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron stars and, sometimes, black holes. However, theories suggest that some massive stars might die without a ",
+      "pubDate": "Tue, 10 Nov 2026 15:10:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000e42ef28d96616",
       "title": "The Sky Today on Tuesday, November 10: Seek Saturn’s two-toned moon",
       "link": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-10-2026",
@@ -201,6 +533,44 @@
           "Industry",
           "Policy",
           "Launches"
+        ]
+      }
+    },
+    {
+      "id": "0018bbfc0f8b3829",
+      "title": "Simulated moon dust turned into LEGO-like blocks for settlements",
+      "link": "https://phys.org/news/2026-11-simulated-moon-lego-blocks-settlements.html",
+      "desc": "Permanent structures on the moon could start with something already there: lunar dust. New research from the University of Arkansas shows that pure regolith, the loose material that covers the moon, could be 3D-printed into LEGO-like bricks. Using it for construction could reduce what NASA needs to ",
+      "pubDate": "Tue, 10 Nov 2026 12:40:14 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000ad31b2d99d810",
+      "title": "X-ray observations uncover possible jet warning signs in black hole systems",
+      "link": "https://phys.org/news/2026-11-ray-uncover-jet-black-hole.html",
+      "desc": "Black hole jet ejections are powerful outbursts of high-energy photons and particles that provide insights into extreme astrophysical processes. However, predicting when they will occur remains difficult. In a study, researchers from Japan analyzed observations of four black hole binary systems, ide",
+      "pubDate": "Tue, 10 Nov 2026 11:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -8947,369 +9317,6 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001e1c7488cc7df6",
-      "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
-      "link": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
-      "desc": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the entire solar system. This could be because while Ceres has the same dwarf planet designation as Pluto, Ceres is largely considered an “asteroid” since it resides the in main asteroid belt. How",
-      "pubDate": "Sat, 31 Oct 2026 23:35:52 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0010065c2d812644",
-      "title": "Space Outposts Beyond the Moon May Rely on Planetary AI",
-      "link": "https://www.universetoday.com/articles/space-outposts-beyond-the-moon-may-rely-on-planetary-ai",
-      "desc": "NASA plans to return astronauts to the lunar surface in 2028 for the first time since Apollo 17 in 1972. But the famed agency has no intention of stopping there, as they plan to establish a permanent human presence on the Moon through a slow and meticulous process involving power, resource extractio",
-      "pubDate": "Sat, 31 Oct 2026 19:24:37 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0008e4bd0669e276",
-      "title": "Scientists say a forgotten particle may explain why the universe exists",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
-      "desc": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cos",
-      "pubDate": "Sun, 01 Nov 2026 00:33:36 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00125b246f41778a",
-      "title": "This oddball reflective lava world is challenging to understand",
-      "link": "https://phys.org/news/2026-10-oddball-lava-world.html",
-      "desc": "Among Kepler and TESS's many surprising exoplanet discoveries are the ultra-short-period (USP) planets. These planets move very quickly and complete an orbit in less than 24 hours. Ancient astronomers thought that Mercury was so fast—it goes around the sun every 88 days—that they named it after the ",
-      "pubDate": "Sat, 31 Oct 2026 20:30:01 EDT",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000b1a681741770a",
-      "title": "9 nightmarish sci-fi spaceships to crawl aboard for Halloween if you dare",
-      "link": "https://www.space.com/entertainment/9-nightmarish-sci-fi-spaceships-to-crawl-aboard-for-halloween-if-you-dare",
-      "desc": "Grab your high-lumen flashlight and gargantuan gun to explore these vicious vessels",
-      "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001753656839ac26",
-      "title": "This Week In Space podcast: Episode 234 — Living in Lunar Caves",
-      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-234-living-in-lunar-caves",
-      "desc": "On Episode 234 of This Week In Space, Tariq Malik and Mike Wall are joined by Than Putzig of the Planetary Science Institute about a NASA-backed payload bound for the Marius Hills Pit on the moon.",
-      "pubDate": "Sat, 31 Oct 2026 13:36:59 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00084ef9ced9ba6d",
-      "title": "On this day in space! Oct. 31, 2015: Creepy skull-shaped Halloween asteroid flies by Earth, NASA names it the 'Great Pumpkin'",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026",
-      "desc": "On October 31, 2015, an asteroid shaped like a human skull flew by Earth. Here's why it was so creepy.",
-      "pubDate": "Sat, 31 Oct 2026 13:26:33 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001b47c9b825f10b",
-      "title": "The moon, Mars, and Jupiter shine in the heart of the Lion overnight on Nov. 1-2",
-      "link": "https://www.space.com/stargazing/the-moon-mars-and-jupiter-shine-in-the-heart-of-the-lion-overnight-on-nov-1-2",
-      "desc": "The waning moon shines with Jupiter, Mars and the brilliant star Regulus in the eastern sky overnight Nov. 1-2.",
-      "pubDate": "Sat, 31 Oct 2026 13:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000ffb61321dcf13",
-      "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere",
-      "link": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
-      "desc": "Radio images show the supergiant's atmosphere recovering from its dramatic dimming, while a companion plows through its outer layers.",
-      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000880fad5da0416",
-      "title": "Halloween night sky 2026 — Saturn, shooting stars and a space station await US stargazers",
-      "link": "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers",
-      "desc": "From Saturn's spectacular rings to Halloween fireballs and a space station flyover, there are plenty of celestial treats in store this Halloween. Here's when and where to look.",
-      "pubDate": "Sat, 31 Oct 2026 10:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0005ca1d357bffcf",
-      "title": "The Sky Today on Saturday, October 31: Glimpse the ghostly Phantom Galaxy",
-      "link": "https://www.astronomy.com/observing/the-sky-today-saturday-october-31-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  October 30: Mars approaches Leo Let’s send off spooky season on a high note this Halloween with M74, also known as the Phantom Galaxy.  The best time to catch this ghostly galaxy is after darkness falls but before moonrise.",
-      "pubDate": "Sat, 31 Oct 2026 08:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ba2a6d7405895",
-      "title": "New gel fuel could make rocket and satellite propulsion easier to control",
-      "link": "https://phys.org/news/2026-10-gel-fuel-rocket-satellite-propulsion.html",
-      "desc": "A kerosene-based gel developed by Concordia researchers could make rocket and satellite fuels easier to store and control.",
-      "pubDate": "Sat, 31 Oct 2026 11:00:01 EDT",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0006c95d6e5f7f5d",
-      "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
-      "desc": "SpaceX sent another batch of its Starlink broadband satellites to orbit from California just after midnight on Halloween (Oct. 31).",
-      "pubDate": "Sat, 31 Oct 2026 05:24:11 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0014bc587c659dd4",
-      "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
-      "link": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
-      "desc": "Planetary defense is a growing concern among the scientific community, as efforts have been made to design and implement missions meant to deflect incoming threats to the Earth well in advance. In 2022, NASA intentionally collided the Double Asteroid Redirection test (DART) planetary defense spacecr",
-      "pubDate": "Sat, 31 Oct 2026 01:52:53 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001bc80d9a1c5d3d",
-      "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
-      "link": "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
-      "desc": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\"",
-      "pubDate": "Fri, 30 Oct 2026 23:26:14 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0014f6bc025d769f",
-      "title": "What Could Split a Black Hole in Two?",
-      "link": "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two",
-      "desc": "We all know that black holes can collide. It has happened since black holes began to form, early in cosmic time. The result is always a clash that gives off gravitational waves and a giant bang. Since black holes have such strong gravity, it's almost impossible to imagine a way that any force could ",
-      "pubDate": "Fri, 30 Oct 2026 21:30:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0015c720f6640128",
-      "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station'",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
-      "desc": "After five days of living underwater, Analog Astronaut Commander Dr. Musilova and her crew return to terra firma, affected by higher pressures and the team's disconnection from home.",
-      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001994c9614d8f00",
-      "title": "Queen's University Belfast Students Find Neptune's Elusive Trojan Asteroids",
-      "link": "https://www.universetoday.com/articles/queens-university-belfast-students-find-neptunes-elusive-trojan-asteroids",
-      "desc": "Astronomers at Queen’s University Belfast have led an international team studying new solar system bodies near Neptune, helping to unravel the mysteries of our solar system’s evolution.",
-      "pubDate": "Fri, 30 Oct 2026 20:59:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00180d0108262850",
-      "title": "India launches next-gen navigation satellite to orbit (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
-      "desc": "India launched the NVS-03 navigation satellite to orbit today (Oct. 30) atop a GSLV rocket. It was the fourth orbital launch from Indian soil so far this year.",
-      "pubDate": "Fri, 30 Oct 2026 20:29:58 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0014fd22f69a06a0",
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "link": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants",
-      "desc": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a ",
-      "pubDate": "Fri, 30 Oct 2026 19:31:02 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
           "Science"
         ]
       }

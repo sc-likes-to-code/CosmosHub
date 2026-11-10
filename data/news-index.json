@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-10T15:31:19.693Z",
-  "lastRunId": "run-1794324676620-rerzfq",
+  "lastUpdated": "2026-11-10T21:22:56.845Z",
+  "lastRunId": "run-1794345774615-w6ede1",
   "stats": {
-    "totalStories": 1055,
-    "lastRunAdded": 8
+    "totalStories": 1075,
+    "lastRunAdded": 20
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"4dfe4d19ba30c56774f2bd4c3af3dd64\"",
-    "https://www.universetoday.com/feed": "W/\"6af32e13-7684\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"98fd9907d7b3449e844bfa8236dc3cc7\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"282bf34a7ccdfc8c860c3a590fa51db7\"",
+    "https://www.universetoday.com/feed": "W/\"6af38426-7685\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"0b83bcc756af3e26ccca743b75153d91\"",
     "http://arxiv.org/rss/astro-ph": "ef0c0d919b7911cba78265c2ef83a3c171bd43a17fd878014421ea4afbb0e8cd",
-    "https://spacenews.com/feed/": "W/\"30e82de58ad69a76a2f406d8f975b756\"",
+    "https://spacenews.com/feed/": "W/\"55c049686011927c234ce220598460bc\"",
     "https://www.astronomy.com/feed/": "W/\"bcf6e618a0073619b6b9cc283060b90d\"",
-    "https://spacepolicyonline.com/feed/": "\"4c8f74111854b9998b53e5bd3eab28d2\""
+    "https://spacepolicyonline.com/feed/": "\"c4ae767314ca39537cbad003efd0ae24\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -12675,6 +12675,246 @@
       "archivedDate": "2026-11-10",
       "collection": "evening",
       "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "0018acc31dfac8e2": {
+      "id": "0018acc31dfac8e2",
+      "canonicalUrl": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
+      "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 21:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0008934c7a6294a9": {
+      "id": "0008934c7a6294a9",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-we-chose-to-go-to-the-moon-online-stream-space-race-stage-show-from-anywhere",
+      "title": "How to watch 'We Chose to Go to the Moon' online — stream space race stage show from anywhere",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 10 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0016490882673a11": {
+      "id": "0016490882673a11",
+      "canonicalUrl": "https://www.universetoday.com/articles/automated-assembly-in-space-is-the-future-and-nom4d-is-showing-the-way",
+      "title": "Automated Assembly in Space is the Future and NOM4D is Showing the Way",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 10 Nov 2026 19:52:32 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "00151ce86ed53e97": {
+      "id": "00151ce86ed53e97",
+      "canonicalUrl": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "001d7836fac210ef": {
+      "id": "001d7836fac210ef",
+      "canonicalUrl": "https://www.universetoday.com/articles/alma-reveals-a-jet-of-cool-gas-from-a-microquasar",
+      "title": "ALMA Reveals a Jet of Cool Gas from a Microquasar",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 19:39:42 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0011a83ec81113cc": {
+      "id": "0011a83ec81113cc",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 19:22:45 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0016b39e871cfa18": {
+      "id": "0016b39e871cfa18",
+      "canonicalUrl": "https://www.universetoday.com/articles/breakthrough-cosmic-hydrogen-measurement-could-transform-our-view-of-the-universe",
+      "title": "First Direct Measurement of Cosmic Hydrogen Could Change How We Map the Universe",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 19:01:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "001096ba26a3462d": {
+      "id": "001096ba26a3462d",
+      "canonicalUrl": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
+      "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 10 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "00006a7d9f818f3a": {
+      "id": "00006a7d9f818f3a",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston",
+      "title": "NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 10 Nov 2026 18:06:33 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0009c7c903000d5c": {
+      "id": "0009c7c903000d5c",
+      "canonicalUrl": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "source": "NASA JPL",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 10 Nov 2026 10:00:00 -0800",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "001279005c3637a0": {
+      "id": "001279005c3637a0",
+      "canonicalUrl": "https://noirlab.edu/public/news/noirlab2627",
+      "title": "Science Release: Astronomers Discover Nāpōwawāʻenakaulua, the Oldest Compact Quasar Pair in the Universe",
+      "source": "NOIRLab News",
+      "sourceKey": "noirlab",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 11:00:00 -0700",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "001d4ffff4a5fe25": {
+      "id": "001d4ffff4a5fe25",
+      "canonicalUrl": "https://www.universetoday.com/articles/why-aging-stars-suffer-a-sudden-luminosity-dip",
+      "title": "Why Aging Stars Suffer A Sudden Luminosity Dip",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 17:22:37 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "001ce280cf057387": {
+      "id": "001ce280cf057387",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
+      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 10 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0019a21aa4737ceb": {
+      "id": "0019a21aa4737ceb",
+      "canonicalUrl": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
+      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 16:00:26 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "001eda9846b5d5e9": {
+      "id": "001eda9846b5d5e9",
+      "canonicalUrl": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
+      "title": "A robot just built a structure autonomously in space for the 1st time ever",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "000b870ffd62d7c5": {
+      "id": "000b870ffd62d7c5",
+      "canonicalUrl": "https://phys.org/news/2026-11-earth-core-carbon-solar.html",
+      "title": "Earth's 'core carbon' may have come from the far reaches of the solar system",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 16:20:01 EST",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "000aa234a337950f": {
+      "id": "000aa234a337950f",
+      "canonicalUrl": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
+      "title": "Webb's controversial 'little red dots' may finally have an explanation",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 15:40:05 EST",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "000bbd73f2144ee5": {
+      "id": "000bbd73f2144ee5",
+      "canonicalUrl": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
+      "title": "Gravitational waves hint at black holes born from failed supernovae",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 15:10:01 EST",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "0018bbfc0f8b3829": {
+      "id": "0018bbfc0f8b3829",
+      "canonicalUrl": "https://phys.org/news/2026-11-simulated-moon-lego-blocks-settlements.html",
+      "title": "Simulated moon dust turned into LEGO-like blocks for settlements",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 12:40:14 EST",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
+    },
+    "000ad31b2d99d810": {
+      "id": "000ad31b2d99d810",
+      "canonicalUrl": "https://phys.org/news/2026-11-ray-uncover-jet-black-hole.html",
+      "title": "X-ray observations uncover possible jet warning signs in black hole systems",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 11:20:01 EST",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T21:22:56.845Z"
     }
   }
 }
