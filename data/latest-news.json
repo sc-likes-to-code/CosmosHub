@@ -1,8 +1,154 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T11:36:40.494Z",
+  "generatedAt": "2026-11-10T15:31:30.572Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000d07dbe294af22",
+      "title": "Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026",
+      "link": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026",
+      "desc": "NASA's Curiosity Mars rover is sizing up its next dig site on the Red Planet. The Curiosity team will characterize the surface composition of \"Nazca\" as thoroughly as possible before drilling.",
+      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0017b63c06e4efab",
+      "title": "CHAPEA Crew Leaves a Mark",
+      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark",
+      "desc": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s ",
+      "pubDate": "Tue, 10 Nov 2026 14:57:55 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e9202844861bf",
+      "title": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
+      "link": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
+      "desc": "For the second time in a few weeks, we’re writing about research into the temperature gap between the Sun’s surface and its corona. More and more data from various missions continue to feed this wave of discovery. A new paper by Katariina Nykyri of Embry-Riddle, recently published in The Astrophysic",
+      "pubDate": "Tue, 10 Nov 2026 14:07:10 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001b9673e3e20d94",
+      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+      "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
+      "desc": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […]\nThe post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for Na",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "0007a6404efc178f",
+      "title": "Nov. 10, 1861: The birth of Robert Innes",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-10-1861-the-birth-of-robert-innes",
+      "desc": "Born Nov. 10, 1861, in Scotland, Robert Thorburn Ayton Innes would reshape our understanding of our cosmic neighborhood when he discovered our nearest stellar neighbor, Proxima Centauri, in 1912. Innes suspected that Alpha Centauri, a binary system made up of Alpha Centauri A (Rigil Kentaurus) and A",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000a34189015488e",
+      "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
+      "link": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
+      "desc": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Tue, 10 Nov 2026 13:28:24 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001c9d2cd73e4f7d",
+      "title": "Total solar eclipse 2027 vs 2028 — Which one should you choose, Egypt or Australia?",
+      "link": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia",
+      "desc": "From six minutes of darkness in Egypt or totality over the Australian Outback, here are the pros and cons of the next two total solar eclipses.",
+      "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001d1edd43572d8a",
       "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
@@ -112,6 +258,25 @@
           "Policy",
           "Law",
           "Industry"
+        ]
+      }
+    },
+    {
+      "id": "0016c2ece4d10fe8",
+      "title": "Simulations cast doubt on unusual asteroid's 'dark comet' status",
+      "link": "https://phys.org/news/2026-11-simulations-unusual-asteroid-dark-comet.html",
+      "desc": "In 2031, Japan's Hayabusa2 spacecraft will arrive at the near-Earth asteroid 1998 KY26: a tiny body that is accelerating in a way that astronomers have struggled to explain. Some studies have suggested that the asteroid is pushed along by water escaping from it as gas, making it an as-yet theoretica",
+      "pubDate": "Tue, 10 Nov 2026 09:20:10 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -762,24 +927,6 @@
       "link": "https://www.astronomy.com/science/what-would-happen-if-a-planet-crashed-into-the-sun",
       "desc": "What would happen if a planet crashed into the Sun? Lindsay WhiteRio Rancho, New Mexico This is a wonderful example of a thought experiment, the ultimate “what if?” question.  We should begin by pointing out that no fully formed planet will actually ever be able to crash into the Sun, as the Sun’s f",
       "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Mon, 09 Nov 2026 13:28:09 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
@@ -9164,152 +9311,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "000429b255a8f1fe",
-      "title": "This Ancient Meteorite Hints at Mars' Warm, Wet Past",
-      "link": "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past",
-      "desc": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to Earth. One recently discovered meteorite found in the Sahara desert adds weight to the idea that Mars was once warm and wet, ",
-      "pubDate": "Fri, 30 Oct 2026 19:14:01 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0011acd186f4306b",
-      "title": "5 horror franchises that went to space... and one that absolutely should have but didn't",
-      "link": "https://www.space.com/entertainment/space-movies-shows/5-horror-franchises-that-went-to-space-and-one-that-absolutely-should-have-but-didnt",
-      "desc": "In space, no one can hear you scream, a bit like the empty theater screens that some horror franchise's final installments limp. But there are still some real gems among the space-based frightfests.",
-      "pubDate": "Fri, 30 Oct 2026 19:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0009e245fbcad338",
-      "title": "ESI supplying solar array components to missile defense programs",
-      "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs",
-      "desc": "Oct. 30, 2026 – ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space […]\nThe post ESI supplying solar array components to missile defense programs appeared first on SpaceNews.",
-      "pubDate": "Fri, 30 Oct 2026 18:54:34 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001aa9d19fac96e0",
-      "title": "Government Spending on Civil Space Topped $42 Billion in FY2026",
-      "link": "https://spacepolicyonline.com/news/government-spending-on-civil-space-topped-42-billion-in-fy2026",
-      "desc": "Government spending on civil space activities is more than just NASA. A new Aerospace Corporation report details the $42.6 billion allocated for civil space in FY2026 and compares it to […]",
-      "pubDate": "Fri, 30 Oct 2026 18:46:54 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "001f4d4c71d5bbdf",
-      "title": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
-      "link": "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons",
-      "desc": "Rocketry pioneer Jack Parsons engaged in an elaborate series of occult ceremonies intended to summon an otherworldly feminine goddess into physical existence.",
-      "pubDate": "Fri, 30 Oct 2026 18:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000925d26c988b00",
-      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
-      "desc": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lower-energy collisions than previously demonstrated, challenging the known bounda",
-      "pubDate": "Fri, 30 Oct 2026 22:09:38 EDT",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000204e9caa84bd4",
-      "title": "This Gamma-Ray Burst Wasn't Dim, It Was Just Misunderstood",
-      "link": "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood",
-      "desc": "In March 2026, NASA's Fermi Gamma-ray Space Telescope detected a GRB with an unusual light signature. Its initial gamma radiation was dim, and the afterglow exhibited unusual, delayed peaks. As it turns out, we were seeing it from a side angle, and the GRB actually packed one billion years of the Su",
-      "pubDate": "Fri, 30 Oct 2026 16:20:24 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000b22daa2700a62",
-      "title": "The Taurid meteor shower isn't much to look at. That's why I love it",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-isnt-much-to-look-at-thats-why-i-love-it",
-      "desc": "The Taurids produce only a handful of meteors an hour. That sounds disappointing, but I've learned that expecting almost nothing can make this one of the most enjoyable meteor showers of the year.",
-      "pubDate": "Fri, 30 Oct 2026 16:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

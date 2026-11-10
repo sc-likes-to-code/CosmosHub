@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-10T11:36:32.200Z",
-  "lastRunId": "run-1794310589542-xa1lmn",
+  "lastUpdated": "2026-11-10T15:31:19.693Z",
+  "lastRunId": "run-1794324676620-rerzfq",
   "stats": {
-    "totalStories": 1047,
-    "lastRunAdded": 6
+    "totalStories": 1055,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"671daac29c1ed9aa044b233bd55f15e2\"",
-    "https://www.universetoday.com/feed": "W/\"6af2f602-77ce\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"671daac29c1ed9aa044b233bd55f15e2\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"4dfe4d19ba30c56774f2bd4c3af3dd64\"",
+    "https://www.universetoday.com/feed": "W/\"6af32e13-7684\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"98fd9907d7b3449e844bfa8236dc3cc7\"",
     "http://arxiv.org/rss/astro-ph": "ef0c0d919b7911cba78265c2ef83a3c171bd43a17fd878014421ea4afbb0e8cd",
-    "https://spacenews.com/feed/": "W/\"2855fc14e28ae919d85bc4b4438318a5\"",
-    "https://www.astronomy.com/feed/": "W/\"ece945d77570a8cdbbfeb643fe2603fe\"",
-    "https://spacepolicyonline.com/feed/": "\"68e02538f3ca28980ff728fb1205ed09\""
+    "https://spacenews.com/feed/": "W/\"30e82de58ad69a76a2f406d8f975b756\"",
+    "https://www.astronomy.com/feed/": "W/\"bcf6e618a0073619b6b9cc283060b90d\"",
+    "https://spacepolicyonline.com/feed/": "\"4c8f74111854b9998b53e5bd3eab28d2\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -12579,6 +12579,102 @@
       "archivedDate": "2026-11-10",
       "collection": "morning",
       "archivedAt": "2026-11-10T11:36:32.200Z"
+    },
+    "000d07dbe294af22": {
+      "id": "000d07dbe294af22",
+      "canonicalUrl": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026",
+      "title": "Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "0017b63c06e4efab": {
+      "id": "0017b63c06e4efab",
+      "canonicalUrl": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark",
+      "title": "CHAPEA Crew Leaves a Mark",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 10 Nov 2026 14:57:55 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "000e9202844861bf": {
+      "id": "000e9202844861bf",
+      "canonicalUrl": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
+      "title": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 14:07:10 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "001b9673e3e20d94": {
+      "id": "001b9673e3e20d94",
+      "canonicalUrl": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
+      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "0007a6404efc178f": {
+      "id": "0007a6404efc178f",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-10-1861-the-birth-of-robert-innes",
+      "title": "Nov. 10, 1861: The birth of Robert Innes",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "000a34189015488e": {
+      "id": "000a34189015488e",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
+      "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "001c9d2cd73e4f7d": {
+      "id": "001c9d2cd73e4f7d",
+      "canonicalUrl": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia",
+      "title": "Total solar eclipse 2027 vs 2028 — Which one should you choose, Egypt or Australia?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
+    },
+    "0016c2ece4d10fe8": {
+      "id": "0016c2ece4d10fe8",
+      "canonicalUrl": "https://phys.org/news/2026-11-simulations-unusual-asteroid-dark-comet.html",
+      "title": "Simulations cast doubt on unusual asteroid's 'dark comet' status",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 09:20:10 EST",
+      "archivedDate": "2026-11-10",
+      "collection": "evening",
+      "archivedAt": "2026-11-10T15:31:19.693Z"
     }
   }
 }
