@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-11T15:31:11.865Z",
-  "lastRunId": "run-1794411068885-o8hdbg",
+  "lastUpdated": "2026-11-11T22:07:03.260Z",
+  "lastRunId": "run-1794434820841-209aj8",
   "stats": {
-    "totalStories": 1149,
-    "lastRunAdded": 8
+    "totalStories": 1163,
+    "lastRunAdded": 14
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"51670e01911e85606df98f5587afa1dd\"",
-    "https://www.universetoday.com/feed": "W/\"6af47f9d-768c\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"51670e01911e85606df98f5587afa1dd\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"97d27ea734e8b892f3bd2ccdd4c1b5ca\"",
+    "https://www.universetoday.com/feed": "W/\"6af4e20a-7669\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"97d27ea734e8b892f3bd2ccdd4c1b5ca\"",
     "http://arxiv.org/rss/astro-ph": "31e6c82f9da883d54f68f1b42064f1d954a7da194a34ab6990bd14372d8eada3",
-    "https://spacenews.com/feed/": "W/\"e5194888826f62db4d02dcf09a04064a\"",
-    "https://www.astronomy.com/feed/": "W/\"624d00ec290f87f378c97761e1260a0e\"",
+    "https://spacenews.com/feed/": "W/\"ebb87bbf3f6bf0c8af78f6763bd4e771\"",
+    "https://www.astronomy.com/feed/": "W/\"0f34b66478872bb94a67c05258b5de9c\"",
     "https://spacepolicyonline.com/feed/": "\"520bd832ed49577c1f931c5e40fb94bd\""
   },
   "articles": {
@@ -13803,6 +13803,174 @@
       "archivedDate": "2026-11-11",
       "collection": "evening",
       "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "000d817bfbb5f78f": {
+      "id": "000d817bfbb5f78f",
+      "canonicalUrl": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
+      "title": "NASA kick-starts a fresh push to bring Mars samples home",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 11 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "001cbeae90b83ba2": {
+      "id": "001cbeae90b83ba2",
+      "canonicalUrl": "https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral",
+      "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 11 Nov 2026 21:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "00199418bd534874": {
+      "id": "00199418bd534874",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
+      "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 11 Nov 2026 20:50:18 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "000c5bdc5c9942e7": {
+      "id": "000c5bdc5c9942e7",
+      "canonicalUrl": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable",
+      "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 11 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "001e34c41002644d": {
+      "id": "001e34c41002644d",
+      "canonicalUrl": "https://www.astronomy.com/observing/zwo-introduces-the-seestar-s30-plus",
+      "title": "ZWO introduces the Seestar S30 Plus",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 17:52:22 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "001337b9cac388e1": {
+      "id": "001337b9cac388e1",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/taula-eclipse",
+      "title": "Taula eclipse",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 17:39:05 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "001eb805689c759e": {
+      "id": "001eb805689c759e",
+      "canonicalUrl": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+      "title": "Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 17:06:51 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "0007140c7ddcd0aa": {
+      "id": "0007140c7ddcd0aa",
+      "canonicalUrl": "https://www.space.com/astronomy/comets/did-comets-bring-building-blocks-of-life-to-earth-scientists-arent-so-sure-anymore",
+      "title": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "0002bf3ac877d392": {
+      "id": "0002bf3ac877d392",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
+      "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 16:41:55 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "001638f3c604dae1": {
+      "id": "001638f3c604dae1",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
+      "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "001fb65223963b7e": {
+      "id": "001fb65223963b7e",
+      "canonicalUrl": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare",
+      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 11 Nov 2026 15:53:57 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "0017dfa5f33253d2": {
+      "id": "0017dfa5f33253d2",
+      "canonicalUrl": "https://phys.org/news/2026-11-centaurus-spotlight-plasma-simulations-black.html",
+      "title": "Centaurus A in the spotlight: Plasma simulations reproduce black hole jets' mysterious bright edges",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 12:40:04 EST",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "0008237b7befe56a": {
+      "id": "0008237b7befe56a",
+      "canonicalUrl": "https://phys.org/news/2026-11-argon-uranus-neptune-reveal-interiors.html",
+      "title": "Argon on Uranus and Neptune may reveal more about their origins than their interiors",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 11 Nov 2026 12:20:05 EST",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "0013430c58b1de9f": {
+      "id": "0013430c58b1de9f",
+      "canonicalUrl": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
+      "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T22:07:03.260Z"
     }
   }
 }

@@ -1,8 +1,207 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T15:31:22.299Z",
+  "generatedAt": "2026-11-11T22:07:11.601Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000d817bfbb5f78f",
+      "title": "NASA kick-starts a fresh push to bring Mars samples home",
+      "link": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
+      "desc": "NASA is kickstarting a new initiative for Mars Sample Return (MSR), called the Perseverance Sample Retrieval Architecture.",
+      "pubDate": "Wed, 11 Nov 2026 22:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001cbeae90b83ba2",
+      "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral",
+      "link": "https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral",
+      "desc": "Fast radio bursts are invisible, but a composer has turned thousands of them into sound at a Finnish cathedral, where a choir will sing along on Nov. 21.",
+      "pubDate": "Wed, 11 Nov 2026 21:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00199418bd534874",
+      "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
+      "desc": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
+      "pubDate": "Wed, 11 Nov 2026 20:50:18 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000c5bdc5c9942e7",
+      "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
+      "link": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable",
+      "desc": "How would the crew of the Wild Blue Yonder fare on a real exoplanet?",
+      "pubDate": "Wed, 11 Nov 2026 19:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001e34c41002644d",
+      "title": "ZWO introduces the Seestar S30 Plus",
+      "link": "https://www.astronomy.com/observing/zwo-introduces-the-seestar-s30-plus",
+      "desc": "ZWO has added a new entry point to its smart telescope lineup. The Seestar S30 Plus went on sale Nov. 10 for $499 — $474 for a limited time — undercutting the S30 Pro by $200 and making it the cheapest Seestar available. “Many people are interested in astrophotography but hesitate when they see theC",
+      "pubDate": "Wed, 11 Nov 2026 17:52:22 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001337b9cac388e1",
+      "title": "Taula eclipse",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/taula-eclipse",
+      "desc": "Josh Dury, taken from Menorca, Spain The Aug. 12, 2026, total solar eclipse sets over Talatí de Dalt, a late Bronze Age settlement on the Spanish island of Menorca. The Sun’s partial phases march down to the horizon, where totality lasted about 73 seconds — the site’s first total eclipse since 1539.",
+      "pubDate": "Wed, 11 Nov 2026 17:39:05 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001eb805689c759e",
+      "title": "Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth",
+      "link": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
+      "desc": "Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question - what happens to the prices of all those rare mate",
+      "pubDate": "Wed, 11 Nov 2026 17:06:51 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0007140c7ddcd0aa",
+      "title": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore",
+      "link": "https://www.space.com/astronomy/comets/did-comets-bring-building-blocks-of-life-to-earth-scientists-arent-so-sure-anymore",
+      "desc": "For over a century astronomers have speculated that comets could have delivered organic molecules necessary for life to Earth, but new modeling shows these molecules wouldn't have survived impact.",
+      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002bf3ac877d392",
+      "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
+      "link": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
+      "desc": "Some stars, called Luminous Blue Variables, can be confused with supernovae explosions. They exhibit similar outbursts, but unlike supernovae, which explode once and then are gone forever, these stars have periodic outbursts. New research found that one of these 'supernova impostors' is in a binary ",
+      "pubDate": "Wed, 11 Nov 2026 16:41:55 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001638f3c604dae1",
+      "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
+      "desc": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
+      "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001fb65223963b7e",
+      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare",
+      "desc": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
+      "pubDate": "Wed, 11 Nov 2026 15:53:57 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
     {
       "id": "0016909e184bf707",
       "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
@@ -163,6 +362,44 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017dfa5f33253d2",
+      "title": "Centaurus A in the spotlight: Plasma simulations reproduce black hole jets' mysterious bright edges",
+      "link": "https://phys.org/news/2026-11-centaurus-spotlight-plasma-simulations-black.html",
+      "desc": "Around 12 million light-years away, the supermassive black hole of the galaxy Centaurus A is hurling two enormous plasma jets into space at nearly the speed of light. These so-called jets are brighter at their edges than at their center. The reason for this was previously unclear but has now been ex",
+      "pubDate": "Wed, 11 Nov 2026 12:40:04 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0008237b7befe56a",
+      "title": "Argon on Uranus and Neptune may reveal more about their origins than their interiors",
+      "link": "https://phys.org/news/2026-11-argon-uranus-neptune-reveal-interiors.html",
+      "desc": "Measurements of an argon isotope could help scientists understand whether the interiors of Uranus and Neptune, our solar system's so-called ice giants, are dominated by ice or rock. New research led by Southwest Research Institute (SwRI) and published in The Planetary Science Journal measured the pl",
+      "pubDate": "Wed, 11 Nov 2026 12:20:05 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -1300,9 +1537,9 @@
       }
     },
     {
-      "id": "00151ce86ed53e97",
-      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+      "id": "0013430c58b1de9f",
+      "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
       "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
       "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
       "category": "Space Industry & Policy",
@@ -9078,245 +9315,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "00195d34cb9f8052",
-      "title": "What’s Up: November 2026 Skywatching Tips from NASA",
-      "link": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa",
-      "desc": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a superm",
-      "pubDate": "Mon, 02 Nov 2026 18:19:58 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001f01808e2f38b0",
-      "title": "Researchers May Have Solved a Puzzling Contradiction in the Ryugu Sample",
-      "link": "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample",
-      "desc": "Samples from the asteroid Ryugu, and from carbonaceous chondrites that have crashed on Earth, present an apparent contradiction. Their fine-grained matrices have widely varied compositions of their clay-like minerals. That suggests that there were widely different aqueous environments in the same pa",
-      "pubDate": "Mon, 02 Nov 2026 18:08:23 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000795a6ea055202",
-      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch",
-      "desc": "Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as ",
-      "pubDate": "Mon, 02 Nov 2026 17:33:22 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001a4177884a07ed",
-      "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
-      "link": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
-      "desc": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
-      "pubDate": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000c5e9394c8fa2f",
-      "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies",
-      "desc": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-      "pubDate": "Mon, 02 Nov 2026 15:00:39 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001d68637ab3b7ea",
-      "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-      "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
-      "desc": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
-      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0001c9c8b8867c80",
-      "title": "Scientists just found a loophole that could let black holes split in two",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-      "desc": "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of an entirely new black hole phenomenon that future telescopes ",
-      "pubDate": "Mon, 02 Nov 2026 20:27:49 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001cf6266685b9d0",
-      "title": "Queen's University Belfast students find Neptune's elusive Trojan asteroids",
-      "link": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
-      "desc": "An international team led by researchers at Queen's University Belfast has made a discovery that has eluded astronomers for decades. Beginning in 1906, telescope observations revealed a population of asteroids leading and trailing Jupiter, which came to be known as the \"Trojan\" and \"Greek\" populatio",
-      "pubDate": "Mon, 02 Nov 2026 20:00:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000f0f756b9e5e71",
-      "title": "How to Expand Reliable, Flexible Access to Space",
-      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space",
-      "desc": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren’t enough rides to go around. And […]\nThe post How to Expand Reliable, Flexible Access to Space appeared first on SpaceNews.",
-      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "00036ee40f4d9639",
-      "title": "What is the physical size of a 1-billion-solar-mass black hole compared to the Sun?",
-      "link": "https://www.astronomy.com/science/how-big-is-a-supermassive-black-hole",
-      "desc": "When a supermassive black hole is measured as 1 billion solar masses, what would be its actual physical size relative to the size of our Sun? Joseph De BenedettoOxford, New Jersey The size of a black hole is generally taken to be the size of its event horizon. The event horizon is a mathematical bou",
-      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001aa718dc7023b0",
-      "title": "California gleaming",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/california-gleaming",
-      "desc": "Andrei Pleskatsevich from Minsk, Belarus The California Nebula (NGC 1499), is a roughly 2.5°-long cloud of glowing hydrogen gas in Perseus between 1,000 and 1,500 light-years away, lit by ultraviolet light from the nearby star Xi Persei. The imager collected 8⅓ hours of exposure through a 3-inch f/4",
-      "pubDate": "Mon, 02 Nov 2026 13:30:38 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000fbc4157f8f41f",
-      "title": "'VisionQuest' homework guide: Everything you need to watch to understand Marvel's WandaVision follow-up",
-      "link": "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
-      "desc": "White Vision, Hex Vision, and Ultron all converge in this spirited new superhero series.",
-      "pubDate": "Mon, 02 Nov 2026 13:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00188d36a4301fe2",
-      "title": "What is Starshield? A look at SpaceX's military satellite network",
-      "link": "https://www.space.com/space-exploration/satellites/what-is-starshield-a-look-at-spacexs-military-satellite-network",
-      "desc": "SpaceX is building and operating two satellite networks at the moment, Starlink and Starshield. What’s the difference between the two, and who uses them?",
-      "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }
