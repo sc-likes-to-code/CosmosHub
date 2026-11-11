@@ -1,8 +1,62 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T21:23:03.760Z",
+  "generatedAt": "2026-11-11T03:31:22.322Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00114354367e2134",
+      "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+      "desc": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
+      "pubDate": "Tue, 10 Nov 2026 22:09:39 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001acba3f055435a",
+      "title": "Anthony Mackie, Ariana DeBose, and John Leguizamo reveal why they joined Andy Weir's sci-fi audio drama 'Exoplanet' (interview)",
+      "link": "https://www.space.com/entertainment/anthony-mackie-ariana-debose-and-john-leguizamo-reveal-why-they-joined-andy-weirs-sci-fi-audio-drama-exoplanet-interview",
+      "desc": "We hooked up with Mackie, DeBose, and Lequizamo to learn more about this renaissance of audio dramas and what attracted them to board Weir's sci-fi thriller.",
+      "pubDate": "Tue, 10 Nov 2026 22:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0014d087ab3a46b4",
+      "title": "On this day in space! Nov. 10, 2013: Europe's GOCE satellite, the 'Ferrari of space,' fell out of orbit after mapping Earth's gravity field",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-10-2026",
+      "desc": "On Nov. 10, 2013, Europe's GOCE satellite fell to Earth after four years in orbit mapping the planet's gravitational field. Here's why it mattered.",
+      "pubDate": "Tue, 10 Nov 2026 21:51:24 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0018acc31dfac8e2",
       "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why",
@@ -316,6 +370,44 @@
       }
     },
     {
+      "id": "0007a30475c14f10",
+      "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
+      "link": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
+      "desc": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has",
+      "pubDate": "Tue, 10 Nov 2026 19:50:02 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0010b08a4adcf42d",
+      "title": "How ripples in space-time can reveal new exoplanets",
+      "link": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html",
+      "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets—wor",
+      "pubDate": "Tue, 10 Nov 2026 19:40:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000e9202844861bf",
       "title": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
       "link": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
@@ -407,6 +499,24 @@
       }
     },
     {
+      "id": "001e969696011728",
+      "title": "Astronomers discover hidden alien planet in James Webb images",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
+      "desc": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to d",
+      "pubDate": "Tue, 10 Nov 2026 18:56:04 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001c9d2cd73e4f7d",
       "title": "Total solar eclipse 2027 vs 2028 — Which one should you choose, Egypt or Australia?",
       "link": "https://www.space.com/stargazing/solar-eclipses/total-solar-eclipse-2027-vs-2028-which-one-should-you-choose-egypt-or-australia",
@@ -421,6 +531,44 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0007b822b97b5458",
+      "title": "Germany's Isar Aerospace eyes overtaking Elon Musk's SpaceX",
+      "link": "https://phys.org/news/2026-11-germany-isar-aerospace-eyes-elon.html",
+      "desc": "The head of Germany's Isar Aerospace voiced hope Tuesday that the company could one day overtake Elon Musk's SpaceX to become the world's premier space launch company.",
+      "pubDate": "Tue, 10 Nov 2026 17:20:01 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0014974c586dcfb5",
+      "title": "How the cosmic environment depletes galaxies of their gas",
+      "link": "https://phys.org/news/2026-11-cosmic-environment-depletes-galaxies-gas.html",
+      "desc": "An international team of researchers, led by Jonathan Freundlich (University of Strasbourg, Astronomical Observatory), has revealed how a dense cosmic environment depletes galaxies of their gas. By mapping the molecular gas in a galaxy group located 7 billion light-years away, they found that the ga",
+      "pubDate": "Tue, 10 Nov 2026 17:00:13 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -651,6 +799,24 @@
       }
     },
     {
+      "id": "00165490fa075b33",
+      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+      "desc": "NASA's Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the structure and offers new clues about the violent ",
+      "pubDate": "Tue, 10 Nov 2026 07:30:09 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "0009be95760d4960",
       "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
       "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up",
@@ -665,6 +831,24 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c25785370ca06",
+      "title": "Comets may have destroyed life's ingredients instead of delivering them to Earth",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261105224553.htm",
+      "desc": "A century-old theory about the origins of life on Earth may be wrong. New research from the University of Cambridge suggests that comets traveled too fast and struck at unfavorable angles for the fragile molecules needed for life to survive, making successful delivery extraordinarily unlikely. Surpr",
+      "pubDate": "Tue, 10 Nov 2026 04:01:55 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -944,6 +1128,24 @@
       }
     },
     {
+      "id": "000505f8f9681419",
+      "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
+      "desc": "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end. Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's f",
+      "pubDate": "Tue, 10 Nov 2026 00:00:41 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "000d5032414054a3",
       "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
@@ -1092,6 +1294,24 @@
       }
     },
     {
+      "id": "001432bc9fabe849",
+      "title": "NASA offers $500,000 to develop next-generation electric rocket engines",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205404.htm",
+      "desc": "NASA is putting $500,000 on the line in a new competition to accelerate the development of advanced electric rocket engines for satellites and future space exploration. The AMPERE Challenge will reward up to two U.S. companies with cash prizes and access to NASA testing facilities to help bring prom",
+      "pubDate": "Mon, 09 Nov 2026 21:36:21 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001bd273bbad8cac",
       "title": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
       "link": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars",
@@ -1215,24 +1435,6 @@
         "tags": [
           "Astronomy",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "0009a154b38085c4",
-      "title": "SpaceX will launch epic double-catch Starship Flight 15 test mission on Nov. 13",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-launch-epic-double-catch-starship-flight-15-test-mission-on-nov-13",
-      "desc": "SpaceX's next Starship test flight will take place on Friday (Nov. 13), and it will be epic: The company will try to catch both of the vehicle's stages when they return to Earth.",
-      "pubDate": "Mon, 09 Nov 2026 14:30:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     },
@@ -9118,206 +9320,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "000140c5ad9fe0b5",
-      "title": "NASA’s Perseverance Mars rover breaks historic record after traveling 28 miles",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261101010536.htm",
-      "desc": "NASA’s Perseverance rover has set a historic record by traveling 28.10 miles across Mars, farther than any vehicle has ever driven on another world. Armed with groundbreaking autonomous navigation technology and increasingly advanced driving capabilities, the rover is pushing the boundaries of robot",
-      "pubDate": "Mon, 02 Nov 2026 06:28:04 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001df73427c2c6ce",
-      "title": "'Metroid Prime' needs some 'Resident Evil'-style remakes to rediscover its sci-fi shooter mojo",
-      "link": "https://www.space.com/entertainment/space-games/metroid-prime-needs-some-resident-evil-style-remakes-to-rediscover-its-sci-fi-shooter-mojo",
-      "desc": "Nintendo's sci-fi shooter franchise is in dire straits, but we've got the solution to Samus's problems.",
-      "pubDate": "Sun, 01 Nov 2026 17:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00171352017c70c0",
-      "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-      "desc": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while thei",
-      "pubDate": "Sun, 01 Nov 2026 22:07:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00010e7c2bd90e62",
-      "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
-      "link": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
-      "desc": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
-      "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0002ee35370f0366",
-      "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
-      "desc": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
-      "pubDate": "Sun, 01 Nov 2026 14:50:15 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00024e3da8381e75",
-      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-      "link": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
-      "desc": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
-      "pubDate": "Sun, 01 Nov 2026 13:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001e0607ea2be809",
-      "title": "5 bright planets to spot in November — when and where to see them",
-      "link": "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them",
-      "desc": "From a close encounter between Mars and Jupiter to dazzling Venus and elusive Mercury, November offers plenty of planetary highlights. Here's when and where to look.",
-      "pubDate": "Sun, 01 Nov 2026 11:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001cefe97f12f1ac",
-      "title": "Mars dust may be less abrasive than lunar dust, spacesuit samples suggest",
-      "link": "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html",
-      "desc": "Tucked away among its sensors, cameras and navigation tools, NASA's Mars rover Perseverance is wearing small swatches of spacesuit material. A rover doesn't need a spacesuit, but the swatches—each less than a square inch (6.5 square centimeters) in size—serve an important purpose: They're helping sc",
-      "pubDate": "Sun, 01 Nov 2026 15:00:01 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000cfb8d1856ff3c",
-      "title": "November 2026: What’s in the sky this month?",
-      "link": "https://www.astronomy.com/observing/sky-this-month-november-2026",
-      "desc": "Saturn is already visible as darkness falls; some challenging transits of its moons occur this month. Neptune is a binocular object close to Saturn, while Uranus is an easy target in Taurus. A Full Moon courses in front of the Pleiades in late November. Mars and Jupiter dominate the early-morning sk",
-      "pubDate": "Sun, 01 Nov 2026 05:01:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0009fb719efc1248",
-      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace",
-      "link": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
-      "desc": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients took shape in an intensely cold environme",
-      "pubDate": "Sun, 01 Nov 2026 10:20:02 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0019257d89900f2c",
-      "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
-      "link": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
-      "desc": "The planet Mars shares many landforms and weather patterns with the Earth, including changing seasons, volcanoes, canyons, dust storms and dust devils, and water ice. But one feature that Earth and Mars share among the eight planets in our solar system are polar ice caps. Both are one of each planet",
-      "pubDate": "Sun, 01 Nov 2026 03:06:40 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     }
