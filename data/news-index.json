@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-11T11:22:55.936Z",
-  "lastRunId": "run-1794396171845-oate42",
+  "lastUpdated": "2026-11-11T15:31:11.865Z",
+  "lastRunId": "run-1794411068885-o8hdbg",
   "stats": {
-    "totalStories": 1141,
-    "lastRunAdded": 54
+    "totalStories": 1149,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"d22f22eb284a44ca69311ab955392d8b\"",
-    "https://www.universetoday.com/feed": "W/\"6af446fc-7685\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"e028805d2bfd3dd9c423a6a56114e252\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"51670e01911e85606df98f5587afa1dd\"",
+    "https://www.universetoday.com/feed": "W/\"6af47f9d-768c\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"51670e01911e85606df98f5587afa1dd\"",
     "http://arxiv.org/rss/astro-ph": "31e6c82f9da883d54f68f1b42064f1d954a7da194a34ab6990bd14372d8eada3",
-    "https://spacenews.com/feed/": "W/\"a4284fa3ed7eac7f1bffb943a4973d7b\"",
-    "https://www.astronomy.com/feed/": "W/\"5609ea872ef36fc8d47d7de89158e7ec\"",
+    "https://spacenews.com/feed/": "W/\"e5194888826f62db4d02dcf09a04064a\"",
+    "https://www.astronomy.com/feed/": "W/\"624d00ec290f87f378c97761e1260a0e\"",
     "https://spacepolicyonline.com/feed/": "\"520bd832ed49577c1f931c5e40fb94bd\""
   },
   "articles": {
@@ -13707,6 +13707,102 @@
       "archivedDate": "2026-11-11",
       "collection": "morning",
       "archivedAt": "2026-11-11T11:22:55.936Z"
+    },
+    "0016909e184bf707": {
+      "id": "0016909e184bf707",
+      "canonicalUrl": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "001cf56bcc4a91bb": {
+      "id": "001cf56bcc4a91bb",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-11-1875-the-birth-of-v-m-slipher",
+      "title": "Nov. 11, 1875: The birth of V.M. Slipher",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "0012474e5c343df2": {
+      "id": "0012474e5c343df2",
+      "canonicalUrl": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+      "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 13:02:29 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "001bbdaab1a0ae9a": {
+      "id": "001bbdaab1a0ae9a",
+      "canonicalUrl": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
+      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "000c105768279562": {
+      "id": "000c105768279562",
+      "canonicalUrl": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
+      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "0002ae743e2843a5": {
+      "id": "0002ae743e2843a5",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
+      "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "000a913435879674": {
+      "id": "000a913435879674",
+      "canonicalUrl": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
+      "title": "Bennu asteroid analysis suggests unexpected origins for organics in space",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 11 Nov 2026 09:20:08 EST",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
+    },
+    "000c00503c0631ea": {
+      "id": "000c00503c0631ea",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
+      "title": "A radical theory says the universe is twice as old as we thought",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 01:46:30 EST",
+      "archivedDate": "2026-11-11",
+      "collection": "evening",
+      "archivedAt": "2026-11-11T15:31:11.865Z"
     }
   }
 }

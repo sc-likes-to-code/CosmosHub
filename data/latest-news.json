@@ -1,8 +1,135 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T11:23:08.675Z",
+  "generatedAt": "2026-11-11T15:31:22.299Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0016909e184bf707",
+      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
+      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
+      "desc": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
+      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Wed, 11 Nov 2026 14:40:36 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001cf56bcc4a91bb",
+      "title": "Nov. 11, 1875: The birth of V.M. Slipher",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-11-1875-the-birth-of-v-m-slipher",
+      "desc": "Vesto Melvin Slipher was born on a farm in Mulberry, Indiana, on Nov. 11, 1875. He graduated from high school, taught briefly at a country school, and then enrolled at Indiana University in Bloomington. In 1901, one of Slipher’s professors, Wilbur Cogshall, persuaded the founder of the fledgling Low",
+      "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0012474e5c343df2",
+      "title": "Planets Don't Just Disappear, But They Can Wobble Out of Sight if Their Neighbour is Close Enough",
+      "link": "https://www.universetoday.com/articles/planets-dont-just-disappear-but-they-can-wobble-out-of-sight-if-their-neighbour-is-close-enough",
+      "desc": "TESS watched an exoplanet about 1,000 light years away as it repeatedly transited in front of its star for seven years. But astronomers were surprised to find that the hot Jupiter disappeared. Of course, planets don't just disappear. Something interrupted its transits from our point of view, and ast",
+      "pubDate": "Wed, 11 Nov 2026 13:02:29 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001bbdaab1a0ae9a",
+      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+      "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push",
+      "desc": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-up project supported by €500,000 and reinforced by selection […]\nThe post Horizon Microtechnologies ",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "000c105768279562",
+      "title": "NASA's new UVEX space telescope will peer deep into the universe's most violent events",
+      "link": "https://www.space.com/science/astrophysics/nasas-new-uvex-space-telescope-will-peer-deep-into-the-universes-most-violent-events",
+      "desc": "NASA's new UVEX space telescope will study the universe in ultraviolet light to reveal the violent and turbulent events that bubble under what appears to be a cosmic sea of tranquility.",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0002ae743e2843a5",
+      "title": "Why I recommend the Seestar S30 Plus smart telescope for beginners — full review",
+      "link": "https://www.space.com/stargazing/skywatching-kit/why-i-recommend-the-seestar-s30-plus-smart-telescope-for-beginners-full-review",
+      "desc": "I photographed galaxies, nebulas and star clusters from a city with the Seestar S30 Plus. Here’s why I think it’s the best affordable smart telescope for beginners.",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0013dc492f713d7e",
       "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
@@ -1028,6 +1155,25 @@
       }
     },
     {
+      "id": "000a913435879674",
+      "title": "Bennu asteroid analysis suggests unexpected origins for organics in space",
+      "link": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
+      "desc": "Samples from the Bennu asteroid, which is currently more than 200 million miles (322 million kilometers) from Earth, and the Murchison meteorite, which fell to Earth in 1969, both contain molecules that build proteins necessary for life. New research has found that the molecules may have formed thro",
+      "pubDate": "Wed, 11 Nov 2026 09:20:08 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "00114354367e2134",
       "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
@@ -1096,6 +1242,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000c00503c0631ea",
+      "title": "A radical theory says the universe is twice as old as we thought",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
+      "desc": "A provocative new cosmological model suggests the Universe could be 26.7 billion years old and might not need dark matter or dark energy to explain its behavior. University of Ottawa researchers tested the theory against several major astronomical observations, finding that it could explain galaxy r",
+      "pubDate": "Wed, 11 Nov 2026 01:46:30 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -1501,24 +1665,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Tue, 10 Nov 2026 13:28:24 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -9171,157 +9317,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "000b6d4716b409f0",
-      "title": "Stars make oxygen for small galaxies, but they lose most of it",
-      "link": "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html",
-      "desc": "Scientists examining data collected by NASA's Hubble Space Telescope have found that dozens of small galaxies contain far less oxygen than their stars are estimated to have produced. The researchers, including a Rutgers astrophysicist, studied 37 dwarf galaxies, which are much smaller than the Milky",
-      "pubDate": "Mon, 02 Nov 2026 15:00:02 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000625325d5e5558",
-      "title": "Scientists build whole-Earth simulation to help find life on other planets",
-      "link": "https://phys.org/news/2026-11-scientists-earth-simulation-life-planets.html",
-      "desc": "It's a dizzyingly busy time for scientists searching for life on distant planets. To date, astronomers have cataloged more than 6,000 planets beyond our solar system and are searching the atmospheres of the most promising worlds for chemicals that might be byproducts of life. Astrobiologists are par",
-      "pubDate": "Mon, 02 Nov 2026 13:50:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000de6ea141ebaf6",
-      "title": "CubeSat achieves challenging laser link to ground",
-      "link": "https://phys.org/news/2026-11-cubesat-laser-link-ground.html",
-      "desc": "Despite the complexity of the operation, ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station, marking an important step in validating optical communications on small satellites. The demonstration, supported by ",
-      "pubDate": "Mon, 02 Nov 2026 12:40:09 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000f66129926ef7a",
-      "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-      "desc": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
-      "pubDate": "Mon, 02 Nov 2026 06:20:05 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00009a1a7a691f81",
-      "title": "Overlooked material in Ryugu and meteorites may explain how water spared ancient chemistry",
-      "link": "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html",
-      "desc": "Asteroid Ryugu and some carbonaceous meteorites, which are thought to have similar origins in the early solar system, are known as chemically \"primitive\" materials because they preserve the chemical composition of the early solar system remarkably well. Yet these rocks also reacted extensively with ",
-      "pubDate": "Mon, 02 Nov 2026 11:40:13 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001ea14e22c1f7d6",
-      "title": "Pennsylvania’s Grand Canyon",
-      "link": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon",
-      "desc": "Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.",
-      "pubDate": "Mon, 02 Nov 2026 05:01:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0010796ac2d88ba7",
-      "title": "Agentic Systems for Calibrating Cosmological Simulations",
-      "link": "https://arxiv.org/abs/2610.40685",
-      "desc": "arXiv:2610.40685v1 Announce Type: new \nAbstract: Calibrating a cosmological simulation is an expensive, high-dimensional parameter optimization task. Previous works employ Bayesian optimization for automation, which treats the simulator as a black box and precludes the incorporation of human domain ",
-      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000757e0065d3eee",
-      "title": "An Assessment of Water Vapor Radiometry Landscape in ngVLA Context",
-      "link": "https://arxiv.org/abs/2610.41071",
-      "desc": "arXiv:2610.41071v1 Announce Type: new \nAbstract: The ngVLA intends to utilize Water Vapor Radiometry (WVR) as an approach to lower calibration overheads for tropospheric phase fluctuation correction in its high frequency bands (5 \\& 6; 30.5-116 GHz) to levels below those feasible with fast switched ",
-      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
         ]
       }
     }
