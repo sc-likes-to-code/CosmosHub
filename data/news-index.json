@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-12T11:42:22.907Z",
-  "lastRunId": "run-1794483740091-trrh3t",
+  "lastUpdated": "2026-11-12T15:31:08.548Z",
+  "lastRunId": "run-1794497465987-7lpvqk",
   "stats": {
-    "totalStories": 1175,
+    "totalStories": 1183,
     "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"c1fd0b08e6a7b060088ba340ea998399\"",
-    "https://www.universetoday.com/feed": "W/\"6af59873-77e5\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c1fd0b08e6a7b060088ba340ea998399\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"ef771428f6f927e5b6b6679455ebe0cb\"",
+    "https://www.universetoday.com/feed": "W/\"6af5d0d0-77e5\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a60135d68ed443f2476b9ca873abe7b0\"",
     "http://arxiv.org/rss/astro-ph": "5636c001b0907ed527e19f992a376cf52671c17d9d3d10a3dfeff471335fa72f",
-    "https://spacenews.com/feed/": "W/\"c8578a5414cd16ed179575d331164b44\"",
-    "https://www.astronomy.com/feed/": "W/\"887cd0e168d1da324fa9054babf75bb4\"",
+    "https://spacenews.com/feed/": "W/\"afcc1e42450ff6a9e27d2c1594ff8868\"",
+    "https://www.astronomy.com/feed/": "W/\"dd705fbc5ee144b1667ce459c2ede3ab\"",
     "https://spacepolicyonline.com/feed/": "\"4d206246b288bc87367a2d1681061713\""
   },
   "articles": {
@@ -14115,6 +14115,102 @@
       "archivedDate": "2026-11-12",
       "collection": "morning",
       "archivedAt": "2026-11-12T11:42:22.907Z"
+    },
+    "001824ef06294825": {
+      "id": "001824ef06294825",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/i-used-the-vaonis-vespera-3-for-weeks-and-heres-who-i-would-recommend-it-to-full-review",
+      "title": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 12 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "000cef109f81583c": {
+      "id": "000cef109f81583c",
+      "canonicalUrl": "https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026",
+      "title": "Satellite snaps rare birds-eye view of the ISS | Space photo of the day for Nov. 12, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 12 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "00149f5346921e32": {
+      "id": "00149f5346921e32",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-12-2014-philae-lands-on-comet-67p-churyumov-gerasimenko",
+      "title": "Nov. 12, 2014: The Philae lander touches down on a comet",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "0014c1ad959d191b": {
+      "id": "0014c1ad959d191b",
+      "canonicalUrl": "https://www.space.com/stargazing/solar-eclipses/the-eclipse-of-the-century-will-plunge-these-8-wonders-of-the-roman-empire-into-darkness-on-aug-2-2027",
+      "title": "The 'eclipse of the century' will plunge these 8 wonders of the Roman Empire into darkness on Aug. 2, 2027",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "00079723111c6d71": {
+      "id": "00079723111c6d71",
+      "canonicalUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman",
+      "title": "NASA’s Hubble Offers Cosmic Sampler of Targets for Roman",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 12 Nov 2026 13:18:40 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "0013dea24e533bd9": {
+      "id": "0013dea24e533bd9",
+      "canonicalUrl": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
+      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "000b1f31dd80a022": {
+      "id": "000b1f31dd80a022",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la",
+      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
+    },
+    "001193967a3b2ed2": {
+      "id": "001193967a3b2ed2",
+      "canonicalUrl": "https://phys.org/news/2026-11-euclid-3d-universe-date.html",
+      "title": "Euclid offers best-ever 3D map of the universe to date",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 12 Nov 2026 10:30:01 EST",
+      "archivedDate": "2026-11-12",
+      "collection": "evening",
+      "archivedAt": "2026-11-12T15:31:08.548Z"
     }
   }
 }
