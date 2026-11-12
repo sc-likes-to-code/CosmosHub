@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-11T22:07:03.260Z",
-  "lastRunId": "run-1794434820841-209aj8",
+  "lastUpdated": "2026-11-12T03:31:09.321Z",
+  "lastRunId": "run-1794454266288-lwooe6",
   "stats": {
-    "totalStories": 1163,
-    "lastRunAdded": 14
+    "totalStories": 1167,
+    "lastRunAdded": 4
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"97d27ea734e8b892f3bd2ccdd4c1b5ca\"",
-    "https://www.universetoday.com/feed": "W/\"6af4e20a-7669\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"97d27ea734e8b892f3bd2ccdd4c1b5ca\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c56edc44e1570fe80271f1a2486d4254\"",
+    "https://www.universetoday.com/feed": "W/\"6af52820-77e5\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c56edc44e1570fe80271f1a2486d4254\"",
     "http://arxiv.org/rss/astro-ph": "31e6c82f9da883d54f68f1b42064f1d954a7da194a34ab6990bd14372d8eada3",
-    "https://spacenews.com/feed/": "W/\"ebb87bbf3f6bf0c8af78f6763bd4e771\"",
-    "https://www.astronomy.com/feed/": "W/\"0f34b66478872bb94a67c05258b5de9c\"",
-    "https://spacepolicyonline.com/feed/": "\"520bd832ed49577c1f931c5e40fb94bd\""
+    "https://spacenews.com/feed/": "W/\"570efca07c0fc2d8b5338c1c1e0e9f6f\"",
+    "https://www.astronomy.com/feed/": "W/\"a65864826a2e7d2d4fde8a2d423c32ab\"",
+    "https://spacepolicyonline.com/feed/": "\"4d206246b288bc87367a2d1681061713\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -13971,6 +13971,54 @@
       "archivedDate": "2026-11-11",
       "collection": "evening",
       "archivedAt": "2026-11-11T22:07:03.260Z"
+    },
+    "0005a5ce1666ca6b": {
+      "id": "0005a5ce1666ca6b",
+      "canonicalUrl": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips",
+      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 12 Nov 2026 00:41:35 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "morning",
+      "archivedAt": "2026-11-12T03:31:09.321Z"
+    },
+    "0009b3deb75ed61e": {
+      "id": "0009b3deb75ed61e",
+      "canonicalUrl": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
+      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "morning",
+      "archivedAt": "2026-11-12T03:31:09.321Z"
+    },
+    "000853b3b97de5f1": {
+      "id": "000853b3b97de5f1",
+      "canonicalUrl": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
+      "title": "The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 22:09:35 +0000",
+      "archivedDate": "2026-11-12",
+      "collection": "morning",
+      "archivedAt": "2026-11-12T03:31:09.321Z"
+    },
+    "00021e4a563f2f2b": {
+      "id": "00021e4a563f2f2b",
+      "canonicalUrl": "https://phys.org/news/2026-11-independent-technique-validates-landmark-m87.html",
+      "title": "Independent technique validates landmark M87* image",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 11 Nov 2026 19:00:04 EST",
+      "archivedDate": "2026-11-12",
+      "collection": "morning",
+      "archivedAt": "2026-11-12T03:31:09.321Z"
     }
   }
 }
