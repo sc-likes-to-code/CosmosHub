@@ -1,8 +1,82 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T03:31:19.915Z",
+  "generatedAt": "2026-11-12T11:42:33.485Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00196b8974e3cd35",
+      "title": "The Sky Today on Thursday, November 12: An open cluster in Perseus",
+      "link": "https://www.astronomy.com/observing/the-sky-today-thursday-november-12-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 11: Venus comes to a halt The constellation Perseus is famous for its bright Double Cluster, but these two open clusters aren’t the only groups of young stars in the Hero worth viewing. Today, let’s shift our gaze ",
+      "pubDate": "Thu, 12 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0000470da3386ff1",
+      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
+      "desc": "SpaceX launched a classified mission for the U.S. Space Force from California tonight (Nov. 11), the second such mission for the company in a six-day span.",
+      "pubDate": "Thu, 12 Nov 2026 05:24:54 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00140ba1a9912df5",
+      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet",
+      "desc": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "pubDate": "Thu, 12 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0016eca39b4ac5b2",
+      "title": "Scotland’s Flow Country",
+      "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country",
+      "desc": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
+      "pubDate": "Thu, 12 Nov 2026 05:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0005a5ce1666ca6b",
       "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
@@ -42,6 +116,25 @@
       }
     },
     {
+      "id": "00199477bd68101e",
+      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test",
+      "link": "https://phys.org/news/2026-11-europe-hera-spacecraft-asteroid-rammed.html",
+      "desc": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.",
+      "pubDate": "Thu, 12 Nov 2026 04:07:30 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000853b3b97de5f1",
       "title": "The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's",
       "link": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
@@ -55,6 +148,24 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00154f0aaa2b1c67",
+      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
+      "desc": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formati",
+      "pubDate": "Thu, 12 Nov 2026 03:38:42 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -168,6 +279,24 @@
       }
     },
     {
+      "id": "00145e4637307fc0",
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+      "desc": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordin",
+      "pubDate": "Wed, 11 Nov 2026 23:07:24 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001eb805689c759e",
       "title": "Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth",
       "link": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
@@ -255,6 +384,24 @@
           "Industry",
           "Policy",
           "Launches"
+        ]
+      }
+    },
+    {
+      "id": "0011a2c8a2130b34",
+      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
+      "desc": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better u",
+      "pubDate": "Wed, 11 Nov 2026 20:45:09 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -475,25 +622,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "000ca418be161cf5",
-      "title": "APOD: 2026 November 11 – NGC 4449: Small Galaxy, Big Impact",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-11-ngc-4449-small-galaxy-big-impact",
-      "desc": "APOD Science APOD APOD: 2026 November 11 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
-      "pubDate": "Wed, 11 Nov 2026 05:05:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -4752,24 +4880,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "001ac7f62c9e2028",
-      "title": "SpaceX launches mystery mission for US Space Force in gorgeous sunset liftoff from California (video, photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-classified-mission-space-force-ussf-432",
-      "desc": "SpaceX launched a classified mission for the U.S. Space Force from California this evening (Nov. 6). It was the company's 125th liftoff of 2026.",
-      "pubDate": "Sat, 07 Nov 2026 01:41:58 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     },
@@ -9206,116 +9316,6 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001161fc3dba3cb5",
-      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-      "desc": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecu",
-      "pubDate": "Tue, 03 Nov 2026 05:58:24 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0002173ac1ebae2d",
-      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm",
-      "desc": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the mysterious aftermath of the collision and uncover why the asteroid shifted far m",
-      "pubDate": "Tue, 03 Nov 2026 04:46:21 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000a5dfc5a76b403",
-      "title": "South Korea eyes rocket debut and China lines up four launches",
-      "link": "https://www.astronomy.com/whats-launching-this-week/south-korea-eyes-rocket-debut-and-china-lines-up-four-launches",
-      "desc": "Rocket launches this week On Monday, Nov. 2, Rocket Lab launched The Sea God Surveys on an Electron rocket from its Launch Complex 1 on New Zealand’s Māhia Peninsula at 11:41 a.m. EST. Aboard was a QPS-SAR satellite for private Japanese company iQPS It marked Electron’s 10th flight for iQPS. The com",
-      "pubDate": "Mon, 02 Nov 2026 22:25:24 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0000bb961f0c15f7",
-      "title": "NASA’s Voyager 1 is about to reach a historic one-light-day milestone",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003152.htm",
-      "desc": "NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications black",
-      "pubDate": "Tue, 03 Nov 2026 03:11:10 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0019d2feb6348cb5",
-      "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
-      "link": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now",
-      "desc": "Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Ce",
-      "pubDate": "Mon, 02 Nov 2026 21:35:59 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000e4c66bfbc9046",
-      "title": "TB 26-09 Measured Hammer-Tap Inputs",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs",
-      "desc": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contact",
-      "pubDate": "Mon, 02 Nov 2026 20:47:41 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
           "Science"
         ]
       }
