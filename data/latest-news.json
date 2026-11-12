@@ -1,8 +1,302 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T15:31:16.794Z",
+  "generatedAt": "2026-11-12T21:54:05.131Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0006d25131f7c0bf",
+      "title": "Photo Release: NSF NOIRLab-operated Facilities Capture Brightening Nearby Supernova",
+      "link": "https://noirlab.edu/public/news/noirlab2628",
+      "desc": "Newly discovered supernova SN 2026ahvu in the nearby spiral galaxy NGC 1433 bedazzles new images from the Dark Energy Camera and the International Gemini Observatory. Caught early and still approaching its expected maximum brightness, SN 2026ahvu gives astronomers a valuable opportunity to study a s",
+      "pubDate": "Thu, 12 Nov 2026 14:23:32 -0700",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NOIRLab News",
+        "key": "noirlab",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Observatories",
+          "Astronomy",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0007ff2906d9e643",
+      "title": "Asteroid Bennu's Sample Delivers Another Surprise",
+      "link": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
+      "desc": "Researchers compared the samples from asteroid Bennu with the Murchison meteorite and measured the amino acid β-alanine in both. Using new techniques, they were able to measure not only their isotopic compositions, but isotopic differences between individual atoms in the same molecule. The results s",
+      "pubDate": "Thu, 12 Nov 2026 21:16:30 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001aab221dcabc42",
+      "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
+      "link": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
+      "desc": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
+      "pubDate": "Thu, 12 Nov 2026 21:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00121539a2ede5eb",
+      "title": "On this day in space! Nov. 12, 2014: European Philae probe lands on Comet 67P, bounced twice and then got lost for nearly 2 years",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-12-2026",
+      "desc": "On Nov. 12, 2014, a European spacecraft named Philae landed on Comet 67P, then bounced twice and got lost. Here's why it mattered.",
+      "pubDate": "Thu, 12 Nov 2026 20:19:49 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000c5c3af820d103",
+      "title": "I Am Artemis Katie Spicer",
+      "link": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer",
+      "desc": "For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint o",
+      "pubDate": "Thu, 12 Nov 2026 20:10:02 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011483e1376ecbd",
+      "title": "SpaceX's Starship megarocket will launch to orbit on Nov. 13. Will you be able to spot it in the night sky?",
+      "link": "https://www.space.com/stargazing/spacexs-starship-megarocket-will-launch-to-orbit-on-nov-13-will-you-be-able-to-spot-it-in-the-night-sky",
+      "desc": "\"It should be very bright, considerably brighter than the Starlink satellites due to its size.\"",
+      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000868f4dd8d58e5",
+      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology",
+      "desc": "Nigrán, Spain | November 12 2026 – UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and […]\nThe post UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a C",
+      "pubDate": "Thu, 12 Nov 2026 20:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "00046bad1fbc9a30",
+      "title": "What role does industry play in Europe’s space sovereignty push?",
+      "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push",
+      "desc": "In this episode, SpaceNews’ Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role […]\nThe post What role does industry play in Europe’s space sovereignty push? appeared first on Spa",
+      "pubDate": "Thu, 12 Nov 2026 19:40:35 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "0011f16eafb385e5",
+      "title": "Heart in the Sky at NASA Kennedy",
+      "link": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy",
+      "desc": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating t",
+      "pubDate": "Thu, 12 Nov 2026 19:12:49 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011c48f51fd1411",
+      "title": "'Warhammer Survivors' is the perfect gateway into the 40K universe",
+      "link": "https://www.space.com/entertainment/space-games/warhammer-survivors-is-the-perfect-gateway-into-the-40k-universe",
+      "desc": "This Vampire Survivors spin-off has a lot of love for the famous grimdark sci-fi universe, but without the intimidatingly dense lore and complex systems.",
+      "pubDate": "Thu, 12 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000179d24fd9cacf",
+      "title": "Solving the Space Junk Crisis Isn't Just About Counting Trash—It’s About Control and Economics",
+      "link": "https://www.universetoday.com/articles/solving-the-space-junk-crisis-isnt-just-about-counting-trashits-about-control-and-economics",
+      "desc": "If people ever think about cleaning up space debris, they typically think of something equivalent to a giant garbage truck in the sky, collecting lost astronaut tools and dead satellites then hauling them back down to Earth to be deposited in a landfill. But dealing with space debris doesn’t work th",
+      "pubDate": "Thu, 12 Nov 2026 18:42:31 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0015a6fb1148ad15",
+      "title": "NASA Ames Stars of the Month: November 2026",
+      "link": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026",
+      "desc": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore",
+      "pubDate": "Thu, 12 Nov 2026 17:54:32 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000170bf0d08b2fc",
+      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
+      "link": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
+      "desc": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
+      "pubDate": "Thu, 12 Nov 2026 17:28:20 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001a97bcdee7ce7c",
+      "title": "Astrophysicists Want to Forecast When a Black Hole Launches Its Jets",
+      "link": "https://www.universetoday.com/articles/astrophysicists-want-to-forecast-when-a-black-hole-launches-its-jets",
+      "desc": "Astrophysical jets are enormously powerful and energetic phenomena. Black holes launch them from their poles and they can extend enormous distances into space, disrupting star formation in adjacent regions. Astrophysicists want to be able to forecast when they're launched so they can understand thei",
+      "pubDate": "Thu, 12 Nov 2026 17:25:31 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0016c894a707017e",
+      "title": "Pakistani astronaut set to become 1st international visitor to China's Tiangong space station this month",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-set-to-become-1st-international-visitor-to-chinas-tiangong-space-station-this-month",
+      "desc": "China will fly its first foreign astronaut on the Shenzhou 24 mission, with a Pakistani pilot set for a roughly week-long stay aboard the Tiangong space station.",
+      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001480478566c52e",
+      "title": "The replicants are running the city in thrilling final trailer for ‘Blade Runner 2099’ (video)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/the-replicants-are-running-the-city-in-thrilling-final-trailer-for-blade-runner-2099-video",
+      "desc": "'Humans are always the same. Desperate. Volatile.'",
+      "pubDate": "Thu, 12 Nov 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001824ef06294825",
       "title": "I used the Vaonis Vespera 3 for weeks and here’s who I would recommend it to — full review",
@@ -150,6 +444,25 @@
       }
     },
     {
+      "id": "0017b317daf542c2",
+      "title": "Space telescope Euclid sets the new standard for cosmology",
+      "link": "https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html",
+      "desc": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.",
+      "pubDate": "Thu, 12 Nov 2026 16:00:01 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "00196b8974e3cd35",
       "title": "The Sky Today on Thursday, November 12: An open cluster in Perseus",
       "link": "https://www.astronomy.com/observing/the-sky-today-thursday-november-12-2026",
@@ -164,6 +477,101 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "0002671e780f5e60",
+      "title": "Space dust particles point to ancient heavy-oxygen water reservoir in the Kuiper belt",
+      "link": "https://phys.org/news/2026-11-space-particles-ancient-heavy-oxygen.html",
+      "desc": "Way out past the asteroid belt, another belt encircles the planets in our solar system. The Kuiper belt, beyond Neptune, preserves icy bodies that escaped much of the processing experienced by objects closer to the sun. Unlike the rocky and metallic asteroid belt, Kuiper belt objects are composed mo",
+      "pubDate": "Thu, 12 Nov 2026 13:30:02 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00073da9975ecea9",
+      "title": "A rare star system emits radio signals every 8 minutes",
+      "link": "https://phys.org/news/2026-11-rare-star-emits-radio-minutes.html",
+      "desc": "Scientists at the Curtin University node at the International Center for Radio Astronomy Research (ICRAR) have linked mysterious radio pulses to an unusual pairing of stars—a dead star that spins every eight minutes and a star similar to our own sun.",
+      "pubDate": "Thu, 12 Nov 2026 13:20:05 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000e5086bfbb031d",
+      "title": "A new view of the gamma-ray gap: 14 years of Fermi data reveal around 450 sources in a largely unexplored energy range",
+      "link": "https://phys.org/news/2026-11-view-gamma-ray-gap-years.html",
+      "desc": "The universe is filled with light at many different energies. Some of it is invisible to our eyes, including extremely energetic gamma rays, which can only be produced in the most extreme environments in our universe, for example supermassive black holes, exploding stars or astrophysical jets. To \"s",
+      "pubDate": "Thu, 12 Nov 2026 12:40:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000cf0d9de88495f",
+      "title": "A suspected black hole turns out to be a rapidly spinning star",
+      "link": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
+      "desc": "Sometimes massive stars can mimic the behavior of a black hole and trick astronomers into misinterpreting their nature. Such is the case with a strange pair of stars in the Large Magellanic Cloud (LMC) cluster NGC 1850. The system was initially thought to contain a star about five times the mass of ",
+      "pubDate": "Thu, 12 Nov 2026 12:30:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0009a79fea889c39",
+      "title": "Simulated collisions reveal how Phobos could preserve rocks blasted off Mars",
+      "link": "https://phys.org/news/2026-11-simulated-collisions-reveal-phobos-blasted.html",
+      "desc": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain. Were they asteroids captured by Mars' gravity, or did they form from debris following a giant impact on the planet?",
+      "pubDate": "Thu, 12 Nov 2026 12:20:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -8901,409 +9309,6 @@
       "link": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
       "desc": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
       "pubDate": "Tue, 03 Nov 2026 21:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001f8ec3942ad5dd",
-      "title": "Voting in space: NASA astronauts cast ballots from International Space Station",
-      "link": "https://www.space.com/space-exploration/international-space-station/voting-in-space-nasa-astronauts-cast-ballots-from-international-space-station",
-      "desc": "The three Americans currently living off Earth made sure their voices were heard, voting in the midterm election from the International Space Station.",
-      "pubDate": "Tue, 03 Nov 2026 20:46:36 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00129505e32ef6b3",
-      "title": "'OGame' developers explain how the browser-based sci-fi game has lasted 24 years ahead of the huge Orion update",
-      "link": "https://www.space.com/entertainment/space-games/ogame-developers-explain-how-the-browser-based-sci-fi-game-has-lasted-24-years-ahead-of-the-huge-orion-update",
-      "desc": "The OG sci-fi browser game is still going strong.",
-      "pubDate": "Tue, 03 Nov 2026 20:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000684e63e59f7ca",
-      "title": "What Will Politics Look Like on Other Planets? It's Likely to Be a Mishmash",
-      "link": "https://www.universetoday.com/articles/what-will-politics-look-like-on-other-planets-its-likely-to-be-a-mishmash",
-      "desc": "When we make our home on other worlds, who will be in charge? Will it be an emperor? A billionaire? A rebel alliance? Or none of the above? Astrobiologist Jacob Haqq Misra runs through the legal and political options.",
-      "pubDate": "Tue, 03 Nov 2026 19:21:05 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000bcb42dad0c723",
-      "title": "Dimorphos in sight: Europe's Hera probe gets its 1st look at battered space rock (photo)",
-      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/dimorphos-in-sight-europes-hera-probe-gets-its-1st-look-at-battered-space-rock-photo",
-      "desc": "Europe's Hera planetary defense spacecraft is closing in on the binary asteroid system targeted by NASA's DART deflection test, and can now tell the two rocky bodies apart.",
-      "pubDate": "Tue, 03 Nov 2026 19:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000985eaf4da44ad",
-      "title": "Hubble Telescope sees cosmic 'cat's tail' that could wrap around Earth and the sun 500 times",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-sees-cosmic-cats-tail-that-could-wrap-around-the-sun-and-earth-500-times",
-      "desc": "Using the Hubble Space Telescope, astronomers have investigated a cosmic cat's tail formed when two Pluto-sized bodies smashed together.",
-      "pubDate": "Tue, 03 Nov 2026 17:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00022a19ac7e0991",
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution",
-      "desc": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200 […]\nThe post Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "pubDate": "Tue, 03 Nov 2026 16:59:43 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0018e22eda8c0d8d",
-      "title": "Astronaut and Earth",
-      "link": "https://www.nasa.gov/image-article/astronaut-and-earth",
-      "desc": "CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the s",
-      "pubDate": "Tue, 03 Nov 2026 16:37:42 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00048fe5a66d33d2",
-      "title": "A hidden star is plowing through Betelgeuse’s atmosphere, new evidence suggests",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261103003149.htm",
-      "desc": "Something mysterious is disturbing Betelgeuse, and astronomers believe they have identified the culprit: a hidden companion star called Siwarha. New radio observations reveal that the smaller star may be plowing through Betelgeuse’s enormous atmosphere, creating disturbances that subtly stretch and ",
-      "pubDate": "Tue, 03 Nov 2026 21:52:16 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0000fbf75e3ee148",
-      "title": "The 2027 'eclipse of the century' will plunge real Star Wars filming locations into darkness",
-      "link": "https://www.space.com/stargazing/solar-eclipses/2027-total-solar-eclipse-star-wars-filming-locations-tunisia",
-      "desc": "On Aug. 2, 2027, the moon's shadow will sweep across Tunisia, giving Star Wars fans a rare chance to experience a total solar eclipse at the real-life filming locations of Tatooine.",
-      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0012d8cf55b0a71c",
-      "title": "The Star Wars Eclipse — Want to see the 2027 total solar eclipse on Tatooine? Head to Tunisia",
-      "link": "https://www.space.com/stargazing/solar-eclipses/the-star-wars-eclipse-want-to-see-the-2027-total-solar-eclipse-on-tatooine-head-to-tunisia",
-      "desc": "From Mos Eisley to Mos Espa and the Jundland Wastes, here's where to experience the Aug. 2, 2027 total solar eclipse from Tunisia's Star Wars filming locations.",
-      "pubDate": "Tue, 03 Nov 2026 16:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000d24c9bb7842bb",
-      "title": "Stubborn Asteroids Around White Dwarfs Resist Becoming Dust",
-      "link": "https://www.universetoday.com/articles/stubborn-asteroids-around-white-dwarfs-resist-becoming-dust",
-      "desc": "Astronomers are finding more dusty disks around white dwarf stars, and some of them are home to asteroids. But how these rocky asteroids are turned to dust and form these rings isn't clear. New research shows that the white dwarf's gravity alone can't shred them to dust.",
-      "pubDate": "Tue, 03 Nov 2026 15:54:04 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0006250c0989748f",
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "link": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking",
-      "desc": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were obser",
-      "pubDate": "Tue, 03 Nov 2026 15:35:14 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000a1f7a15909228",
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
-      "link": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day",
-      "desc": "Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of",
-      "pubDate": "Tue, 03 Nov 2026 15:15:50 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000fae0b919d2d2b",
-      "title": "On this day in space! Nov. 3, 1957: Laika the dog launches with Sputnik 2",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-3-2026",
-      "desc": "On Nov. 3, 1957, a Soviet space dog named Laika became the first animal to orbit Earth.",
-      "pubDate": "Tue, 03 Nov 2026 15:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001fd1db131a9fe4",
-      "title": "Robot cube explores the International Space Station | Space photo of the day for Nov. 3, 2026",
-      "link": "https://www.space.com/space-exploration/international-space-station/robot-cube-explores-the-international-space-station-space-photo-of-the-day-for-nov-3-2026",
-      "desc": "An Astrobee, a tiny robot cube, is zipping around the International Space Station helping out the astronauts on board.",
-      "pubDate": "Tue, 03 Nov 2026 15:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0005e5e6b7cd90e9",
-      "title": "Sailing through Cassiopeia",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/sailing-through-cassiopeia",
-      "desc": "Andrea Arbizzi, taken from Maremma, Italy A vast sea of faintly lit dust in Cassiopeia envelops the Sailboat Cluster (NGC 225, upper right), an open cluster named for the way its brightest stars and the blue haze of the reflection nebula VdB 4 sketch out a sail. NGC 225 lies about 2,200 light-years ",
-      "pubDate": "Tue, 03 Nov 2026 14:36:54 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0010bbefbe89ef28",
-      "title": "Nov. 3, 1957: The flight of Laika",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-3-1957-the-flight-of-laika",
-      "desc": "Less than a month after the launch of Sputnik 1, the Soviets launched Sputnik 2. The mission was readied quickly in order to keep the propaganda momentum from Sputnik 1 and to coincide with the 40th anniversary of the Bolshevik Revolution. Carrying mixed-breed dog Laika, Sputnik 2 was the first flig",
-      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ec1ea68077a4d",
-      "title": "Using vibrations to reveal what lies beneath other planets' surfaces",
-      "link": "https://phys.org/news/2026-11-vibrations-reveal-beneath-planets-surfaces.html",
-      "desc": "Modern space exploration hasn't quite reached \"Star Trek\" levels of boldly going where no one has gone before. But if, like the denizens of the USS Enterprise, astronauts one day want to land on an uncharted planet, they'd first want to know what's on—and under—the surface.",
-      "pubDate": "Tue, 03 Nov 2026 19:10:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0016814b58e07e17",
-      "title": "DETUMBLER: Airbus’ Passive Spin Stabilization Solution",
-      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution",
-      "desc": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some dead satellites […]\nThe post DETUMBLER: Airbus’ Passive Spin Stabilization Solution appeared first on",
-      "pubDate": "Tue, 03 Nov 2026 13:30:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001ec93e5298acf7",
-      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no.",
-      "link": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
-      "desc": "NASA's Artemis IV moon mission will be a complicated affair — especially if SpaceX's Starship ends up being the lunar lander. The massive spacecraft will need an unknown number of refuel flights in two separate orbits.",
-      "pubDate": "Tue, 03 Nov 2026 13:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001902230c8f1319",
-      "title": "When should we listen for alien signals? Scientists turn to game theory",
-      "link": "https://phys.org/news/2026-11-alien-scientists-game-theory.html",
-      "desc": "Finding a signal from an extraterrestrial civilization takes more than just pointing a telescope in the right direction. We may also need to listen at exactly the right time.",
-      "pubDate": "Tue, 03 Nov 2026 17:50:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0011f3c529d90da7",
-      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star",
-      "link": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
-      "desc": "From stellar pulsations to giant dust clouds and a mysterious companion, astronomers are piecing together why Betelguese keeps changing brightness.",
-      "pubDate": "Tue, 03 Nov 2026 11:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Space.com",
