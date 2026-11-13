@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-13T03:31:00.336Z",
-  "lastRunId": "run-1794540658314-xvottx",
+  "lastUpdated": "2026-11-13T11:25:51.851Z",
+  "lastRunId": "run-1794569149144-lzj8w0",
   "stats": {
-    "totalStories": 1213,
-    "lastRunAdded": 8
+    "totalStories": 1223,
+    "lastRunAdded": 10
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"a13145eaf34d72d6eb33670d63aea247\"",
-    "https://www.universetoday.com/feed": "W/\"6af6796a-7979\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a13145eaf34d72d6eb33670d63aea247\"",
-    "http://arxiv.org/rss/astro-ph": "5636c001b0907ed527e19f992a376cf52671c17d9d3d10a3dfeff471335fa72f",
+    "https://www.nasa.gov/news-release/feed/": "W/\"f3f57d969e67b123b0c0d81e1c31b611\"",
+    "https://www.universetoday.com/feed": "W/\"6af6e9f0-7979\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"f3f57d969e67b123b0c0d81e1c31b611\"",
+    "http://arxiv.org/rss/astro-ph": "5c4736f0986b4efab4138b2cc82e062bf8c145b48ab28e9f0ffa5d08a1dda89c",
     "https://spacenews.com/feed/": "W/\"d33f731ff4cdf34ad81a25adad0958cd\"",
-    "https://www.astronomy.com/feed/": "W/\"6e5e51a3b18fd4ebb1465de12a776c24\"",
-    "https://spacepolicyonline.com/feed/": "\"0d226006d50d17711c55d2cb2e8641d6\""
+    "https://www.astronomy.com/feed/": "W/\"b5cebc82fc8dc54e89c06e76d40d5ef3\"",
+    "https://spacepolicyonline.com/feed/": "\"b41e27815eac600081c5947a92ebd9c0\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -14571,6 +14571,126 @@
       "archivedDate": "2026-11-13",
       "collection": "morning",
       "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "00174c3e66c4a85d": {
+      "id": "00174c3e66c4a85d",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.850Z"
+    },
+    "000a28ada92d616f": {
+      "id": "000a28ada92d616f",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/soul-searching",
+      "title": "Soul searching",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.850Z"
+    },
+    "0018be96e0095dbb": {
+      "id": "0018be96e0095dbb",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-friday-november-13-2026",
+      "title": "The Sky Today on Friday, November 13: Spot Mirach’s Ghost",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.850Z"
+    },
+    "000bb984e0b3f9b5": {
+      "id": "000bb984e0b3f9b5",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
+      "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 08:03:59 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.850Z"
+    },
+    "0009959b8155a906": {
+      "id": "0009959b8155a906",
+      "canonicalUrl": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-13-to-20-2026",
+      "title": "The Sky This Week from November 13 to 20: The Leonids peak",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 06:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.850Z"
+    },
+    "00015183492403dc": {
+      "id": "00015183492403dc",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda",
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.850Z"
+    },
+    "00077f0fcd3a9563": {
+      "id": "00077f0fcd3a9563",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+      "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.851Z"
+    },
+    "00189083072f0b12": {
+      "id": "00189083072f0b12",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves",
+      "title": "A Global Rebound for Mangroves",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 13 Nov 2026 05:01:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.851Z"
+    },
+    "0002512e1921ea61": {
+      "id": "0002512e1921ea61",
+      "canonicalUrl": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027",
+      "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 04:55:42 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.851Z"
+    },
+    "001e4a95cf2955b1": {
+      "id": "001e4a95cf2955b1",
+      "canonicalUrl": "https://phys.org/news/2026-11-spacex-starship-spaceship.html",
+      "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 05:11:51 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T11:25:51.851Z"
     }
   }
 }

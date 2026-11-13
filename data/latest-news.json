@@ -1,8 +1,173 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T03:31:06.520Z",
+  "generatedAt": "2026-11-13T11:26:02.260Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00174c3e66c4a85d",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit today (Nov. 13). You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
+      "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000a28ada92d616f",
+      "title": "Soul searching",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/soul-searching",
+      "desc": "Mark Killion from Paris, Illinois The Soul Nebula (IC 1848) is a huge star-forming cloud in Cassiopeia about 7,500 light-years away, carved into pillars and cavities by wind and radiation from the young stars embedded within. The imager took 31⅓ hours of exposure with a 5-inch f/5 refractor operated",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0018be96e0095dbb",
+      "title": "The Sky Today on Friday, November 13: Spot Mirach’s Ghost",
+      "link": "https://www.astronomy.com/observing/the-sky-today-friday-november-13-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 12: An open cluster in Perseus Celebrate Friday the 13th with something spooky: a ghost in the constellation Andromeda. This evening, point your telescope toward 2nd-magnitude Mirach (Beta [β] Andromedae), already ",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000bb984e0b3f9b5",
+      "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
+      "desc": "SpaceX has inked a familiar phrase on the Starship rocket that will fly a historic mission today (Nov. 13) — \"Don't panic.\" And the company has invoked those words before.",
+      "pubDate": "Fri, 13 Nov 2026 08:03:59 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0009959b8155a906",
+      "title": "The Sky This Week from November 13 to 20: The Leonids peak",
+      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-13-to-20-2026",
+      "desc": "Friday, November 20The Moon reaches apogee, the farthest point from Earth in its orbit, at 12:50 P.M. EST. At that time, our satellite will be 252,040 miles (405,619 kilometers) from Earth. Already 60° high in the east by 8 P.M. local time is M33, the Pinwheel Galaxy in Triangulum. This lovely spira",
+      "pubDate": "Fri, 13 Nov 2026 06:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00015183492403dc",
+      "title": "APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda",
+      "desc": "APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
+      "pubDate": "Fri, 13 Nov 2026 05:05:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00077f0fcd3a9563",
+      "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
+      "desc": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+      "pubDate": "Fri, 13 Nov 2026 05:05:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00189083072f0b12",
+      "title": "A Global Rebound for Mangroves",
+      "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves",
+      "desc": "After decades of decline, this ecologically significant type of forest is making a comeback.",
+      "pubDate": "Fri, 13 Nov 2026 05:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0002512e1921ea61",
+      "title": "Senate Appropriations CJS Subcommittee Proposes $24.9 Billion for NASA in FY2027",
+      "link": "https://spacepolicyonline.com/news/senate-appropriations-cjs-subcommittee-proposes-24-9-billion-for-nasa-in-fy2027",
+      "desc": "The Senate Appropriations Committee released five more FY2027 bills this evening, including the Commerce-Justice-Science bill that funds NASA. The CJS subcommittee is proposing $24.874 billion for NASA, slightly more than […]",
+      "pubDate": "Fri, 13 Nov 2026 04:55:42 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001bf4a960b78036",
       "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
@@ -38,6 +203,25 @@
           "Industry",
           "Policy",
           "Launches"
+        ]
+      }
+    },
+    {
+      "id": "001e4a95cf2955b1",
+      "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
+      "link": "https://phys.org/news/2026-11-spacex-starship-spaceship.html",
+      "desc": "Elon Musk's SpaceX was poised Friday to carry out its latest test of the world's biggest and most powerful rocket, the Starship, with plans for a groundbreaking \"catch\" of the spaceship following a day in orbit.",
+      "pubDate": "Fri, 13 Nov 2026 05:11:51 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -720,25 +904,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "00140ba1a9912df5",
-      "title": "APOD: 2026 November 12 – Moon, Venus and Spica Meet",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet",
-      "desc": "APOD Science APOD APOD: 2026 November 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
-      "pubDate": "Thu, 12 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -6078,24 +6243,6 @@
       }
     },
     {
-      "id": "000318534f872291",
-      "title": "The Sky This Week from November 6 to 13: Venus in the spotlight",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-6-to-13-2026",
-      "desc": "Friday, November 6The waning Moon leaves us with perfect skies for deep-sky observing. Let’s kick off the week with a bright planetary nebula in Aquarius: NGC 7293, commonly known as the Helix Nebula.  Despite its impressive magnitude of 7.3, the Helix presents a challenge: It is a broad 13’ across,",
-      "pubDate": "Fri, 06 Nov 2026 06:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "001b5b1a2faaab57",
       "title": "Robot successfully builds space structure in first autonomous construction demo",
       "link": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
@@ -9162,153 +9309,6 @@
       "desc": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
       "pubDate": "Wed, 04 Nov 2026 19:40:07 EST",
       "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001fd091c02febae",
-      "title": "Nov. 4, 1922: Tutankhamun’s tomb is discovered",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-4-1922-tutankhamuns-tomb-is-discovered",
-      "desc": "When archaeologists peered inside Tutankhamun’s tomb a few weeks after its discovery on Nov. 4, 1922, they found antechambers packed to the brim with thousands of artifacts: statues, furniture, jewelry, clothes, chariots, paintings. Among these possessions was an iron dagger — just over one foot in ",
-      "pubDate": "Wed, 04 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001840a1e911ab34",
-      "title": "A Virtual Lifeless Earth Will Help Scientists Find Life on Exoplanets",
-      "link": "https://www.universetoday.com/articles/a-virtual-lifeless-earth-will-help-scientists-find-life-on-exoplanets",
-      "desc": "Researchers have created a model lifeless Earth that couples the atmosphere with interior planetary processes. The model can reproduce Earth's modern habitable state without including life, showing that a planet that appears habitable isn't necessarily inhabited. The tool will be useful when and if ",
-      "pubDate": "Wed, 04 Nov 2026 13:22:25 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0013e8653065eea6",
-      "title": "Drone warfare in space: Swarms of autonomous, laser-shooting cubesats could defend Western satellites in orbit",
-      "link": "https://www.space.com/space-exploration/satellites/drone-warfare-in-space-swarms-of-autonomous-laser-shooting-cubesats-could-defend-western-satellites-in-orbit",
-      "desc": "The U.K. startup Shield Space is racing to apply the lessons of drone warfare in Ukraine to develop swarms of up to 100 autonomous, satellite-defending cubesats.",
-      "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001433d895d513bc",
-      "title": "Cosmic hydrogen measurement marks breakthrough in mapping the universe",
-      "link": "https://phys.org/news/2026-11-cosmic-hydrogen-breakthrough-universe.html",
-      "desc": "An international research project is bringing scientists closer to mapping the universe. The MeerKLASS Collaboration has reported its first measurement of the large-scale clustering of cosmic hydrogen, advancing a technique that could transform how cosmologists chart the universe.",
-      "pubDate": "Wed, 04 Nov 2026 17:20:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0013925f388157d3",
-      "title": "Don't miss out on 'Dark Matter' — this early Black Friday NordVPN deal has up to $386 off, meaning you can stream the latest sci-fi series from anywhere",
-      "link": "https://www.space.com/technology/dark-matter-early-black-friday-nordvpn-deal-386-dollars-off",
-      "desc": "NordVPN is recommended as one of the best VPN services, offering privacy, online security, and convenience and is now up to 78% cheaper.",
-      "pubDate": "Wed, 04 Nov 2026 11:27:47 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00130c36c4f1573c",
-      "title": "The Taurid meteor shower peaks tonight — and fireballs could steal the show",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-taurid-meteor-shower-2026-peaks-tonight-and-fireballs-could-steal-the-show",
-      "desc": "The Taurid meteor shower could spawn dazzling fireballs in the coming weeks! Here's when and where to look.",
-      "pubDate": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001aee564dbc2061",
-      "title": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
-      "link": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html",
-      "desc": "When astronomers looked at photos of the early universe taken by the James Webb Space Telescope, they found something odd: an overabundance of bright galaxies. Based on what they knew about the early universe, such galaxies should have been far less common in the few hundred million years following ",
-      "pubDate": "Wed, 04 Nov 2026 16:00:11 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000c7ff0909cfa5e",
-      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions",
-      "link": "https://phys.org/news/2026-11-nasa-space-telescope-plunges-earth.html",
-      "desc": "One of NASA's premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of the universe's biggest explosions.",
-      "pubDate": "Wed, 04 Nov 2026 15:40:11 EST",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Phys.org Space",
         "key": "physorg",
