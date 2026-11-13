@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-12T21:53:55.305Z",
-  "lastRunId": "run-1794520432573-qofcmt",
+  "lastUpdated": "2026-11-13T03:31:00.336Z",
+  "lastRunId": "run-1794540658314-xvottx",
   "stats": {
-    "totalStories": 1205,
-    "lastRunAdded": 22
+    "totalStories": 1213,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"54563a9a48d2e56284be65979a605e38\"",
-    "https://www.universetoday.com/feed": "W/\"6af63368-77f3\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"43d237f01af0efb790304d86579f2d60\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"a13145eaf34d72d6eb33670d63aea247\"",
+    "https://www.universetoday.com/feed": "W/\"6af6796a-7979\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a13145eaf34d72d6eb33670d63aea247\"",
     "http://arxiv.org/rss/astro-ph": "5636c001b0907ed527e19f992a376cf52671c17d9d3d10a3dfeff471335fa72f",
-    "https://spacenews.com/feed/": "W/\"abd876a39450e123bd8ed5e5e724612a\"",
+    "https://spacenews.com/feed/": "W/\"d33f731ff4cdf34ad81a25adad0958cd\"",
     "https://www.astronomy.com/feed/": "W/\"6e5e51a3b18fd4ebb1465de12a776c24\"",
-    "https://spacepolicyonline.com/feed/": "\"4d206246b288bc87367a2d1681061713\""
+    "https://spacepolicyonline.com/feed/": "\"0d226006d50d17711c55d2cb2e8641d6\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -14475,6 +14475,102 @@
       "archivedDate": "2026-11-12",
       "collection": "evening",
       "archivedAt": "2026-11-12T21:53:55.305Z"
+    },
+    "001bf4a960b78036": {
+      "id": "001bf4a960b78036",
+      "canonicalUrl": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars",
+      "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 02:48:46 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "001e2ffdfddbcf79": {
+      "id": "001e2ffdfddbcf79",
+      "canonicalUrl": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle",
+      "title": "AST SpaceMobile presses case for developing own launch vehicle",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "0013599039e38414": {
+      "id": "0013599039e38414",
+      "canonicalUrl": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+      "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 12 Nov 2026 23:04:05 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "0019b7e0ed758094": {
+      "id": "0019b7e0ed758094",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan",
+      "title": "A Brief-ish History of METI. Part III: The Legacy of Frank Drake & Carl Sagan",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 12 Nov 2026 22:04:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "000f58a08bf0ae2f": {
+      "id": "000f58a08bf0ae2f",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel",
+      "title": "'Man of Tomorrow': Release date, plot, cast & everything we know about the 'Superman' sequel",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 12 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "00042e9d4855ed01": {
+      "id": "00042e9d4855ed01",
+      "canonicalUrl": "https://phys.org/news/2026-11-automated-space-future-nom4d.html",
+      "title": "Automated assembly in space is the future and NOM4D is showing the way",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 12 Nov 2026 22:20:06 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "0013e9226a5a662c": {
+      "id": "0013e9226a5a662c",
+      "canonicalUrl": "https://phys.org/news/2026-11-moon-wild-west-experts-lunar.html",
+      "title": "The moon is not the Wild West: Experts call for a pause on lunar industrialization",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 12 Nov 2026 22:00:01 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
+    },
+    "000b32fcac224415": {
+      "id": "000b32fcac224415",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 12 Nov 2026 06:37:06 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "morning",
+      "archivedAt": "2026-11-13T03:31:00.336Z"
     }
   }
 }

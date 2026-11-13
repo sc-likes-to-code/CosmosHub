@@ -1,8 +1,100 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T21:54:05.131Z",
+  "generatedAt": "2026-11-13T03:31:06.520Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001bf4a960b78036",
+      "title": "NASA Looking for New Ways to Return Perseverance Samples From Mars",
+      "link": "https://spacepolicyonline.com/news/nasa-looking-for-new-ways-to-return-perseverance-samples-from-mars",
+      "desc": "In January, NASA will begin assessing new strategies to return the samples now being collected by the Mars Perseverance rover to Earth. The agency ended an earlier Mars Sample Return […]",
+      "pubDate": "Fri, 13 Nov 2026 02:48:46 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "001e2ffdfddbcf79",
+      "title": "AST SpaceMobile presses case for developing own launch vehicle",
+      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle",
+      "desc": "AST SpaceMobile executives expressed confidence in the company’s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile presses case for developing own launch vehicle appeared first on SpaceNews.",
+      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "0013599039e38414",
+      "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
+      "link": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
+      "desc": "The ESA's Euclid Space Telescope has released its first huge batch of data. It's all part of the telescope's mission to study dark energy and dark matter. The telescope is busy creating the largest ever 3D map of the Universe with its huge 600 megapixel camera, and new images give us some highlights",
+      "pubDate": "Thu, 12 Nov 2026 23:04:05 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019b7e0ed758094",
+      "title": "A Brief-ish History of METI. Part III: The Legacy of Frank Drake & Carl Sagan",
+      "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan",
+      "desc": "Carl Sagan and Frank Drake were pivotal to the development of the Search for Extraterrestrial Intelligence (SETI) and Messaging Extraterrestrial Intelligence (METI), as exemplified by the Pioneer Plaques and Voyager Golden Records.",
+      "pubDate": "Thu, 12 Nov 2026 22:04:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f58a08bf0ae2f",
+      "title": "'Man of Tomorrow': Release date, plot, cast & everything we know about the 'Superman' sequel",
+      "link": "https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel",
+      "desc": "James Gunn's new DC universe might be done, but the follow-up to 2025's Superman is still on the way.",
+      "pubDate": "Thu, 12 Nov 2026 22:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0006d25131f7c0bf",
       "title": "Photo Release: NSF NOIRLab-operated Facilities Capture Brightening Nearby Supernova",
@@ -276,6 +368,44 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "00042e9d4855ed01",
+      "title": "Automated assembly in space is the future and NOM4D is showing the way",
+      "link": "https://phys.org/news/2026-11-automated-space-future-nom4d.html",
+      "desc": "If we want big things in space, we'll have to build and assemble them there. Rocket fairings are not large enough to accommodate the large things we want to have in space. Not only that, but the stubborn rocket equation refuses to bend itself to our desires.",
+      "pubDate": "Thu, 12 Nov 2026 22:20:06 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0013e9226a5a662c",
+      "title": "The moon is not the Wild West: Experts call for a pause on lunar industrialization",
+      "link": "https://phys.org/news/2026-11-moon-wild-west-experts-lunar.html",
+      "desc": "As the major powers and the private companies go full tilt with their plans to develop infrastructure and extract resources on the moon, the questions around environmental protection, international regulation and who benefits all come into play. Vilnius University Institute of International Relation",
+      "pubDate": "Thu, 12 Nov 2026 22:00:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -647,6 +777,24 @@
           "Physics",
           "Space",
           "Research"
+        ]
+      }
+    },
+    {
+      "id": "000b32fcac224415",
+      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
+      "desc": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles aw",
+      "pubDate": "Thu, 12 Nov 2026 06:37:06 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -2296,7 +2444,7 @@
     },
     {
       "id": "0013430c58b1de9f",
-      "title": "SpaceX Starship Flight 15 live updates: T-2 days to SpaceX's 1st-ever double Starship landing attempt",
+      "title": "SpaceX Starship Flight 15 live updates: T-1 day to SpaceX's 1st-ever double Starship landing attempt",
       "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
       "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
       "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
@@ -5330,24 +5478,6 @@
       }
     },
     {
-      "id": "0003cabc026b6d84",
-      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
-      "desc": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Plan",
-      "pubDate": "Sat, 07 Nov 2026 20:09:55 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "0017718bddefb4ea",
       "title": "Nov. 7, 1882: A Great Comet transforms astrophotography",
       "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-7-1882-a-great-comet-transforms-astrophotography",
@@ -5799,6 +5929,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0003cabc026b6d84",
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+      "desc": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Plan",
+      "pubDate": "Fri, 06 Nov 2026 17:45:25 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -9170,154 +9318,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "00089c504e8b15a7",
-      "title": "Satellites leak noise that interferes with telescopes and GPS. Here's how to fix it",
-      "link": "https://phys.org/news/2026-11-satellites-leak-noise-telescopes-gps.html",
-      "desc": "Less than a decade ago, there were about 2,000 operational satellites orbiting Earth. Today there are more than 15,000. Millions more are planned.",
-      "pubDate": "Wed, 04 Nov 2026 12:20:22 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001a3e6e197b1946",
-      "title": "Pulsars set first mass limits on supermassive black hole pairs in the early universe",
-      "link": "https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html",
-      "desc": "So far, observations by instruments including the James Webb Space Telescope have revealed the presence of surprisingly massive black holes in the early universe. Even less than a billion years after the Big Bang, some of these bodies already weighed billions of times the mass of the sun, and to dat",
-      "pubDate": "Wed, 04 Nov 2026 11:30:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00013c290e813334",
-      "title": "Giant planet emerges from two-year-old JWST data thanks to glare-removal technique",
-      "link": "https://phys.org/news/2026-11-giant-planet-emerges-year-jwst.html",
-      "desc": "Even the world's most powerful telescopes have their blind spots. Although NASA's James Webb Space Telescope (JWST) can peer billions of years into the past, it still struggles to photograph planets orbiting nearby stars. Stars shine with such extraordinary brightness that their glare overwhelms nea",
-      "pubDate": "Wed, 04 Nov 2026 11:00:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000928ae7254ce1e",
-      "title": "Before the Dawn in America’s Heartland",
-      "link": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland",
-      "desc": "With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.",
-      "pubDate": "Wed, 04 Nov 2026 05:01:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001298fea8dfb74e",
-      "title": "NASA is racing against time to save the Hubble Space Telescope",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-      "desc": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 203",
-      "pubDate": "Wed, 04 Nov 2026 06:22:33 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00093b7d3493ca8d",
-      "title": "NASA asks industry for ideas about saving Hubble Space Telescope",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/nasa-asks-industry-for-ideas-about-saving-hubble-space-telescope",
-      "desc": "The Hubble Space Telescope is healthy but is being pulled down toward Earth by atmospheric drag. NASA is considering options to extend the iconic telescope's work.",
-      "pubDate": "Tue, 03 Nov 2026 22:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000bfb4b4e3ec032",
-      "title": "Students Test Prototype Landing Pad to Make Lunar Operations Safe",
-      "link": "https://www.universetoday.com/articles/students-test-prototype-landing-pad-to-make-lunar-operations-safe",
-      "desc": "This summer, a team of students and researchers at the University of Alabama in Huntsville successfully conducted three rocket-motor firing tests on a prototype lunar landing pad. The tests showed the prototype’s ability to capture and redirect rocket exhaust through an integrated vent system, marki",
-      "pubDate": "Tue, 03 Nov 2026 21:45:06 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ea35b00d19265",
-      "title": "Ancient star collisions could explain mysterious Little Red Dots and 'impossible' black holes",
-      "link": "https://www.space.com/astronomy/stars/ancient-star-collisions-could-explain-mysterious-little-red-dots-and-impossible-black-holes",
-      "desc": "Collisions between stars in the early universe were common, and this could explain the growth of supermassive black holes and the existence of strange Little Red Dots seen by the James Webb Space Telescope.",
-      "pubDate": "Tue, 03 Nov 2026 21:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }
