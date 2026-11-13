@@ -1,8 +1,281 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T15:31:23.368Z",
+  "generatedAt": "2026-11-13T21:30:25.717Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001c786662894645",
+      "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
+      "link": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again",
+      "desc": "60 years ago, the Leonid meteor shower unleashed one of the most spectacular meteor storms in recorded history. As the 2026 peak approaches, here's what skywatchers can expect.",
+      "pubDate": "Fri, 13 Nov 2026 21:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001776fd9a83f003",
+      "title": "How to watch Starship Flight 15",
+      "link": "https://www.astronomy.com/whats-launching-this-week/how-to-watch-starship-flight-15",
+      "desc": "SpaceX is set to launch its 15th test flight of Starship on Friday, Nov. 13. For the first time, the company will try to catch both stages of the rocket — the Super Heavy booster and the upper stage, which SpaceX calls “Ship” — with the arms of its launch tower. If it works, StarshipContinue reading",
+      "pubDate": "Fri, 13 Nov 2026 20:21:49 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0004d7ab0eeb9a14",
+      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+      "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
+      "desc": "How the 'Dune' director turned a little-known short story into one of the best sci-fi movies of the 21st century",
+      "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000eee212dbb29e5",
+      "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+      "desc": "Rocket Lab will launch its 100th space mission shortly after midnight on Saturday (Nov. 14), and you can watch the milestone liftoff live.",
+      "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00041c718097358b",
+      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
+      "link": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today",
+      "desc": "The California Science Center's brand-new Samuel Oschin Air & Space Center —the home of NASA's space shuttle Endeavour —officially opened to the public today (Nov. 13).",
+      "pubDate": "Fri, 13 Nov 2026 19:30:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0014bd64bbad076b",
+      "title": "Think you have good eyesight? Try counting the stars in the Pleiades tonight",
+      "link": "https://www.space.com/stargazing/think-you-have-good-eyesight-try-counting-the-stars-in-the-pleiades-tonight",
+      "desc": "Every November, I give myself a completely unscientific eyesight test using one of my favorite sights in the night sky — the Pleiades. How many stars can you see?",
+      "pubDate": "Fri, 13 Nov 2026 19:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001670b96f5e2e4e",
+      "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
+      "link": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child",
+      "desc": "It looks like 'The Martian,' but due to international copyright laws, it's not.",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001bc9188115ecba",
+      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+      "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
+      "desc": "November 13, 2026— Washington, D.C.—The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the space and […]\nThe post Commercial Space Federation Welcomes CesiumAstro as a New Associate Member app",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "000b2ad938c78bd8",
+      "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
+      "link": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
+      "desc": "The Cosmic Noon was when the Universe's Stelliferous Era Began, and star formation was prodigious during that epoch. But since then, star formation has slowed to a relative crawl, despite the fact that we can watch them forming in regions throughout the Milky Way. What happened to the hydrogen gas t",
+      "pubDate": "Fri, 13 Nov 2026 17:51:07 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00003851e2b03ecc",
+      "title": "Shape-Shifting Robotic \"Slugs\" Could One Day Crawl Across Alien Worlds",
+      "link": "https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds",
+      "desc": "Robots have been a mainstay of our early space exploration efforts. But they normally have wheels. Or in some cases, rotors. While those solutions are great on flat ground, they struggle with jagged boulders or tight crevices. So engineers have been working on alternative robotic form factors, and a",
+      "pubDate": "Fri, 13 Nov 2026 17:10:44 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001cf2ee62a3cdc1",
+      "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
+      "link": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
+      "desc": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
+      "pubDate": "Fri, 13 Nov 2026 17:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000032c8ea0703e0",
+      "title": "Outbursts from a Massive Star",
+      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star",
+      "desc": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million",
+      "pubDate": "Fri, 13 Nov 2026 16:39:33 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00184952865ef495",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program",
+      "desc": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon",
+      "pubDate": "Fri, 13 Nov 2026 16:05:54 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0018386c713c3ca4",
+      "title": "Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird",
+      "link": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird",
+      "desc": "'This city has corruption, secrets and murder. It's my job to discover the truth'",
+      "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000b08bae22bc75e",
+      "title": "REVIEW: Spectrum Optics SkyPilot 127",
+      "link": "https://www.astronomy.com/observing/review-spectrum-optics-skypilot-127",
+      "desc": "The smart telescope revolution has grown rapidly over the past few years. Most of these scopes focus primarily on electronic imaging, though, and while amateur astronomers may marvel at the images, they also still enjoy the simple pleasure of looking directly through a telescope.  That’s where the S",
+      "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0008ae65ff27978e",
       "title": "Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026",
@@ -115,7 +388,7 @@
       "id": "00174c3e66c4a85d",
       "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit today (Nov. 14). You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
+      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 14. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
       "category": "Space Industry & Policy",
       "source": {
@@ -166,6 +439,25 @@
       }
     },
     {
+      "id": "000b8db41c6ef271",
+      "title": "A likely supermassive neutron star might shed light on the mass gap between neutron stars and black holes",
+      "link": "https://phys.org/news/2026-11-supermassive-neutron-star-mass-gap.html",
+      "desc": "A team of astronomers recently identified a red giant star with an unseen binary companion after examining data from the Large Sky Area MultiObject Fiber Spectroscopic Telescope (LAMOST) and the Apache Point Observatory Galactic Evolution Experiment (APOGEE). Although the companion object can't be o",
+      "pubDate": "Fri, 13 Nov 2026 13:50:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000bb984e0b3f9b5",
       "title": "'Don't panic': SpaceX pens familiar message on Starship ahead of historic double-catch test flight",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/dont-panic-spacex-pens-familiar-message-on-starship-ahead-of-historic-double-catch-test-flight",
@@ -198,6 +490,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "000df6303260bde8",
+      "title": "Gemini and DECam showcase a young Type Ia supernova",
+      "link": "https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html",
+      "desc": "A star's explosive demise has added a shiny new feature to NGC 1433, a barred spiral galaxy approximately 50 million light-years away in the southern constellation Horologium (the Pendulum Clock). New images of supernova SN 2026ahvu from the U.S. Department of Energy–fabricated Dark Energy Camera (D",
+      "pubDate": "Fri, 13 Nov 2026 11:20:10 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -1548,7 +1859,7 @@
     },
     {
       "id": "0013dc492f713d7e",
-      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, today? (Full mission timeline)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time",
       "desc": "SpaceX will attempt to reach orbit with its Starship megarocket and make its first-ever double catch on Nov. 13. Here's what time Starship Flight 15 will launch.",
       "pubDate": "Wed, 11 Nov 2026 11:00:00 +0000",
@@ -2736,7 +3047,7 @@
     },
     {
       "id": "000ebe083143c96d",
-      "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
+      "title": "SpaceX Starship Flight 15 live updates: SpaceX counts down to Starship launch and double-catch test flight",
       "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
       "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
       "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
@@ -9002,319 +9313,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "000664616ba5ddaf",
-      "title": "Former NASA Chief Economist is New Head of Canadian Space Agency",
-      "link": "https://spacepolicyonline.com/news/former-nasa-chief-economist-is-new-head-of-canadian-space-agency",
-      "desc": "Alexander MacDonald is the new President of the Canadian Space Agency. Canadian-born MacDonald was NASA’s Chief Economist until December 2024. The Canadian Government announced MacDonald’s selection this evening. He succeeds […]",
-      "pubDate": "Thu, 05 Nov 2026 02:53:28 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "001aba8d2a1d89ff",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research",
-      "desc": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.  Th",
-      "pubDate": "Thu, 05 Nov 2026 01:43:21 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001c7a3a5f1d8fa4",
-      "title": "Farewell Swift",
-      "link": "https://spacepolicyonline.com/news/farewell-swift",
-      "desc": "NASA’s Neil Gehrels Swift Observatory reentered this morning, bringing the 22-year-old mission to an end. NASA contracted with Katalyst Space in September 2025 to revamp an existing system to try […]",
-      "pubDate": "Thu, 05 Nov 2026 00:16:40 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "001d8e060096a081",
-      "title": "On this day in space! Nov. 4, 2015: A rail-launched Super Strypi rocket carrying 13 baby satellites failed during its debut launch for the US Air Force",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-4-2026",
-      "desc": "On Nov. 4, 2015, the United States Air Force launched an experimental Super Strypi rail-launched rocket carrying 13 tiny satellites, but it  failed just after liftoff from Hawaii.",
-      "pubDate": "Wed, 04 Nov 2026 23:00:36 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0006e1f8557ef3ef",
-      "title": "Trump Issues “American Declaration of Freedom in Space”",
-      "link": "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space",
-      "desc": "President Trump issued a space proclamation yesterday. “The American Declaration of Freedom in Space” pledges that the United States will lead the exploration, development, use, and settlement of new frontiers […]",
-      "pubDate": "Wed, 04 Nov 2026 22:34:11 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "0019c0ee6241c925",
-      "title": "Trump declares 'American space superiority for all eternity' in election night proclamation",
-      "link": "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation",
-      "desc": "President Trump has declared space a frontier for all humanity, asserting America's right to develop and settle the solar system under U.S. law.",
-      "pubDate": "Wed, 04 Nov 2026 22:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0015e0a16f4f81f9",
-      "title": "China Unveils Their Plan for a Crewed Moon Landing",
-      "link": "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing",
-      "desc": "Yesterday, on November 3rd, the deputy chief designer of China's crewed space program and chief designer of the lunar exploration program (Wang Xiang) unveiled an official statement detailing its [plans for a crewed mission to the Moon](https://english.spacechina.com/n17212/c4744561/content.html).",
-      "pubDate": "Wed, 04 Nov 2026 21:29:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00185e408bde900b",
-      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "link": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon",
-      "desc": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s A",
-      "pubDate": "Wed, 04 Nov 2026 21:04:10 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0001b05ea5061d98",
-      "title": "Upcoming Marvel movies and TV shows: Avengers: Doomsday, Secret Wars, X-Men & more",
-      "link": "https://www.space.com/entertainment/space-movies-shows/upcoming-marvel-movies-and-tv-shows",
-      "desc": "The MCU’s Multiverse Saga is nearly over, but there are plenty more Marvel movies and shows on the horizon.",
-      "pubDate": "Wed, 04 Nov 2026 21:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00036632ce772620",
-      "title": "Game Theory Helps SETI Search for Alien Civilizations",
-      "link": "https://www.universetoday.com/articles/game-theory-helps-seti-search-for-alien-civilizations",
-      "desc": "SETI can be more effective the more the targets in the search are refined. SETI's newest survey effort uses game theory to inform its search. It's based on the idea that other ETIs would almost certainly use the transit method to detect habitable worlds like Earth.",
-      "pubDate": "Wed, 04 Nov 2026 20:50:16 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000cdee6841c88e6",
-      "title": "'Trials and Tribble-ations' at 30: The classic 'Star Trek: Deep Space Nine' episode that brought Captains Kirk and Sisko face-to-face",
-      "link": "https://www.space.com/entertainment/space-movies-shows/trials-and-tribble-ations-at-30-the-classic-star-trek-deep-space-nine-episode-that-brought-captains-kirk-and-sisko-face-to-face",
-      "desc": "How \"Forrest Gump\", pizza, and a massive supporting cast of furballs came together to make one of \"Star Trek\"'s finest hours.",
-      "pubDate": "Wed, 04 Nov 2026 20:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0009b9eb9b6086b2",
-      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt",
-      "link": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
-      "desc": "NASA's Swift space telescope crashed back to Earth today (Nov. 4), three months after a private spacecraft was supposed to boost the observatory to a higher orbit.",
-      "pubDate": "Wed, 04 Nov 2026 19:06:08 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0008d0b3bd8a6dcd",
-      "title": "Van Gogh’s Starry Night shows a real night sky, study suggests",
-      "link": "https://www.astronomy.com/science/van-goghs-starry-night-shows-a-real-night-sky-study-suggests",
-      "desc": "For decades, art historians and astronomers have wondered whether the sky of Vincent van Gogh’s The Starry Night shows real stars or imagined ones. A new study argues the stars are real — and that Van Gogh likely saw them a month later than most scholars thought. The study, published Oct. 22 in Scie",
-      "pubDate": "Wed, 04 Nov 2026 19:01:39 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0005833115b8fc41",
-      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping",
-      "link": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
-      "desc": "Scientists have long suspected that Mars is geologically \"dead\" but new spacecraft observations suggests the Red Planet's volcanoes are merely sleeping.",
-      "pubDate": "Wed, 04 Nov 2026 19:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0003e82aff9141b5",
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "link": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications",
-      "desc": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will",
-      "pubDate": "Wed, 04 Nov 2026 18:00:02 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001eceaab4949add",
-      "title": "“Blue Tsunami” Puts Democrats in Control of House and Senate Next Year",
-      "link": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2",
-      "desc": "Democratic victories in yesterday’s midterm elections are being touted not as a “Blue wave,” but a “Blue tsunami” as votes are counted throughout the country. The final tally is not […]",
-      "pubDate": "Wed, 04 Nov 2026 17:13:37 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "000cb24574ee2a5c",
-      "title": "NASA's Artemis II moon launch tore a hole in Earth's upper atmosphere so huge it disrupted GPS signals",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/nasas-artemis-ii-moon-launch-tore-a-hole-in-earths-upper-atmosphere-so-huge-it-disrupted-gps-signals",
-      "desc": "\"It could have a strong impact not only on self-driving cars but also on drone positioning.\"",
-      "pubDate": "Wed, 04 Nov 2026 17:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-13T15:31:15.125Z",
-  "lastRunId": "run-1794583872174-jrx8fv",
+  "lastUpdated": "2026-11-13T21:30:14.689Z",
+  "lastRunId": "run-1794605408950-zq41p1",
   "stats": {
-    "totalStories": 1232,
-    "lastRunAdded": 9
+    "totalStories": 1249,
+    "lastRunAdded": 17
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"ee0eec019c2f51837d5e1643ed76f971\"",
-    "https://www.universetoday.com/feed": "W/\"6af72252-7931\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"ee0eec019c2f51837d5e1643ed76f971\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"bfe03428e750ed70730c44dce54035a4\"",
+    "https://www.universetoday.com/feed": "W/\"6af77747-7992\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"acf31dd67cf4b8de9a76173868a6d95d\"",
     "http://arxiv.org/rss/astro-ph": "5c4736f0986b4efab4138b2cc82e062bf8c145b48ab28e9f0ffa5d08a1dda89c",
-    "https://spacenews.com/feed/": "W/\"66d689f41aff1be3237b443bf8b52a6a\"",
-    "https://www.astronomy.com/feed/": "W/\"7e88006e4cf20f026a6c0a49b9a6ad8c\"",
-    "https://spacepolicyonline.com/feed/": "\"b41e27815eac600081c5947a92ebd9c0\""
+    "https://spacenews.com/feed/": "W/\"b1d4af72a4a2311fa65a91552b5bdd10\"",
+    "https://www.astronomy.com/feed/": "W/\"f8b72ccfa74198801a230cc5bc1906e7\"",
+    "https://spacepolicyonline.com/feed/": "\"35e1cc87468c9439b1ac4cfdc3b083c1\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -14799,6 +14799,210 @@
       "archivedDate": "2026-11-13",
       "collection": "evening",
       "archivedAt": "2026-11-13T15:31:15.125Z"
+    },
+    "001c786662894645": {
+      "id": "001c786662894645",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/60-years-ago-the-leonid-meteor-shower-produced-144-000-meteors-per-hour-could-it-happen-again",
+      "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 21:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "001776fd9a83f003": {
+      "id": "001776fd9a83f003",
+      "canonicalUrl": "https://www.astronomy.com/whats-launching-this-week/how-to-watch-starship-flight-15",
+      "title": "How to watch Starship Flight 15",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 20:21:49 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "0004d7ab0eeb9a14": {
+      "id": "0004d7ab0eeb9a14",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
+      "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000eee212dbb29e5": {
+      "id": "000eee212dbb29e5",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
+      "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "00041c718097358b": {
+      "id": "00041c718097358b",
+      "canonicalUrl": "https://www.space.com/space-exploration/californias-brand-new-air-and-space-center-home-of-the-space-shuttle-endeavour-opens-today",
+      "title": "California's brand-new Air & Space Center, home of the space shuttle Endeavour, opens today",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 19:30:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "0014bd64bbad076b": {
+      "id": "0014bd64bbad076b",
+      "canonicalUrl": "https://www.space.com/stargazing/think-you-have-good-eyesight-try-counting-the-stars-in-the-pleiades-tonight",
+      "title": "Think you have good eyesight? Try counting the stars in the Pleiades tonight",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "001670b96f5e2e4e": {
+      "id": "001670b96f5e2e4e",
+      "canonicalUrl": "https://www.space.com/entertainment/space-games/martian-isolation-is-an-upcoming-sci-fi-survival-horror-game-that-looks-like-the-martian-and-event-horizon-had-a-horrific-child",
+      "title": "'Martian Isolation' is an upcoming sci-fi survival horror game that looks like 'The Martian' and 'Event Horizon' had a horrific child",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "001bc9188115ecba": {
+      "id": "001bc9188115ecba",
+      "canonicalUrl": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member",
+      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000b2ad938c78bd8": {
+      "id": "000b2ad938c78bd8",
+      "canonicalUrl": "https://www.universetoday.com/articles/dense-galaxy-clusters-foster-mechanisms-that-throttle-star-formation",
+      "title": "Dense Galaxy Clusters Foster Mechanisms That Throttle Star Formation",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 17:51:07 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "00003851e2b03ecc": {
+      "id": "00003851e2b03ecc",
+      "canonicalUrl": "https://www.universetoday.com/articles/shape-shifting-robotic-slugs-could-one-day-crawl-across-alien-worlds",
+      "title": "Shape-Shifting Robotic \"Slugs\" Could One Day Crawl Across Alien Worlds",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 17:10:44 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "001cf2ee62a3cdc1": {
+      "id": "001cf2ee62a3cdc1",
+      "canonicalUrl": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
+      "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000032c8ea0703e0": {
+      "id": "000032c8ea0703e0",
+      "canonicalUrl": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star",
+      "title": "Outbursts from a Massive Star",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 16:39:33 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "00184952865ef495": {
+      "id": "00184952865ef495",
+      "canonicalUrl": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 16:05:54 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "0018386c713c3ca4": {
+      "id": "0018386c713c3ca4",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/netflixs-ray-gunn-gets-2nd-trailer-and-were-hyped-for-this-animated-sci-fi-noir-from-incredibles-director-brad-bird",
+      "title": "Netflix’s ‘Ray Gunn’ gets 2nd trailer, and we're hyped for this animated sci-fi noir from ‘Incredibles’ director Brad Bird",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000b08bae22bc75e": {
+      "id": "000b08bae22bc75e",
+      "canonicalUrl": "https://www.astronomy.com/observing/review-spectrum-optics-skypilot-127",
+      "title": "REVIEW: Spectrum Optics SkyPilot 127",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000b8db41c6ef271": {
+      "id": "000b8db41c6ef271",
+      "canonicalUrl": "https://phys.org/news/2026-11-supermassive-neutron-star-mass-gap.html",
+      "title": "A likely supermassive neutron star might shed light on the mass gap between neutron stars and black holes",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 13:50:01 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000df6303260bde8": {
+      "id": "000df6303260bde8",
+      "canonicalUrl": "https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html",
+      "title": "Gemini and DECam showcase a young Type Ia supernova",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 11:20:10 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T21:30:14.689Z"
     }
   }
 }
