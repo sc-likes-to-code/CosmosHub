@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-13T11:25:51.851Z",
-  "lastRunId": "run-1794569149144-lzj8w0",
+  "lastUpdated": "2026-11-13T15:31:15.125Z",
+  "lastRunId": "run-1794583872174-jrx8fv",
   "stats": {
-    "totalStories": 1223,
-    "lastRunAdded": 10
+    "totalStories": 1232,
+    "lastRunAdded": 9
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"f3f57d969e67b123b0c0d81e1c31b611\"",
-    "https://www.universetoday.com/feed": "W/\"6af6e9f0-7979\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"f3f57d969e67b123b0c0d81e1c31b611\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"ee0eec019c2f51837d5e1643ed76f971\"",
+    "https://www.universetoday.com/feed": "W/\"6af72252-7931\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"ee0eec019c2f51837d5e1643ed76f971\"",
     "http://arxiv.org/rss/astro-ph": "5c4736f0986b4efab4138b2cc82e062bf8c145b48ab28e9f0ffa5d08a1dda89c",
-    "https://spacenews.com/feed/": "W/\"d33f731ff4cdf34ad81a25adad0958cd\"",
-    "https://www.astronomy.com/feed/": "W/\"b5cebc82fc8dc54e89c06e76d40d5ef3\"",
+    "https://spacenews.com/feed/": "W/\"66d689f41aff1be3237b443bf8b52a6a\"",
+    "https://www.astronomy.com/feed/": "W/\"7e88006e4cf20f026a6c0a49b9a6ad8c\"",
     "https://spacepolicyonline.com/feed/": "\"b41e27815eac600081c5947a92ebd9c0\""
   },
   "articles": {
@@ -14691,6 +14691,114 @@
       "archivedDate": "2026-11-13",
       "collection": "morning",
       "archivedAt": "2026-11-13T11:25:51.851Z"
+    },
+    "0008ae65ff27978e": {
+      "id": "0008ae65ff27978e",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026",
+      "title": "Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.124Z"
+    },
+    "001facec0efc2118": {
+      "id": "001facec0efc2118",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
+      "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.124Z"
+    },
+    "000cfc3dff0a05fc": {
+      "id": "000cfc3dff0a05fc",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-13-1971-mariner-9-orbits-mars",
+      "title": "Nov. 13, 1971: Mariner 9 orbits Mars",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.124Z"
+    },
+    "001166adc9ac0164": {
+      "id": "001166adc9ac0164",
+      "canonicalUrl": "https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors",
+      "title": "Tears of the Lion: Catching the 2026 Leonid Meteors",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 13:21:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.124Z"
+    },
+    "001871489450f768": {
+      "id": "001871489450f768",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.124Z"
+    },
+    "0004b8c73550c611": {
+      "id": "0004b8c73550c611",
+      "canonicalUrl": "https://phys.org/news/2026-11-euclid-stone-3d-sky.html",
+      "title": "Euclid's first data release: A stepping stone to its 3D map of the sky",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 08:00:01 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.125Z"
+    },
+    "0001191286d3e34a": {
+      "id": "0001191286d3e34a",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Fri, 13 Nov 2026 06:08:34 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.125Z"
+    },
+    "0009d3eefe97ea15": {
+      "id": "0009d3eefe97ea15",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 04:49:36 EST",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.125Z"
+    },
+    "000ebe083143c96d": {
+      "id": "000ebe083143c96d",
+      "canonicalUrl": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
+      "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
+      "archivedDate": "2026-11-13",
+      "collection": "evening",
+      "archivedAt": "2026-11-13T15:31:15.125Z"
     }
   }
 }

@@ -1,13 +1,121 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T11:26:02.260Z",
+  "generatedAt": "2026-11-13T15:31:23.368Z",
   "count": 500,
   "articles": [
     {
+      "id": "0008ae65ff27978e",
+      "title": "Astronaut Suni Williams rides through NYC as Grand Marshal of the Veterans Day Parade | Space photo of the day for Nov. 13, 2026",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/astronaut-suni-williams-rides-through-nyc-as-grand-marshal-of-the-veterans-day-parade-space-photo-of-the-day-for-nov-13-2026",
+      "desc": "NASA astronaut Suni Williams rides through New York City as the Grand Marshal of the Veterans Day Parade on Nov. 11, 2026.",
+      "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001facec0efc2118",
+      "title": "I saw Saturn’s rings in seconds with the Celestron StarSense Explorer 150mm Tabletop Dobsonian telescope — full review",
+      "link": "https://www.space.com/stargazing/skywatching-kit/i-saw-saturns-rings-in-seconds-with-the-celestron-starsense-explorer-150mm-tabletop-dobsonian-telescope-full-review",
+      "desc": "Celestron’s StarSense Explorer tech makes this 150mm Dobsonian so easy to operate — but its tabletop design makes me wonder whether beginners should go bigger.",
+      "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000cfc3dff0a05fc",
+      "title": "Nov. 13, 1971: Mariner 9 orbits Mars",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-13-1971-mariner-9-orbits-mars",
+      "desc": "On May 30, 1971, Mariner 9 launched, setting off on its mission to Mars. On Nov. 13, 167 days later, it entered orbit around Mars, making it the first spacecraft to orbit another planet. With Mariner 8, Mariner 9 was one half of the Mars 71 mission. But when Mariner 8 launched on May 9,Continue read",
+      "pubDate": "Fri, 13 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Fri, 13 Nov 2026 13:42:17 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001166adc9ac0164",
+      "title": "Tears of the Lion: Catching the 2026 Leonid Meteors",
+      "link": "https://www.universetoday.com/articles/tears-of-the-lion-catching-the-2026-leonid-meteors",
+      "desc": "It’s always worth being vigilant when skywatching in mid- to late November. Every year, a few Leonid meteors punctuate the November sky morning sky around the 17th. These silent harbingers are only a hint at the shower’s true storm potential, which culminates once every three decades. The Leonid met",
+      "pubDate": "Fri, 13 Nov 2026 13:21:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001871489450f768",
+      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
+      "desc": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
+      "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
       "id": "00174c3e66c4a85d",
-      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit today (Nov. 13). You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
+      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit today (Nov. 14). You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
       "category": "Space Industry & Policy",
       "source": {
@@ -113,24 +221,6 @@
       }
     },
     {
-      "id": "00077f0fcd3a9563",
-      "title": "Watch SpaceX attempt a historic Starship launch and double-catch landing today (Nov. 13)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-historic-double-catch-starship-test-flight-today-watch-it-live",
-      "desc": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
-      "pubDate": "Fri, 13 Nov 2026 05:05:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "00189083072f0b12",
       "title": "A Global Rebound for Mangroves",
       "link": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves",
@@ -188,6 +278,25 @@
       }
     },
     {
+      "id": "0004b8c73550c611",
+      "title": "Euclid's first data release: A stepping stone to its 3D map of the sky",
+      "link": "https://phys.org/news/2026-11-euclid-stone-3d-sky.html",
+      "desc": "The ESA's Euclid has already teased us with some early results. In the past, it's given us a small image covering 60 square degrees of the sky, created with a few days of observations. Those images showed individual targets from the Horsehead Nebula to the Perseus cluster of galaxies.",
+      "pubDate": "Fri, 13 Nov 2026 08:00:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001e2ffdfddbcf79",
       "title": "AST SpaceMobile presses case for developing own launch vehicle",
       "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle",
@@ -207,6 +316,24 @@
       }
     },
     {
+      "id": "0001191286d3e34a",
+      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+      "desc": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, p",
+      "pubDate": "Fri, 13 Nov 2026 06:08:34 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001e4a95cf2955b1",
       "title": "SpaceX Starship test to attempt first-ever spaceship 'catch'",
       "link": "https://phys.org/news/2026-11-spacex-starship-spaceship.html",
@@ -222,6 +349,24 @@
           "Physics",
           "Space",
           "Research"
+        ]
+      }
+    },
+    {
+      "id": "0009d3eefe97ea15",
+      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+      "desc": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly 85% of the charged particles fueling the disturbance originated from Earth's upper a",
+      "pubDate": "Fri, 13 Nov 2026 04:49:36 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -680,24 +825,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Thu, 12 Nov 2026 13:27:52 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -2608,9 +2735,9 @@
       }
     },
     {
-      "id": "0013430c58b1de9f",
-      "title": "SpaceX Starship Flight 15 live updates: T-1 day to SpaceX's 1st-ever double Starship landing attempt",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-11-2026-starship-first-double-landing-attempt",
+      "id": "000ebe083143c96d",
+      "title": "SpaceX Starship Flight 15 live updates: Giant Starship stacked for launch and 1st-ever double catch landing",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
       "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
       "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
       "category": "Space Industry & Policy",
@@ -9188,136 +9315,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "000f99d5360fd233",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings",
-      "desc": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control paylo",
-      "pubDate": "Wed, 04 Nov 2026 16:52:43 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f5e624e9df881",
-      "title": "A cosmic pond",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/a-cosmic-pond",
-      "desc": "Massimo Tamajo from Syracuse, Sicily, Italy IC 410 is an emission nebula about 12,000 light-years away in Auriga, lit by the radiation from the embedded star cluster NGC 1893. The region is best known as home to the Tadpoles — two pillars of gas and dust that are forming stars. The imager took about",
-      "pubDate": "Wed, 04 Nov 2026 16:52:35 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0005b207dac01232",
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "link": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour",
-      "desc": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brou",
-      "pubDate": "Wed, 04 Nov 2026 16:16:41 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0009f0b892f510a0",
-      "title": "Giant Impacts Help Rocky Planets Retain Their Atmospheres",
-      "link": "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres",
-      "desc": "For a long time, planetary scientists thought that giant impacts drove a young planet's atmosphere away into space with all the heat they generated. But it turns out the opposite could be true. The mass a young planet gains through a giant impact increases its gravitational hold on its atmosphere.",
-      "pubDate": "Wed, 04 Nov 2026 16:14:46 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0018f82bfa035c64",
-      "title": "Hubble Reveals Cosmic Mystery",
-      "link": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery",
-      "desc": "This photo released on Nov. 2, 2026, showcases NGC  4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expect",
-      "pubDate": "Wed, 04 Nov 2026 15:59:36 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000e9bc4722f3985",
-      "title": "Students gather to explore Hawaii's glorious night sky | Space photo of the day for Nov. 4, 2026",
-      "link": "https://www.space.com/stargazing/students-gather-to-explore-hawaiis-glorious-night-sky-space-photo-of-the-day-for-nov-4-2026",
-      "desc": "Over 1,400 students gathered in Hawaii recently to learn about astronomy as part of the annual Journey Through the Universe program.",
-      "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0006a9450ea272bb",
-      "title": "European orbiter detects fresh hints of volcanic activity on Mars",
-      "link": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
-      "desc": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making their way up to the surface.",
-      "pubDate": "Wed, 04 Nov 2026 19:40:07 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     }
