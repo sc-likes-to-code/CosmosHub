@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-14T15:31:07.503Z",
-  "lastRunId": "run-1794670265531-4i2syx",
+  "lastUpdated": "2026-11-14T20:00:39.288Z",
+  "lastRunId": "run-1794686436919-vqaa20",
   "stats": {
-    "totalStories": 1270,
-    "lastRunAdded": 11
+    "totalStories": 1273,
+    "lastRunAdded": 3
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"b3423dfea91337380a0c5e4d4b292291\"",
-    "https://www.universetoday.com/feed": "W/\"6af87414-7931\"",
+    "https://www.universetoday.com/feed": "W/\"6af8ba78-7931\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"b3423dfea91337380a0c5e4d4b292291\"",
     "http://arxiv.org/rss/astro-ph": "abed084dc093d3b8bf65e1f5bbdcdabf2f6ec7996ef582b01acd969804bbd7e2",
-    "https://spacenews.com/feed/": "W/\"54405abfc25cd2480c1d90362746409c\"",
+    "https://spacenews.com/feed/": "W/\"90bd0dcd6fe52e756a1acb81b923162b\"",
     "https://www.astronomy.com/feed/": "W/\"c9f3a2b9afc2df02c7816fd9dcdaf5a9\"",
-    "https://spacepolicyonline.com/feed/": "\"78df3e345b791497518d4bb6f40b3fbe\""
+    "https://spacepolicyonline.com/feed/": "\"a2e390700465b64cb0cbe79b3070217d\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -15255,6 +15255,42 @@
       "archivedDate": "2026-11-14",
       "collection": "evening",
       "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "000b8b30755f3bd3": {
+      "id": "000b8b30755f3bd3",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
+      "title": "This Week In Space podcast: Episode 236 — Alienspotting",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 14 Nov 2026 15:56:33 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T20:00:39.288Z"
+    },
+    "001fe53c9e3e17cd": {
+      "id": "001fe53c9e3e17cd",
+      "canonicalUrl": "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html",
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Sat, 14 Nov 2026 13:37:10 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T20:00:39.288Z"
+    },
+    "00077c1b30b5ecf2": {
+      "id": "00077c1b30b5ecf2",
+      "canonicalUrl": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html",
+      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 14 Nov 2026 13:20:01 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T20:00:39.288Z"
     }
   }
 }

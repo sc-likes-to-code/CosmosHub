@@ -1,8 +1,26 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T15:31:15.229Z",
+  "generatedAt": "2026-11-14T20:00:45.597Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000b8b30755f3bd3",
+      "title": "This Week In Space podcast: Episode 236 — Alienspotting",
+      "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-236-alienspotting",
+      "desc": "On Episode 236 of This Week In Space, Tariq Malik and Rod Pyle are joined by Mikhail Tikhonov to talk about how life can take more unusual forms, ones we might not even recognize.",
+      "pubDate": "Sat, 14 Nov 2026 15:56:33 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000c6ca33a45054b",
       "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
@@ -23,9 +41,9 @@
     },
     {
       "id": "00064d55dd5da76a",
-      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+      "title": "Why did Starship Flight 15 booster abort 'chopsticks' landing catch? SpaceX still investigating (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
-      "desc": "SpaceX has an idea why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
+      "desc": "SpaceX is looking into why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
       "pubDate": "Sat, 14 Nov 2026 14:53:00 +0000",
       "category": "Space Industry & Policy",
       "source": {
@@ -130,6 +148,44 @@
       }
     },
     {
+      "id": "001fe53c9e3e17cd",
+      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
+      "link": "https://phys.org/news/2026-11-nasa-voyager-day-interstellar-space.html",
+      "desc": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth as it pushes ever deeper into interstellar space.",
+      "pubDate": "Sat, 14 Nov 2026 13:37:10 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00077c1b30b5ecf2",
+      "title": "A cosmic magnifying glass could reveal the same supernova two more times in roughly 70 years",
+      "link": "https://phys.org/news/2026-11-cosmic-magnifying-glass-reveal-supernova.html",
+      "desc": "Thanks to the gravitational lensing caused by a massive galaxy cluster and high-resolution images from the James Webb Space Telescope (JWST), astronomers discovered an exploding star when the universe was 4.9 billion years old. The discovery paper, posted to the arXiv preprint server on Oct. 23, pre",
+      "pubDate": "Sat, 14 Nov 2026 13:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "00133858e3e7e010",
       "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
       "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
@@ -151,7 +207,7 @@
       "id": "001949ecf9c207b4",
       "title": "SpaceX's Starship set for return to Earth after booster catch aborted",
       "link": "https://phys.org/news/2026-11-spacex-starship-earth-booster-aborted.html",
-      "desc": "SpaceX's Starship spacecraft was \"healthy\" as it orbited the Earth and on track to return Saturday to its Texas launch site, where Elon Musk's company was planning to \"catch\" the vehicle for the first time.",
+      "desc": "SpaceX said its Starship spacecraft was \"healthy\" as it orbited the Earth and on track to return Saturday to its Texas launch site, where Elon Musk's company was planning to \"catch\" the vehicle for the first time.",
       "pubDate": "Sat, 14 Nov 2026 06:18:54 EST",
       "category": "Space Industry & Policy",
       "source": {
@@ -9233,63 +9289,6 @@
       "title": "Photometric Study of a Distant SU UMa-type Dwarf Nova KSP-OT-201803a",
       "link": "https://arxiv.org/abs/2611.05833",
       "desc": "arXiv:2611.05833v1 Announce Type: new \nAbstract: We present the discovery and photometric study of a distant dwarf nova KSP-OT-201803a using BVI-band observation data obtained by using the KMTNet Supernova Program. One superoutburst (SO) and three normal outbursts are identified from two years of ob",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000c15455054a817",
-      "title": "Polarimetry with the Giant Magellan Telescope: A Scientific Justification & Technical Requirements Document",
-      "link": "https://arxiv.org/abs/2611.05864",
-      "desc": "arXiv:2611.05864v1 Announce Type: new \nAbstract: The photons we collect from astronomical sources are encoded with information about the physics behind their origin. To fully probe that physics, we must maximize the information we extract from those photons. At optical and near-infrared wavelengths,",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0016740480ae9fd8",
-      "title": "PrimordialPy: A Python library for single-field inflation, primordial black holes, and scalar-induced gravitational waves",
-      "link": "https://arxiv.org/abs/2611.05566",
-      "desc": "arXiv:2611.05566v1 Announce Type: new \nAbstract: We present \\texttt{PrimordialPy}, an open-source Python library designed to compute the cosmological predictions of arbitrary canonical single-field inflationary models. By numerically solving the background dynamics and the curvature perturbation equ",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000788b1d1ecb265",
-      "title": "ReveaLLAGN 2: Exploring the Nuclear Gas and Stellar Kinematics of Nearby LLAGNs with JWST/NIRSpec IFU",
-      "link": "https://arxiv.org/abs/2611.05496",
-      "desc": "arXiv:2611.05496v1 Announce Type: new \nAbstract: Low-luminosity active galactic nuclei (LLAGN) represent the most common mode of black hole accretion in the local Universe, yet their nuclear structure, stellar and gas kinematics remain poorly constrained at parsec scales. We investigate the nuclear ",
       "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
