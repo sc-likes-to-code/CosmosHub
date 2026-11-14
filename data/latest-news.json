@@ -1,8 +1,135 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T21:30:25.717Z",
+  "generatedAt": "2026-11-14T03:31:16.797Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000b1c3743d1ef3b",
+      "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
+      "link": "https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides",
+      "desc": "A researcher at Freie Universität Berlin has developed a theoretical framework for searching high-precision measurements for possible relativistic traces in lunar tides.",
+      "pubDate": "Sat, 14 Nov 2026 00:35:51 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000798a50e30002b",
+      "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
+      "link": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth",
+      "desc": "SpaceX launched the 15th Starship Integrated Flight Test (IFT-15) early this evening from Starbase, Texas. Plans to bring the first stage Booster back to the launch tower for a “catch” […]",
+      "pubDate": "Fri, 13 Nov 2026 23:54:54 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "0010d6de274e3d1e",
+      "title": "Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes",
+      "link": "https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes",
+      "desc": "Astrophysicists are leaving no stone unturned in their search for what dark matter is. Different particles have been proposed, like WIMPs and axions. Hypothetical rimordial black holes have also been proposed. But there's another less well-known candidate, SLABs or Stupendously Large Black holes, a ",
+      "pubDate": "Fri, 13 Nov 2026 23:49:58 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000546a3b98f85b8",
+      "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+      "desc": "SpaceX's Starship megarocket reached orbit today (Nov. 13) during its 15th test flight, but the company scrapped a plan to catch the vehicle's massive booster back at the launch site.",
+      "pubDate": "Fri, 13 Nov 2026 23:20:03 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0010a79299b6b86b",
+      "title": "SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake",
+      "link": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
+      "desc": "SpaceX sent its Starship on a flight that was meant to feature a first-ever retrieval of both rocket stages, but a launch-pad catch of the first-stage booster had to be canceled due to safety concerns.",
+      "pubDate": "Fri, 13 Nov 2026 23:12:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000b3787e5dcd1fc",
+      "title": "LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date",
+      "link": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+      "desc": "Using the Low Frequency Array (LOFAR), an international team led by Leiden University has produced the sharpest and most sensitive radio image of the sky ever made at low radio frequencies.",
+      "pubDate": "Fri, 13 Nov 2026 21:30:58 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019c29901299057",
+      "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
+      "desc": "On Nov. 13, 1971, Mariner 9 became the first spacecraft to orbit Mars.  Here's why it mattered.",
+      "pubDate": "Fri, 13 Nov 2026 21:25:55 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001c786662894645",
       "title": "60 years ago the Leonid meteor shower produced 144,000 meteors per hour. Could it happen again?",
@@ -3047,7 +3174,7 @@
     },
     {
       "id": "000ebe083143c96d",
-      "title": "SpaceX Starship Flight 15 live updates: SpaceX counts down to Starship launch and double-catch test flight",
+      "title": "SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit",
       "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
       "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
       "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
@@ -9180,139 +9307,6 @@
           "Astronomy",
           "Research",
           "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00122704e8358743",
-      "title": "The PAU Survey: Self-supervised image denoising for flux-preserving photometry",
-      "link": "https://arxiv.org/abs/2611.05447",
-      "desc": "arXiv:2611.05447v1 Announce Type: new \nAbstract: Context. Deep photometric surveys increasingly rely on low signal-to-noise imaging, where noise affects source detection, flux measurements, photometric redshifts, and sample selection. Self-supervised denoising methods are attractive because they do ",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00172ba034e84eb0",
-      "title": "The spatial structure of solar magnetoconvection at scales up to $60$~Mm",
-      "link": "https://arxiv.org/abs/2611.05674",
-      "desc": "arXiv:2611.05674v1 Announce Type: new \nAbstract: While convective motions at the scale of granules on the solar surface are well understood, those of mesogranular and supergranulation are not. At still larger scales, the lack of giant cells is a major mystery. We aim to slightly improve understandin",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00193de3e67fa5d4",
-      "title": "Tiny Quiet-Sun EUV Ejections Revealed by High-resolution Multiwavelength Observations",
-      "link": "https://arxiv.org/abs/2611.05934",
-      "desc": "arXiv:2611.05934v1 Announce Type: new \nAbstract: We investigate two successive tiny quiet-Sun EUV ejections on 2022 October 29 using coordinated Solar Orbiter/EUI, IRIS, SDO/AIA, and Goode Solar Telescope observations. We examine their low-lying geometry and the chromospheric and transition-region r",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00172585c678f8a3",
-      "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
-      "link": "https://arxiv.org/abs/2611.05790",
-      "desc": "arXiv:2611.05790v1 Announce Type: new \nAbstract: Observed populations of rotating neutron stars~(NSs) with millisecond-order periods are powerful probes of fundamental physics. Mass-radius measurements inform poorly constrained properties of degenerate nuclear matter, whereas high-fidelity populatio",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00133e3365a26b81",
-      "title": "Earth's slowing spin may have shaped its primordial crust",
-      "link": "https://phys.org/news/2026-11-earth-primordial-crust.html",
-      "desc": "Around 4.5 billion years ago, a planet-sized object collided with the newly formed Earth, throwing out the debris that would later form the moon. The collision left Earth spinning extremely fast, with days lasting just two to five hours. Yet existing models of how Earth's first crust formed and evol",
-      "pubDate": "Thu, 05 Nov 2026 10:20:06 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0014ead6a012cd11",
-      "title": "Webb Space Telescope's little red dots could hold key to first black holes",
-      "link": "https://phys.org/news/2026-11-webb-space-telescope-red-dots.html",
-      "desc": "Johns Hopkins researchers searching the expanse of the universe for the existence of the first black holes are zeroing in on little red dots that may hold the key to the theoretical phenomenon.",
-      "pubDate": "Thu, 05 Nov 2026 09:20:02 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0003421c6bbebdaa",
-      "title": "Microbial growth in simulated Mars conditions could guide search for life",
-      "link": "https://phys.org/news/2026-11-microbial-growth-simulated-mars-conditions.html",
-      "desc": "A new experiment reveals that Earth's microbes can grow in harsh conditions similar to what may exist just below the surface of Mars, suggesting new directions in the search for potential cellular life on the red planet.",
-      "pubDate": "Thu, 05 Nov 2026 09:00:10 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     }

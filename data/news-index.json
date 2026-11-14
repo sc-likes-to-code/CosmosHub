@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-13T21:30:14.689Z",
-  "lastRunId": "run-1794605408950-zq41p1",
+  "lastUpdated": "2026-11-14T03:31:08.661Z",
+  "lastRunId": "run-1794627066753-ns1h8m",
   "stats": {
-    "totalStories": 1249,
-    "lastRunAdded": 17
+    "totalStories": 1257,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"bfe03428e750ed70730c44dce54035a4\"",
-    "https://www.universetoday.com/feed": "W/\"6af77747-7992\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"acf31dd67cf4b8de9a76173868a6d95d\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"1fd42417337b0a7166c6d3369e747d9f\"",
+    "https://www.universetoday.com/feed": "W/\"6af7cae5-7931\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b9096900026afbd563f3f337f2b4e406\"",
     "http://arxiv.org/rss/astro-ph": "5c4736f0986b4efab4138b2cc82e062bf8c145b48ab28e9f0ffa5d08a1dda89c",
-    "https://spacenews.com/feed/": "W/\"b1d4af72a4a2311fa65a91552b5bdd10\"",
+    "https://spacenews.com/feed/": "W/\"4a814b1a17fa37c7c3ab52c4549bb2a8\"",
     "https://www.astronomy.com/feed/": "W/\"f8b72ccfa74198801a230cc5bc1906e7\"",
-    "https://spacepolicyonline.com/feed/": "\"35e1cc87468c9439b1ac4cfdc3b083c1\""
+    "https://spacepolicyonline.com/feed/": "\"78df3e345b791497518d4bb6f40b3fbe\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -15003,6 +15003,102 @@
       "archivedDate": "2026-11-13",
       "collection": "evening",
       "archivedAt": "2026-11-13T21:30:14.689Z"
+    },
+    "000b1c3743d1ef3b": {
+      "id": "000b1c3743d1ef3b",
+      "canonicalUrl": "https://www.universetoday.com/articles/when-einsteins-gravitational-waves-meet-newtons-tides",
+      "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 14 Nov 2026 00:35:51 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "000798a50e30002b": {
+      "id": "000798a50e30002b",
+      "canonicalUrl": "https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth",
+      "title": "Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 23:54:54 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "0010d6de274e3d1e": {
+      "id": "0010d6de274e3d1e",
+      "canonicalUrl": "https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes",
+      "title": "Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 23:49:58 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "000546a3b98f85b8": {
+      "id": "000546a3b98f85b8",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship",
+      "title": "SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 13 Nov 2026 23:20:03 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "0010a79299b6b86b": {
+      "id": "0010a79299b6b86b",
+      "canonicalUrl": "https://www.universetoday.com/articles/spacex-launches-starship-but-passes-up-booster-catch-for-safetys-sake",
+      "title": "SpaceX Launches Starship But Passes Up Booster Catch for Safety's Sake",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 23:12:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "000b3787e5dcd1fc": {
+      "id": "000b3787e5dcd1fc",
+      "canonicalUrl": "https://www.universetoday.com/articles/lofar-takes-the-deepest-image-of-the-low-frequency-radio-sky-to-date",
+      "title": "LOFAR Takes the Deepest Image of the Low-Frequency Radio Sky to Date",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 13 Nov 2026 21:30:58 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "0019c29901299057": {
+      "id": "0019c29901299057",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-13-2026",
+      "title": "On this day in space! Nov. 13, 1971: NASA's Mariner 9 becomes 1st spacecraft to orbit Mars, revealing close looks at the Martian surface",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Fri, 13 Nov 2026 21:25:55 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "000cb1e138a37619": {
+      "id": "000cb1e138a37619",
+      "canonicalUrl": "https://phys.org/news/2026-11-tiny-solar-whirlpools-secret-sun.html",
+      "title": "Tiny solar whirlpools may hold the secret to the sun's blistering corona",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 10 Nov 2026 12:40:17 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T03:31:08.661Z"
     }
   }
 }
