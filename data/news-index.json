@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-14T10:48:41.994Z",
-  "lastRunId": "run-1794653319089-abh3gs",
+  "lastUpdated": "2026-11-14T15:31:07.503Z",
+  "lastRunId": "run-1794670265531-4i2syx",
   "stats": {
-    "totalStories": 1259,
-    "lastRunAdded": 2
+    "totalStories": 1270,
+    "lastRunAdded": 11
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"b3423dfea91337380a0c5e4d4b292291\"",
-    "https://www.universetoday.com/feed": "W/\"6af83b56-7931\"",
+    "https://www.universetoday.com/feed": "W/\"6af87414-7931\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"b3423dfea91337380a0c5e4d4b292291\"",
     "http://arxiv.org/rss/astro-ph": "abed084dc093d3b8bf65e1f5bbdcdabf2f6ec7996ef582b01acd969804bbd7e2",
-    "https://spacenews.com/feed/": "W/\"4a814b1a17fa37c7c3ab52c4549bb2a8\"",
-    "https://www.astronomy.com/feed/": "W/\"f1ac7fe43211a697912838313e00f577\"",
+    "https://spacenews.com/feed/": "W/\"54405abfc25cd2480c1d90362746409c\"",
+    "https://www.astronomy.com/feed/": "W/\"c9f3a2b9afc2df02c7816fd9dcdaf5a9\"",
     "https://spacepolicyonline.com/feed/": "\"78df3e345b791497518d4bb6f40b3fbe\""
   },
   "articles": {
@@ -15123,6 +15123,138 @@
       "archivedDate": "2026-11-14",
       "collection": "morning",
       "archivedAt": "2026-11-14T10:48:41.994Z"
+    },
+    "000c6ca33a45054b": {
+      "id": "000c6ca33a45054b",
+      "canonicalUrl": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
+      "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "00064d55dd5da76a": {
+      "id": "00064d55dd5da76a",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 14 Nov 2026 14:53:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "001889c1c077ed37": {
+      "id": "001889c1c077ed37",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
+      "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 14 Nov 2026 14:51:27 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "0007c63531a9257a": {
+      "id": "0007c63531a9257a",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-14-2012-nasa-announces-an-extended-mission-for-kepler",
+      "title": "Nov. 14, 2012: NASA announces an extended mission for Kepler",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 14 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "000380a031f96a5c": {
+      "id": "000380a031f96a5c",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+      "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 14 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "00145419cf45014e": {
+      "id": "00145419cf45014e",
+      "canonicalUrl": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+      "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "0019867e6a751eff": {
+      "id": "0019867e6a751eff",
+      "canonicalUrl": "https://phys.org/news/2026-11-common-food-emulsifier-rocketry-oldest.html",
+      "title": "A common food emulsifier could solve one of rocketry's oldest fuel problems",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 14 Nov 2026 08:00:06 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "00133858e3e7e010": {
+      "id": "00133858e3e7e010",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Sat, 14 Nov 2026 06:58:42 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "001949ecf9c207b4": {
+      "id": "001949ecf9c207b4",
+      "canonicalUrl": "https://phys.org/news/2026-11-spacex-starship-earth-booster-aborted.html",
+      "title": "SpaceX's Starship set for return to Earth after booster catch aborted",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 14 Nov 2026 06:18:54 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "0006d0e99d513cfb": {
+      "id": "0006d0e99d513cfb",
+      "canonicalUrl": "https://phys.org/news/2026-11-hubble-cosmic-sampler-roman.html",
+      "title": "Hubble offers cosmic sampler of targets for Roman",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 12 Nov 2026 16:20:04 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
+    },
+    "000e925301a42ec2": {
+      "id": "000e925301a42ec2",
+      "canonicalUrl": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+      "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "evening",
+      "archivedAt": "2026-11-14T15:31:07.503Z"
     }
   }
 }

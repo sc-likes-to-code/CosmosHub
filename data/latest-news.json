@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T10:48:52.043Z",
+  "generatedAt": "2026-11-14T15:31:15.229Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000c6ca33a45054b",
+      "title": "'Alien: Fireteam Elite 2' is a good old-fashioned bug hunt, ironically plagued by bugs",
+      "link": "https://www.space.com/entertainment/space-games/alien-fireteam-elite-2-is-a-good-old-fashioned-bug-hunt-ironically-plagued-by-bugs",
+      "desc": "We're scared of the Xenomorphs again, but Aliens: Fireteam Elite 2 knows old-fashioned bug hunts shouldn't be a thing of the past.",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00064d55dd5da76a",
+      "title": "SpaceX says Starship Flight 15 booster aborted 'chopsticks' landing catch after launch due to guidance issue (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-says-starship-flight-15-booster-aborted-chopsticks-landing-catch-after-launch-due-to-guidance-issue-video",
+      "desc": "SpaceX has an idea why its latest Starship megarocket test flight missed the first of two planned landings on Friday (Nov. 13) during the Starship Flight 15 test.",
+      "pubDate": "Sat, 14 Nov 2026 14:53:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001889c1c077ed37",
+      "title": "On this day in space! Nov. 14, 1969: NASA's Apollo 12 astronauts launch to the moon on a 'pinpoint landing' lunar mission",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-14-2026",
+      "desc": "On Nov. 14, 1969, the Apollo 12 astronauts launched to the moon. Here's why it mattered.",
+      "pubDate": "Sat, 14 Nov 2026 14:51:27 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0007c63531a9257a",
+      "title": "Nov. 14, 2012: NASA announces an extended mission for Kepler",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-14-2012-nasa-announces-an-extended-mission-for-kepler",
+      "desc": "The Kepler Space Telescope, launched March 6, 2009, was designed to search the Milky Way for exoplanets. Using the transit method, Kepler ultimately observed over 500,00 stars and contributed to the discovery of almost 2,700 exoplanets. Though Kepler was originally intended for a 3.5-year mission, N",
+      "pubDate": "Sat, 14 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000380a031f96a5c",
+      "title": "Watch SpaceX will attempt its 1st-ever 'chopsticks' Starship landing catch of a rocket from orbit today (livestream)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+      "desc": "SpaceX plans to catch the upper stage of its Starship megarocket at the launch pad today (Nov. 14), and you can watch the unprecedented action live.",
+      "pubDate": "Sat, 14 Nov 2026 13:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00145419cf45014e",
+      "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
+      "link": "https://www.space.com/stargazing/see-jupiter-and-mars-make-a-spectacular-close-approach-overnight-nov-15-16",
+      "desc": "The red planet Mars will shine a little over 1 degree from Jupiter on the night of Nov. 15-16.",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0014524b0aa8184b",
       "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
@@ -18,6 +126,43 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00133858e3e7e010",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm",
+      "desc": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system's official dwarf planet family and hints that more mysterious worlds may be lurking far bey",
+      "pubDate": "Sat, 14 Nov 2026 06:58:42 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001949ecf9c207b4",
+      "title": "SpaceX's Starship set for return to Earth after booster catch aborted",
+      "link": "https://phys.org/news/2026-11-spacex-starship-earth-booster-aborted.html",
+      "desc": "SpaceX's Starship spacecraft was \"healthy\" as it orbited the Earth and on track to return Saturday to its Texas launch site, where Elon Musk's company was planning to \"catch\" the vehicle for the first time.",
+      "pubDate": "Sat, 14 Nov 2026 06:18:54 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -531,28 +676,10 @@
       }
     },
     {
-      "id": "001871489450f768",
-      "title": "Double-catch drama: Why Starship's Flight 15 is so important to SpaceX",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/double-catch-drama-why-starships-flight-15-is-so-important-to-spacex",
-      "desc": "SpaceX plans to launch its Starship megarocket on an unprecedented double-catch mission today (Nov. 13), and you can watch the action live.",
-      "pubDate": "Fri, 13 Nov 2026 13:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "00174c3e66c4a85d",
-      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months on Nov. 15: Watch it live",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 14. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
+      "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 15. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
       "category": "Space Industry & Policy",
       "source": {
@@ -3192,9 +3319,9 @@
       }
     },
     {
-      "id": "000ebe083143c96d",
-      "title": "SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit",
-      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
+      "id": "000e925301a42ec2",
+      "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today",
+      "link": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
       "desc": "Follow live updates as SpaceX attempts its Starship Flight 15 test flight with first double landings.",
       "pubDate": "Tue, 10 Nov 2026 19:46:21 +0000",
       "category": "Space Industry & Policy",
@@ -9163,139 +9290,6 @@
       "title": "ReveaLLAGN 2: Exploring the Nuclear Gas and Stellar Kinematics of Nearby LLAGNs with JWST/NIRSpec IFU",
       "link": "https://arxiv.org/abs/2611.05496",
       "desc": "arXiv:2611.05496v1 Announce Type: new \nAbstract: Low-luminosity active galactic nuclei (LLAGN) represent the most common mode of black hole accretion in the local Universe, yet their nuclear structure, stellar and gas kinematics remain poorly constrained at parsec scales. We investigate the nuclear ",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0012197b5f4a2b44",
-      "title": "Revisiting the Stellar-Dynamical Mass of the Central Black Hole in NGC 3227",
-      "link": "https://arxiv.org/abs/2611.05547",
-      "desc": "arXiv:2611.05547v1 Announce Type: new \nAbstract: We present a new stellar-dynamical mass for the supermassive black hole in the nearby Seyfert galaxy NGC 3227. We determined the line-of-sight velocity distributions of stars in the nuclear region of NGC 3227 using archival spatially-resolved $K$-band",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0003f8b080e81484",
-      "title": "Searching for Signatures of i-process Nucleosynthesis in Metal-Rich, Lead-rich Barium Stars",
-      "link": "https://arxiv.org/abs/2611.05470",
-      "desc": "arXiv:2611.05470v1 Announce Type: new \nAbstract: The intermediate neutron-capture process ($i$-process) has been invoked to explain the peculiar compositions of carbon-enhanced metal-poor (CEMP) stars enriched in both slow- ($s$) and rapid- ($r$) neutron-capture elements. Recent literature has quest",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0010a92c734c3e43",
-      "title": "She Sees Shells by the Stellar Shore: A Kinematic View of NGC 253's Stellar Halo",
-      "link": "https://arxiv.org/abs/2611.05493",
-      "desc": "arXiv:2611.05493v1 Announce Type: new \nAbstract: The stellar halos of nearby galaxies are fossil records of ancient mergers, providing insight into the formation and growth of these systems. These halos often contain substructure in the form of streams, shells, and debris fields that make up dynamic",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001b181ba1347a64",
-      "title": "Spectroscopic diagnostics of coronal fan loops using EIS/Hinode and AIA/SDO",
-      "link": "https://arxiv.org/abs/2611.05995",
-      "desc": "arXiv:2611.05995v1 Announce Type: new \nAbstract: We utilize spectroscopic and imaging data from the EIS/Hinode and the AIA/SDO to determine plasma and wave parameters along coronal fan loops. We determined the temperature along the loop lengths using the EM-loci method with EIS spectral lines and id",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000a2e8d0b0ff42d",
-      "title": "The impact of M dwarf stellar convection on exoplanetary atmospheric signatures. A 3D radiation-hydrodynamics simulation analysis for high-resolution spectroscopy",
-      "link": "https://arxiv.org/abs/2611.05740",
-      "desc": "arXiv:2611.05740v1 Announce Type: new \nAbstract: M dwarf stars represent prime targets for the detection and characterization of small, temperate exoplanets; however, their complex activity and convective surfaces pose significant challenges for high-resolution spectroscopic studies. This work aims ",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000b04f9898bb950",
-      "title": "The impact of Population III stars on the elemental enrichment of ultra-faint galaxies in the FIRE-3 zoom-in simulations",
-      "link": "https://arxiv.org/abs/2611.05589",
-      "desc": "arXiv:2611.05589v1 Announce Type: new \nAbstract: The observed stellar mass-metallicity relation for ultra-faint galaxies in the Local Group (LG) is in tension with many theoretical predictions, suggesting the need for modified or additional channels of elemental enrichment at low metallicities. We p",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001b4e0b6897e6c9",
-      "title": "The kinematic Kelvin-Helmholtz instability-driven dynamo: implications for merging compact objects",
-      "link": "https://arxiv.org/abs/2611.05880",
-      "desc": "arXiv:2611.05880v1 Announce Type: new \nAbstract: Binary neutron star (BNS) mergers excite a Kelvin--Helmholtz instability (KHI) in the shear layer between them. It is parasitized upon by the magnetic field to form a powerful magnetic dynamo. Using a large ensemble of high-resolution visco-resistive ",
       "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
