@@ -1,8 +1,26 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T03:31:16.797Z",
+  "generatedAt": "2026-11-14T10:48:52.043Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0014524b0aa8184b",
+      "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
+      "link": "https://www.astronomy.com/observing/the-sky-today-saturday-november-14-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 13: Spot Mirach’s Ghost Following inferior conjunction early this month, Mercury has reappeared in the morning sky. Now magnitude 0.3, you can find the small planet some 5° above the eastern horizon an hour before ",
+      "pubDate": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000b1c3743d1ef3b",
       "title": "When Einstein's Gravitational Waves Meet Newton's Tides",
@@ -167,6 +185,25 @@
       }
     },
     {
+      "id": "001690fd15e7656c",
+      "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
+      "link": "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html",
+      "desc": "SpaceX's attempt to recover its entire Starship back at the launch pad was thwarted when the booster fell into the Gulf of Mexico and exploded Friday, but the spacecraft still soared into orbit in its boldest test yet.",
+      "pubDate": "Sat, 14 Nov 2026 01:34:10 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0004d7ab0eeb9a14",
       "title": "'Arrival' at 10: Denis Villeneuve's alien visitation classic that reminded us it's good to talk",
       "link": "https://www.space.com/entertainment/space-movies-shows/arrival-at-10-the-denis-villeneuve-alien-visitation-classic-that-reminded-us-its-good-to-talk",
@@ -186,9 +223,9 @@
     },
     {
       "id": "000eee212dbb29e5",
-      "title": "Rocket Lab launching 100th space mission early on Nov. 14: Watch it live",
+      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-100th-launch-iqps-electron-sar-satellite",
-      "desc": "Rocket Lab will launch its 100th space mission shortly after midnight on Saturday (Nov. 14), and you can watch the milestone liftoff live.",
+      "desc": "Rocket Lab launched its 100th space mission shortly after midnight on Saturday (Nov. 14), sending a private Japanese Earth-observing satellite to orbit.",
       "pubDate": "Fri, 13 Nov 2026 20:00:00 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -513,7 +550,7 @@
     },
     {
       "id": "00174c3e66c4a85d",
-      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months Nov. 14: Watch it live",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
       "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 14. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
@@ -1999,24 +2036,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "00126e9ca2baaf16",
-      "title": "The Sky Today on Wednesday, November 11: Venus comes to a halt",
-      "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-11-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 10: Seek Saturn’s two-toned moon Venus reaches a stationary point among the stars of Virgo at 10 A.M. EST. This brings its retrograde (westward) motion to an end; after today, Venus will begin moving eastward or pr",
-      "pubDate": "Wed, 11 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -9277,25 +9296,6 @@
       "title": "The kinematic Kelvin-Helmholtz instability-driven dynamo: implications for merging compact objects",
       "link": "https://arxiv.org/abs/2611.05880",
       "desc": "arXiv:2611.05880v1 Announce Type: new \nAbstract: Binary neutron star (BNS) mergers excite a Kelvin--Helmholtz instability (KHI) in the shear layer between them. It is parasitized upon by the magnetic field to form a powerful magnetic dynamo. Using a large ensemble of high-resolution visco-resistive ",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0013acc16b15a2cd",
-      "title": "The M87 Black Hole Mass from JWST and Keck Stellar Kinematics Spanning 10 pc to 10 kpc",
-      "link": "https://arxiv.org/abs/2611.05486",
-      "desc": "arXiv:2611.05486v1 Announce Type: new \nAbstract: We combine JWST NIRSpec and Keck KCWI observations to construct a contiguous 2D map of M87's stellar kinematics spanning three decades in projected radius, from ${\\sim}10$ pc to ${\\sim}10$ kpc, and measure the mass of its central supermassive black ho",
       "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {

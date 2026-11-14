@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-14T03:31:08.661Z",
-  "lastRunId": "run-1794627066753-ns1h8m",
+  "lastUpdated": "2026-11-14T10:48:41.994Z",
+  "lastRunId": "run-1794653319089-abh3gs",
   "stats": {
-    "totalStories": 1257,
-    "lastRunAdded": 8
+    "totalStories": 1259,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"1fd42417337b0a7166c6d3369e747d9f\"",
-    "https://www.universetoday.com/feed": "W/\"6af7cae5-7931\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b9096900026afbd563f3f337f2b4e406\"",
-    "http://arxiv.org/rss/astro-ph": "5c4736f0986b4efab4138b2cc82e062bf8c145b48ab28e9f0ffa5d08a1dda89c",
+    "https://www.nasa.gov/news-release/feed/": "W/\"b3423dfea91337380a0c5e4d4b292291\"",
+    "https://www.universetoday.com/feed": "W/\"6af83b56-7931\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b3423dfea91337380a0c5e4d4b292291\"",
+    "http://arxiv.org/rss/astro-ph": "abed084dc093d3b8bf65e1f5bbdcdabf2f6ec7996ef582b01acd969804bbd7e2",
     "https://spacenews.com/feed/": "W/\"4a814b1a17fa37c7c3ab52c4549bb2a8\"",
-    "https://www.astronomy.com/feed/": "W/\"f8b72ccfa74198801a230cc5bc1906e7\"",
+    "https://www.astronomy.com/feed/": "W/\"f1ac7fe43211a697912838313e00f577\"",
     "https://spacepolicyonline.com/feed/": "\"78df3e345b791497518d4bb6f40b3fbe\""
   },
   "articles": {
@@ -15099,6 +15099,30 @@
       "archivedDate": "2026-11-14",
       "collection": "morning",
       "archivedAt": "2026-11-14T03:31:08.661Z"
+    },
+    "0014524b0aa8184b": {
+      "id": "0014524b0aa8184b",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-saturday-november-14-2026",
+      "title": "The Sky Today on Saturday, November 14: Venus and Mercury in Virgo",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 14 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T10:48:41.994Z"
+    },
+    "001690fd15e7656c": {
+      "id": "001690fd15e7656c",
+      "canonicalUrl": "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html",
+      "title": "SpaceX's Starship soars into orbit after booster explosion prevents an unprecedented double catch",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 14 Nov 2026 01:34:10 EST",
+      "archivedDate": "2026-11-14",
+      "collection": "morning",
+      "archivedAt": "2026-11-14T10:48:41.994Z"
     }
   }
 }
