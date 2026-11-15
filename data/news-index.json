@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-15T15:31:06.880Z",
-  "lastRunId": "run-1794756664014-6a3g9a",
+  "lastUpdated": "2026-11-15T20:28:52.353Z",
+  "lastRunId": "run-1794774529609-7loqil",
   "stats": {
-    "totalStories": 1290,
-    "lastRunAdded": 9
+    "totalStories": 1293,
+    "lastRunAdded": 3
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"4e13a5dc53f2f2d02129dc0e0799174f\"",
-    "https://www.universetoday.com/feed": "W/\"6af9c596-796c\"",
+    "https://www.universetoday.com/feed": "W/\"6afa0c0f-796c\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"4e13a5dc53f2f2d02129dc0e0799174f\"",
     "http://arxiv.org/rss/astro-ph": "946b35064f020fadd2bb6fbdac166dadd85753ce86a982a34d4fa8ddd6261c37",
-    "https://spacenews.com/feed/": "W/\"58357bda680c504e3bcba9ca01d09178\"",
+    "https://spacenews.com/feed/": "W/\"93f5d4035d16f0f2e0144a7701653f14\"",
     "https://www.astronomy.com/feed/": "W/\"f273958077199fc0d16106e22b799eca\"",
     "https://spacepolicyonline.com/feed/": "\"ef52f7fda4d04a216d8c1717cb1c97c3\""
   },
@@ -15495,6 +15495,42 @@
       "archivedDate": "2026-11-15",
       "collection": "evening",
       "archivedAt": "2026-11-15T15:31:06.880Z"
+    },
+    "000cd1e1d883e1e5": {
+      "id": "000cd1e1d883e1e5",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/30-years-ago-space-jam-proposed-the-best-way-to-resolve-interplanetary-disputes",
+      "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sun, 15 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-15",
+      "collection": "evening",
+      "archivedAt": "2026-11-15T20:28:52.353Z"
+    },
+    "0007c079747a4067": {
+      "id": "0007c079747a4067",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-15-2026",
+      "title": "On this day in space! Nov. 15, 1988: The 300-foot Green Bank Telescope collapses suddenly, leaving a huge pile of wreckage in West Virginia",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 15 Nov 2026 15:34:00 +0000",
+      "archivedDate": "2026-11-15",
+      "collection": "evening",
+      "archivedAt": "2026-11-15T20:28:52.353Z"
+    },
+    "000a1971132563d9": {
+      "id": "000a1971132563d9",
+      "canonicalUrl": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
+      "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 15 Nov 2026 15:00:01 EST",
+      "archivedDate": "2026-11-15",
+      "collection": "evening",
+      "archivedAt": "2026-11-15T20:28:52.353Z"
     }
   }
 }
