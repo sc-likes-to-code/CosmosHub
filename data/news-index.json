@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-15T03:31:01.777Z",
-  "lastRunId": "run-1794713459423-i9oikl",
+  "lastUpdated": "2026-11-15T11:24:08.480Z",
+  "lastRunId": "run-1794741846248-7t2m1k",
   "stats": {
-    "totalStories": 1278,
-    "lastRunAdded": 5
+    "totalStories": 1281,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"cbc79cadb3d701343ed9eeec64e29d9a\"",
-    "https://www.universetoday.com/feed": "W/\"6af91cc0-7840\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"cbc79cadb3d701343ed9eeec64e29d9a\"",
-    "http://arxiv.org/rss/astro-ph": "abed084dc093d3b8bf65e1f5bbdcdabf2f6ec7996ef582b01acd969804bbd7e2",
+    "https://www.nasa.gov/news-release/feed/": "W/\"4e13a5dc53f2f2d02129dc0e0799174f\"",
+    "https://www.universetoday.com/feed": "W/\"6af98d48-7840\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"4e13a5dc53f2f2d02129dc0e0799174f\"",
+    "http://arxiv.org/rss/astro-ph": "946b35064f020fadd2bb6fbdac166dadd85753ce86a982a34d4fa8ddd6261c37",
     "https://spacenews.com/feed/": "W/\"58357bda680c504e3bcba9ca01d09178\"",
-    "https://www.astronomy.com/feed/": "W/\"c9f3a2b9afc2df02c7816fd9dcdaf5a9\"",
+    "https://www.astronomy.com/feed/": "W/\"c3af5e347edecf6b09d2325510633e95\"",
     "https://spacepolicyonline.com/feed/": "\"114a6ef2807449292d9c0025922dcda1\""
   },
   "articles": {
@@ -15351,6 +15351,42 @@
       "archivedDate": "2026-11-15",
       "collection": "morning",
       "archivedAt": "2026-11-15T03:31:01.777Z"
+    },
+    "001f46ce73958233": {
+      "id": "001f46ce73958233",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+      "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-15",
+      "collection": "morning",
+      "archivedAt": "2026-11-15T11:24:08.480Z"
+    },
+    "00178c81e2751b2c": {
+      "id": "00178c81e2751b2c",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-sunday-november-15-2026",
+      "title": "The Sky Today on Sunday, November 15: Mars and Jupiter in conjunction",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 15 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-15",
+      "collection": "morning",
+      "archivedAt": "2026-11-15T11:24:08.480Z"
+    },
+    "000c458faa0c5f98": {
+      "id": "000c458faa0c5f98",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 14 Nov 2026 20:52:47 EST",
+      "archivedDate": "2026-11-15",
+      "collection": "morning",
+      "archivedAt": "2026-11-15T11:24:08.480Z"
     }
   }
 }

@@ -1,8 +1,44 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T03:31:08.467Z",
+  "generatedAt": "2026-11-15T11:24:16.363Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001f46ce73958233",
+      "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch",
+      "desc": "SpaceX just made spaceflight history, catching the upper stage of its Starship megarocket when it returned to Earth. But Starship still has some pretty big boxes left to check.",
+      "pubDate": "Sun, 15 Nov 2026 11:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00178c81e2751b2c",
+      "title": "The Sky Today on Sunday, November 15: Mars and Jupiter in conjunction",
+      "link": "https://www.astronomy.com/observing/the-sky-today-sunday-november-15-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 14: Venus and Mercury in Virgo Jupiter and Mars are approaching opposition in February next year. They are now rising late in the evening and dominate the early-morning sky. By 3 A.M. local time, the two planets ar",
+      "pubDate": "Sun, 15 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001abbe4fade4cf6",
       "title": "The First Foreign Astronaut Will Visit China's Tiangong Space Station in Two Weeks",
@@ -73,6 +109,24 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000c458faa0c5f98",
+      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+      "desc": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the fir",
+      "pubDate": "Sat, 14 Nov 2026 20:52:47 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -6279,24 +6333,6 @@
       }
     },
     {
-      "id": "000e6e3715ebc23f",
-      "title": "The Sky Today on Sunday, November 8: Io and Callisto race across Jupiter",
-      "link": "https://www.astronomy.com/observing/the-sky-today-sunday-november-8-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 7: Venus meets the Moon Rising with the stars of western Leo shortly before midnight, bright Jupiter and its Galilean moons put on a show early this morning, better visible the farther east you’re located.  Jupiter",
-      "pubDate": "Sun, 08 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "001d49b04c37d2dc",
       "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy",
       "link": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
@@ -9248,44 +9284,6 @@
       "title": "Identifying Compact Object Candidates using Gaia DR3 Astrometric Accelerations and Jerks",
       "link": "https://arxiv.org/abs/2611.05536",
       "desc": "arXiv:2611.05536v1 Announce Type: new \nAbstract: Gaia Data Release 3 (DR3) provides astrometric measurements for more than a billion sources, hundreds of thousands of which have non-single-star astrometric solutions that indicate deviations from linear proper motion. Although sources with orbital so",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015efe1dafcae4d",
-      "title": "Insights on the mass composition of ultrahigh-energy cosmic rays from small-scale anisotropy with large-scale structure simulations",
-      "link": "https://arxiv.org/abs/2611.05783",
-      "desc": "arXiv:2611.05783v1 Announce Type: new \nAbstract: Ultra-high-energy cosmic rays (UHECRs) above 100 EeV provide important clues to the most energetic processes in the Universe. At the highest energies, it is expected that UHECRs originate only from nearby sources because of energy losses during propag",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00080c93d1144a83",
-      "title": "Longitudinal-field particle acceleration in channels generated by strong electromagnetic waves in pair plasma",
-      "link": "https://arxiv.org/abs/2611.05948",
-      "desc": "arXiv:2611.05948v1 Announce Type: new \nAbstract: Relativistically strong electromagnetic waves interacting with pair plasmas appear in astrophysical settings and may become accessible in future laboratory experiments using high-power lasers. Transverse modulations and filamentation can turn extended",
       "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
