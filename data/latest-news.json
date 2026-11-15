@@ -1,8 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T11:24:16.363Z",
+  "generatedAt": "2026-11-15T15:31:17.368Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001ca98c74716aef",
+      "title": "Why hasn't the 'Blaze Star' exploded yet? Astronomers weigh in on what to expect",
+      "link": "https://www.space.com/stargazing/why-hasnt-the-blaze-star-exploded-yet-astronomers-weigh-in-on-what-to-expect",
+      "desc": "\"T CrB *will* erupt sometime soon. Everyone is very confident on this.\"",
+      "pubDate": "Sun, 15 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0000c2d99fea45a4",
+      "title": "Nov. 15, 1988: The Buran orbiter launches",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-15-1988-the-buran-orbiter-launches",
+      "desc": "In 1976, the Soviet Union began development of the Buran orbiter. Concerned that the American space shuttle program might be used for military purposes, the Soviets responded with Buran and its Energia booster rocket, which were capable of carrying antisatellite and antimissile weapons and targeting",
+      "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00131a065d3167db",
+      "title": "Navigating Lunar Orbit Using Nothing But Shadows And A Power Meter",
+      "link": "https://www.universetoday.com/articles/navigating-lunar-orbit-using-nothing-but-shadows-and-a-power-meter",
+      "desc": "Humanity is quickly starting to saturate our ability to track all of the satellites we have in deep space. NASA’s Deep Space Network (DSN) has been the workhorse for tracking such things for decades, but is quickly being overwhelmed by the number of requests it receives. Which in turn makes it harde",
+      "pubDate": "Sun, 15 Nov 2026 13:22:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017f55cadcd8546",
+      "title": "How escaping gases ripped apart a comet and caused it to become thousands of times brighter",
+      "link": "https://www.space.com/astronomy/comets/how-escaping-gases-ripped-apart-a-comet-and-caused-it-to-become-thousands-of-times-brighter",
+      "desc": "This summer, comet 220P/McNaught burst into life out of nowhere to become one of the year’s highlights for amateur astronomers.",
+      "pubDate": "Sun, 15 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001f46ce73958233",
       "title": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
@@ -36,6 +108,99 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "001ff72a40c58fc4",
+      "title": "New observations challenge evidence for an 'outsize' black hole in the early universe",
+      "link": "https://phys.org/news/2026-11-evidence-outsize-black-hole-early.html",
+      "desc": "A recent reanalysis of the outsize black hole galaxy UHZ1 using existing X-ray data and new infrared observations challenges a previous groundbreaking claim. Three years ago, this galaxy made news for hosting an unusually massive and heavily dust-obscured black hole formed through direct collapse. L",
+      "pubDate": "Sun, 15 Nov 2026 09:00:04 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000be86c1db58214",
+      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+      "desc": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their mag",
+      "pubDate": "Sun, 15 Nov 2026 08:43:22 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001d3d908ef505b5",
+      "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+      "link": "https://phys.org/news/2026-11-spacex-starship-orbit-captured-pad.html",
+      "desc": "SpaceX's Starship made a triumphant return to Earth on Saturday, caught in midair by giant mechanical arms where its journey began 22 hours earlier.",
+      "pubDate": "Sun, 15 Nov 2026 08:06:43 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001822b5ae722f84",
+      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+      "desc": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to on",
+      "pubDate": "Sun, 15 Nov 2026 08:04:09 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00068e8004e81a9a",
+      "title": "ALMA reveals three star-forming cores at different stages inside one gas clump",
+      "link": "https://phys.org/news/2026-11-alma-reveals-star-cores-stages.html",
+      "desc": "Astronomers have revealed three dense cores at different evolutionary stages within the massive star-forming region G40.282−0.219, shedding light on the physical and chemical differences among cores within the same massive dense clump.",
+      "pubDate": "Sun, 15 Nov 2026 08:00:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -898,7 +1063,7 @@
     },
     {
       "id": "00174c3e66c4a85d",
-      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months on Nov. 15: Watch it live",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
       "desc": "United Launch Alliance's Vulcan Centaur rocket will launch 40 Amazon internet satellites to orbit on Nov. 15. You can watch the liftoff — Vulcan's first since February —live here at Space.com.",
       "pubDate": "Fri, 13 Nov 2026 11:00:00 +0000",
@@ -9113,177 +9278,6 @@
       "title": "Fast and accurate false-alarm probabilities for linear detection statistics in Poisson noise",
       "link": "https://arxiv.org/abs/2611.05510",
       "desc": "arXiv:2611.05510v1 Announce Type: new \nAbstract: Detecting weak signals in noisy data often requires calculating the statistical significance, or false- alarm probability, of a detection statistic. When the underlying noise follows Poisson statistics, as in low-count measurements such as photon-star",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000ef3c97270bd63",
-      "title": "Frequent Optical Flares in an M-type Detached Eclipsing Binary TIC 349005337",
-      "link": "https://arxiv.org/abs/2611.05881",
-      "desc": "arXiv:2611.05881v1 Announce Type: new \nAbstract: A comprehensive photometric and spectroscopic analysis of TIC 349005337, a highly active M-type detached eclipsing binary with an orbital period of 2.6079133 days, is presented utilizing high-cadence and long-term monitoring photometry from the Transi",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0004f62acd687c6d",
-      "title": "From Early Concepts to Lunar Hypertelescopes Roadmap for Next-Generation Optical Astronomy on the Moon",
-      "link": "https://arxiv.org/abs/2611.05434",
-      "desc": "arXiv:2611.05434v1 Announce Type: new \nAbstract: Since the dawn of the Space Age, the Moon has been considered one of the most promising locations for astronomical observations. The absence of atmosphere, exceptional mechanical stability, access to the permanently shielded radio-quiet far side, and ",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001731f70f86eb50",
-      "title": "From Earth's Harshest Landscapes to Lunar Horizons: Engineering NEA Telescopes for Extreme Environments",
-      "link": "https://arxiv.org/abs/2611.05435",
-      "desc": "arXiv:2611.05435v1 Announce Type: new \nAbstract: Near-Earth Asteroids (NEAs) represent both a scientific opportunity and a potential threat to human civilization. While current survey programs have successfully detected most large NEAs, a significant observational gap remains for objects smaller tha",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0018651f12781bbb",
-      "title": "Gravitational waves flooding the Universe after wall domination",
-      "link": "https://arxiv.org/abs/2611.05504",
-      "desc": "arXiv:2611.05504v1 Announce Type: new \nAbstract: We discuss a possible early Universe scenario, where radiation era is interrupted by the epoch of domination of domain walls eventually annihilating into particles. During this period the Universe undergoes accelerated expansion, while the comoving co",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0012785bfbf13c20",
-      "title": "Gravitational-Wave Microlensing as a Probe of Compact Object Population",
-      "link": "https://arxiv.org/abs/2611.05947",
-      "desc": "arXiv:2611.05947v1 Announce Type: new \nAbstract: The abundance of compact objects ranging from stellar to intermediate masses ($\\sim 1 - 10^{5}M_{\\odot}$) remains poorly constrained, particularly for populations such as primordial black holes and dark matter subhalos that emit little or no electroma",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001f82c1d0e42559",
-      "title": "HLA-Net: A Physics-Guided Skeleton-Based Framework for Automatic Gravitational Arc Detection in Astronomical Images",
-      "link": "https://arxiv.org/abs/2611.05438",
-      "desc": "arXiv:2611.05438v1 Announce Type: new \nAbstract: Gravitational arcs produced by strong gravitational lensing provide a unique approach for investigating dark matter distribution, galaxy cluster mass reconstruction and the structure of the Universe. Automated detection remains challenging because gra",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0001ce7812b1e83a",
-      "title": "How fast is the fastest-rotating O-type star in the Galaxy?",
-      "link": "https://arxiv.org/abs/2611.05760",
-      "desc": "arXiv:2611.05760v1 Announce Type: new \nAbstract: {Rapid rotation distorts massive stars, making parameters from spherical models inclination-dependent. We studied these effects in the extreme Galactic O-type runaway LAMOST J040643.69+542347.8.} {We re-determined its stellar and rotational parameters",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00031ad45c8d9057",
-      "title": "How sky subtraction scales affect Intracluster light measurements",
-      "link": "https://arxiv.org/abs/2611.05467",
-      "desc": "arXiv:2611.05467v1 Announce Type: new \nAbstract: Deep imaging surveys are opening a new window on the low surface brightness universe. However, the recovery of diffuse emission depends on the survey depth and how the sky background is treated. Estimating the sky on scales comparable to astrophysical",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001d6a2c0c2a9df4",
-      "title": "Identifying Compact Object Candidates using Gaia DR3 Astrometric Accelerations and Jerks",
-      "link": "https://arxiv.org/abs/2611.05536",
-      "desc": "arXiv:2611.05536v1 Announce Type: new \nAbstract: Gaia Data Release 3 (DR3) provides astrometric measurements for more than a billion sources, hundreds of thousands of which have non-single-star astrometric solutions that indicate deviations from linear proper motion. Although sources with orbital so",
       "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
