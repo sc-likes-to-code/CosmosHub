@@ -1,8 +1,134 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T11:56:39.484Z",
+  "generatedAt": "2026-11-16T15:31:15.300Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Mon, 16 Nov 2026 15:15:18 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f26a00a3499b4",
+      "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
+      "link": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
+      "desc": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
+      "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000162ff08c1d3ed",
+      "title": "Could planets that orbit other stars be nonspherical?",
+      "link": "https://www.astronomy.com/science/could-planets-that-orbit-other-stars-be-nonspherical",
+      "desc": "Could planets that orbit other stars be nonspherical shapes, such as ovals or pears, depending on composition? Rich LivitskiSeal Beach, California Bodies large enough to be considered planets have enough mass that gravity molds them into a roughly spherical shape.  The key word here is roughly — oth",
+      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00046ccf37f4cd25",
+      "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
+      "desc": "Sierra Space's Dream Chaser is aiming for its first spaceflight after more than 20 years of development, and the space plane now has FAA approval to come home.",
+      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00061555489f46c3",
+      "title": "Nov. 16, 1974: Arecibo sends a message",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-16-1974-arecibo-sends-a-message",
+      "desc": "On Nov. 16, 1974, a group gathered at Arecibo Observatory in the rainforest interior of Puerto Rico, there for a reopening celebration after upgrades to the facility. After the requisite speeches, scientists used the radio telescope to send what would be known as the Arecibo message: 1,679 bits of d",
+      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00109c685d98e0d7",
+      "title": "‘Avengers Endgame: Encore’ is now streaming on Disney+, with 4 minutes of bonus footage and a special ‘Doomsday’ preview",
+      "link": "https://www.space.com/entertainment/space-movies-shows/avengers-endgame-encore-is-now-streaming-on-disney-with-4-minutes-of-bonus-footage-and-a-special-doomsday-preview",
+      "desc": "Armed with bonus scenes and extras, Marvel Studios' updated version of its 2019 blockbuster just landed on Disney+",
+      "pubDate": "Mon, 16 Nov 2026 13:30:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0016a7c78c7359f0",
+      "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
+      "link": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
+      "desc": "\"I think once people are aware of it, they want the same sustainability standards for protecting our planet\".",
+      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "001b2e4936a47ec7",
       "title": "Stars and satellites",
@@ -966,6 +1092,61 @@
           "Astronomy",
           "Research",
           "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0018821e35a9653c",
+      "title": "Now fully online, the Simons Observatory will shape new studies of the Milky Way and the cosmos",
+      "link": "https://phys.org/news/2026-11-fully-online-simons-observatory-milky.html",
+      "desc": "A new survey of the sky, from the largest structures in the universe to the dust and magnetic fields in our own Milky Way, is now fully underway. After two years of calibration, additional telescopes and a new solar array to provide energy security, the Simons Observatory (SO) in Chile's Atacama Des",
+      "pubDate": "Mon, 16 Nov 2026 10:20:05 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0012e747873377a5",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
+      "desc": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars.",
+      "pubDate": "Mon, 16 Nov 2026 09:02:10 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00087848d5ce8975",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
+      "desc": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against ",
+      "pubDate": "Mon, 16 Nov 2026 08:40:11 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -2092,24 +2273,6 @@
       "desc": "On May 30, 1971, Mariner 9 launched, setting off on its mission to Mars. On Nov. 13, 167 days later, it entered orbit around Mars, making it the first spacecraft to orbit another planet. With Mariner 8, Mariner 9 was one half of the Mars 71 mission. But when Mariner 8 launched on May 9,Continue read",
       "pubDate": "Fri, 13 Nov 2026 14:00:00 +0000",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Fri, 13 Nov 2026 13:42:17 +0000",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
         "key": "astronomymagazine",
@@ -9125,177 +9288,6 @@
       "title": "The ALPINE-CRISTAL-JWST Survey: The Tully-Fisher Relation at $z = 4-6$",
       "link": "https://arxiv.org/abs/2611.07064",
       "desc": "arXiv:2611.07064v1 Announce Type: new \nAbstract: The Tully-Fisher relation provides a fundamental link between galaxy mass and their kinematics. Although its evolution is relatively well constrained up to cosmic noon, observational probes at higher redshifts remain scarce. In this work, we investiga",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015b050f1abe356",
-      "title": "The Composition of M-dwarf Exoplanet Hosts: Atmospheric Parameters and O, Mg, Si, and Fe Abundances from IR Spectroscopy",
-      "link": "https://arxiv.org/abs/2611.07037",
-      "desc": "arXiv:2611.07037v1 Announce Type: new \nAbstract: Determining M-dwarf abundances is an important step to discerning the chemical evolution of the Milky Way and characterizing exoplanetary systems, especially since these objects commonly host small exoplanets. However, a dearth of M-dwarf abundance me",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0019f4dc3a8d5a6c",
-      "title": "The HST-Hyperion Survey: X-ray AGN Enhancement in the Hyperion Proto-supercluster",
-      "link": "https://arxiv.org/abs/2611.07047",
-      "desc": "arXiv:2611.07047v1 Announce Type: new \nAbstract: Dense environments can influence both galaxy evolution and supermassive black hole growth, but whether they enhance or suppress (or both) active galactic nuclei (AGN) activity at high redshift ($z\\gtrsim2$) remains uncertain. As one of the most massiv",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001c2e04756b0c74",
-      "title": "The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems IX: A Multi-Wavelength Framework for Source Characterization in JWST Coronagraphic Imaging of the HIP 65426 System",
-      "link": "https://arxiv.org/abs/2611.07034",
-      "desc": "arXiv:2611.07034v1 Announce Type: new \nAbstract: We present an updated analysis of the JWST coronagraphic imaging data of the HIP 65426 system. We aim to search for and characterize potential planetary companions as well as provide updated astrometry and photometry for the known exoplanet HIP 65426 ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001aacc235bc575e",
-      "title": "The Milky Way-like radial structure in nearby galaxies",
-      "link": "https://arxiv.org/abs/2611.07338",
-      "desc": "arXiv:2611.07338v1 Announce Type: new \nAbstract: The Milky Way exhibits a distinctive plateau in its inner surface brightness profile around one effective radius, challenging the traditional view of a purely exponential disk. To explore the origin of this feature, we identify 65 nearby galaxies ($<5",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001134cbff7e36de",
-      "title": "The obscured nucleus of NGC3256 S. I. Anisotropic AGN near-IR radiation field traced by CO v=1-0 with JWST/NIRSpec",
-      "link": "https://arxiv.org/abs/2611.07020",
-      "desc": "arXiv:2611.07020v1 Announce Type: new \nAbstract: The southern nucleus of NGC3256, a nearby luminous infrared (IR) interacting system (d=40 Mpc; L(IR)=10^11.6 Lsun), hosts a deeply obscured low-luminosity active galactic nucleus (AGN) associated with a massive and fast bipolar collimated molecular ou",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00042d2041614abc",
-      "title": "The Pristine survey XXXI. A stream offset from the Stream: very metal-poor stellar debris trailing 100$^{\\circ}$ from the LMC-SMC system",
-      "link": "https://arxiv.org/abs/2611.07563",
-      "desc": "arXiv:2611.07563v1 Announce Type: new \nAbstract: Context: The stellar counterpart to the $200^\\circ$-long HI Stream from the Clouds probes their tidally stripped stellar populations and constrains their interaction history and structure before infall into the Milky Way. Aims: We investigate the chem",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0001fe4f380854fe",
-      "title": "The retirement party of GRS 1915+105: the radio fading to quiescence of the archetypal microquasar",
-      "link": "https://arxiv.org/abs/2611.07039",
-      "desc": "arXiv:2611.07039v1 Announce Type: new \nAbstract: After more than 25 years of near-Eddington activity and over six years in a Compton-thick obscured phase, the black-hole X-ray binary GRS 1915+105 has begun to fade in the radio to a level lower than ever previously recorded, possibly marking the onse",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0005a54644c73b19",
-      "title": "Unveiling the Origins of Local Group Galaxies with ELT-SHARP: An Overview of Science Cases",
-      "link": "https://arxiv.org/abs/2611.06963",
-      "desc": "arXiv:2611.06963v1 Announce Type: new \nAbstract: The $\\Lambda$CDM paradigm successfully describes large-scale cosmic structure, yet tensions possibly persist on galactic and sub-galactic scales. The Milky Way and the Local Universe offer a uniquely accessible laboratory to probe these discrepancies ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0001702c7a8d53d7",
-      "title": "Using Structure Functions to Characterize Protoplanetary Disk Velocity Residuals",
-      "link": "https://arxiv.org/abs/2611.07305",
-      "desc": "arXiv:2611.07305v1 Announce Type: new \nAbstract: Protoplanetary disks, the birthplace of planetary systems, are highly dynamic environments. High angular and spectral resolution observations have revealed non-Keplerian motions in nearly every source studied, indicative of (magneto-)hydrodynamical in",
       "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
