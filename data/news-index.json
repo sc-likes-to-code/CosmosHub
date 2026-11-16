@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-15T20:28:52.353Z",
-  "lastRunId": "run-1794774529609-7loqil",
+  "lastUpdated": "2026-11-16T03:31:08.384Z",
+  "lastRunId": "run-1794799865893-8sf7e5",
   "stats": {
-    "totalStories": 1293,
+    "totalStories": 1296,
     "lastRunAdded": 3
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"4e13a5dc53f2f2d02129dc0e0799174f\"",
-    "https://www.universetoday.com/feed": "W/\"6afa0c0f-796c\"",
+    "https://www.universetoday.com/feed": "W/\"6afa6e1a-796c\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"4e13a5dc53f2f2d02129dc0e0799174f\"",
     "http://arxiv.org/rss/astro-ph": "946b35064f020fadd2bb6fbdac166dadd85753ce86a982a34d4fa8ddd6261c37",
-    "https://spacenews.com/feed/": "W/\"93f5d4035d16f0f2e0144a7701653f14\"",
+    "https://spacenews.com/feed/": "W/\"1cbd11f349dc59e78bd4de2acc05aca0\"",
     "https://www.astronomy.com/feed/": "W/\"f273958077199fc0d16106e22b799eca\"",
-    "https://spacepolicyonline.com/feed/": "\"ef52f7fda4d04a216d8c1717cb1c97c3\""
+    "https://spacepolicyonline.com/feed/": "\"9cecea1b68ba9bdee2384b43ef29a75a\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -15531,6 +15531,42 @@
       "archivedDate": "2026-11-15",
       "collection": "evening",
       "archivedAt": "2026-11-15T20:28:52.353Z"
+    },
+    "00190826b68ca1d5": {
+      "id": "00190826b68ca1d5",
+      "canonicalUrl": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026",
+      "title": "What’s Happening in Space Policy November 15-21, 2026",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 15 Nov 2026 23:13:57 +0000",
+      "archivedDate": "2026-11-16",
+      "collection": "morning",
+      "archivedAt": "2026-11-16T03:31:08.384Z"
+    },
+    "000794c8c6448bce": {
+      "id": "000794c8c6448bce",
+      "canonicalUrl": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails",
+      "title": "Vulcan’s Return-to-Flight Fails",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 15 Nov 2026 22:35:19 +0000",
+      "archivedDate": "2026-11-16",
+      "collection": "morning",
+      "archivedAt": "2026-11-16T03:31:08.384Z"
+    },
+    "00020f57769b407d": {
+      "id": "00020f57769b407d",
+      "canonicalUrl": "https://phys.org/news/2026-11-aging-stars-sudden-luminosity-dip.html",
+      "title": "Why aging stars suffer a sudden luminosity dip",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 15 Nov 2026 20:30:01 EST",
+      "archivedDate": "2026-11-16",
+      "collection": "morning",
+      "archivedAt": "2026-11-16T03:31:08.384Z"
     }
   }
 }

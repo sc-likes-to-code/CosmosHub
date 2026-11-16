@@ -1,8 +1,46 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T20:29:02.229Z",
+  "generatedAt": "2026-11-16T03:31:16.200Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00190826b68ca1d5",
+      "title": "What’s Happening in Space Policy November 15-21, 2026",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026",
+      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 15-21, 2026 and any insight we can offer about them. The House and Senate are in session […]",
+      "pubDate": "Sun, 15 Nov 2026 23:13:57 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "000794c8c6448bce",
+      "title": "Vulcan’s Return-to-Flight Fails",
+      "link": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails",
+      "desc": "The United Launch Alliance’s eagerly awaited return-to-flight of the Vulcan rocket today did not go as planned. An anomaly 10 minutes after launch meant the 40 Amazon Leo satellites did […]",
+      "pubDate": "Sun, 15 Nov 2026 22:35:19 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "000cd1e1d883e1e5",
       "title": "30 years ago, 'Space Jam' proposed the best way to resolve interplanetary disputes",
@@ -36,6 +74,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "00020f57769b407d",
+      "title": "Why aging stars suffer a sudden luminosity dip",
+      "link": "https://phys.org/news/2026-11-aging-stars-sudden-luminosity-dip.html",
+      "desc": "From a naked-eye perspective, stars are stable and predictable. Not much goes on but shining. The sun itself is fairly plain and nondescript and will shine relatively steadily for billions of years. It's considered a low-mass star compared to the most massive stars, which are rarer and contain many ",
+      "pubDate": "Sun, 15 Nov 2026 20:30:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -6389,25 +6446,6 @@
       }
     },
     {
-      "id": "000c920a34b1a376",
-      "title": "What’s Happening in Space Policy November 8-14, 2026",
-      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-8-14-2026",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 8-14, 2026 and any insight we can offer about them. The House and Senate are in session […]",
-      "pubDate": "Sun, 08 Nov 2026 22:27:24 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
       "id": "0009c49315ee3330",
       "title": "Gemini North reveals Twin Spirits in Pegasus",
       "link": "https://www.astronomy.com/science/gemini-north-reveals-twin-spirits-in-pegasus",
@@ -9238,44 +9276,6 @@
       "title": "CosmoVerse Data Challenge: How Tip of the Red Giant Branch Analysis Choices Shape the Inferred Hubble Constant",
       "link": "https://arxiv.org/abs/2611.05468",
       "desc": "arXiv:2611.05468v1 Announce Type: new \nAbstract: Tip of the red giant branch (TRGB)-based determinations of the Hubble constant ($H_0$), the current expansion rate of the Universe, depend on choices made in selecting and analyzing stellar photometry and in assembling the sample of calibrator galaxie",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000a2e6233713ed7",
-      "title": "DESI DR2 Results III: The Mass of the Milky Way",
-      "link": "https://arxiv.org/abs/2611.05518",
-      "desc": "arXiv:2611.05518v1 Announce Type: new \nAbstract: We present measurements of the mass of the Milky Way using distant halo stars selected from the Dark Energy Spectroscopic Instrument (DESI) Data Release 2 (DR2). We apply four dynamical modeling methods to 10,036 RR Lyrae (RRL) and blue horizontal bra",
-      "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0006179082a5ef26",
-      "title": "Dynamics of self-gravitating halos with decaying dark matter",
-      "link": "https://arxiv.org/abs/2611.05474",
-      "desc": "arXiv:2611.05474v1 Announce Type: new \nAbstract: We study the evolution of self-gravitating spherical dark matter halos composed of dark matter particles that decay to a slightly less massive particle and a massless particle. The small kick velocity imparted to the daughter particle upon decay heats",
       "pubDate": "Thu, 05 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
