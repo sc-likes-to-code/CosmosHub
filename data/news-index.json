@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-16T15:31:06.382Z",
-  "lastRunId": "run-1794843063308-4sax71",
+  "lastUpdated": "2026-11-16T23:48:41.844Z",
+  "lastRunId": "run-1794872918834-vjp1vu",
   "stats": {
-    "totalStories": 1357,
-    "lastRunAdded": 9
+    "totalStories": 1378,
+    "lastRunAdded": 21
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"be1f17cab80f4ecb171ab968cd3e96de\"",
-    "https://www.universetoday.com/feed": "W/\"6afb16d4-796c\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"6ac96613464f586927962d87bc02455a\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"92d82d3f46edcc6ffa57835b5fa19fc1\"",
+    "https://www.universetoday.com/feed": "W/\"6afb9564-7a92\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a6a07648bafdae3b2840ecb2ac757279\"",
     "http://arxiv.org/rss/astro-ph": "66f9be32ac87545e39237580c597a2f10629c9cb74face3021fc7c7c17201544",
-    "https://spacenews.com/feed/": "W/\"e752e0f8a6f12d2772a15e67113c8962\"",
-    "https://www.astronomy.com/feed/": "W/\"90c7467d34d9276cb81fe02f8bbadf71\"",
-    "https://spacepolicyonline.com/feed/": "\"b954bb413860fc388823f26d49f02b31\""
+    "https://spacenews.com/feed/": "W/\"3f304d61f643fd7e9d78e97aab4ad908\"",
+    "https://www.astronomy.com/feed/": "W/\"891480908313f0ecfaed16563aa04379\"",
+    "https://spacepolicyonline.com/feed/": "\"17b1d41c8976b8774e8aff8361dc2031\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -16299,6 +16299,258 @@
       "archivedDate": "2026-11-16",
       "collection": "evening",
       "archivedAt": "2026-11-16T15:31:06.382Z"
+    },
+    "000109b5c9ca1689": {
+      "id": "000109b5c9ca1689",
+      "canonicalUrl": "https://www.astronomy.com/whats-launching-this-week/falcon-9-flies-national-security-doubleheader",
+      "title": "Falcon 9 flies national security doubleheader",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 16 Nov 2026 22:45:12 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000f72072968789d": {
+      "id": "000f72072968789d",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 16 Nov 2026 22:05:23 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000fc9c4919b9fc9": {
+      "id": "000fc9c4919b9fc9",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
+      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "00038b8619ab5461": {
+      "id": "00038b8619ab5461",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
+      "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 21:26:29 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000cb33688172cb6": {
+      "id": "000cb33688172cb6",
+      "canonicalUrl": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
+      "title": "This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 16 Nov 2026 21:11:30 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001e4c8306bc1205": {
+      "id": "001e4c8306bc1205",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion",
+      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Mon, 16 Nov 2026 20:30:40 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001900147af3de8b": {
+      "id": "001900147af3de8b",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
+      "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 20:04:22 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000a3a7d0fded237": {
+      "id": "000a3a7d0fded237",
+      "canonicalUrl": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
+      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001dee68c3c70ef4": {
+      "id": "001dee68c3c70ef4",
+      "canonicalUrl": "https://www.universetoday.com/articles/this-rare-binary-star-emits-radio-pulses-every-few-minutes-will-it-eventually-explode",
+      "title": "This Rare Binary Star Emits Radio Pulses Every Few Minutes. Will It Eventually Explode?",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 16 Nov 2026 19:30:47 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000276531342cc01": {
+      "id": "000276531342cc01",
+      "canonicalUrl": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
+      "title": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 16 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000742c1b484de7b": {
+      "id": "000742c1b484de7b",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth",
+      "title": "Sentinel-6B in Orbit Around Earth",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 18:52:32 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "0012d471db8c9fbc": {
+      "id": "0012d471db8c9fbc",
+      "canonicalUrl": "https://www.nasa.gov/image-article/thunderbirds-in-formation",
+      "title": "Thunderbirds in Formation",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Mon, 16 Nov 2026 18:34:47 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001b3ec44787dde8": {
+      "id": "001b3ec44787dde8",
+      "canonicalUrl": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
+      "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 16 Nov 2026 18:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000a87ed37a2f28d": {
+      "id": "000a87ed37a2f28d",
+      "canonicalUrl": "https://www.jpl.nasa.gov/news/nasa-european-sea-level-satellite-prepped-for-new-role",
+      "title": "NASA, European Sea Level Satellite Prepped for New Role",
+      "source": "NASA JPL",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 16 Nov 2026 09:30:00 -0800",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000ee07dacafa946": {
+      "id": "000ee07dacafa946",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
+      "title": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "0006625572e66240": {
+      "id": "0006625572e66240",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
+      "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001b1cbcbbf400e8": {
+      "id": "001b1cbcbbf400e8",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy",
+      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 15:22:09 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "00165c6dc28e3d2d": {
+      "id": "00165c6dc28e3d2d",
+      "canonicalUrl": "https://phys.org/news/2026-11-euclid-alpha-stars-distant-galaxies.html",
+      "title": "Euclid's H-alpha observations map where stars form in distant galaxies",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 16 Nov 2026 18:40:07 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "0008849f0f94cf40": {
+      "id": "0008849f0f94cf40",
+      "canonicalUrl": "https://phys.org/news/2026-11-sunspot-dynamic-fibrils-linked-magnetoacoustic.html",
+      "title": "Sunspot dynamic fibrils linked to slow magnetoacoustic waves",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 16 Nov 2026 18:00:02 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001159de12f925ae": {
+      "id": "001159de12f925ae",
+      "canonicalUrl": "https://phys.org/news/2026-11-written-sand-dunes-reveal-secrets.html",
+      "title": "Written in sand: How dunes reveal the secrets of planetary winds",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Mon, 16 Nov 2026 15:00:23 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "001e4e6a4a0dd470": {
+      "id": "001e4e6a4a0dd470",
+      "canonicalUrl": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
+      "title": "Dirty ice around young star Beta Pictoris suggests frequent collisions and sheds light on the system's formation",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 16 Nov 2026 12:30:02 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-16T23:48:41.844Z"
     }
   }
 }
