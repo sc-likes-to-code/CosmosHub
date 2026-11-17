@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-17T03:31:09.786Z",
-  "lastRunId": "run-1794886266682-nav5z0",
+  "lastUpdated": "2026-11-17T12:19:37.743Z",
+  "lastRunId": "run-1794917975551-owibbd",
   "stats": {
-    "totalStories": 1380,
-    "lastRunAdded": 2
+    "totalStories": 1392,
+    "lastRunAdded": 12
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b54fd5a2beaccecc3893fbfb1b238eb8\"",
-    "https://www.universetoday.com/feed": "W/\"6afbbfc0-7a92\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b54fd5a2beaccecc3893fbfb1b238eb8\"",
-    "http://arxiv.org/rss/astro-ph": "66f9be32ac87545e39237580c597a2f10629c9cb74face3021fc7c7c17201544",
-    "https://spacenews.com/feed/": "W/\"5b75e51915b4353a73b430459b636aea\"",
-    "https://www.astronomy.com/feed/": "W/\"891480908313f0ecfaed16563aa04379\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"7920934023876543df81c293e114163b\"",
+    "https://www.universetoday.com/feed": "W/\"6afc3e6c-78ea\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"7920934023876543df81c293e114163b\"",
+    "http://arxiv.org/rss/astro-ph": "c0277ba7d4204dcb06cd6854b756d98062e20eb4dd0839185cb6b9a6df2463bd",
+    "https://spacenews.com/feed/": "W/\"38e0fb2975772276604074f7235d622a\"",
+    "https://www.astronomy.com/feed/": "W/\"e8d093303ed9b42fee1b5d16f736bafb\"",
     "https://spacepolicyonline.com/feed/": "\"17b1d41c8976b8774e8aff8361dc2031\""
   },
   "articles": {
@@ -16575,6 +16575,150 @@
       "archivedDate": "2026-11-17",
       "collection": "morning",
       "archivedAt": "2026-11-17T03:31:09.786Z"
+    },
+    "0001fdc569f6ebde": {
+      "id": "0001fdc569f6ebde",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+      "title": "Satellites now outnumber the visible stars above most towns",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "001c9ea6ae247632": {
+      "id": "001c9ea6ae247632",
+      "canonicalUrl": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
+      "title": "Galaxy Outflows Likely Regulate Star Formation At ‘Cosmic Noon’ NASA’s Webb Reveals",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 09:29:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "000f5c7212310244": {
+      "id": "000f5c7212310244",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-17-2026",
+      "title": "The Sky Today on Tuesday, November 17: Spotlight on the Pleiades",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "001c0956adc319a8": {
+      "id": "001c0956adc319a8",
+      "canonicalUrl": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
+      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "00095e5b62b409ef": {
+      "id": "00095e5b62b409ef",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 17 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "000ac8fdd56f365d": {
+      "id": "000ac8fdd56f365d",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud",
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 17 Nov 2026 05:01:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "001a3a070e7198d0": {
+      "id": "001a3a070e7198d0",
+      "canonicalUrl": "https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity",
+      "title": "Ringing Black Holes Offer Precision Tests of Relativity",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 04:40:38 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "000aa4db14244b6a": {
+      "id": "000aa4db14244b6a",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 07:14:04 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "000018be49c4da01": {
+      "id": "000018be49c4da01",
+      "canonicalUrl": "https://phys.org/news/2026-11-desi-milky-precisely.html",
+      "title": "DESI weighs the Milky Way more precisely than ever",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 17 Nov 2026 07:00:01 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "00156292602ed785": {
+      "id": "00156292602ed785",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm",
+      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Tue, 17 Nov 2026 05:45:41 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "000ed8ae905941ff": {
+      "id": "000ed8ae905941ff",
+      "canonicalUrl": "https://phys.org/news/2026-11-japan-space-probe.html",
+      "title": "Japan space probe changes target over engine trouble",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 17 Nov 2026 05:38:13 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "001cd23de3fbf52a": {
+      "id": "001cd23de3fbf52a",
+      "canonicalUrl": "https://phys.org/news/2026-11-sun-earth-jupiter-white-dwarfs.html",
+      "title": "The sun, Earth, Jupiter and white dwarfs: Potential traps for dark matter",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 17 Nov 2026 00:00:01 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T12:19:37.743Z"
     }
   }
 }

@@ -1,8 +1,211 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T03:31:19.665Z",
+  "generatedAt": "2026-11-17T12:19:43.725Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0001fdc569f6ebde",
+      "title": "Satellites now outnumber the visible stars above most towns",
+      "link": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
+      "desc": "More than 700 satellites are crossing the sky over an average mid-latitude town at any moment of the night, outnumbering in many cases the stars visible to the naked eye.",
+      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001c9ea6ae247632",
+      "title": "Galaxy Outflows Likely Regulate Star Formation At ‘Cosmic Noon’ NASA’s Webb Reveals",
+      "link": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
+      "desc": "A galaxy’s ultimate habitability is likely linked to massive gaseous outflows that regulate star formation.",
+      "pubDate": "Tue, 17 Nov 2026 09:29:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f5c7212310244",
+      "title": "The Sky Today on Tuesday, November 17: Spotlight on the Pleiades",
+      "link": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-17-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 16: Titan south, Rhea north Early this evening brighter targets are best, as the Moon doesn’t set until late. Ready for viewing as the winter constellations start to dominate earlier each day is the Pleiades, an op",
+      "pubDate": "Tue, 17 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001c0956adc319a8",
+      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+      "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
+      "desc": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […]\nThe post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews.",
+      "pubDate": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
+    {
+      "id": "00095e5b62b409ef",
+      "title": "APOD: 2026 November 17 – Milky Way versus Aurora",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora",
+      "desc": "APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "pubDate": "Tue, 17 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000ac8fdd56f365d",
+      "title": "Tossing Fireworks from Cloud to Cloud",
+      "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud",
+      "desc": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
+      "pubDate": "Tue, 17 Nov 2026 05:01:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001a3a070e7198d0",
+      "title": "Ringing Black Holes Offer Precision Tests of Relativity",
+      "link": "https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity",
+      "desc": "Black holes remain some of the most mysterious and awe-inspiring celestial objects ever studied. This primarily comes from the fact that they literally can’t be observed unless they interact with something in its surrounding environment, most notably a star. Adding to their mystery, several types of",
+      "pubDate": "Tue, 17 Nov 2026 04:40:38 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000aa4db14244b6a",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+      "desc": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whe",
+      "pubDate": "Tue, 17 Nov 2026 07:14:04 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000018be49c4da01",
+      "title": "DESI weighs the Milky Way more precisely than ever",
+      "link": "https://phys.org/news/2026-11-desi-milky-precisely.html",
+      "desc": "To estimate the Milky Way's mass, astronomers need to track the movements of stars and smaller satellite galaxies under its gravitational pull. The faster these objects travel at a given distance, the more mass is needed to hold them in place. For some time, these measurements have shown that most o",
+      "pubDate": "Tue, 17 Nov 2026 07:00:01 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00156292602ed785",
+      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm",
+      "desc": "Europe’s Hera spacecraft has arrived at the scene of NASA’s historic asteroid collision to uncover what really happened when a spacecraft slammed into Dimorphos in 2022. Its close-up investigation could reveal whether the impact left a crater or reshaped the asteroid entirely, providing crucial clue",
+      "pubDate": "Tue, 17 Nov 2026 05:45:41 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000ed8ae905941ff",
+      "title": "Japan space probe changes target over engine trouble",
+      "link": "https://phys.org/news/2026-11-japan-space-probe.html",
+      "desc": "A Japanese probe that returned precious asteroid dust to Earth six years ago has changed course in its extended mission, officials said Tuesday, citing issues in its aging engines.",
+      "pubDate": "Tue, 17 Nov 2026 05:38:13 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
     {
       "id": "000e1bfe6c07c2db",
       "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
@@ -79,7 +282,7 @@
     },
     {
       "id": "00038b8619ab5461",
-      "title": "Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch",
+      "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
       "desc": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
       "pubDate": "Mon, 16 Nov 2026 21:26:29 +0000",
@@ -244,6 +447,25 @@
       }
     },
     {
+      "id": "001cd23de3fbf52a",
+      "title": "The sun, Earth, Jupiter and white dwarfs: Potential traps for dark matter",
+      "link": "https://phys.org/news/2026-11-sun-earth-jupiter-white-dwarfs.html",
+      "desc": "Dark matter continues to evade direct detection. Its slower-moving particles might leave signals too faint for detectors to register, yet be more easily captured by planets and stars. As they accumulate inside these bodies, they could produce effects that existing instruments would allow us to searc",
+      "pubDate": "Tue, 17 Nov 2026 00:00:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001b3ec44787dde8",
       "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
       "link": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
@@ -282,9 +504,9 @@
     },
     {
       "id": "000ee07dacafa946",
-      "title": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know",
+      "title": "The Leonid meteor shower peaks tonight! Here's what you need to know",
       "link": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
-      "desc": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the direction of the constellation Leo.",
+      "desc": "The Leonid meteor shower peaks overnight tonight (Nov. 17-18), sending shooting stars racing across the night sky from the direction of the constellation Leo.",
       "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
       "category": "Other Space Transmissions",
       "source": {
@@ -607,25 +829,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "00115067863d3f7b",
-      "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb",
-      "desc": "APOD Science APOD APOD: 2026 November 16 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
-      "pubDate": "Mon, 16 Nov 2026 05:05:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -9069,215 +9272,6 @@
       "title": "Algebraic classification of single-field inflationary dynamics",
       "link": "https://arxiv.org/abs/2611.07331",
       "desc": "arXiv:2611.07331v1 Announce Type: new \nAbstract: We develop an algebraic classification of canonical single-field inflationary dynamics using an exact depressed cubic equation for the inflaton velocity. Its root structure identifies a branch-swap boundary distinct from the limiting boundary of downh",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0003dfb86142940c",
-      "title": "An analytical framework for atmospheric tides on rocky planets. II. Semidiurnal thermotidal torque",
-      "link": "https://arxiv.org/abs/2611.07060",
-      "desc": "arXiv:2611.07060v1 Announce Type: new \nAbstract: The thermodynamic acceleration induced by atmospheric thermal tides has a major impact on the rotation of temperate rocky planets, where gravitational and radiative tidal forcings are of comparable strength. This acceleration drives planets away from ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00004690b5d470df",
-      "title": "Black Hole Seeds and Little Red Dots: Connecting Formation and Growth with a JWST Multi-Cycle Treasury Program",
-      "link": "https://arxiv.org/abs/2611.07006",
-      "desc": "arXiv:2611.07006v1 Announce Type: new \nAbstract: JWST has revealed an abundant population of faint active galactic nuclei and a new class of compact, high-redshift sources known as Little Red Dots (LRDs), whose physical nature remains debated, with accreting massive black holes among the leading exp",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0017177c48d0fe40",
-      "title": "Breaking dark degeneracies in $k$-essence models with redshift-space distortions",
-      "link": "https://arxiv.org/abs/2611.07033",
-      "desc": "arXiv:2611.07033v1 Announce Type: new \nAbstract: Dynamical dark energy models are often difficult to constrain with background observations alone due to parameter degeneracies. This is especially true when the dark energy sector evolves through an effective pressureless matter phase, leading to dege",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015f016a36d4006",
-      "title": "Confirming HSC strong lens candidates with DESI Spectroscopy. II. Analysis of 80 galaxy-scale systems with lens redshifts above 0.8",
-      "link": "https://arxiv.org/abs/2611.07524",
-      "desc": "arXiv:2611.07524v1 Announce Type: new \nAbstract: The total mass distribution of galaxies provides a sensitive probe of the fundamental physical processes governing galaxy evolution, including gas inflow/star formation, AGN/SN feedback, galaxy merging, and the nature of dark matter. State-of-the-art ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001072e2a9390a84",
-      "title": "Constraining the timescale of activity in Mrk 1018",
-      "link": "https://arxiv.org/abs/2611.07533",
-      "desc": "arXiv:2611.07533v1 Announce Type: new \nAbstract: We present analysis of an extended emission line region projected 3.77 kpc from the nucleus of the canonical changing-look AGN Mrk~1018, found in MUSE integral-field observations from the Close AGN Reference Survey. Emission-line ratios show that the ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015d6ddf7fd9917",
-      "title": "Coordinated Space and Ground Monitoring of Accretion Bursts in a Protoplanetary Disk: MIRI and iSHELL observe the long-term modulation of gas within a small inner disk cavity",
-      "link": "https://arxiv.org/abs/2611.07253",
-      "desc": "arXiv:2611.07253v1 Announce Type: new \nAbstract: DQ Tau is a TTauri eccentric binary with pulsed accretion bursts regulated by its $\\sim 16$-day orbital period. We have monitored this system with seven instruments from ground and space over 40 days. We present results on molecular gas variability fr",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001cfcbd4973cb9e",
-      "title": "CosmicGrain: An On-the-fly Dust Physics Module",
-      "link": "https://arxiv.org/abs/2611.07190",
-      "desc": "arXiv:2611.07190v1 Announce Type: new \nAbstract: We present CosmicGrain, a dust physics module built on Gadget-4 that models explicit dust superparticles that experience resolved gas-dust drag and radiation pressure, undergo collisional heating and cooling with gas, and are further shaped by subgrid",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001e11ae71152a46",
-      "title": "Detection of Differential Chromatic Refraction with LSST Camera data",
-      "link": "https://arxiv.org/abs/2611.07161",
-      "desc": "arXiv:2611.07161v1 Announce Type: new \nAbstract: The Earth's atmosphere acts like a prism, deflecting blue light towards the zenith more than red light. Airmass-dependent changes in astrometry can therefore be used to infer additional information about the wavelength distribution of light within a p",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001fbd3b7e869a8c",
-      "title": "Double Neutron Star Mergers and Fast Blue Optical Transients: A Circumbinary Disk Connection",
-      "link": "https://arxiv.org/abs/2611.07326",
-      "desc": "arXiv:2611.07326v1 Announce Type: new \nAbstract: Post-common-envelope evolution (CEE) circumbinary disks (CBDs) form when part of the ejected envelope remains bound and circularizes around the stripped core and its companion. Leveraging results of scale-free hydrodynamical simulations, we develop a ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00193f8507a133f7",
-      "title": "DOWSING, Dust Observations With SCUBA-2 In Nearby Galaxies: I. Dust in M81",
-      "link": "https://arxiv.org/abs/2611.07044",
-      "desc": "arXiv:2611.07044v1 Announce Type: new \nAbstract: We present a resolved far-infrared/sub-millimetre study of dust in the nearby spiral galaxy M81 using Herschel PACS/SPIRE and JCMT SCUBA-2 observations from 70 to $850\\,\\mu\\mathrm{m}$. We model the dust emission using both single-temperature modified ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001fe96bea42dc78",
-      "title": "Dust Survival in Lensed Quiescent Galaxies at $z>1$ Depends on How They Quench",
-      "link": "https://arxiv.org/abs/2611.07237",
-      "desc": "arXiv:2611.07237v1 Announce Type: new \nAbstract: The interstellar medium of massive quiescent galaxies holds key clues to how they quench, yet remain poorly understood. Although dust is expected to be depleted rapidly ($\\lesssim$100 Myr) after quenching, some quiescent galaxies host substantial dust",
       "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
