@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-16T23:48:41.844Z",
-  "lastRunId": "run-1794872918834-vjp1vu",
+  "lastUpdated": "2026-11-17T03:31:09.786Z",
+  "lastRunId": "run-1794886266682-nav5z0",
   "stats": {
-    "totalStories": 1378,
-    "lastRunAdded": 21
+    "totalStories": 1380,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"92d82d3f46edcc6ffa57835b5fa19fc1\"",
-    "https://www.universetoday.com/feed": "W/\"6afb9564-7a92\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a6a07648bafdae3b2840ecb2ac757279\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"b54fd5a2beaccecc3893fbfb1b238eb8\"",
+    "https://www.universetoday.com/feed": "W/\"6afbbfc0-7a92\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b54fd5a2beaccecc3893fbfb1b238eb8\"",
     "http://arxiv.org/rss/astro-ph": "66f9be32ac87545e39237580c597a2f10629c9cb74face3021fc7c7c17201544",
-    "https://spacenews.com/feed/": "W/\"3f304d61f643fd7e9d78e97aab4ad908\"",
+    "https://spacenews.com/feed/": "W/\"5b75e51915b4353a73b430459b636aea\"",
     "https://www.astronomy.com/feed/": "W/\"891480908313f0ecfaed16563aa04379\"",
     "https://spacepolicyonline.com/feed/": "\"17b1d41c8976b8774e8aff8361dc2031\""
   },
@@ -16551,6 +16551,30 @@
       "archivedDate": "2026-11-17",
       "collection": "evening",
       "archivedAt": "2026-11-16T23:48:41.844Z"
+    },
+    "000e1bfe6c07c2db": {
+      "id": "000e1bfe6c07c2db",
+      "canonicalUrl": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago",
+      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Mon, 16 Nov 2026 23:12:45 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T03:31:09.786Z"
+    },
+    "000956aed8785cfb": {
+      "id": "000956aed8785cfb",
+      "canonicalUrl": "https://phys.org/news/2026-11-early-black-holes-grown-productive.html",
+      "title": "Early black holes may have grown through productive chaos",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 16 Nov 2026 20:00:05 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "morning",
+      "archivedAt": "2026-11-17T03:31:09.786Z"
     }
   }
 }

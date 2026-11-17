@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T23:48:53.014Z",
+  "generatedAt": "2026-11-17T03:31:19.665Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000e1bfe6c07c2db",
+      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+      "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago",
+      "desc": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a ",
+      "pubDate": "Mon, 16 Nov 2026 23:12:45 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000109b5c9ca1689",
       "title": "Falcon 9 flies national security doubleheader",
@@ -349,6 +368,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000956aed8785cfb",
+      "title": "Early black holes may have grown through productive chaos",
+      "link": "https://phys.org/news/2026-11-early-black-holes-grown-productive.html",
+      "desc": "When the universe was less than 700 million years old, the supermassive black hole powering a quasar called J0313-1806 had already grown to about 3 billion times the mass of the sun. It is one of the most extreme examples of a puzzle that has occupied astrophysicists for two decades: How did superma",
+      "pubDate": "Mon, 16 Nov 2026 20:00:05 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9240,44 +9278,6 @@
       "title": "Dust Survival in Lensed Quiescent Galaxies at $z>1$ Depends on How They Quench",
       "link": "https://arxiv.org/abs/2611.07237",
       "desc": "arXiv:2611.07237v1 Announce Type: new \nAbstract: The interstellar medium of massive quiescent galaxies holds key clues to how they quench, yet remain poorly understood. Although dust is expected to be depleted rapidly ($\\lesssim$100 Myr) after quenching, some quiescent galaxies host substantial dust",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00116a7ea8f38cb8",
-      "title": "Feedback-Driven Star Formation and YSO Distribution around H II Regions Sh2-140 and Sh2-145",
-      "link": "https://arxiv.org/abs/2611.07092",
-      "desc": "arXiv:2611.07092v1 Announce Type: new \nAbstract: OB2 associations are ideal sites for studying various star-formation processes. Here, we study the region containing the bright-rimmed cloud (BRC) 44 and the dark cloud LDN 1204, which lies between two H II regions, Sh2-140 and Sh2-145. The region is ",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00130c339f90abd2",
-      "title": "First Results from JACKS: A VLA Ammonia View of Gas Heating and Star-forming Cores in the Central Molecular Zone",
-      "link": "https://arxiv.org/abs/2611.07522",
-      "desc": "arXiv:2611.07522v1 Announce Type: new \nAbstract: The Central Molecular Zone (CMZ) combines warm molecular gas, strong turbulence, and a star-formation rate below that expected from its dense-gas reservoir. The JVLA Ammonia C-configuration K-band Survey (JACKS) is designed to connect these environmen",
       "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
