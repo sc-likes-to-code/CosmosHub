@@ -1,8 +1,170 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T12:19:43.725Z",
+  "generatedAt": "2026-11-17T15:31:12.516Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000f44d7fb8cda1b",
+      "title": "Black Friday 2026: Deals for observers from around the web",
+      "link": "https://www.astronomy.com/observing/black-friday-2026-deals-for-observers-from-around-the-web",
+      "desc": "Black Friday lands on Nov. 27 this year, with Cyber Monday following on Nov. 30. Many astronomy companies aren’t waiting, though: Several sales are already running, and a few extend through the end of December. You’ll find our roundup of sales below. Manufacturers selling directly from their own sit",
+      "pubDate": "Tue, 17 Nov 2026 15:28:56 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000aedfb31e32af7",
+      "title": "ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026",
+      "link": "https://www.space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026",
+      "desc": "NASA astronaut Jessica Watkins works in the Life Sciences Glovebox on the ISS.",
+      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0006c69578a8934d",
+      "title": "Did The First Quarks and Gluons Experience Brownian Motion? Sometimes.",
+      "link": "https://www.universetoday.com/articles/did-the-first-quarks-and-gluons-experience-brownian-motion-sometimes",
+      "desc": "The quark-gluon plasma of the early universe experienced Brownian motion, but a new theory predicts how a particle moving at close to the speed of light is likely to be pushed and pulled by a fluid as it flies through it. The result shows that Brownian statistics doesn't always apply.",
+      "pubDate": "Tue, 17 Nov 2026 14:47:25 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0012c0c977d646ae",
+      "title": "China Signals Its Intention to Land on Jupiter's Moon Callisto",
+      "link": "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
+      "desc": "China is outlining plans to place a small lander on the surface of Jupiter's moon Callisto, the outermost of the four Galilean moons. It's an ambitious plan, and would be only the second time anything's landed on a Solar System body beyond Mars. But the payoff would be huge, even if the lander only ",
+      "pubDate": "Tue, 17 Nov 2026 14:33:05 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Tue, 17 Nov 2026 14:16:11 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000949e01edb40a9",
+      "title": "'It looked like every star in the sky was falling': Eyewitnesses remember the great Leonid meteor storm of 1966",
+      "link": "https://www.space.com/stargazing/meteor-showers/eyewitnesses-remember-the-great-leonid-meteor-storm-of-1966-it-looked-like-every-star-in-the-sky-was-falling",
+      "desc": "It was a spectacle many regard as the greatest meteor display on record.",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000562f3265a1fa2",
+      "title": "Nov. 17, 1966: A phenomenal Leonid meteor storm",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-17-1966-a-phenomenal-leonid-meteor-storm",
+      "desc": "On Nov. 17, 1966, the Leonids put on one of the greatest meteor shows in recorded history, during which eyewitnesses reported a sky that seemed to “rain shooting stars.” Observers in North America witnessed a peak of thousands of meteors per minute; Kitt Peak National Observatory reported 40 meteors",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00032860fb11f5dc",
+      "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
+      "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year",
+      "desc": "Reflect Orbital is moving forward with its ambitious plan to place thousands of mirrors in Earth orbit and sell redirected sunlight after dark.",
+      "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001faf5ec1d70655",
+      "title": "Deep-sky fishing",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/deep-sky-fishing",
+      "desc": "Massimo Di Fusco from Ferrara, Italy The Fish Head Nebula (IC 1795), whose brightest knot is cataloged as NGC 896, lies about 13,000 light-years away in Cassiopeia. Radiation from young, massive stars ionizes surrounding hydrogen gas into a glowing cavity ringed by dark dust lanes. The imager used a",
+      "pubDate": "Tue, 17 Nov 2026 12:26:39 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0001fdc569f6ebde",
       "title": "Satellites now outnumber the visible stars above most towns",
@@ -115,6 +277,25 @@
       }
     },
     {
+      "id": "00198d82985d2f2f",
+      "title": "Galaxy outflows likely regulate star formation at 'cosmic noon,' NASA's Webb reveals",
+      "link": "https://phys.org/news/2026-11-galaxy-outflows-star-formation-cosmic.html",
+      "desc": "Sitting here on the outskirts of our Milky Way galaxy, it's hard to imagine the galactic machinations that led to our Goldilocks spot around a very welcoming yellow dwarf star. But for decades, astronomers have suspected that the internal dynamics of massive galaxies like ours play an outsized role ",
+      "pubDate": "Tue, 17 Nov 2026 10:20:15 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001a3a070e7198d0",
       "title": "Ringing Black Holes Offer Precision Tests of Relativity",
       "link": "https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity",
@@ -129,6 +310,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00130d951e7b14a0",
+      "title": "Stellar pulsations reveal hidden 1.8-solar-mass companion",
+      "link": "https://phys.org/news/2026-11-stellar-pulsations-reveal-hidden-solar.html",
+      "desc": "Massive stellar companions can be difficult to detect because they emit little visible light or show no obvious signs of accretion. Their gravitational pull, however, can be traced through the motion of nearby stars. In pulsating stars, regular brightness variations act as natural clocks, offering a",
+      "pubDate": "Tue, 17 Nov 2026 09:20:08 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -553,24 +753,6 @@
         "tags": [
           "NASA",
           "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Mon, 16 Nov 2026 15:15:18 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
           "Science"
         ]
       }
@@ -9096,193 +9278,6 @@
         "tags": [
           "Research",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "001fdfd4cc728b83",
-      "title": "4-billion-year-old 'Rosetta Stone' found in Sahara Desert could unlock the secret history of water on Mars",
-      "link": "https://www.space.com/astronomy/mars/4-billion-year-old-rosetta-stone-found-in-sahara-desert-could-unlock-the-secret-history-of-water-on-mars",
-      "desc": "A rock discovered in the Sahara Desert formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found. The ancient space rock offers a rare glimpse into the formation of Mars' early crust and its possible interaction with water.",
-      "pubDate": "Fri, 06 Nov 2026 11:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001fc37185a52b5c",
-      "title": "Jupiter occulted",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/jupiter-occulted",
-      "desc": "Katelyn Beecroft from London, Ontario, Canada On the morning of Oct. 6, 2026, the waning crescent Moon — then about 20 percent lit — occulted Jupiter as seen from much of eastern North America. This imager, tracking by hand with an 8-inch Dobsonian reflector, stacked the sharpest frames from video s",
-      "pubDate": "Fri, 06 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f8db7a1a1724d",
-      "title": "The Sky Today on Friday, November 6: Nab the North America Nebula",
-      "link": "https://www.astronomy.com/observing/the-sky-today-friday-november-6-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 5: Smoke out the Southern Cigar As fall gets into full swing, we are seeing less of the summertime stars. By 6 P.M. local time, the Summer Triangle — which flies high overhead on short summer nights — is now starti",
-      "pubDate": "Fri, 06 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000bfb77a075889c",
-      "title": "Vibrating mirrors of light create analog of a black hole event horizon",
-      "link": "https://phys.org/news/2026-11-vibrating-mirrors-analog-black-hole.html",
-      "desc": "Optical cavities are pairs of light-trapping mirrors and underpin the operation of lasers, atomic clocks and many types of precision sensors. If the distance between the mirrors is changed rapidly enough, some theories predict that the waves inside them should bunch together into short, intense puls",
-      "pubDate": "Fri, 06 Nov 2026 12:40:11 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001b5b1a2faaab57",
-      "title": "Robot successfully builds space structure in first autonomous construction demo",
-      "link": "https://phys.org/news/2026-11-robot-successfully-space-autonomous-demo.html",
-      "desc": "A robotic truss builder that was conceived, designed and built by Caltech researchers has successfully built a structure in space—without the help of astronauts—for the first time. The truss builder, part of DARPA's Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design (NOM4D) p",
-      "pubDate": "Fri, 06 Nov 2026 11:20:04 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00150b0cb92f1d06",
-      "title": "Taking a Gander at Utah’s Goosenecks",
-      "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks",
-      "desc": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-      "pubDate": "Fri, 06 Nov 2026 05:01:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0017dbf2d0015f5e",
-      "title": "A Machine Learning Approach to Coupling Photoionization & Multi-Frequency Radiation Hydrodynamics",
-      "link": "https://arxiv.org/abs/2611.07162",
-      "desc": "arXiv:2611.07162v1 Announce Type: new \nAbstract: We use machine learning (ML) to couple photoionization microphysics to radiation hydrodynamic simulations of line-driven winds. ML models are trained on outputs from the photoionization code XSTAR to predict the line-driving force multiplier as a func",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000d5c0464fa7dd2",
-      "title": "A multi-epoch VLBI study of compact symmetric objects as contaminants in the search for milli-lenses",
-      "link": "https://arxiv.org/abs/2611.07029",
-      "desc": "arXiv:2611.07029v1 Announce Type: new \nAbstract: The Lambda Cold Dark Matter model predicts a high abundance of low-mass dark matter halos, which can be probed through milliarcsecond-scale gravitational lensing (milli-lensing) of background radio-loud active galactic nuclei (AGNs). The Search for MI",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001f0c142d282371",
-      "title": "AGN Archaeology: A Systematic Search for Fading AGN in MaNGA",
-      "link": "https://arxiv.org/abs/2611.07028",
-      "desc": "arXiv:2611.07028v1 Announce Type: new \nAbstract: Active galactic nuclei (AGN) vary on broad timescales, but are primarily thought to \"flicker\" on and off during episodes of high and low accretion. Supermassive black holes (SMBHs) which are actively accreting material often show optical spectra domin",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0003fe2b848a2479",
-      "title": "Algebraic classification of single-field inflationary dynamics",
-      "link": "https://arxiv.org/abs/2611.07331",
-      "desc": "arXiv:2611.07331v1 Announce Type: new \nAbstract: We develop an algebraic classification of canonical single-field inflationary dynamics using an exact depressed cubic equation for the inflaton velocity. Its root structure identifies a branch-swap boundary distinct from the limiting boundary of downh",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
         ]
       }
     }

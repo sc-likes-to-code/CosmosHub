@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-17T12:19:37.743Z",
-  "lastRunId": "run-1794917975551-owibbd",
+  "lastUpdated": "2026-11-17T15:31:06.609Z",
+  "lastRunId": "run-1794929459945-a0hsux",
   "stats": {
-    "totalStories": 1392,
-    "lastRunAdded": 12
+    "totalStories": 1402,
+    "lastRunAdded": 10
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"7920934023876543df81c293e114163b\"",
-    "https://www.universetoday.com/feed": "W/\"6afc3e6c-78ea\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"7920934023876543df81c293e114163b\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"ca865b74e3635a196905de5af9f78369\"",
+    "https://www.universetoday.com/feed": "W/\"6afc6adf-770d\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"e245a62f25803d04396cfbec761dfd1b\"",
     "http://arxiv.org/rss/astro-ph": "c0277ba7d4204dcb06cd6854b756d98062e20eb4dd0839185cb6b9a6df2463bd",
-    "https://spacenews.com/feed/": "W/\"38e0fb2975772276604074f7235d622a\"",
-    "https://www.astronomy.com/feed/": "W/\"e8d093303ed9b42fee1b5d16f736bafb\"",
+    "https://spacenews.com/feed/": "W/\"aa2ae6b0fc79740a77cab0251a8a3378\"",
+    "https://www.astronomy.com/feed/": "W/\"ad7699e787db662b6111283bcfbb7c62\"",
     "https://spacepolicyonline.com/feed/": "\"17b1d41c8976b8774e8aff8361dc2031\""
   },
   "articles": {
@@ -16719,6 +16719,126 @@
       "archivedDate": "2026-11-17",
       "collection": "morning",
       "archivedAt": "2026-11-17T12:19:37.743Z"
+    },
+    "000f44d7fb8cda1b": {
+      "id": "000f44d7fb8cda1b",
+      "canonicalUrl": "https://www.astronomy.com/observing/black-friday-2026-deals-for-observers-from-around-the-web",
+      "title": "Black Friday 2026: Deals for observers from around the web",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 15:28:56 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "000aedfb31e32af7": {
+      "id": "000aedfb31e32af7",
+      "canonicalUrl": "https://www.space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026",
+      "title": "ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "0006c69578a8934d": {
+      "id": "0006c69578a8934d",
+      "canonicalUrl": "https://www.universetoday.com/articles/did-the-first-quarks-and-gluons-experience-brownian-motion-sometimes",
+      "title": "Did The First Quarks and Gluons Experience Brownian Motion? Sometimes.",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 14:47:25 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "0012c0c977d646ae": {
+      "id": "0012c0c977d646ae",
+      "canonicalUrl": "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
+      "title": "China Signals Its Intention to Land on Jupiter's Moon Callisto",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 17 Nov 2026 14:33:05 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "000949e01edb40a9": {
+      "id": "000949e01edb40a9",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/eyewitnesses-remember-the-great-leonid-meteor-storm-of-1966-it-looked-like-every-star-in-the-sky-was-falling",
+      "title": "'It looked like every star in the sky was falling': Eyewitnesses remember the great Leonid meteor storm of 1966",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "000562f3265a1fa2": {
+      "id": "000562f3265a1fa2",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-17-1966-a-phenomenal-leonid-meteor-storm",
+      "title": "Nov. 17, 1966: A phenomenal Leonid meteor storm",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "00032860fb11f5dc": {
+      "id": "00032860fb11f5dc",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year",
+      "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "001faf5ec1d70655": {
+      "id": "001faf5ec1d70655",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/deep-sky-fishing",
+      "title": "Deep-sky fishing",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 12:26:39 +0000",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "00198d82985d2f2f": {
+      "id": "00198d82985d2f2f",
+      "canonicalUrl": "https://phys.org/news/2026-11-galaxy-outflows-star-formation-cosmic.html",
+      "title": "Galaxy outflows likely regulate star formation at 'cosmic noon,' NASA's Webb reveals",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 17 Nov 2026 10:20:15 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
+    },
+    "00130d951e7b14a0": {
+      "id": "00130d951e7b14a0",
+      "canonicalUrl": "https://phys.org/news/2026-11-stellar-pulsations-reveal-hidden-solar.html",
+      "title": "Stellar pulsations reveal hidden 1.8-solar-mass companion",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Tue, 17 Nov 2026 09:20:08 EST",
+      "archivedDate": "2026-11-17",
+      "collection": "evening",
+      "archivedAt": "2026-11-17T15:31:06.609Z"
     }
   }
 }
