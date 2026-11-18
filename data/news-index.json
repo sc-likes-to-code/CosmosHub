@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-18T12:06:47.870Z",
-  "lastRunId": "run-1795003605461-t0oiz9",
+  "lastUpdated": "2026-11-18T15:31:11.237Z",
+  "lastRunId": "run-1795015868257-k6mbyy",
   "stats": {
-    "totalStories": 1485,
-    "lastRunAdded": 54
+    "totalStories": 1493,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"992f7e159fb9eb3327806d2881be37b8\"",
-    "https://www.universetoday.com/feed": "W/\"6afd8fce-7753\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"992f7e159fb9eb3327806d2881be37b8\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"0ddad626805ec54353d07b377574a96d\"",
+    "https://www.universetoday.com/feed": "W/\"6afdbe77-7693\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"24b8a45e2ef9fa094fe49985cc159a04\"",
     "http://arxiv.org/rss/astro-ph": "dd5aa3aedcb848ebf64724f8a75e05421d13aaf2b40deff1ef373bc2cf592f67",
-    "https://spacenews.com/feed/": "W/\"ac3a629c6675b02a9513f8cf30e9bb12\"",
-    "https://www.astronomy.com/feed/": "W/\"226b4fa54f275c75c27a46e6b1da6fed\"",
-    "https://spacepolicyonline.com/feed/": "\"2e2af9234da8b707655a4b7aec275f77\""
+    "https://spacenews.com/feed/": "W/\"448ef15209a4ea6bf65005abc0f986b6\"",
+    "https://www.astronomy.com/feed/": "W/\"d3b19895206918b3fafa3641f477cf4c\"",
+    "https://spacepolicyonline.com/feed/": "\"c23cb299d5470b30b6f9d5d05d166e9e\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -17835,6 +17835,102 @@
       "archivedDate": "2026-11-18",
       "collection": "morning",
       "archivedAt": "2026-11-18T12:06:47.870Z"
+    },
+    "00107cbd9224f832": {
+      "id": "00107cbd9224f832",
+      "canonicalUrl": "https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune",
+      "title": "Microscopic Space Dust Reveals A Hidden Reservoir Of \"Heavy Water\" Beyond Neptune",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 18 Nov 2026 15:01:09 +0000",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "001bd7dbde0460af": {
+      "id": "001bd7dbde0460af",
+      "canonicalUrl": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
+      "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "0007c191beccd2dd": {
+      "id": "0007c191beccd2dd",
+      "canonicalUrl": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
+      "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 18 Nov 2026 14:04:28 +0000",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "0010020da36ed234": {
+      "id": "0010020da36ed234",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-18-1989-the-cosmic-background-explorer-launches",
+      "title": "Nov. 18, 1989: The Cosmic Background Explorer launches",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "001b1402395047e5": {
+      "id": "001b1402395047e5",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
+      "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "000e5e5af9ad239c": {
+      "id": "000e5e5af9ad239c",
+      "canonicalUrl": "https://phys.org/news/2026-11-voyager-spacecraft-day-milestone.html",
+      "title": "Voyager 1 spacecraft reaches one light-day milestone",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 EST",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "000b0ee96effa3f8": {
+      "id": "000b0ee96effa3f8",
+      "canonicalUrl": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure",
+      "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 18 Nov 2026 03:52:35 +0000",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
+    },
+    "000faaa3f28ad5f9": {
+      "id": "000faaa3f28ad5f9",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
+      "title": "NASA pushes Mars helicopter blades beyond the speed of sound",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Tue, 17 Nov 2026 22:16:19 EST",
+      "archivedDate": "2026-11-18",
+      "collection": "evening",
+      "archivedAt": "2026-11-18T15:31:11.237Z"
     }
   }
 }

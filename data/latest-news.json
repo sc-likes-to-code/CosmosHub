@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T12:06:57.125Z",
+  "generatedAt": "2026-11-18T15:31:21.880Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00107cbd9224f832",
+      "title": "Microscopic Space Dust Reveals A Hidden Reservoir Of \"Heavy Water\" Beyond Neptune",
+      "link": "https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune",
+      "desc": "Astronomers can find valuable information in even the tiniest objects. That was certainly the case recently when twelve dust grains collected by a high-altitude aircraft helped solve a mystery about the birth of our Solar System. Or at least that is the argument in a new paper published in Science A",
+      "pubDate": "Wed, 18 Nov 2026 15:01:09 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001bd7dbde0460af",
+      "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
+      "link": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
+      "desc": "A new supernova (SN 2026 ahvu) has been found in the spiral galaxy NGC 1433, about 50 million light-years from Earth.",
+      "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Wed, 18 Nov 2026 14:07:18 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0007c191beccd2dd",
+      "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
+      "link": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
+      "desc": "Dammit Jim, I'm a doctor, not a Lego engineer. But this Lego Star Trek set is a wonderful bit of nostalgia that is also accessible for children.",
+      "pubDate": "Wed, 18 Nov 2026 14:04:28 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0010020da36ed234",
+      "title": "Nov. 18, 1989: The Cosmic Background Explorer launches",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-18-1989-the-cosmic-background-explorer-launches",
+      "desc": "A glow undetectable to the human eye permeates the universe. This light is the remnant signature of the cosmic beginning — a dense, hot fireball that burst forth and created all mass, energy, and time. The primordial cosmic microwave background (CMB) radiation has since traveled some 13.8 billion ye",
+      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001b1402395047e5",
+      "title": "India's SatLeo Labs wants to build a 'thermometer for Earth' in space",
+      "link": "https://www.space.com/space-exploration/satellites/indias-satleo-labs-wants-to-build-a-thermometer-for-earth-in-space",
+      "desc": "The Indian space-tech startup SatLeo Labs is betting that near-real-time temperature data from satellites can help the world stay ahead of escalating climate disasters.",
+      "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000de49ac4b1ac78",
       "title": "The Cigar’s fireworks",
@@ -25,7 +133,7 @@
       "id": "001b86fd506a3c99",
       "title": "1 light-day from Earth! NASA's Voyager 1 probe hits huge milestone in interstellar space",
       "link": "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
-      "desc": "It now takes 24 hours for even a single particle of light to reach Voyager.",
+      "desc": "NASA's Voyager 1 spacecraft has officially hit one light-day from Earth on Nov. 18, 2026.",
       "pubDate": "Wed, 18 Nov 2026 11:35:47 +0000",
       "category": "Other Space Transmissions",
       "source": {
@@ -1027,6 +1135,44 @@
       }
     },
     {
+      "id": "000e5e5af9ad239c",
+      "title": "Voyager 1 spacecraft reaches one light-day milestone",
+      "link": "https://phys.org/news/2026-11-voyager-spacecraft-day-milestone.html",
+      "desc": "NASA's Voyager 1 probe, which has been traveling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday.",
+      "pubDate": "Wed, 18 Nov 2026 10:20:00 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000b0ee96effa3f8",
+      "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
+      "link": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure",
+      "desc": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first […]",
+      "pubDate": "Wed, 18 Nov 2026 03:52:35 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
       "id": "00197455e997f797",
       "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
       "link": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
@@ -1215,7 +1361,7 @@
       "id": "001270fe98a5f24c",
       "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
       "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure",
-      "desc": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft departs the International Space Station no earlier than Wednesday, Nov. 18, for its return to Earth. Pending weather conditions, the Dragon spacecraft will undock from the Ha",
+      "desc": "Editor’s note: NASA and SpaceX are standing down from the Nov. 18 Dragon undocking opportunity from the International Space Station due to unfavorable weather conditions at the splashdown sites off the coast of California. NASA will provide additional information as it becomes available. NASA and it",
       "pubDate": "Tue, 17 Nov 2026 19:16:22 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -1490,6 +1636,24 @@
       }
     },
     {
+      "id": "000faaa3f28ad5f9",
+      "title": "NASA pushes Mars helicopter blades beyond the speed of sound",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
+      "desc": "NASA has successfully tested Mars helicopter rotor blades at supersonic speeds, boosting potential lift by 30% and overcoming a major obstacle to more powerful aircraft on the Red Planet. The breakthrough could enable next-generation helicopters to carry heavier scientific equipment, fly farther, an",
+      "pubDate": "Tue, 17 Nov 2026 22:16:19 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "000f44d7fb8cda1b",
       "title": "Black Friday 2026: Deals for observers from around the web",
       "link": "https://www.astronomy.com/observing/black-friday-2026-deals-for-observers-from-around-the-web",
@@ -1553,24 +1717,6 @@
       "source": {
         "name": "Universe Today",
         "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Tue, 17 Nov 2026 14:16:11 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
         "badgeClass": "badge-universe",
         "cardClass": "universe",
         "tags": [
@@ -9139,158 +9285,6 @@
       "title": "Expanding the Volatile Abundance Inventory for High-Priority K-Dwarf JWST Exoplanet Systems",
       "link": "https://arxiv.org/abs/2611.08676",
       "desc": "arXiv:2611.08676v1 Announce Type: new \nAbstract: There are exceedingly few chemical abundance measurements available in the literature for K dwarf stars, especially for those with T$_{eff} <$ 4700 K due to an incompatibility of traditional analyses with their molecular-line-ridden optical spectra. T",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0001d697f9bc6121",
-      "title": "FORGE'd in Fragments: Pop III star formation in a Milky Way-like progenitor halo",
-      "link": "https://arxiv.org/abs/2611.08603",
-      "desc": "arXiv:2611.08603v1 Announce Type: new \nAbstract: We present a radiation-magnetohydrodynamic (RMHD) cosmological zoom-in simulation of Pop III star formation, drawing initial conditions from a Milky Way-like progenitor halo at redshift $z \\sim 21$. We follow the collapse of primordial gas over 10 ord",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0000eb917ab9fe99",
-      "title": "FORGE'd In The Early Universe II: Constraining The Pop III Initial Mass Function",
-      "link": "https://arxiv.org/abs/2611.08598",
-      "desc": "arXiv:2611.08598v1 Announce Type: new \nAbstract: We present a cosmological radiation-magnetohydrodynamics (RMHD) zoom-in simulation of $56$ Population III stars using FORGE'd in FIRE. Our simulation combines a cosmological initial condition centered on an isolated ultra-faint galaxy ($M_{\\mathrm{hal",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0008f5b3eca9cc6b",
-      "title": "GW230729\\_082317 and GW231118\\_005626: A Candidate of Hierarchical Triple Mergers",
-      "link": "https://arxiv.org/abs/2611.09338",
-      "desc": "arXiv:2611.09338v1 Announce Type: new \nAbstract: Hierarchical triple mergers denote a sequential merger process in which the black hole remnant from an initial binary merger subsequently merges with a third black hole. In this study, we identify a related pair of binary black hole mergers, GW230729\\",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000bd2621d1b30df",
-      "title": "Hydrodynamic Natal Kicks and Formation of Black Hole Binaries",
-      "link": "https://arxiv.org/abs/2611.08604",
-      "desc": "arXiv:2611.08604v1 Announce Type: new \nAbstract: The observation of over 300 Gravitational Wave (GW) events by the LIGO-Virgo-KAGRA collaboration, has yielded information of the merger of compact object binaries, such as their individual masses and spins. However, the effective spin parameter obtain",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0008a838f1ea085f",
-      "title": "Identifying Chemically Coherent Stellar Families in the Galactic High-{\\alpha} Disk with Low-Resolution Spectroscopy",
-      "link": "https://arxiv.org/abs/2611.08983",
-      "desc": "arXiv:2611.08983v1 Announce Type: new \nAbstract: Identification of chemical substructures in the Galactic high-{\\alpha} disk provides valuable insight into its formation history. In this work, we demonstrate the capability of low-resolution spectroscopy for this purpose by applying DBSCAN clustering",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001a6984c3b0cf6e",
-      "title": "Interferometric survey of stellar parameters. Reliable methodology for a direct measurement of the angular diameter in exoplanet host stars",
-      "link": "https://arxiv.org/abs/2611.08824",
-      "desc": "arXiv:2611.08824v1 Announce Type: new \nAbstract: Since their pioneer observations more than thirty years ago, exoplanets have been a major topic among the astrophysics community. Despite their ubiquity, our knowledge of planetary parameters and internal compositions still mostly relies on stellar qu",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0009c3b2eb84a96a",
-      "title": "Jeans Dynamical Constraints on the IMF in Massive Quiescent Galaxies at $z\\sim0.7$ from JWST/NIRSpec",
-      "link": "https://arxiv.org/abs/2611.08612",
-      "desc": "arXiv:2611.08612v1 Announce Type: new \nAbstract: We present dynamical masses for nine massive quiescent galaxies at $z\\sim0.7$ from the JWST-IMFERNO program, measured from ultra-deep ($\\sim32$hr), spatially resolved NIRSpec/MSA spectroscopy combined with NIRCam imaging. The most massive of these gal",
-      "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0007c7a97d07d02e",
-      "title": "KCWI Observations of Type 2 Quasar-driven Ionized Outflows at z~0.1",
-      "link": "https://arxiv.org/abs/2611.08828",
-      "desc": "arXiv:2611.08828v1 Announce Type: new \nAbstract: AGN-driven outflows play a crucial role in regulating star formation in galaxies. These outflows are known to be multi-phase, and the characterization of the kinematics, extent, and energetics of each gas phase is needed to obtain a full picture of th",
       "pubDate": "Mon, 09 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
