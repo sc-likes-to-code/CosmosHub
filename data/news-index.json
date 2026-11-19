@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-19T15:31:11.897Z",
-  "lastRunId": "run-1795102269271-biu41z",
+  "lastUpdated": "2026-11-19T22:43:57.647Z",
+  "lastRunId": "run-1795128234816-cmr521",
   "stats": {
-    "totalStories": 1592,
-    "lastRunAdded": 13
+    "totalStories": 1608,
+    "lastRunAdded": 16
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"ca39dd79240de7436c66486040650d18\"",
-    "https://www.universetoday.com/feed": "W/\"6aff0def-78ee\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"2498754b0d9ddbf4e2ab735b85a03529\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"4fe75276dd85a144166450ea3a8ae116\"",
+    "https://www.universetoday.com/feed": "W/\"6aff6df9-7ad7\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"edda3f3569d18df46591df629c117225\"",
     "http://arxiv.org/rss/astro-ph": "e3dc018815b40b23541415bf106b763747b87d4ad37c482b8dabba7458e5e0c1",
-    "https://spacenews.com/feed/": "W/\"f037775ee433dcc6959b231b1d113f3c\"",
-    "https://www.astronomy.com/feed/": "W/\"980e6d9ff192905ff42e35aee3b7ef29\"",
+    "https://spacenews.com/feed/": "W/\"ba7da809a90ac4b762e501a5a6740230\"",
+    "https://www.astronomy.com/feed/": "W/\"2ccf5a5a7d3a7c1584cc2b9d3860addf\"",
     "https://spacepolicyonline.com/feed/": "\"bd1b8c1bde2010e2243b8ccde3464eda\""
   },
   "articles": {
@@ -19119,6 +19119,198 @@
       "archivedDate": "2026-11-19",
       "collection": "evening",
       "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "0004aacb62b6e849": {
+      "id": "0004aacb62b6e849",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/the-view-from-the-tower-watch-starship-come-in-for-chopsticks-catch-in-epic-slo-mo-video",
+      "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 19 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "0015d5fab3668ee1": {
+      "id": "0015d5fab3668ee1",
+      "canonicalUrl": "https://www.astronomy.com/science/what-satellites-leave-behind",
+      "title": "What satellites leave behind",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 20:56:19 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "001182e0638be176": {
+      "id": "001182e0638be176",
+      "canonicalUrl": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
+      "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 19 Nov 2026 20:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "00041b8bfc2b7fec": {
+      "id": "00041b8bfc2b7fec",
+      "canonicalUrl": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 19:34:20 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "00180d7f0cedffab": {
+      "id": "00180d7f0cedffab",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/china-rolls-out-rocket-for-launch-of-1st-international-astronaut-to-tiangong-space-station-video",
+      "title": "China rolls out rocket for launch of 1st international astronaut to Tiangong space station (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 19 Nov 2026 19:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "001a073014556677": {
+      "id": "001a073014556677",
+      "canonicalUrl": "https://www.astronomy.com/science/hear-stars-being-born-in-chandras-new-sonifications",
+      "title": "Hear stars being born in Chandra’s new sonifications",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 18:59:22 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "000a5a49a1415c0e": {
+      "id": "000a5a49a1415c0e",
+      "canonicalUrl": "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up",
+      "title": "Earth's Atmosphere Took Three Deep Breaths of Oxygen Before the Oceans Caught Up",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 18:04:23 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "0007c07a1b80738d": {
+      "id": "0007c07a1b80738d",
+      "canonicalUrl": "https://spacenews.com/the-sweet-spot-for-constellation-size",
+      "title": "The sweet spot for constellation size",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "0000dd73485a4b2e": {
+      "id": "0000dd73485a4b2e",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/get-400-off-the-first-vaonis-vespera-pro-model-ahead-of-black-friday-2026",
+      "title": "Get $400 off the first Vaonis Vespera Pro model ahead of Black Friday — only eight left in stock",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 17:08:25 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "0019af36082baf0e": {
+      "id": "0019af36082baf0e",
+      "canonicalUrl": "https://www.space.com/stargazing/dont-miss-saturn-shine-close-to-the-moon-on-nov-20",
+      "title": "Don't miss Saturn shine close to the moon on Nov. 20",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "00182e6c2e012821": {
+      "id": "00182e6c2e012821",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/netflixs-3-body-problem-season-2-trailer-gives-us-a-release-date-and-a-chilling-warning-they-are-coming-to-exterminate-us",
+      "title": "Netflix's '3 Body Problem' season 2 trailer gives us a release date and a chilling warning: 'They are coming to exterminate us'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 16:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "000d71c3dcf03301": {
+      "id": "000d71c3dcf03301",
+      "canonicalUrl": "https://spacenews.com/making-the-case-for-optical",
+      "title": "Making the case for optical",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "0013e9aa9e3f960c": {
+      "id": "0013e9aa9e3f960c",
+      "canonicalUrl": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 19 Nov 2026 15:33:55 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "00030304da2c68b5": {
+      "id": "00030304da2c68b5",
+      "canonicalUrl": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+      "title": "If tiny 'primordial' black holes exist, here's how we might find them",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 17:40:07 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "00170af24982d7f9": {
+      "id": "00170af24982d7f9",
+      "canonicalUrl": "https://phys.org/news/2026-11-cryptography-method-elusive-pulsars.html",
+      "title": "Cryptography-inspired method speeds up searches for elusive pulsars",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 15:50:01 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "000f9d158e9ab0c3": {
+      "id": "000f9d158e9ab0c3",
+      "canonicalUrl": "https://phys.org/news/2026-11-lunar-sample-yields-discoveries-revealing.html",
+      "title": "Lunar sample research yields new discoveries, revealing the history of the moon's largest impact basin",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 12:00:04 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T22:43:57.647Z"
     }
   }
 }
