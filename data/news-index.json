@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-19T12:00:41.430Z",
-  "lastRunId": "run-1795089638665-5ni9pa",
+  "lastUpdated": "2026-11-19T15:31:11.897Z",
+  "lastRunId": "run-1795102269271-biu41z",
   "stats": {
-    "totalStories": 1579,
-    "lastRunAdded": 56
+    "totalStories": 1592,
+    "lastRunAdded": 13
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"8097538d45f967581ceceb442026305c\"",
-    "https://www.universetoday.com/feed": "W/\"6afee11e-7821\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8097538d45f967581ceceb442026305c\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"ca39dd79240de7436c66486040650d18\"",
+    "https://www.universetoday.com/feed": "W/\"6aff0def-78ee\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"2498754b0d9ddbf4e2ab735b85a03529\"",
     "http://arxiv.org/rss/astro-ph": "e3dc018815b40b23541415bf106b763747b87d4ad37c482b8dabba7458e5e0c1",
-    "https://spacenews.com/feed/": "W/\"1b8f54d8b7e778f57f812f3ed009fc85\"",
-    "https://www.astronomy.com/feed/": "W/\"dad4d2641affb8c297d58af57092e9cc\"",
-    "https://spacepolicyonline.com/feed/": "\"c267b25df2ef385d19b5bf11b3099841\""
+    "https://spacenews.com/feed/": "W/\"f037775ee433dcc6959b231b1d113f3c\"",
+    "https://www.astronomy.com/feed/": "W/\"980e6d9ff192905ff42e35aee3b7ef29\"",
+    "https://spacepolicyonline.com/feed/": "\"bd1b8c1bde2010e2243b8ccde3464eda\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -18963,6 +18963,162 @@
       "archivedDate": "2026-11-19",
       "collection": "morning",
       "archivedAt": "2026-11-19T12:00:41.430Z"
+    },
+    "00047bd73c64c72e": {
+      "id": "00047bd73c64c72e",
+      "canonicalUrl": "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026",
+      "title": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "001ca2c4a6c3c47c": {
+      "id": "001ca2c4a6c3c47c",
+      "canonicalUrl": "https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site",
+      "title": "ESA's Hera Probe Uses \"Superhuman\" Vision to Inspect NASA's Asteroid Crash Site",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 14:50:33 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "0001dcfc3753cd76": {
+      "id": "0001dcfc3753cd76",
+      "canonicalUrl": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
+      "title": "Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 14:49:01 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "001ead1a3087a050": {
+      "id": "001ead1a3087a050",
+      "canonicalUrl": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 19 Nov 2026 14:44:39 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "001466be301aa99b": {
+      "id": "001466be301aa99b",
+      "canonicalUrl": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 14:31:15 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "0011ec2885aac6be": {
+      "id": "0011ec2885aac6be",
+      "canonicalUrl": "https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026",
+      "title": "Feast Your Eyes on Uranus at Opposition This Thanksgiving 2026",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "0000c62796f2cad0": {
+      "id": "0000c62796f2cad0",
+      "canonicalUrl": "https://www.jpl.nasa.gov/news/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day from Earth",
+      "source": "NASA JPL",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 -0800",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "000359e0be8f16cd": {
+      "id": "000359e0be8f16cd",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-19-1969-apollo-12-lands-on-the-moon",
+      "title": "Nov. 19, 1969: Apollo 12 lands on the Moon",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "0019d3363383ce89": {
+      "id": "0019d3363383ce89",
+      "canonicalUrl": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
+      "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 13:58:47 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "0019200e05feed2c": {
+      "id": "0019200e05feed2c",
+      "canonicalUrl": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
+      "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 19 Nov 2026 13:21:27 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "000ed79e4aa272e4": {
+      "id": "000ed79e4aa272e4",
+      "canonicalUrl": "https://phys.org/news/2026-11-nasa-voyager-home-awe-day.html",
+      "title": "NASA's Voyager 1 phones home from an awe-inspiring 1 light-day away",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 10:02:11 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "000a5a249af374df": {
+      "id": "000a5a249af374df",
+      "canonicalUrl": "https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html",
+      "title": "Astronomers discover remarkable triple-star system just 28 light-years from Earth",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 10:00:25 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
+    },
+    "001c8a8af58cf238": {
+      "id": "001c8a8af58cf238",
+      "canonicalUrl": "https://phys.org/news/2026-11-baby-spacex-starship-orbit.html",
+      "title": "Baby, she's back: SpaceX catches a Starship from orbit for first time",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Space Industry & Policy",
+      "pubDate": "Mon, 16 Nov 2026 20:40:01 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "evening",
+      "archivedAt": "2026-11-19T15:31:11.897Z"
     }
   }
 }

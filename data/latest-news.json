@@ -1,8 +1,228 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T12:00:48.602Z",
+  "generatedAt": "2026-11-19T15:31:22.961Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00047bd73c64c72e",
+      "title": "Empire State Building glows gold for NASA's Voyager spacecraft | Space photo of the day for Nov. 19, 2026",
+      "link": "https://www.space.com/space-exploration/voyager/empire-state-building-glows-gold-for-nasas-voyager-spacecraft-space-photo-of-the-day-for-nov-19-2026",
+      "desc": "The Empire State Building is illuminated in gold to celebrate Voyager 1 hitting one light-day from Earth.",
+      "pubDate": "Thu, 19 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001ca2c4a6c3c47c",
+      "title": "ESA's Hera Probe Uses \"Superhuman\" Vision to Inspect NASA's Asteroid Crash Site",
+      "link": "https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site",
+      "desc": "Around four years ago, humanity intentionally hit an asteroid. The Double Asteroid Redirection Test (DART) was by pretty much all measures a resounding success when it struck the asteroid moonlet Dimorphos going more than 22,000 kilometers per hour. However, we still don’t know just how much of a su",
+      "pubDate": "Thu, 19 Nov 2026 14:50:33 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0001dcfc3753cd76",
+      "title": "Euclid's Hunt for Strong Gravitational Lenses is Off to a Strong Start",
+      "link": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
+      "desc": "Euclid was launched to build a 3D map of the sky to probe cosmic structure and the Universe's expansion. Part of its job is to hunt for strong gravitational lenses, important probes of dark matter. So far it's off to a great start. It found 15,000 strong gravitational lens candidates in its first da",
+      "pubDate": "Thu, 19 Nov 2026 14:49:01 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001ead1a3087a050",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "link": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions",
+      "desc": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be use",
+      "pubDate": "Thu, 19 Nov 2026 14:44:39 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001466be301aa99b",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "link": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+      "desc": "NASA’s Voyager 1 probe, humanity’s farthest-flying spacecraft, has reached one light-day from Earth, after more than 49 years of constant travel. A light-day is the distance light travels in 24 hours, equaling about 16.1 billion miles (25.9 billion kilometers). The spacecraft achieved the milestone ",
+      "pubDate": "Thu, 19 Nov 2026 14:31:15 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0009c7c903000d5c",
+      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
+      "link": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
+      "desc": "Everyone is encouraged to ‘Shine Bright for Voyager's Light-Day’ on Nov. 17 and to watch a moderated discussion on Nov. 19.",
+      "pubDate": "Thu, 19 Nov 2026 06:30:00 -0800",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
+    {
+      "id": "0011ec2885aac6be",
+      "title": "Feast Your Eyes on Uranus at Opposition This Thanksgiving 2026",
+      "link": "https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026",
+      "desc": "The outer planets are ever so slowly starting to sneak back into the evening sky this month. First, Saturn crossed this mark last month on October 4th, then Neptune followed suit on September 26th. Now, the planet Uranus makes the transition, crossing opposition next week.",
+      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0000c62796f2cad0",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day from Earth",
+      "link": "https://www.jpl.nasa.gov/news/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth",
+      "desc": "The probe, launched in 1977, is more than 16 billion miles away in interstellar space.",
+      "pubDate": "Thu, 19 Nov 2026 06:00:00 -0800",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
+    {
+      "id": "000359e0be8f16cd",
+      "title": "Nov. 19, 1969: Apollo 12 lands on the Moon",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-19-1969-apollo-12-lands-on-the-moon",
+      "desc": "Five days after their Nov. 14, 1969, launch amid stormy skies, Apollo 12’s Pete Conrad and Alan Bean landed on the Moon in Oceanus Procellarum (the Ocean of Storms). Part of Apollo 12’s mission was to demonstrate improvements to the precision of lunar landings, and Conrad piloted the Intrepid Lunar ",
+      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019d3363383ce89",
+      "title": "Leonid meteor shower thrills stargazers worldwide with colorful sky show (photos/video)",
+      "link": "https://www.space.com/stargazing/meteor-showers/leonid-meteor-shower-thrills-stargazers-worldwide-with-colorful-sky-show-photos-video",
+      "desc": "From colorful meteors to lingering trails, the Leonids put on a great show this year.",
+      "pubDate": "Thu, 19 Nov 2026 13:58:47 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Thu, 19 Nov 2026 13:48:17 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019200e05feed2c",
+      "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
+      "link": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
+      "desc": "The nonprofit Common Space plans to assemble a constellation of Earth-observing satellites for humanitarian use, the first of which is scheduled to lift off next year.",
+      "pubDate": "Thu, 19 Nov 2026 13:21:27 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000d1f27cc14e57d",
       "title": "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
@@ -61,7 +281,7 @@
       "id": "00099bdbfcac910e",
       "title": "APOD: 2026 November 19 – The Horsehead and Flame Nebulas",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas",
-      "desc": "APOD Science APOD APOD: 2026 November 19 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
+      "desc": "APODScienceAPODAPOD: 2026 November 19 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a ",
       "pubDate": "Thu, 19 Nov 2026 05:05:00 +0000",
       "category": "Research & Science",
       "source": {
@@ -1046,6 +1266,44 @@
       }
     },
     {
+      "id": "000ed79e4aa272e4",
+      "title": "NASA's Voyager 1 phones home from an awe-inspiring 1 light-day away",
+      "link": "https://phys.org/news/2026-11-nasa-voyager-home-awe-day.html",
+      "desc": "NASA's Voyager 1 has phoned home from one light-day away, humanity's first emissary to cross this monumental threshold way out in interstellar space.",
+      "pubDate": "Thu, 19 Nov 2026 10:02:11 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000a5a249af374df",
+      "title": "Astronomers discover remarkable triple-star system just 28 light-years from Earth",
+      "link": "https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html",
+      "desc": "Astronomers have discovered a stellar system just 28 light-years from Earth that challenges our understanding of how stars live, die and interact as they evolve.",
+      "pubDate": "Thu, 19 Nov 2026 10:00:25 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "00069c157275f4b7",
       "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
       "link": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth",
@@ -1579,24 +1837,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Wed, 18 Nov 2026 14:07:18 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -3046,25 +3286,6 @@
         "tags": [
           "Astronomy",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "0009c7c903000d5c",
-      "title": "NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities",
-      "link": "https://www.jpl.nasa.gov/news/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities",
-      "desc": "Everyone is encouraged to ‘Shine Bright for Voyager's Light-Day’ on Nov. 17 and to watch a moderated discussion on Nov. 19.",
-      "pubDate": "Tue, 17 Nov 2026 10:00:00 -0800",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
         ]
       }
     },
@@ -9098,227 +9319,6 @@
         "cardClass": "universe",
         "tags": [
           "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001ce280cf057387",
-      "title": "Were there 'lost cosmonauts' in the early Soviet space program?",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/were-there-lost-cosmonauts-in-the-early-soviet-space-program",
-      "desc": "At the height of the Cold War, two amateur radio operators alleged they intercepted signals from Soviet cosmonauts who perished during missions that remained secret.",
-      "pubDate": "Tue, 10 Nov 2026 17:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0019a21aa4737ceb",
-      "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
-      "link": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds",
-      "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — w",
-      "pubDate": "Tue, 10 Nov 2026 16:00:26 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001eda9846b5d5e9",
-      "title": "A robot just built a structure autonomously in space for the 1st time ever",
-      "link": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
-      "desc": "A robot built part of an antenna in orbit recently, showcasing skills that could potentially allow the assembly of space telescopes and other large structures off Earth.",
-      "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000d07dbe294af22",
-      "title": "Curiosity Mars rover sizes up new 'Nazca' dig site | Space photo of the day for Nov. 10, 2026",
-      "link": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026",
-      "desc": "NASA's Curiosity Mars rover is sizing up its next dig site on the Red Planet. The Curiosity team will characterize the surface composition of \"Nazca\" as thoroughly as possible before drilling.",
-      "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0017b63c06e4efab",
-      "title": "CHAPEA Crew Leaves a Mark",
-      "link": "https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark",
-      "desc": "The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s ",
-      "pubDate": "Tue, 10 Nov 2026 14:57:55 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0007a30475c14f10",
-      "title": "Earliest known compact quasar pair poses a black hole growth puzzle",
-      "link": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
-      "desc": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history of the universe. The pair of quasars has",
-      "pubDate": "Tue, 10 Nov 2026 19:50:02 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0010b08a4adcf42d",
-      "title": "How ripples in space-time can reveal new exoplanets",
-      "link": "https://phys.org/news/2026-11-ripples-space-reveal-exoplanets.html",
-      "desc": "The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets—wor",
-      "pubDate": "Tue, 10 Nov 2026 19:40:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000e9202844861bf",
-      "title": "Tiny Solar Whirlpools May Hold the Secret to the Sun’s Blistering Corona",
-      "link": "https://www.universetoday.com/articles/tiny-solar-whirlpools-may-hold-the-secret-to-the-suns-blistering-corona",
-      "desc": "For the second time in a few weeks, we’re writing about research into the temperature gap between the Sun’s surface and its corona. More and more data from various missions continue to feed this wave of discovery. A new paper by Katariina Nykyri of Embry-Riddle, recently published in The Astrophysic",
-      "pubDate": "Tue, 10 Nov 2026 14:07:10 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001b9673e3e20d94",
-      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-      "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions",
-      "desc": "SAN DIEGO, CA, November 10, 2026 – Kratos Defense & Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement with Seagate […]\nThe post Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for Na",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0007a6404efc178f",
-      "title": "Nov. 10, 1861: The birth of Robert Innes",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-10-1861-the-birth-of-robert-innes",
-      "desc": "Born Nov. 10, 1861, in Scotland, Robert Thorburn Ayton Innes would reshape our understanding of our cosmic neighborhood when he discovered our nearest stellar neighbor, Proxima Centauri, in 1912. Innes suspected that Alpha Centauri, a binary system made up of Alpha Centauri A (Rigil Kentaurus) and A",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000a34189015488e",
-      "title": "See the first images from the new ZWO Seestar S30 Plus — a smart telescope aimed at beginners",
-      "link": "https://www.space.com/stargazing/skywatching-kit/see-the-first-images-from-the-new-zwo-seestar-s30-plus-a-smart-telescope-aimed-at-beginners",
-      "desc": "While rivals announce increasingly expensive smart telescopes, ZWO’s new Seestar S30 Plus makes galaxy and nebula photography surprisingly affordable.",
-      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001e969696011728",
-      "title": "Astronomers discover hidden alien planet in James Webb images",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-      "desc": "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to d",
-      "pubDate": "Tue, 10 Nov 2026 18:56:04 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
           "Science"
         ]
       }
