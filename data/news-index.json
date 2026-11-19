@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-18T22:40:25.992Z",
-  "lastRunId": "run-1795041623571-4plk1r",
+  "lastUpdated": "2026-11-19T03:31:08.476Z",
+  "lastRunId": "run-1795059065904-x6y7z3",
   "stats": {
-    "totalStories": 1518,
-    "lastRunAdded": 25
+    "totalStories": 1523,
+    "lastRunAdded": 5
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"939989fd9d28138ca9f2af8819605c01\"",
-    "https://www.universetoday.com/feed": "W/\"6afe1c6c-7821\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"15aa62ad7797127635dcfff6770f9eea\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"0c37d202997955964731e3be9af88ff4\"",
+    "https://www.universetoday.com/feed": "W/\"6afe6275-7821\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"0c37d202997955964731e3be9af88ff4\"",
     "http://arxiv.org/rss/astro-ph": "dd5aa3aedcb848ebf64724f8a75e05421d13aaf2b40deff1ef373bc2cf592f67",
-    "https://spacenews.com/feed/": "W/\"4bc8659b8f9922dd3f187a9031a0182d\"",
-    "https://www.astronomy.com/feed/": "W/\"f7a2fe53fdec306f2af50ce935f7676e\"",
-    "https://spacepolicyonline.com/feed/": "\"41febd6bd7c28222cd248c25939d08f5\""
+    "https://spacenews.com/feed/": "W/\"f954ad3a54123b53d6e93b6af4bdb1b6\"",
+    "https://www.astronomy.com/feed/": "W/\"9dc0da8deeb1d9db563035d2a92d763f\"",
+    "https://spacepolicyonline.com/feed/": "\"c267b25df2ef385d19b5bf11b3099841\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -18231,6 +18231,66 @@
       "archivedDate": "2026-11-18",
       "collection": "evening",
       "archivedAt": "2026-11-18T22:40:25.992Z"
+    },
+    "00069c157275f4b7": {
+      "id": "00069c157275f4b7",
+      "canonicalUrl": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth",
+      "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 19 Nov 2026 03:05:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "morning",
+      "archivedAt": "2026-11-19T03:31:08.476Z"
+    },
+    "00051eafac297b60": {
+      "id": "00051eafac297b60",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
+      "title": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "morning",
+      "archivedAt": "2026-11-19T03:31:08.476Z"
+    },
+    "000712acb7366eef": {
+      "id": "000712acb7366eef",
+      "canonicalUrl": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott",
+      "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Wed, 18 Nov 2026 23:40:38 +0000",
+      "archivedDate": "2026-11-19",
+      "collection": "morning",
+      "archivedAt": "2026-11-19T03:31:08.476Z"
+    },
+    "00065b02306cda6f": {
+      "id": "00065b02306cda6f",
+      "canonicalUrl": "https://phys.org/news/2026-11-lunar-specific-ground-motion-seismic.html",
+      "title": "First lunar-specific ground motion model could guide seismic hazard assessments on moon",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 18 Nov 2026 19:40:08 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "morning",
+      "archivedAt": "2026-11-19T03:31:08.476Z"
+    },
+    "001d6293cea3e023": {
+      "id": "001d6293cea3e023",
+      "canonicalUrl": "https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html",
+      "title": "Webb confirms first-of-its-kind merger of a supergiant and smaller sun-like star",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 18 Nov 2026 18:20:05 EST",
+      "archivedDate": "2026-11-19",
+      "collection": "morning",
+      "archivedAt": "2026-11-19T03:31:08.476Z"
     }
   }
 }

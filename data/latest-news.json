@@ -1,8 +1,64 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-18T22:40:33.683Z",
+  "generatedAt": "2026-11-19T03:31:16.673Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00069c157275f4b7",
+      "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
+      "link": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth",
+      "desc": "NASA’s Voyager 1 spacecraft achieved another milestone this morning. Launched in 1977, it became the first human object to pass into interstellar space in August 2012 and is so far […]",
+      "pubDate": "Thu, 19 Nov 2026 03:05:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "00051eafac297b60",
+      "title": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both",
+      "link": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
+      "desc": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
+      "pubDate": "Thu, 19 Nov 2026 00:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000712acb7366eef",
+      "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
+      "link": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott",
+      "desc": "Nominations for two positions at NASA and one at the FCC were reported from the Senate Commerce Committee today even though no Democrats were in attendance. Committee rules state that […]",
+      "pubDate": "Wed, 18 Nov 2026 23:40:38 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001566570fe2689a",
       "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
@@ -447,6 +503,25 @@
       }
     },
     {
+      "id": "00065b02306cda6f",
+      "title": "First lunar-specific ground motion model could guide seismic hazard assessments on moon",
+      "link": "https://phys.org/news/2026-11-lunar-specific-ground-motion-seismic.html",
+      "desc": "Civil engineers looking forward to building structures on the moon need to know how ground motion from moonquakes will affect these buildings. But will ground motion models developed for Earth work well for the lunar landscape?",
+      "pubDate": "Wed, 18 Nov 2026 19:40:08 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001513ee8a4aa279",
       "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
       "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
@@ -515,6 +590,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "001d6293cea3e023",
+      "title": "Webb confirms first-of-its-kind merger of a supergiant and smaller sun-like star",
+      "link": "https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html",
+      "desc": "Researchers recently identified a first of its kind: A star slightly less massive than the sun spiraled into and merged with a puffy supergiant star on the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially \"rejuvenated\" star Bao. Their discovery was then bol",
+      "pubDate": "Wed, 18 Nov 2026 18:20:05 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9195,99 +9289,6 @@
         "tags": [
           "Astronomy",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "0010c8ac79a2619d",
-      "title": "NASA chief Jared Isaacman skydives into space agency's MAX POWER air show — 'Going into this job, I knew we had to do something like this.'",
-      "link": "https://www.space.com/space-exploration/nasa-chief-jared-isaacman-skydives-into-space-agencys-max-power-air-show-going-into-this-job-i-i-knew-we-had-to-do-something-like-this",
-      "desc": "\"I promise you, there'll be more to come.\"",
-      "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0015bfdb59ce9be1",
-      "title": "NASA unveils $10 billion in moon base contracts, new lunar missions and the 'PROMISE' of a nuclear-powered rover",
-      "link": "https://www.space.com/space-exploration/artemis/nasa-unveils-usd10-billion-in-moon-base-contracts-new-lunar-missions-and-the-promise-of-a-nuclear-powered-rover",
-      "desc": "NASA is pushing ahead with its plan to build a moon base for astronauts by 2032, unveiling up to $10 billion in new contracts to launch and deliver cargo to Earth's nearest neighbor.",
-      "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0017965a42e462a0",
-      "title": "The ELT can probe ultra-diffuse galaxies and their dark matter mysteries",
-      "link": "https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html",
-      "desc": "We've been waiting a long time for the Extremely Large Telescope's first light, scheduled for March 2029. Telescopes this large, powerful and costly always have multiple science goals, and that's true for the ELT. One of its science goals is to study fundamental aspects of the universe, including da",
-      "pubDate": "Mon, 09 Nov 2026 18:00:12 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000a00a7f5c86fb6",
-      "title": "A stellar odd couple at an unusual stage of evolution",
-      "link": "https://phys.org/news/2026-11-stellar-odd-couple-unusual-stage.html",
-      "desc": "Most of the stars in the Milky Way are what we might call normal stars. They're main sequence stars like our sun, meaning they're doing what most people probably think stars do: shining as they fuse hydrogen atoms into helium atoms on a vast scale.",
-      "pubDate": "Mon, 09 Nov 2026 17:40:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0004a79db40f12df",
-      "title": "Subaru Telescope reveals the shape and temperature of Comet Encke's nucleus",
-      "link": "https://phys.org/news/2026-11-subaru-telescope-reveals-temperature-comet.html",
-      "desc": "Mid-infrared observations with the Subaru Telescope have revealed the shape and surface temperature of the nucleus of Comet 2P/Encke. By analyzing how the nucleus's thermal emission changed as it rotated, the researchers found that the nucleus is elongated, with a long axis of about 7 kilometers and",
-      "pubDate": "Mon, 09 Nov 2026 17:10:04 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     }
