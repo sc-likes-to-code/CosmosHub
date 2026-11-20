@@ -1,8 +1,245 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T15:31:13.414Z",
+  "generatedAt": "2026-11-20T22:18:38.599Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0011e8896d780965",
+      "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
+      "desc": "On Nov. 20, 1998, the first piece of the International Space Station launched into orbit. It was just one piece, but the foundation of something much larger.",
+      "pubDate": "Fri, 20 Nov 2026 21:19:33 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001692be6a47119a",
+      "title": "Don't turn the moon into the Wild West, scientists warn",
+      "link": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
+      "desc": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
+      "pubDate": "Fri, 20 Nov 2026 21:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0019dd1af8b1a55e",
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation",
+      "desc": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 ",
+      "pubDate": "Fri, 20 Nov 2026 20:46:14 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0003ba0344b9bad5",
+      "title": "Complex Life on Earth May Not Have Appeared Without Tall Mountains",
+      "link": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
+      "desc": "As Earth's surface area grew, weathering fed more nutrients into Earth's ancient oceans. This eventually resulted in more oxygen, making Earth more habitable. New research identifies two ancient mountain growth spurts on Earth that directly preceded two of Earth's oxygenation events. The researchers",
+      "pubDate": "Fri, 20 Nov 2026 20:22:08 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001213a4f55d8a90",
+      "title": "A Radical Theory about the Universe Just Passed Some Key Tests. So... What Does that Mean?",
+      "link": "https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean",
+      "desc": "An alternative model in which the Universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study.",
+      "pubDate": "Fri, 20 Nov 2026 20:07:21 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f78f771349008",
+      "title": "GTA hasn't gone to space (yet), but these sci-fi games can offer you a life of crime among the stars",
+      "link": "https://www.space.com/entertainment/space-games/gta-hasnt-gone-to-space-yet-but-these-sci-fi-games-can-offer-you-a-life-of-crime-among-the-stars",
+      "desc": "Grand Theft Auto 6 is finally out, but if you're a sci-fi aficionado looking for similar experiences set in outer space, there are several alternatives.",
+      "pubDate": "Fri, 20 Nov 2026 20:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001405331176da66",
+      "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
+      "link": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+      "desc": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
+      "pubDate": "Fri, 20 Nov 2026 19:50:15 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001333850a83549a",
+      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
+      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+      "desc": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
+      "pubDate": "Fri, 20 Nov 2026 19:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0014c5e2cba13fee",
+      "title": "Could an ancient solar eclipse rewrite Egyptian history?",
+      "link": "https://www.space.com/stargazing/solar-eclipses/could-an-ancient-solar-eclipse-rewrite-egyptian-history",
+      "desc": "A biblical mystery, an ancient Egyptian inscription and a \"ring of fire\" solar eclipse 3,200 years ago hold clues to when Ramesses the Great ruled.",
+      "pubDate": "Fri, 20 Nov 2026 18:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0011a80428f1f68e",
+      "title": "Russia is developing a nuclear space weapon, US intelligence report finds",
+      "link": "https://www.space.com/space-exploration/satellites/russia-is-developing-a-nuclear-space-weapon-us-intelligence-report-finds",
+      "desc": "A new report by the the U.S. Defense Intelligence Agency discusses the threats posed by the nation's adversaries in space — including Russia, which is developing a nuke-carrying satellite.",
+      "pubDate": "Fri, 20 Nov 2026 17:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001a41b9fd781e42",
+      "title": "A Triple Star System 'That Shouldn't Exist,' Only 28 Light-Years from Earth",
+      "link": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth",
+      "desc": "Astronomers have found a triple star system in our neighborhood that has defied the odds. It shouldn't really exist, according to astronomers' understanding of stellar evolution and common envelopes. Yet, there it is.",
+      "pubDate": "Fri, 20 Nov 2026 16:52:03 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001f8ed4d09d107c",
+      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
+      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis",
+      "desc": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18.   Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis p",
+      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001a19c26bd6852f",
+      "title": "NASA’s Curiosity Mars Rover Collects Samples",
+      "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples",
+      "desc": "This Nov. 16 collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly that",
+      "pubDate": "Fri, 20 Nov 2026 15:53:24 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001478698f1172f3",
       "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
@@ -185,9 +422,9 @@
     },
     {
       "id": "0004a1a200694656",
-      "title": "Watch SpaceX Dragon cargo capsule head home to Earth from the ISS today",
+      "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
-      "desc": "SpaceX's 35th Dragon cargo mission is scheduled to undock from the International Space Station today (Nov. 20), and you can watch the off-Earth action live.",
+      "desc": "SpaceX's 35th Dragon cargo mission undocked from the International Space Station today (Nov. 20), starting its journey home to Earth.",
       "pubDate": "Fri, 20 Nov 2026 11:00:00 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -238,6 +475,25 @@
       }
     },
     {
+      "id": "000ef43dbf893989",
+      "title": "A new way to extract oxygen from lunar soil could support bases on the moon",
+      "link": "https://phys.org/news/2026-11-oxygen-lunar-soil-bases-moon.html",
+      "desc": "Computer chip manufacturing and lunar exploration seem like completely different worlds. Yet our latest research suggests the two may be more closely connected than expected.",
+      "pubDate": "Fri, 20 Nov 2026 12:40:09 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "000a3935d584540f",
       "title": "The Sky This Week from November 20 to 27: Uranus at opposition",
       "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-20-to-27-2026",
@@ -256,10 +512,67 @@
       }
     },
     {
+      "id": "000b9424d299b43d",
+      "title": "Researchers trace shifting pulsation modes in δ Scuti star KIC 4737720",
+      "link": "https://phys.org/news/2026-11-shifting-pulsation-modes-scuti-star.html",
+      "desc": "Stars in the night sky may look calm and unchanging, but some are in fact constantly \"vibrating.\" Just as a musical instrument can sound several notes at once, a star can pulse in several modes simultaneously. By measuring minute changes in a star's brightness, astronomers can read these stellar vib",
+      "pubDate": "Fri, 20 Nov 2026 11:20:08 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0015441ecdc4b35f",
+      "title": "Venus-like conditions reveal how minerals could preserve traces of ancient water",
+      "link": "https://phys.org/news/2026-11-venus-conditions-reveal-minerals-ancient.html",
+      "desc": "Venus is one of the most inhospitable environments in our solar system, with surface temperatures hot enough to melt lead and atmospheric pressure nearly 100 times greater than Earth's. Yet its surface may preserve clues to a time when the planet looked much more like Earth.",
+      "pubDate": "Fri, 20 Nov 2026 11:20:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00156786575d10c0",
+      "title": "Low-viscosity lavas reveal a key to Mars's past",
+      "link": "https://phys.org/news/2026-11-viscosity-lavas-reveal-key-mars.html",
+      "desc": "Since 2021, the Mars Perseverance rover has been roaming Jezero Crater, gathering details about the red planet's geology and hints about its past. On its journey, the rover took close-up images of the Séítah formation, a nearly 4-billion-year-old layer of rock at the base of the crater.",
+      "pubDate": "Fri, 20 Nov 2026 10:40:05 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "00141fad06146ec5",
       "title": "APOD: 2026 November 20 – V-G-R",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r",
-      "desc": "APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written ",
+      "desc": "APODScienceAPODAPOD: 2026 November…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professio",
       "pubDate": "Fri, 20 Nov 2026 05:05:00 +0000",
       "category": "Research & Science",
       "source": {
@@ -1394,9 +1707,9 @@
       }
     },
     {
-      "id": "0000c80a1a63af2c",
+      "id": "0002fe6a09324305",
       "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026",
       "desc": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
       "pubDate": "Thu, 19 Nov 2026 22:53:16 +0000",
       "category": "Other Space Transmissions",
@@ -5621,25 +5934,6 @@
       }
     },
     {
-      "id": "000f72072968789d",
-      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
-      "link": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover",
-      "desc": "Description This collage shows 49 drill holes captured by NASA’s Curiosity Mars rover as of November 2026. Each hole represents a sample collected from rocks on the Martian surface; Curiosity’s drill, located on the end of its robotic arm, drops pulverized rock samples into instruments in its belly ",
-      "pubDate": "Mon, 16 Nov 2026 22:05:23 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000fc9c4919b9fc9",
       "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
       "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
@@ -9027,303 +9321,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "00073da9975ecea9",
-      "title": "A rare star system emits radio signals every 8 minutes",
-      "link": "https://phys.org/news/2026-11-rare-star-emits-radio-minutes.html",
-      "desc": "Scientists at the Curtin University node at the International Center for Radio Astronomy Research (ICRAR) have linked mysterious radio pulses to an unusual pairing of stars—a dead star that spins every eight minutes and a star similar to our own sun.",
-      "pubDate": "Thu, 12 Nov 2026 13:20:05 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000e5086bfbb031d",
-      "title": "A new view of the gamma-ray gap: 14 years of Fermi data reveal around 450 sources in a largely unexplored energy range",
-      "link": "https://phys.org/news/2026-11-view-gamma-ray-gap-years.html",
-      "desc": "The universe is filled with light at many different energies. Some of it is invisible to our eyes, including extremely energetic gamma rays, which can only be produced in the most extreme environments in our universe, for example supermassive black holes, exploding stars or astrophysical jets. To \"s",
-      "pubDate": "Thu, 12 Nov 2026 12:40:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000cf0d9de88495f",
-      "title": "A suspected black hole turns out to be a rapidly spinning star",
-      "link": "https://phys.org/news/2026-11-black-hole-rapidly-star.html",
-      "desc": "Sometimes massive stars can mimic the behavior of a black hole and trick astronomers into misinterpreting their nature. Such is the case with a strange pair of stars in the Large Magellanic Cloud (LMC) cluster NGC 1850. The system was initially thought to contain a star about five times the mass of ",
-      "pubDate": "Thu, 12 Nov 2026 12:30:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0009a79fea889c39",
-      "title": "Simulated collisions reveal how Phobos could preserve rocks blasted off Mars",
-      "link": "https://phys.org/news/2026-11-simulated-collisions-reveal-phobos-blasted.html",
-      "desc": "Mars has two small moons, Phobos and Deimos, but their origins remain uncertain. Were they asteroids captured by Mars' gravity, or did they form from debris following a giant impact on the planet?",
-      "pubDate": "Thu, 12 Nov 2026 12:20:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0000470da3386ff1",
-      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos",
-      "desc": "SpaceX launched a classified mission for the U.S. Space Force from California tonight (Nov. 11), the second such mission for the company in a six-day span.",
-      "pubDate": "Thu, 12 Nov 2026 05:24:54 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0016eca39b4ac5b2",
-      "title": "Scotland’s Flow Country",
-      "link": "https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country",
-      "desc": "Blanket bogs in the Scottish Highlands store vast amounts of carbon.",
-      "pubDate": "Thu, 12 Nov 2026 05:01:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001193967a3b2ed2",
-      "title": "Euclid offers best-ever 3D map of the universe to date",
-      "link": "https://phys.org/news/2026-11-euclid-3d-universe-date.html",
-      "desc": "The Euclid Consortium and the European Space Agency (ESA) have released the first major batch of data from the Euclid space telescope. This release, which captures light from more than a billion objects and covers an area of sky equivalent to 9,500 full moons, lays the foundation for Europe's dark u",
-      "pubDate": "Thu, 12 Nov 2026 10:30:01 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000b32fcac224415",
-      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm",
-      "desc": "NASA's Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet's potential to have supported life. The remarkable preservation of these compounds, along with similar discoveries thousands of miles aw",
-      "pubDate": "Thu, 12 Nov 2026 06:37:06 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0005a5ce1666ca6b",
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips",
-      "desc": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretati",
-      "pubDate": "Thu, 12 Nov 2026 00:41:35 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0009b3deb75ed61e",
-      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general",
-      "desc": "A Senate committee is set to advance nominations for NASA’s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector general appeared first on SpaceNews.",
-      "pubDate": "Thu, 12 Nov 2026 00:00:18 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "00199477bd68101e",
-      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test",
-      "link": "https://phys.org/news/2026-11-europe-hera-spacecraft-asteroid-rammed.html",
-      "desc": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.",
-      "pubDate": "Thu, 12 Nov 2026 04:07:30 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000853b3b97de5f1",
-      "title": "The Ice Giants' Magnetic Fields are Very Strange Compared to Earth's",
-      "link": "https://www.universetoday.com/articles/the-ice-giants-magnetic-fields-are-very-strange-compared-to-earths",
-      "desc": "Uranus and Neptune, the Solar System's ice giants, have interiors unlike the other planets. As a result, they also have magnetic fields unlike the others. They're messy and tilted, and Voyager 2, the only spacecraft to even flyby them, showed us how messy they are. New research uses models to try to",
-      "pubDate": "Wed, 11 Nov 2026 22:09:35 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00154f0aaa2b1c67",
-      "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-      "desc": "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formati",
-      "pubDate": "Thu, 12 Nov 2026 03:38:42 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000d817bfbb5f78f",
-      "title": "NASA kick-starts a fresh push to bring Mars samples home",
-      "link": "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home",
-      "desc": "NASA is kickstarting a new initiative for Mars Sample Return (MSR), called the Perseverance Sample Retrieval Architecture.",
-      "pubDate": "Wed, 11 Nov 2026 22:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001cbeae90b83ba2",
-      "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral",
-      "link": "https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral",
-      "desc": "Fast radio bursts are invisible, but a composer has turned thousands of them into sound at a Finnish cathedral, where a choir will sing along on Nov. 21.",
-      "pubDate": "Wed, 11 Nov 2026 21:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00199418bd534874",
-      "title": "On this day in space! Nov. 11, 1966: NASA launches Gemini 12 mission with astronaut icons Buzz Aldrin and Jim Lovell aboard",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-11-2026",
-      "desc": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
-      "pubDate": "Wed, 11 Nov 2026 20:50:18 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }
