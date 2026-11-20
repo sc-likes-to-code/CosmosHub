@@ -1,8 +1,44 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T22:44:08.361Z",
+  "generatedAt": "2026-11-20T03:31:17.221Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00063475e873f65d",
+      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
+      "link": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+      "desc": "The Voyager 1 team celebrated the probe's big distance milestone on Thursday (Nov. 19), even while dealing with a communication anomaly that recently cropped up on the probe.",
+      "pubDate": "Thu, 19 Nov 2026 23:42:03 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0000c80a1a63af2c",
+      "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
+      "desc": "On Nov. 19, 2005, the Japanese Hayabusa spacecraft made the first liftoff from an asteroid. Here's why it mattered.",
+      "pubDate": "Thu, 19 Nov 2026 22:53:16 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0004aacb62b6e849",
       "title": "The view from the tower: Watch Starship come in for chopsticks catch in epic slo-mo video",
@@ -425,6 +461,25 @@
       }
     },
     {
+      "id": "00150ab815512a24",
+      "title": "Mercury-bound X-ray telescope delivers first images after eight years in space",
+      "link": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html",
+      "desc": "The first data from a U.K.-built instrument heading to Mercury have provided observations of one of the brightest X-ray sources in the sky from aboard the ESA/JAXA BepiColombo spacecraft in the inner solar system.",
+      "pubDate": "Thu, 19 Nov 2026 19:00:10 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0019200e05feed2c",
       "title": "Nonprofit Common Space will launch 1st 'humanitarian satellite' in 2027",
       "link": "https://www.space.com/space-exploration/satellites/nonprofit-common-space-will-launch-1st-humanitarian-satellite-in-2027",
@@ -439,6 +494,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "001c7b630c4b461c",
+      "title": "Euclid's hunt for strong gravitational lenses is off to a strong start",
+      "link": "https://phys.org/news/2026-11-euclid-strong-gravitational-lenses.html",
+      "desc": "If dark matter and dark energy were a part of our everyday lives, we would live in a perpetual state of dumbfoundedness. Imagine living in a world where 95% of the matter and energy were invisible and undetectable. It would be impossible to make sense of our surroundings.",
+      "pubDate": "Thu, 19 Nov 2026 18:20:06 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9248,81 +9322,6 @@
           "Astronomy",
           "Research",
           "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0002acaef2342e8a",
-      "title": "Understanding Coronal `Seeing' using High Angular Resolution Radio Observations of Active Solar Emissions",
-      "link": "https://arxiv.org/abs/2611.13255",
-      "desc": "arXiv:2611.13255v1 Announce Type: new \nAbstract: Solar radio bursts are generated through the plasma emission mechanism by beams of accelerated electrons travelling along magnetic field lines. They serve as powerful probes of the ambient coronal plasma and magnetic fields. At low frequencies, howeve",
-      "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001fe02e4d845f05",
-      "title": "Unidentified Sources in the 4FGL-DR4 Fermi-LAT Catalog as Potential Dark Matter Satellites",
-      "link": "https://arxiv.org/abs/2611.13095",
-      "desc": "arXiv:2611.13095v1 Announce Type: new \nAbstract: The nature of dark matter (DM) remains unknown, standing as one of the most pressing questions in modern physics. We focus on indirect DM detection via gamma-ray emission from annihilating weakly interacting massive particles (WIMPs). Within the $\\Lam",
-      "pubDate": "Wed, 11 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000a913435879674",
-      "title": "Bennu asteroid analysis suggests unexpected origins for organics in space",
-      "link": "https://phys.org/news/2026-11-bennu-asteroid-analysis-unexpected-space.html",
-      "desc": "Samples from the Bennu asteroid, which is currently more than 200 million miles (322 million kilometers) from Earth, and the Murchison meteorite, which fell to Earth in 1969, both contain molecules that build proteins necessary for life. New research has found that the molecules may have formed thro",
-      "pubDate": "Wed, 11 Nov 2026 09:20:08 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00114354367e2134",
-      "title": "SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
-      "desc": "SpaceX has moved its Starship Super Heavy booster to the pad to prep for the next test flight of the megarocket, a historic mission scheduled to launch this Friday (Nov. 13).",
-      "pubDate": "Tue, 10 Nov 2026 22:09:39 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

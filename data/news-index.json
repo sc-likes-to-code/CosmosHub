@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-19T22:43:57.647Z",
-  "lastRunId": "run-1795128234816-cmr521",
+  "lastUpdated": "2026-11-20T03:31:09.487Z",
+  "lastRunId": "run-1795145467681-net9bd",
   "stats": {
-    "totalStories": 1608,
-    "lastRunAdded": 16
+    "totalStories": 1612,
+    "lastRunAdded": 4
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"4fe75276dd85a144166450ea3a8ae116\"",
-    "https://www.universetoday.com/feed": "W/\"6aff6df9-7ad7\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"edda3f3569d18df46591df629c117225\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"a2dda0f4af1666fdaf7a0e16dcd5472d\"",
+    "https://www.universetoday.com/feed": "W/\"6affb426-7ad7\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a2dda0f4af1666fdaf7a0e16dcd5472d\"",
     "http://arxiv.org/rss/astro-ph": "e3dc018815b40b23541415bf106b763747b87d4ad37c482b8dabba7458e5e0c1",
     "https://spacenews.com/feed/": "W/\"ba7da809a90ac4b762e501a5a6740230\"",
-    "https://www.astronomy.com/feed/": "W/\"2ccf5a5a7d3a7c1584cc2b9d3860addf\"",
-    "https://spacepolicyonline.com/feed/": "\"bd1b8c1bde2010e2243b8ccde3464eda\""
+    "https://www.astronomy.com/feed/": "W/\"b65e83753d34abe863bdec81b95887e8\"",
+    "https://spacepolicyonline.com/feed/": "\"dedc3a6614bad5c4dc3eb382af5549ca\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -19311,6 +19311,54 @@
       "archivedDate": "2026-11-19",
       "collection": "evening",
       "archivedAt": "2026-11-19T22:43:57.647Z"
+    },
+    "00063475e873f65d": {
+      "id": "00063475e873f65d",
+      "canonicalUrl": "https://www.space.com/space-exploration/voyager/voyager-1-team-unbowed-by-communications-glitch-celebrates-epic-1-light-day-distance-milestone",
+      "title": "Voyager 1 team, unbowed by communications glitch, celebrates epic 1-light-day distance milestone",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 23:42:03 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "morning",
+      "archivedAt": "2026-11-20T03:31:09.487Z"
+    },
+    "0000c80a1a63af2c": {
+      "id": "0000c80a1a63af2c",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005",
+      "title": "On this day in space! Nov. 19, 2005: Japan's Hayabusa spacecraft makes 1st-ever liftoff from surface of an asteroid",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 19 Nov 2026 22:53:16 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "morning",
+      "archivedAt": "2026-11-20T03:31:09.487Z"
+    },
+    "00150ab815512a24": {
+      "id": "00150ab815512a24",
+      "canonicalUrl": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html",
+      "title": "Mercury-bound X-ray telescope delivers first images after eight years in space",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 19 Nov 2026 19:00:10 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "morning",
+      "archivedAt": "2026-11-20T03:31:09.487Z"
+    },
+    "001c7b630c4b461c": {
+      "id": "001c7b630c4b461c",
+      "canonicalUrl": "https://phys.org/news/2026-11-euclid-strong-gravitational-lenses.html",
+      "title": "Euclid's hunt for strong gravitational lenses is off to a strong start",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Thu, 19 Nov 2026 18:20:06 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "morning",
+      "archivedAt": "2026-11-20T03:31:09.487Z"
     }
   }
 }
