@@ -1,8 +1,134 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T12:02:28.719Z",
+  "generatedAt": "2026-11-20T15:31:13.414Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001478698f1172f3",
+      "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
+      "link": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+      "desc": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
+      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000fd10461e209a8",
+      "title": "Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun",
+      "link": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+      "desc": "It feels like every week for the past few months we’ve been reporting on more research regarding the temperature difference between the Sun’s surface and its corona. This week is no exception, with a new paper in The Astrophysical Journal detailing the formation and tracking of around two hundred je",
+      "pubDate": "Fri, 20 Nov 2026 14:58:26 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019015f4a8b9dd1",
+      "title": "Nov. 20, 1889: The birth of Edwin Hubble",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-20-1889-the-birth-of-edwin-hubble",
+      "desc": "On Nov. 20, 1889, Edwin Hubble was born in Marshfield, Missouri. His 1923 observations of the Andromeda Galaxy and a Cepheid variable within it would vastly expand our understanding of other galaxies and the size of the universe. (See Oct. 5th, 1923: Hubble discovers galaxies beyond the Milky Way.) ",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0018dc7addee788d",
+      "title": "Rubin brings the universe into focus",
+      "link": "https://www.astronomy.com/science/rubin-brings-the-universe-into-focus",
+      "desc": "After more than 20 years of planning, construction, and testing, astronomers have officially started the Legacy Survey of Space and Time (LSST). The survey will snap about 1,000 images per night with a 3.2-gigapixel camera — the largest digital camera in the world — attached to the 8.4-meter telesco",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Fri, 20 Nov 2026 13:53:21 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e79d19435f733",
+      "title": "This is the First Time Astronomers Have Seen One of These Stellar Mergers",
+      "link": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+      "desc": "Some binary stars end up sharing a common envelope of gas, as the primary star draws material away from its companion. The envelope exerts drag on the stars and they can spiral toward each other. In some cases, this creates an eruption or explosion called a luminous red nova. For the first time, ast",
+      "pubDate": "Fri, 20 Nov 2026 13:04:40 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000d578eb38c6cc0",
+      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+      "link": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+      "desc": "SpaceX invited media on an unprecedented behind-the-scenes tour of its Starfactory facility, where it manufactures and assembles both stages of its massive Starship rocket.",
+      "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "0012027cc42d635c",
       "title": "Tiny Grains of Sand Act as Cosmic Speedometers for Alien Winds",
@@ -23,7 +149,7 @@
     },
     {
       "id": "000e13522c540db3",
-      "title": "I handpicked every Star Trek Blu-Ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
+      "title": "I handpicked every Star Trek Blu-ray discounted on Amazon for Black Friday 2026 that I think is worth buying right now",
       "link": "https://www.space.com/entertainment/space-movies-shows/i-handpicked-every-star-trek-blu-ray-discounted-on-amazon-for-black-friday-2026-that-i-think-is-worth-buying-right-now",
       "desc": "From The Original Series through The Next Generation to Starfleet Academy, beam up our favorite Black Friday 2026 Star Trek deals available at Amazon.",
       "pubDate": "Fri, 20 Nov 2026 11:00:32 +0000",
@@ -1118,6 +1244,100 @@
       }
     },
     {
+      "id": "000775062a5828d7",
+      "title": "A star's last gasps: ALMA reveals a giant gas ring and budding hourglass around a star in transition",
+      "link": "https://phys.org/news/2026-11-star-gasps-alma-reveals-giant.html",
+      "desc": "Stars like our sun don't die quietly. In their final act, they swell into red giants, shed their outer layers into space and leave behind a glowing, often strikingly sculpted cloud of gas called a planetary nebula. That transformation is thought to take only a few thousand years, a blink in the life",
+      "pubDate": "Fri, 20 Nov 2026 10:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0006bb08d1b70d94",
+      "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
+      "link": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
+      "desc": "Jupiter's moon Europa is a world of scientific intrigue, with a global ocean believed to lie beneath its icy crust. Now, observations from W. M. Keck Observatory on Maunakea, Hawaiʻi Island, reveal something unexpected: the enormous, diffuse cloud of sodium surrounding Europa has remained remarkably",
+      "pubDate": "Fri, 20 Nov 2026 09:00:06 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001645fc785e5899",
+      "title": "Dark energy may originate from known laws of particle physics",
+      "link": "https://phys.org/news/2026-11-dark-energy-laws-particle-physics.html",
+      "desc": "For nearly three decades, scientists have struggled to explain one of the universe's most enduring mysteries: how a component known as dark energy is driving the accelerating expansion of the cosmos.",
+      "pubDate": "Fri, 20 Nov 2026 08:20:06 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001628e79cc17979",
+      "title": "Space travel changes the brain's immune cells, but not behavior",
+      "link": "https://phys.org/news/2026-11-space-brain-immune-cells-behavior.html",
+      "desc": "For those of us on Earth's surface, we reach for sunscreen when we want protection from the sun's radiation. That is because there are other \"rays\" that the atmosphere and the Earth's magnetic field keep out, like galactic cosmic radiation. Galactic cosmic rays are highly energetic particles found i",
+      "pubDate": "Fri, 20 Nov 2026 07:40:08 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0000a432bce67675",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+      "desc": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Ea",
+      "pubDate": "Fri, 20 Nov 2026 07:34:56 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "00002f1955c8ee73",
       "title": "Why are some galaxies more lopsided than others? A catalog offers clues to the imbalance",
       "link": "https://phys.org/news/2026-11-galaxies-lopsided-clues-imbalance.html",
@@ -1260,6 +1480,24 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0004dff331c189ef",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+      "desc": "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material. These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity a",
+      "pubDate": "Fri, 20 Nov 2026 00:41:16 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -1591,24 +1829,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Thu, 19 Nov 2026 13:48:17 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -4935,24 +5155,6 @@
         "tags": [
           "Astronomy",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "000aedfb31e32af7",
-      "title": "ISS astronauts 3D print human cells and tissues | Space photo of the day for Nov. 17, 2026",
-      "link": "https://www.space.com/space-exploration/international-space-station/iss-astronauts-3d-print-human-cells-and-tissues-space-photo-of-the-day-for-nov-17-2026",
-      "desc": "NASA astronaut Jessica Watkins works in the Life Sciences Glovebox on the ISS.",
-      "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     },
@@ -9114,205 +9316,6 @@
       "desc": "On Nov. 11, 1966, the Gemini 12 mission launched an astronaut crew into orbit and set the stage for NASA's Apollo program. Here's why it mattered.",
       "pubDate": "Wed, 11 Nov 2026 20:50:18 +0000",
       "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000c5bdc5c9942e7",
-      "title": "Andy Weir's 'Exoplanet' just landed on Audible, but what actually makes an exoplanet habitable?",
-      "link": "https://www.space.com/astronomy/exoplanets/andy-weirs-exoplanet-just-hit-audible-but-what-actually-makes-an-exoplanet-habitable",
-      "desc": "How would the crew of the Wild Blue Yonder fare on a real exoplanet?",
-      "pubDate": "Wed, 11 Nov 2026 19:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001e34c41002644d",
-      "title": "ZWO introduces the Seestar S30 Plus",
-      "link": "https://www.astronomy.com/observing/zwo-introduces-the-seestar-s30-plus",
-      "desc": "ZWO has added a new entry point to its smart telescope lineup. The Seestar S30 Plus went on sale Nov. 10 for $499 — $474 for a limited time — undercutting the S30 Pro by $200 and making it the cheapest Seestar available. “Many people are interested in astrophotography but hesitate when they see theC",
-      "pubDate": "Wed, 11 Nov 2026 17:52:22 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001337b9cac388e1",
-      "title": "Taula eclipse",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/taula-eclipse",
-      "desc": "Josh Dury, taken from Menorca, Spain The Aug. 12, 2026, total solar eclipse sets over Talatí de Dalt, a late Bronze Age settlement on the Spanish island of Menorca. The Sun’s partial phases march down to the horizon, where totality lasted about 73 seconds — the site’s first total eclipse since 1539.",
-      "pubDate": "Wed, 11 Nov 2026 17:39:05 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00145e4637307fc0",
-      "title": "A massive new simulation reveals how the universe emerged from darkness",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-      "desc": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordin",
-      "pubDate": "Wed, 11 Nov 2026 23:07:24 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001eb805689c759e",
-      "title": "Asteroid Mining Will Crash the Platinum Market, But That’s Good News for Earth",
-      "link": "https://www.universetoday.com/articles/asteroid-mining-will-crash-the-platinum-market-but-thats-good-news-for-earth",
-      "desc": "Science fiction authors have been dreaming of robotic spacecraft harvesting fortunes from asteroids for decades. Humanity is slowly getting closer to that reality. But if you ask asteroid mining skeptics, they will usually ask one specific question - what happens to the prices of all those rare mate",
-      "pubDate": "Wed, 11 Nov 2026 17:06:51 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0007140c7ddcd0aa",
-      "title": "Did comets bring building blocks of life to Earth? Scientists aren't so sure anymore",
-      "link": "https://www.space.com/astronomy/comets/did-comets-bring-building-blocks-of-life-to-earth-scientists-arent-so-sure-anymore",
-      "desc": "For over a century astronomers have speculated that comets could have delivered organic molecules necessary for life to Earth, but new modeling shows these molecules wouldn't have survived impact.",
-      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0002bf3ac877d392",
-      "title": "The Chandra X-Ray Observatory Unmasks a Supernova Impostor",
-      "link": "https://www.universetoday.com/articles/the-chandra-x-ray-observatory-unmasks-a-supernova-impostor",
-      "desc": "Some stars, called Luminous Blue Variables, can be confused with supernovae explosions. They exhibit similar outbursts, but unlike supernovae, which explode once and then are gone forever, these stars have periodic outbursts. New research found that one of these 'supernova impostors' is in a binary ",
-      "pubDate": "Wed, 11 Nov 2026 16:41:55 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001638f3c604dae1",
-      "title": "'There's tremendous demand': Rocket Lab raises price of Neutron launch from $55 million to $70 million",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/theres-tremendous-demand-rocket-lab-raises-price-of-neutron-launch-from-usd55-million-to-usd70-million",
-      "desc": "Rocket Lab has raised the launch cost of its next-gen Neutron rocket by more than 25%, an increase that reflects high demand amid a looming liftoff bottleneck.",
-      "pubDate": "Wed, 11 Nov 2026 16:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001fb65223963b7e",
-      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare",
-      "desc": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […]\nThe post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
-      "pubDate": "Wed, 11 Nov 2026 15:53:57 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0011a2c8a2130b34",
-      "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-      "desc": "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better u",
-      "pubDate": "Wed, 11 Nov 2026 20:45:09 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0016909e184bf707",
-      "title": "Hubble Space Telescope reveals glittering stars with mysterious origins | Space photo of the day for Nov. 11, 2026",
-      "link": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-reveals-glittering-stars-with-mysterious-origins-space-photo-of-the-day-for-nov-11-2026",
-      "desc": "This dazzling collection of ancient stars could hold clues to the Milky Way's past.",
-      "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",

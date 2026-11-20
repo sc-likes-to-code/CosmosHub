@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-20T12:02:21.116Z",
-  "lastRunId": "run-1795176138461-qgyjid",
+  "lastUpdated": "2026-11-20T15:31:05.466Z",
+  "lastRunId": "run-1795188663675-v5wpyd",
   "stats": {
-    "totalStories": 1672,
-    "lastRunAdded": 60
+    "totalStories": 1684,
+    "lastRunAdded": 12
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b3aa215d696b68c3141275d008bb6436\"",
-    "https://www.universetoday.com/feed": "W/\"6b003663-7a91\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b3aa215d696b68c3141275d008bb6436\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"42f1f7fc7633e9aa64bd351351b86291\"",
+    "https://www.universetoday.com/feed": "W/\"6b0060ef-77d9\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a0405c0ff9f101b983d3f7324ef6fded\"",
     "http://arxiv.org/rss/astro-ph": "5ef4e7012862437099880fdc0f41ade165bc7dabcce85125fc29a9efcb62b843",
-    "https://spacenews.com/feed/": "W/\"0558d4a167b070ad3a0dd2c3ac95ee62\"",
-    "https://www.astronomy.com/feed/": "W/\"e475783e06cc2156ae9f659a52420e5e\"",
+    "https://spacenews.com/feed/": "W/\"a5dbae65f1bd386eadb0917e19df1aaf\"",
+    "https://www.astronomy.com/feed/": "W/\"35e0b97807bf00da273f19f47c0dca0a\"",
     "https://spacepolicyonline.com/feed/": "\"dedc3a6614bad5c4dc3eb382af5549ca\""
   },
   "articles": {
@@ -20079,6 +20079,150 @@
       "archivedDate": "2026-11-20",
       "collection": "morning",
       "archivedAt": "2026-11-20T12:02:21.116Z"
+    },
+    "001478698f1172f3": {
+      "id": "001478698f1172f3",
+      "canonicalUrl": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+      "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "000fd10461e209a8": {
+      "id": "000fd10461e209a8",
+      "canonicalUrl": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+      "title": "Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 14:58:26 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "0019015f4a8b9dd1": {
+      "id": "0019015f4a8b9dd1",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-20-1889-the-birth-of-edwin-hubble",
+      "title": "Nov. 20, 1889: The birth of Edwin Hubble",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "0018dc7addee788d": {
+      "id": "0018dc7addee788d",
+      "canonicalUrl": "https://www.astronomy.com/science/rubin-brings-the-universe-into-focus",
+      "title": "Rubin brings the universe into focus",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "000e79d19435f733": {
+      "id": "000e79d19435f733",
+      "canonicalUrl": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+      "title": "This is the First Time Astronomers Have Seen One of These Stellar Mergers",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 13:04:40 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "000d578eb38c6cc0": {
+      "id": "000d578eb38c6cc0",
+      "canonicalUrl": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+      "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "000775062a5828d7": {
+      "id": "000775062a5828d7",
+      "canonicalUrl": "https://phys.org/news/2026-11-star-gasps-alma-reveals-giant.html",
+      "title": "A star's last gasps: ALMA reveals a giant gas ring and budding hourglass around a star in transition",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 10:20:01 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "0006bb08d1b70d94": {
+      "id": "0006bb08d1b70d94",
+      "canonicalUrl": "https://phys.org/news/2026-11-astronomers-reveal-oceanic-europa-sodium.html",
+      "title": "Astronomers reveal the oceanic origin of Europa's sodium cloud",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 20 Nov 2026 09:00:06 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "001645fc785e5899": {
+      "id": "001645fc785e5899",
+      "canonicalUrl": "https://phys.org/news/2026-11-dark-energy-laws-particle-physics.html",
+      "title": "Dark energy may originate from known laws of particle physics",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 20 Nov 2026 08:20:06 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "001628e79cc17979": {
+      "id": "001628e79cc17979",
+      "canonicalUrl": "https://phys.org/news/2026-11-space-brain-immune-cells-behavior.html",
+      "title": "Space travel changes the brain's immune cells, but not behavior",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 20 Nov 2026 07:40:08 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "0000a432bce67675": {
+      "id": "0000a432bce67675",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Fri, 20 Nov 2026 07:34:56 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
+    },
+    "0004dff331c189ef": {
+      "id": "0004dff331c189ef",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
+      "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 00:41:16 EST",
+      "archivedDate": "2026-11-20",
+      "collection": "evening",
+      "archivedAt": "2026-11-20T15:31:05.466Z"
     }
   }
 }
