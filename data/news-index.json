@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-21T11:37:50.436Z",
-  "lastRunId": "run-1795261068041-9fa5q9",
+  "lastUpdated": "2026-11-21T15:31:07.120Z",
+  "lastRunId": "run-1795275064625-4d2f7x",
   "stats": {
-    "totalStories": 1711,
-    "lastRunAdded": 6
+    "totalStories": 1718,
+    "lastRunAdded": 7
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"6c1991a607a21a85bdc693b12296821a\"",
-    "https://www.universetoday.com/feed": "W/\"6b017728-7894\"",
+    "https://www.universetoday.com/feed": "W/\"6b01aeaa-7894\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"6c1991a607a21a85bdc693b12296821a\"",
     "http://arxiv.org/rss/astro-ph": "a6e7e3bd47966f9a95de48433b0ce317993fc344a0855822350473a4d4f21a2a",
     "https://spacenews.com/feed/": "W/\"ccd0a5b971fb6512b8db65fba0583f9d\"",
-    "https://www.astronomy.com/feed/": "W/\"7bc54f602c58909f436d95da625c77c3\"",
+    "https://www.astronomy.com/feed/": "W/\"a5cb5cf9fc5faf1d8559822c474d4c92\"",
     "https://spacepolicyonline.com/feed/": "\"dedc3a6614bad5c4dc3eb382af5549ca\""
   },
   "articles": {
@@ -20547,6 +20547,90 @@
       "archivedDate": "2026-11-21",
       "collection": "morning",
       "archivedAt": "2026-11-21T11:37:50.436Z"
+    },
+    "000754d440217af7": {
+      "id": "000754d440217af7",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-237-a-fond-farewell",
+      "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 21 Nov 2026 15:15:26 +0000",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "000f49b6c35c9ea1": {
+      "id": "000f49b6c35c9ea1",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
+      "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "000484370fe1d877": {
+      "id": "000484370fe1d877",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-21-1993-the-death-of-bruno-rossi",
+      "title": "Nov. 21, 1993: The death of Bruno Rossi",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "00070b8d3079c701": {
+      "id": "00070b8d3079c701",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-upper-stage-ever-caught-by-chopsticks-elon-musk-says",
+      "title": "SpaceX will retire 1st Starship upper stage ever caught by 'chopsticks,' Elon Musk says",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "0009c3aa87501456": {
+      "id": "0009c3aa87501456",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Sat, 21 Nov 2026 10:09:46 EST",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "000e3441b6bc4b8c": {
+      "id": "000e3441b6bc4b8c",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 21 Nov 2026 09:53:40 EST",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "001afc32fdb94f21": {
+      "id": "001afc32fdb94f21",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
+      "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 20 Nov 2026 07:55:51 EST",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T15:31:07.120Z"
     }
   }
 }
