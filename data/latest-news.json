@@ -1,8 +1,26 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T15:31:17.196Z",
+  "generatedAt": "2026-11-21T20:59:26.018Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00037419b3161b89",
+      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+      "desc": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered.",
+      "pubDate": "Sat, 21 Nov 2026 16:20:37 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "000754d440217af7",
       "title": "This Week In Space podcast: Episode 237 — A Fond Farewell",
@@ -131,7 +149,7 @@
     },
     {
       "id": "00158d5d7b05c0b0",
-      "title": "SpaceX launches classified mission for US Space Force from California",
+      "title": "SpaceX launches classified mission for US Space Force from California (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
       "desc": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
       "pubDate": "Sat, 21 Nov 2026 05:28:14 +0000",
@@ -299,7 +317,7 @@
       "title": "A Radical Theory about the Universe Just Passed Some Key Tests. So... What Does that Mean?",
       "link": "https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean",
       "desc": "An alternative model in which the Universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study.",
-      "pubDate": "Fri, 20 Nov 2026 20:07:21 +0000",
+      "pubDate": "Fri, 20 Nov 2026 20:07:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
@@ -9298,24 +9316,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "000170bf0d08b2fc",
-      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video)",
-      "link": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
-      "desc": "The Euclid space telescope released its first major batch of data, capturing the light of more than a billion objects over an area of sky as big as 9,500 full moons.",
-      "pubDate": "Thu, 12 Nov 2026 17:28:20 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

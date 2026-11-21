@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-21T15:31:07.120Z",
-  "lastRunId": "run-1795275064625-4d2f7x",
+  "lastUpdated": "2026-11-21T20:59:15.828Z",
+  "lastRunId": "run-1795294753281-5is6ma",
   "stats": {
-    "totalStories": 1718,
-    "lastRunAdded": 7
+    "totalStories": 1719,
+    "lastRunAdded": 1
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"6c1991a607a21a85bdc693b12296821a\"",
-    "https://www.universetoday.com/feed": "W/\"6b01aeaa-7894\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"6c1991a607a21a85bdc693b12296821a\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"8bdc55e5ddb9192c915669dbca669c7c\"",
+    "https://www.universetoday.com/feed": "W/\"6b0203fc-7894\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8bdc55e5ddb9192c915669dbca669c7c\"",
     "http://arxiv.org/rss/astro-ph": "a6e7e3bd47966f9a95de48433b0ce317993fc344a0855822350473a4d4f21a2a",
     "https://spacenews.com/feed/": "W/\"ccd0a5b971fb6512b8db65fba0583f9d\"",
     "https://www.astronomy.com/feed/": "W/\"a5cb5cf9fc5faf1d8559822c474d4c92\"",
-    "https://spacepolicyonline.com/feed/": "\"dedc3a6614bad5c4dc3eb382af5549ca\""
+    "https://spacepolicyonline.com/feed/": "\"042d28722929286824290ad2eec78340\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -20631,6 +20631,18 @@
       "archivedDate": "2026-11-21",
       "collection": "evening",
       "archivedAt": "2026-11-21T15:31:07.120Z"
+    },
+    "00037419b3161b89": {
+      "id": "00037419b3161b89",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 21 Nov 2026 16:20:37 +0000",
+      "archivedDate": "2026-11-21",
+      "collection": "evening",
+      "archivedAt": "2026-11-21T20:59:15.828Z"
     }
   }
 }
