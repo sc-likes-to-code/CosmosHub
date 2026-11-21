@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-20T22:18:27.660Z",
-  "lastRunId": "run-1795213104935-4nrw8v",
+  "lastUpdated": "2026-11-21T03:31:07.297Z",
+  "lastRunId": "run-1795231864405-lh6cps",
   "stats": {
-    "totalStories": 1702,
-    "lastRunAdded": 18
+    "totalStories": 1705,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b2d3f0891e8269add3da6049fb8d302c\"",
-    "https://www.universetoday.com/feed": "W/\"6b00bf7d-7891\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"5795a5cff9036a39c00e60adcbadd10b\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"f4d63226fccd1681140b57901e5f1646\"",
+    "https://www.universetoday.com/feed": "W/\"6b01058b-7891\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"f4d63226fccd1681140b57901e5f1646\"",
     "http://arxiv.org/rss/astro-ph": "5ef4e7012862437099880fdc0f41ade165bc7dabcce85125fc29a9efcb62b843",
-    "https://spacenews.com/feed/": "W/\"97941580c3ffe5722997865f34501117\"",
-    "https://www.astronomy.com/feed/": "W/\"1a1bec4c680235bb9be57fe1a26bd684\"",
+    "https://spacenews.com/feed/": "W/\"63e7cddc16e46fb40f55848f16ef6885\"",
+    "https://www.astronomy.com/feed/": "W/\"356d5958d7889c4a64222f5c72215278\"",
     "https://spacepolicyonline.com/feed/": "\"dedc3a6614bad5c4dc3eb382af5549ca\""
   },
   "articles": {
@@ -20439,6 +20439,42 @@
       "archivedDate": "2026-11-20",
       "collection": "evening",
       "archivedAt": "2026-11-20T22:18:27.660Z"
+    },
+    "00134194f88fec03": {
+      "id": "00134194f88fec03",
+      "canonicalUrl": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds",
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 20 Nov 2026 22:27:05 +0000",
+      "archivedDate": "2026-11-21",
+      "collection": "morning",
+      "archivedAt": "2026-11-21T03:31:07.297Z"
+    },
+    "0000d278dfcbd3ce": {
+      "id": "0000d278dfcbd3ce",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Space Industry & Policy",
+      "pubDate": "Fri, 20 Nov 2026 21:24:22 EST",
+      "archivedDate": "2026-11-21",
+      "collection": "morning",
+      "archivedAt": "2026-11-21T03:31:07.297Z"
+    },
+    "000ac550e4c51519": {
+      "id": "000ac550e4c51519",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 20 Nov 2026 21:11:14 EST",
+      "archivedDate": "2026-11-21",
+      "collection": "morning",
+      "archivedAt": "2026-11-21T03:31:07.297Z"
     }
   }
 }

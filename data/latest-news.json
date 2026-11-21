@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-20T22:18:38.599Z",
+  "generatedAt": "2026-11-21T03:31:18.143Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00134194f88fec03",
+      "title": "Curiosity Spots Drifting Twilight Clouds",
+      "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds",
+      "desc": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which ",
+      "pubDate": "Fri, 20 Nov 2026 22:27:05 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0011e8896d780965",
       "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
@@ -222,6 +241,24 @@
       }
     },
     {
+      "id": "0000d278dfcbd3ce",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+      "desc": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
+      "pubDate": "Fri, 20 Nov 2026 21:24:22 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001a19c26bd6852f",
       "title": "NASA’s Curiosity Mars Rover Collects Samples",
       "link": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples",
@@ -236,6 +273,24 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000ac550e4c51519",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+      "desc": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument could soon reveal Mercury's hidden chemical secrets and transform our understand",
+      "pubDate": "Fri, 20 Nov 2026 21:11:14 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -9264,63 +9319,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "000b1f31dd80a022",
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "link": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la",
-      "desc": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carri",
-      "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0017b317daf542c2",
-      "title": "Space telescope Euclid sets the new standard for cosmology",
-      "link": "https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html",
-      "desc": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.",
-      "pubDate": "Thu, 12 Nov 2026 16:00:01 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0002671e780f5e60",
-      "title": "Space dust particles point to ancient heavy-oxygen water reservoir in the Kuiper belt",
-      "link": "https://phys.org/news/2026-11-space-particles-ancient-heavy-oxygen.html",
-      "desc": "Way out past the asteroid belt, another belt encircles the planets in our solar system. The Kuiper belt, beyond Neptune, preserves icy bodies that escaped much of the processing experienced by objects closer to the sun. Unlike the rocky and metallic asteroid belt, Kuiper belt objects are composed mo",
-      "pubDate": "Thu, 12 Nov 2026 13:30:02 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     }
