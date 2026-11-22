@@ -1,8 +1,45 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T15:31:22.107Z",
+  "generatedAt": "2026-11-22T21:09:41.906Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001b04d4b2209375",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
+      "desc": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence fo",
+      "pubDate": "Sun, 22 Nov 2026 19:13:25 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e49b206f230fb",
+      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+      "desc": "SpaceX launched a batch of classified spy satellites for the U.S. government's National Reconnaissance Office early on Sunday morning (Nov. 22).",
+      "pubDate": "Sun, 22 Nov 2026 16:05:33 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "00072de48138847a",
       "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
@@ -23,7 +60,7 @@
     },
     {
       "id": "0002950ac08212cb",
-      "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+      "title": "As 'Star Trek: First Contact' turns 30, Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
       "link": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
       "desc": "\"What’s not to love? It's bulletproof!\"",
       "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
@@ -130,10 +167,29 @@
       }
     },
     {
+      "id": "001a91d76e00ac52",
+      "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+      "link": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
+      "desc": "How the first massive black holes formed in the universe remains an open question in astronomy. Black holes weighing about a billion solar masses within the first billion years of the universe require extraordinary origin stories.",
+      "pubDate": "Sun, 22 Nov 2026 11:40:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0000d243064e547a",
       "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
       "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno",
-      "desc": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "desc": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss  APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a prof",
       "pubDate": "Sun, 22 Nov 2026 05:05:00 +0000",
       "category": "Research & Science",
       "source": {
@@ -278,11 +334,11 @@
     },
     {
       "id": "00199c209ab56761",
-      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
       "link": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
-      "desc": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+      "desc": "The BepiColombo spacecraft finally arrived in orbit around Mercury on Saturday (Nov. 21), more than eight years after leaving its home planet.",
       "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
-      "category": "Other Space Transmissions",
+      "category": "Missions & Exploration",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",
@@ -9250,61 +9306,6 @@
       "desc": "James Gunn's new DC universe might be done, but the follow-up to 2025's Superman is still on the way.",
       "pubDate": "Thu, 12 Nov 2026 22:00:00 +0000",
       "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0006d25131f7c0bf",
-      "title": "Photo Release: NSF NOIRLab-operated Facilities Capture Brightening Nearby Supernova",
-      "link": "https://noirlab.edu/public/news/noirlab2628",
-      "desc": "Newly discovered supernova SN 2026ahvu in the nearby spiral galaxy NGC 1433 bedazzles new images from the Dark Energy Camera and the International Gemini Observatory. Caught early and still approaching its expected maximum brightness, SN 2026ahvu gives astronomers a valuable opportunity to study a s",
-      "pubDate": "Thu, 12 Nov 2026 14:23:32 -0700",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NOIRLab News",
-        "key": "noirlab",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Observatories",
-          "Astronomy",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0007ff2906d9e643",
-      "title": "Asteroid Bennu's Sample Delivers Another Surprise",
-      "link": "https://www.universetoday.com/articles/asteroid-bennus-sample-delivers-another-surprise",
-      "desc": "Researchers compared the samples from asteroid Bennu with the Murchison meteorite and measured the amino acid β-alanine in both. Using new techniques, they were able to measure not only their isotopic compositions, but isotopic differences between individual atoms in the same molecule. The results s",
-      "pubDate": "Thu, 12 Nov 2026 21:16:30 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001aab221dcabc42",
-      "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star",
-      "link": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
-      "desc": "A hidden black hole or neutron star companion to an unstable massive star is causing the system to erupt in light that mimics a supernova explosion.",
-      "pubDate": "Thu, 12 Nov 2026 21:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",

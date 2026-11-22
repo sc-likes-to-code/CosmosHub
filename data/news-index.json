@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-22T15:31:11.980Z",
-  "lastRunId": "run-1795361469492-ejdeah",
+  "lastUpdated": "2026-11-22T21:09:33.931Z",
+  "lastRunId": "run-1795381771641-o1bduy",
   "stats": {
-    "totalStories": 1729,
-    "lastRunAdded": 7
+    "totalStories": 1732,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"4797ea46016fabcd36f25f14f0f08102\"",
-    "https://www.universetoday.com/feed": "W/\"6b030007-7894\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"4797ea46016fabcd36f25f14f0f08102\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"904fe705583d0648d12fdd78d7da4be4\"",
+    "https://www.universetoday.com/feed": "W/\"6b035459-7894\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"904fe705583d0648d12fdd78d7da4be4\"",
     "http://arxiv.org/rss/astro-ph": "c36263dd75ea4d44b73b110253830c0a40ce3ccfa2f91c93f679d1f46dcd290a",
     "https://spacenews.com/feed/": "W/\"836186b460ef225e32a01196c0b655d4\"",
     "https://www.astronomy.com/feed/": "W/\"db53d35a09d937ad8fe74d2c80be8e40\"",
-    "https://spacepolicyonline.com/feed/": "\"8092a2373c0052f93a5ccc13d5779dba\""
+    "https://spacepolicyonline.com/feed/": "\"7c1052c67b8a1636e15f344ece1810e8\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -20763,6 +20763,42 @@
       "archivedDate": "2026-11-22",
       "collection": "evening",
       "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "001b04d4b2209375": {
+      "id": "001b04d4b2209375",
+      "canonicalUrl": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Sun, 22 Nov 2026 19:13:25 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T21:09:33.931Z"
+    },
+    "000e49b206f230fb": {
+      "id": "000e49b206f230fb",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 22 Nov 2026 16:05:33 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T21:09:33.931Z"
+    },
+    "001a91d76e00ac52": {
+      "id": "001a91d76e00ac52",
+      "canonicalUrl": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
+      "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 11:40:01 EST",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T21:09:33.931Z"
     }
   }
 }
