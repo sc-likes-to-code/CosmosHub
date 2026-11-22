@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-22T11:51:42.159Z",
-  "lastRunId": "run-1795348299985-rm5x4s",
+  "lastUpdated": "2026-11-22T15:31:11.980Z",
+  "lastRunId": "run-1795361469492-ejdeah",
   "stats": {
-    "totalStories": 1722,
-    "lastRunAdded": 3
+    "totalStories": 1729,
+    "lastRunAdded": 7
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"4797ea46016fabcd36f25f14f0f08102\"",
-    "https://www.universetoday.com/feed": "W/\"6b02d5d6-7894\"",
+    "https://www.universetoday.com/feed": "W/\"6b030007-7894\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"4797ea46016fabcd36f25f14f0f08102\"",
     "http://arxiv.org/rss/astro-ph": "c36263dd75ea4d44b73b110253830c0a40ce3ccfa2f91c93f679d1f46dcd290a",
     "https://spacenews.com/feed/": "W/\"836186b460ef225e32a01196c0b655d4\"",
-    "https://www.astronomy.com/feed/": "W/\"6f628d9da5c323c868556f2735594e24\"",
+    "https://www.astronomy.com/feed/": "W/\"db53d35a09d937ad8fe74d2c80be8e40\"",
     "https://spacepolicyonline.com/feed/": "\"8092a2373c0052f93a5ccc13d5779dba\""
   },
   "articles": {
@@ -20679,6 +20679,90 @@
       "archivedDate": "2026-11-22",
       "collection": "morning",
       "archivedAt": "2026-11-22T11:51:42.159Z"
+    },
+    "00072de48138847a": {
+      "id": "00072de48138847a",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+      "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "0002950ac08212cb": {
+      "id": "0002950ac08212cb",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-director-jonathan-frakes-reflects-on-his-triumphant-time-travel-blockbuster-interview",
+      "title": "'Star Trek: First Contact' at 30: Director Jonathan Frakes reflects on his triumphant time-travel blockbuster (interview)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "000ceee78313b050": {
+      "id": "000ceee78313b050",
+      "canonicalUrl": "https://www.space.com/on-this-day-in-space-november-22-2026",
+      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sun, 22 Nov 2026 14:18:35 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "001ba1cefa379496": {
+      "id": "001ba1cefa379496",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-22-1942-the-birth-of-guion-bluford",
+      "title": "Nov. 22, 1942: The birth of Guion Bluford",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "001022046101edaf": {
+      "id": "001022046101edaf",
+      "canonicalUrl": "https://www.astronomy.com/science/young-and-old-stars-share-the-southern-sky",
+      "title": "Young and old stars share the southern sky",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "001635f58d77cc56": {
+      "id": "001635f58d77cc56",
+      "canonicalUrl": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html",
+      "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Sun, 22 Nov 2026 10:20:01 EST",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
+    },
+    "00145321b960b48b": {
+      "id": "00145321b960b48b",
+      "canonicalUrl": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
+      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 09:00:01 EST",
+      "archivedDate": "2026-11-22",
+      "collection": "evening",
+      "archivedAt": "2026-11-22T15:31:11.980Z"
     }
   }
 }
