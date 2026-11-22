@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-21T20:59:15.828Z",
-  "lastRunId": "run-1795294753281-5is6ma",
+  "lastUpdated": "2026-11-22T11:51:42.159Z",
+  "lastRunId": "run-1795348299985-rm5x4s",
   "stats": {
-    "totalStories": 1719,
-    "lastRunAdded": 1
+    "totalStories": 1722,
+    "lastRunAdded": 3
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"8bdc55e5ddb9192c915669dbca669c7c\"",
-    "https://www.universetoday.com/feed": "W/\"6b0203fc-7894\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8bdc55e5ddb9192c915669dbca669c7c\"",
-    "http://arxiv.org/rss/astro-ph": "a6e7e3bd47966f9a95de48433b0ce317993fc344a0855822350473a4d4f21a2a",
-    "https://spacenews.com/feed/": "W/\"ccd0a5b971fb6512b8db65fba0583f9d\"",
-    "https://www.astronomy.com/feed/": "W/\"a5cb5cf9fc5faf1d8559822c474d4c92\"",
-    "https://spacepolicyonline.com/feed/": "\"042d28722929286824290ad2eec78340\""
+    "https://www.nasa.gov/news-release/feed/": "W/\"4797ea46016fabcd36f25f14f0f08102\"",
+    "https://www.universetoday.com/feed": "W/\"6b02d5d6-7894\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"4797ea46016fabcd36f25f14f0f08102\"",
+    "http://arxiv.org/rss/astro-ph": "c36263dd75ea4d44b73b110253830c0a40ce3ccfa2f91c93f679d1f46dcd290a",
+    "https://spacenews.com/feed/": "W/\"836186b460ef225e32a01196c0b655d4\"",
+    "https://www.astronomy.com/feed/": "W/\"6f628d9da5c323c868556f2735594e24\"",
+    "https://spacepolicyonline.com/feed/": "\"8092a2373c0052f93a5ccc13d5779dba\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -20643,6 +20643,42 @@
       "archivedDate": "2026-11-21",
       "collection": "evening",
       "archivedAt": "2026-11-21T20:59:15.828Z"
+    },
+    "0002706277cc5a69": {
+      "id": "0002706277cc5a69",
+      "canonicalUrl": "https://www.space.com/stargazing/solar-eclipses/10-things-that-worry-me-about-chasing-the-2027-total-solar-eclipse-in-egypt",
+      "title": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "morning",
+      "archivedAt": "2026-11-22T11:51:42.159Z"
+    },
+    "000a3fcf03bfe1b9": {
+      "id": "000a3fcf03bfe1b9",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-sunday-november-22-2026",
+      "title": "The Sky Today on Sunday, November 22: Flat-floored lunar crater Schickard",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "morning",
+      "archivedAt": "2026-11-22T11:51:42.159Z"
+    },
+    "0000d243064e547a": {
+      "id": "0000d243064e547a",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno",
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Sun, 22 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-22",
+      "collection": "morning",
+      "archivedAt": "2026-11-22T11:51:42.159Z"
     }
   }
 }
