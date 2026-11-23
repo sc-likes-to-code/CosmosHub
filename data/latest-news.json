@@ -1,8 +1,45 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T21:09:41.906Z",
+  "generatedAt": "2026-11-23T03:31:10.499Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0019fff996520e32",
+      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "desc": "An Ariane 6 rocket will launch 36 Amazon broadband satellites to orbit early on Nov. 23, just eight days after a ULA Vulcan Centaur failed during its mission for Amazon. Watch it live here.",
+      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0009b795c57abc46",
+      "title": "What’s Happening in Space Policy November 22-29, 2026",
+      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026",
+      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week plus a day of November 22-29, 2026 and any insight we can offer about them. The House and Senate […]",
+      "pubDate": "Sun, 22 Nov 2026 21:50:55 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001b04d4b2209375",
       "title": "65 Years of Human Spaceflight at NASA Johnson",
@@ -239,6 +276,42 @@
           "Physics",
           "Space",
           "Research"
+        ]
+      }
+    },
+    {
+      "id": "00077303b183f974",
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+      "desc": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reaches 75% of the speed of light, some scattered light starts producing drag, potentially complicating hu",
+      "pubDate": "Sun, 22 Nov 2026 06:59:29 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000176d6fd63240f",
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+      "desc": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black h",
+      "pubDate": "Sun, 22 Nov 2026 06:46:42 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -7888,25 +7961,6 @@
       }
     },
     {
-      "id": "00190826b68ca1d5",
-      "title": "What’s Happening in Space Policy November 15-21, 2026",
-      "link": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-15-21-2026",
-      "desc": "Here is SpacePolicyOnline.com’s list of space policy events for the week of November 15-21, 2026 and any insight we can offer about them. The House and Senate are in session […]",
-      "pubDate": "Sun, 15 Nov 2026 23:13:57 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
       "id": "000794c8c6448bce",
       "title": "Vulcan’s Return-to-Flight Fails",
       "link": "https://spacepolicyonline.com/news/vulcans-return-to-flight-fails",
@@ -9260,60 +9314,6 @@
         "tags": [
           "Research",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "0013599039e38414",
-      "title": "Euclid's First Data Release: A Stepping Stone to its 3D Map of the Sky",
-      "link": "https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky",
-      "desc": "The ESA's Euclid Space Telescope has released its first huge batch of data. It's all part of the telescope's mission to study dark energy and dark matter. The telescope is busy creating the largest ever 3D map of the Universe with its huge 600 megapixel camera, and new images give us some highlights",
-      "pubDate": "Thu, 12 Nov 2026 23:04:05 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0019b7e0ed758094",
-      "title": "A Brief-ish History of METI. Part III: The Legacy of Frank Drake & Carl Sagan",
-      "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iii-the-legacy-of-frank-drake-carl-sagan",
-      "desc": "Carl Sagan and Frank Drake were pivotal to the development of the Search for Extraterrestrial Intelligence (SETI) and Messaging Extraterrestrial Intelligence (METI), as exemplified by the Pioneer Plaques and Voyager Golden Records.",
-      "pubDate": "Thu, 12 Nov 2026 22:04:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f58a08bf0ae2f",
-      "title": "'Man of Tomorrow': Release date, plot, cast & everything we know about the 'Superman' sequel",
-      "link": "https://www.space.com/entertainment/space-movies-shows/man-of-tomorrow-release-date-plot-cast-and-everything-we-know-about-the-superman-sequel",
-      "desc": "James Gunn's new DC universe might be done, but the follow-up to 2025's Superman is still on the way.",
-      "pubDate": "Thu, 12 Nov 2026 22:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

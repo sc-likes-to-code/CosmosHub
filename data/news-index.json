@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-22T21:09:33.931Z",
-  "lastRunId": "run-1795381771641-o1bduy",
+  "lastUpdated": "2026-11-23T03:31:02.706Z",
+  "lastRunId": "run-1795404660414-5dq553",
   "stats": {
-    "totalStories": 1732,
-    "lastRunAdded": 3
+    "totalStories": 1736,
+    "lastRunAdded": 4
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"904fe705583d0648d12fdd78d7da4be4\"",
-    "https://www.universetoday.com/feed": "W/\"6b035459-7894\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"904fe705583d0648d12fdd78d7da4be4\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"c3df2970515cea96aaaac5d2b225c64f\"",
+    "https://www.universetoday.com/feed": "W/\"6b03a907-7894\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"c3df2970515cea96aaaac5d2b225c64f\"",
     "http://arxiv.org/rss/astro-ph": "c36263dd75ea4d44b73b110253830c0a40ce3ccfa2f91c93f679d1f46dcd290a",
     "https://spacenews.com/feed/": "W/\"836186b460ef225e32a01196c0b655d4\"",
     "https://www.astronomy.com/feed/": "W/\"db53d35a09d937ad8fe74d2c80be8e40\"",
-    "https://spacepolicyonline.com/feed/": "\"7c1052c67b8a1636e15f344ece1810e8\""
+    "https://spacepolicyonline.com/feed/": "\"178157de01749d15c31ccd938c546bca\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -20799,6 +20799,54 @@
       "archivedDate": "2026-11-22",
       "collection": "evening",
       "archivedAt": "2026-11-22T21:09:33.931Z"
+    },
+    "0019fff996520e32": {
+      "id": "0019fff996520e32",
+      "canonicalUrl": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "title": "Watch live on Nov. 23: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
+      "archivedDate": "2026-11-23",
+      "collection": "morning",
+      "archivedAt": "2026-11-23T03:31:02.706Z"
+    },
+    "0009b795c57abc46": {
+      "id": "0009b795c57abc46",
+      "canonicalUrl": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-22-29-2026",
+      "title": "What’s Happening in Space Policy November 22-29, 2026",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Sun, 22 Nov 2026 21:50:55 +0000",
+      "archivedDate": "2026-11-23",
+      "collection": "morning",
+      "archivedAt": "2026-11-23T03:31:02.706Z"
+    },
+    "00077303b183f974": {
+      "id": "00077303b183f974",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Sun, 22 Nov 2026 06:59:29 EST",
+      "archivedDate": "2026-11-23",
+      "collection": "morning",
+      "archivedAt": "2026-11-23T03:31:02.706Z"
+    },
+    "000176d6fd63240f": {
+      "id": "000176d6fd63240f",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+      "title": "A mysterious gap hints at black holes born from stars that never exploded",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sun, 22 Nov 2026 06:46:42 EST",
+      "archivedDate": "2026-11-23",
+      "collection": "morning",
+      "archivedAt": "2026-11-23T03:31:02.706Z"
     }
   }
 }
