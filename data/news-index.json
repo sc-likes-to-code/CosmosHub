@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-23T13:30:43.217Z",
-  "lastRunId": "run-1795440640767-2z8jf0",
+  "lastUpdated": "2026-11-23T15:31:11.155Z",
+  "lastRunId": "run-1795447869276-is6c3e",
   "stats": {
-    "totalStories": 1795,
-    "lastRunAdded": 59
+    "totalStories": 1801,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"107971ee11f43c602212a0dc5262eb6c\"",
-    "https://www.universetoday.com/feed": "W/\"6b043647-7894\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"107971ee11f43c602212a0dc5262eb6c\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"8e3e16a64d77ff7cce79971a99704959\"",
+    "https://www.universetoday.com/feed": "W/\"6b045931-78e4\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"8e3e16a64d77ff7cce79971a99704959\"",
     "http://arxiv.org/rss/astro-ph": "e1a3b1774082b8ad808a2aea7c6cfabdee7794d4800701c777fc14a9c9309c68",
-    "https://spacenews.com/feed/": "W/\"f23038e83be530871affe9b4cafcd4e4\"",
-    "https://www.astronomy.com/feed/": "W/\"3a8283d57f0b15aea1764fa5d9ec1e6b\"",
+    "https://spacenews.com/feed/": "W/\"cc1d3fe2958025aa5c2434f833544017\"",
+    "https://www.astronomy.com/feed/": "W/\"9272a5b86d3e0777b35da710e282ea17\"",
     "https://spacepolicyonline.com/feed/": "\"178157de01749d15c31ccd938c546bca\""
   },
   "articles": {
@@ -21555,6 +21555,78 @@
       "archivedDate": "2026-11-23",
       "collection": "morning",
       "archivedAt": "2026-11-23T13:30:43.217Z"
+    },
+    "00039844d9b2371e": {
+      "id": "00039844d9b2371e",
+      "canonicalUrl": "https://www.universetoday.com/articles/bacteria-and-nuclear-power-could-grow-ready-made-homes-on-mars-before-astronauts-arrive",
+      "title": "Bacteria and Nuclear Power Could Grow Ready-Made Homes on Mars Before Astronauts Arrive",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 23 Nov 2026 15:14:35 +0000",
+      "archivedDate": "2026-11-23",
+      "collection": "evening",
+      "archivedAt": "2026-11-23T15:31:11.155Z"
+    },
+    "0014d117e21dda07": {
+      "id": "0014d117e21dda07",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
+      "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 23 Nov 2026 15:10:59 +0000",
+      "archivedDate": "2026-11-23",
+      "collection": "evening",
+      "archivedAt": "2026-11-23T15:31:11.155Z"
+    },
+    "001690eff0a52c7e": {
+      "id": "001690eff0a52c7e",
+      "canonicalUrl": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
+      "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-23",
+      "collection": "evening",
+      "archivedAt": "2026-11-23T15:31:11.155Z"
+    },
+    "0009db5e8fe4649c": {
+      "id": "0009db5e8fe4649c",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-23-1221-the-birth-of-alfonso-the-wise",
+      "title": "Nov. 23, 1221: The birth of Alfonso the Wise",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-23",
+      "collection": "evening",
+      "archivedAt": "2026-11-23T15:31:11.155Z"
+    },
+    "0015b7198213d496": {
+      "id": "0015b7198213d496",
+      "canonicalUrl": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
+      "title": "Could astronomers be closing in on a hidden planet beyond Neptune?",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Mon, 23 Nov 2026 09:48:47 EST",
+      "archivedDate": "2026-11-23",
+      "collection": "evening",
+      "archivedAt": "2026-11-23T15:31:11.155Z"
+    },
+    "001cef0e26eced91": {
+      "id": "001cef0e26eced91",
+      "canonicalUrl": "https://phys.org/news/2026-11-astronomers-gas-cloud-dimming-black.html",
+      "title": "Astronomers catch a gas cloud dimming a black hole's glow for weeks",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Mon, 23 Nov 2026 09:20:01 EST",
+      "archivedDate": "2026-11-23",
+      "collection": "evening",
+      "archivedAt": "2026-11-23T15:31:11.155Z"
     }
   }
 }

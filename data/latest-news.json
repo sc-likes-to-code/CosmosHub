@@ -1,8 +1,98 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T13:30:50.883Z",
+  "generatedAt": "2026-11-23T15:31:19.206Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00039844d9b2371e",
+      "title": "Bacteria and Nuclear Power Could Grow Ready-Made Homes on Mars Before Astronauts Arrive",
+      "link": "https://www.universetoday.com/articles/bacteria-and-nuclear-power-could-grow-ready-made-homes-on-mars-before-astronauts-arrive",
+      "desc": "As we gear up to eventually land a human on Mars, more and more ideas are coming out about how to prepare for that. A recent one from Pioneer Labs, a research institute founded by bioengineer Erika DeBenedictis to develop biological technologies for space exploration, is now available on arXiv, with",
+      "pubDate": "Mon, 23 Nov 2026 15:14:35 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0014d117e21dda07",
+      "title": "'Avengers: Doomsday' gets final trailer, explaining why Steve Rogers is back and showing an epic battle with the X-Men",
+      "link": "https://www.space.com/entertainment/space-movies-shows/avengers-doomsday-gets-final-trailer-explaining-why-steve-rogers-is-back-and-showing-an-epic-battle-with-the-x-men",
+      "desc": "Marvel Studios’ first Avengers film since 2019 is less than a month away, and it might be the big-screen team-up event we thought impossible only ten years ago.",
+      "pubDate": "Mon, 23 Nov 2026 15:10:59 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001690eff0a52c7e",
+      "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
+      "link": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
+      "desc": "Just imagine the ancient, Martian lava flowing.",
+      "pubDate": "Mon, 23 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Mon, 23 Nov 2026 14:00:23 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0009db5e8fe4649c",
+      "title": "Nov. 23, 1221: The birth of Alfonso the Wise",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-23-1221-the-birth-of-alfonso-the-wise",
+      "desc": "On Nov. 23, 1221, Alfonso X was born in Spain, the son of King Ferdinand III of Castile and Leon. By the time he succeeded his father in 1252, Alfonso was already known as a scholar – though he demonstrated his military might as well, putting down several revolts and annexing Murcia. Known as Alfons",
+      "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000ad60e927605e2",
       "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
@@ -1081,6 +1171,44 @@
       }
     },
     {
+      "id": "0015b7198213d496",
+      "title": "Could astronomers be closing in on a hidden planet beyond Neptune?",
+      "link": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
+      "desc": "If a hidden planet really does exist beyond Neptune, astronomers have identified how it may look and act to explain the mysterious goings-on in the distant reaches of our solar system.",
+      "pubDate": "Mon, 23 Nov 2026 09:48:47 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001cef0e26eced91",
+      "title": "Astronomers catch a gas cloud dimming a black hole's glow for weeks",
+      "link": "https://phys.org/news/2026-11-astronomers-gas-cloud-dimming-black.html",
+      "desc": "Some active galactic nuclei (AGNs)—galaxies that are powered by actively feeding black holes—undergo rapid changes in their appearance, which manifest as a change in their spectral properties. These are called \"changing-look\" AGNs. Their appearance changes over time, getting brighter or dimmer, or l",
+      "pubDate": "Mon, 23 Nov 2026 09:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001cac0d5aaa37f5",
       "title": "A galactic shock wave could rewrite the map of the Milky Way",
       "link": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
@@ -1941,24 +2069,6 @@
       "link": "https://www.astronomy.com/science/rubin-brings-the-universe-into-focus",
       "desc": "After more than 20 years of planning, construction, and testing, astronomers have officially started the Legacy Survey of Space and Time (LSST). The survey will snap about 1,000 images per night with a 3.2-gigapixel camera — the largest digital camera in the world — attached to the 8.4-meter telesco",
       "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Fri, 20 Nov 2026 13:53:21 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Astronomy Magazine",
@@ -9233,117 +9343,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "000a1971132563d9",
-      "title": "Dark matter–hunting satellite Euclid reveals record number of cosmic 'magnifying glasses'",
-      "link": "https://phys.org/news/2026-11-dark-matterhunting-satellite-euclid-reveals.html",
-      "desc": "UBC researchers have helped uncover 15,000 new potential strong gravitational lenses—the largest collection of these cosmic tools that help astronomers investigate dark matter.",
-      "pubDate": "Sun, 15 Nov 2026 15:00:01 EST",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00178c81e2751b2c",
-      "title": "The Sky Today on Sunday, November 15: Mars and Jupiter in conjunction",
-      "link": "https://www.astronomy.com/observing/the-sky-today-sunday-november-15-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 14: Venus and Mercury in Virgo Jupiter and Mars are approaching opposition in February next year. They are now rising late in the evening and dominate the early-morning sky. By 3 A.M. local time, the two planets ar",
-      "pubDate": "Sun, 15 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001ff72a40c58fc4",
-      "title": "New observations challenge evidence for an 'outsize' black hole in the early universe",
-      "link": "https://phys.org/news/2026-11-evidence-outsize-black-hole-early.html",
-      "desc": "A recent reanalysis of the outsize black hole galaxy UHZ1 using existing X-ray data and new infrared observations challenges a previous groundbreaking claim. Three years ago, this galaxy made news for hosting an unusually massive and heavily dust-obscured black hole formed through direct collapse. L",
-      "pubDate": "Sun, 15 Nov 2026 09:00:04 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000be86c1db58214",
-      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
-      "desc": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their mag",
-      "pubDate": "Sun, 15 Nov 2026 08:43:22 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001d3d908ef505b5",
-      "title": "SpaceX's Starship returns from orbit and is captured by launch pad arms in a dramatic first",
-      "link": "https://phys.org/news/2026-11-spacex-starship-orbit-captured-pad.html",
-      "desc": "SpaceX's Starship made a triumphant return to Earth on Saturday, caught in midair by giant mechanical arms where its journey began 22 hours earlier.",
-      "pubDate": "Sun, 15 Nov 2026 08:06:43 EST",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001822b5ae722f84",
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-      "desc": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to on",
-      "pubDate": "Sun, 15 Nov 2026 08:04:09 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
         ]
       }
     }
