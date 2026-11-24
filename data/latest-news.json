@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T14:09:39.389Z",
+  "generatedAt": "2026-11-24T15:31:19.156Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00069f61b5632be4",
+      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution",
+      "desc": "Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around […]\nThe post Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Missi",
+      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
     {
       "id": "000c63fd3cec0081",
       "title": "Space Lasers Are Fast, But Clouds Still Rule the Forecast",
@@ -54,6 +73,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "001d138edc7f900a",
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "link": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar",
+      "desc": "The brilliant galaxy NGC 4394 with its distinct galactic bar takes center stage in this Hubble Space Telescope image",
+      "pubDate": "Tue, 24 Nov 2026 13:58:28 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
         ]
       }
     },
@@ -9283,44 +9321,6 @@
       "title": "High-resolution Observations of Physical Properties of Dynamic Fibrils Around a Sunspot",
       "link": "https://arxiv.org/abs/2611.17838",
       "desc": "arXiv:2611.17838v1 Announce Type: new \nAbstract: Understanding the formation and evolution of dynamic fibrils (DFs) in active regions is essential for uncovering the physical processes operating in the highly structured and magnetized solar atmosphere. High-resolution chromospheric observations from",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000527cebf180219",
-      "title": "Holographically motivated Hubble-running dark energy: Phantom-divide crossing in VCDM and observational constraints",
-      "link": "https://arxiv.org/abs/2611.17374",
-      "desc": "arXiv:2611.17374v1 Announce Type: new \nAbstract: Motivated by power-law dependences on the expansion scale in holographic dark-energy constructions, we study the Hubble-running equation of state $w_{\\rm DE}=w_0(H/H_0)^q$ (HoloEoS), where $H$ is the Hubble expansion rate, $H_0$ and $w_0$ are the pres",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000e7199cede0500",
-      "title": "Hydrodynamic and photoionization analysis of a Cosmic Dawn dwarf galaxy based on a JWST-inferred star formation history",
-      "link": "https://arxiv.org/abs/2611.17582",
-      "desc": "arXiv:2611.17582v1 Announce Type: new \nAbstract: We investigate the evolution of the emergent spectrum of the Cosmic Dawn dwarf galaxy 2779 using coupled hydrodynamics and photoionization modeling. Evolutionary sequences of spherically symmetric, multi-component models track the star-formation histo",
       "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {

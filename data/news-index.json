@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-24T14:09:30.522Z",
-  "lastRunId": "run-1795529367865-zf6ilo",
+  "lastUpdated": "2026-11-24T15:31:08.628Z",
+  "lastRunId": "run-1795534266430-2i6eib",
   "stats": {
-    "totalStories": 1845,
-    "lastRunAdded": 15
+    "totalStories": 1847,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"2107f62edf0f73fecef4e0dfa75d86cd\"",
-    "https://www.universetoday.com/feed": "W/\"6b0599d4-7862\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"bed509bb27017b706374a77fb1cc7151\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"4378987bc5a5d6f8b3a2e3d815a5e2f7\"",
+    "https://www.universetoday.com/feed": "W/\"6b05a3c1-7862\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"71bac7a5785f396f114d6e2d649f6e1b\"",
     "http://arxiv.org/rss/astro-ph": "ecf2a5a317aaf3fc5b7a4cbb6423de5b56c629c60db71eaaf8a71fae6769cd42",
-    "https://spacenews.com/feed/": "W/\"818ec3778c9d5739fb206070dcafc89b\"",
+    "https://spacenews.com/feed/": "W/\"b9ad651b56ef80bcc748ddfdc4407ac2\"",
     "https://www.astronomy.com/feed/": "W/\"b14aa5285e996e4b5cb05678eb609ff7\"",
     "https://spacepolicyonline.com/feed/": "\"435de0ed61d097f550a096c3b2577c33\""
   },
@@ -22155,6 +22155,30 @@
       "archivedDate": "2026-11-24",
       "collection": "morning",
       "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "00069f61b5632be4": {
+      "id": "00069f61b5632be4",
+      "canonicalUrl": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution",
+      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "source": "SpaceNews",
+      "sourceKey": "spacenews",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "evening",
+      "archivedAt": "2026-11-24T15:31:08.628Z"
+    },
+    "001d138edc7f900a": {
+      "id": "001d138edc7f900a",
+      "canonicalUrl": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar",
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 13:58:28 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "evening",
+      "archivedAt": "2026-11-24T15:31:08.628Z"
     }
   }
 }
