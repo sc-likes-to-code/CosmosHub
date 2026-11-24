@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-24T02:28:55.985Z",
-  "lastRunId": "run-1795487332908-mkpv2w",
+  "lastUpdated": "2026-11-24T14:09:30.522Z",
+  "lastRunId": "run-1795529367865-zf6ilo",
   "stats": {
-    "totalStories": 1830,
-    "lastRunAdded": 29
+    "totalStories": 1845,
+    "lastRunAdded": 15
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"09af22f0efd10434938704012cebb05b\"",
-    "https://www.universetoday.com/feed": "W/\"6b04ec4c-77e1\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"a699163078393acf25c818fe4b3b82ef\"",
-    "http://arxiv.org/rss/astro-ph": "e1a3b1774082b8ad808a2aea7c6cfabdee7794d4800701c777fc14a9c9309c68",
-    "https://spacenews.com/feed/": "W/\"846a83a763eefab43dc42e43b77447d5\"",
-    "https://www.astronomy.com/feed/": "W/\"dd9975bdec7d03ab029cc418ba2400c5\"",
-    "https://spacepolicyonline.com/feed/": "\"5557ea3ddacc0275bb149acad85a742b\""
+    "https://www.nasa.gov/news-release/feed/": "W/\"2107f62edf0f73fecef4e0dfa75d86cd\"",
+    "https://www.universetoday.com/feed": "W/\"6b0599d4-7862\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"bed509bb27017b706374a77fb1cc7151\"",
+    "http://arxiv.org/rss/astro-ph": "ecf2a5a317aaf3fc5b7a4cbb6423de5b56c629c60db71eaaf8a71fae6769cd42",
+    "https://spacenews.com/feed/": "W/\"818ec3778c9d5739fb206070dcafc89b\"",
+    "https://www.astronomy.com/feed/": "W/\"b14aa5285e996e4b5cb05678eb609ff7\"",
+    "https://spacepolicyonline.com/feed/": "\"435de0ed61d097f550a096c3b2577c33\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -21975,6 +21975,186 @@
       "archivedDate": "2026-11-24",
       "collection": "evening",
       "archivedAt": "2026-11-24T02:28:55.985Z"
+    },
+    "000c63fd3cec0081": {
+      "id": "000c63fd3cec0081",
+      "canonicalUrl": "https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast",
+      "title": "Space Lasers Are Fast, But Clouds Still Rule the Forecast",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 14:02:17 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "0001ea55d0304681": {
+      "id": "0001ea55d0304681",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-24-1990-keck-i-sees-first-light",
+      "title": "Nov. 24, 1990: Keck I sees first light",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "000a85b9c1e6b6c3": {
+      "id": "000a85b9c1e6b6c3",
+      "canonicalUrl": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
+      "title": "China launching 1st international astronaut to Tiangong space station today: Watch it live",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 24 Nov 2026 13:59:17 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "001e462096f1487e": {
+      "id": "001e462096f1487e",
+      "canonicalUrl": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
+      "title": "Russia launches Progress cargo ship to the International Space Station",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 24 Nov 2026 13:16:26 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "0000edbd9edb28ac": {
+      "id": "0000edbd9edb28ac",
+      "canonicalUrl": "https://www.space.com/stargazing/watch-novembers-full-beaver-moon-live-online-with-supermoon-livestream-nov-24-2026",
+      "title": "Watch November's full Beaver Moon live online today with supermoon livestream",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 24 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "001ae4e6b3eb14d0": {
+      "id": "001ae4e6b3eb14d0",
+      "canonicalUrl": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
+      "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "00097e270fe349d6": {
+      "id": "00097e270fe349d6",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/the-ten-best-time-travel-movies-to-buy-and-own-on-blu-ray-and-4k-uhd-blu-ray-this-black-friday",
+      "title": "The ten best time travel movies to buy and own on Blu-ray and 4K UHD Blu-ray this Black Friday",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Tue, 24 Nov 2026 10:00:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "0014bc1c9d5d14f9": {
+      "id": "0014bc1c9d5d14f9",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-stars-obliquity-likely-has-little-impact-on-a-given-planets-habitability",
+      "title": "A Star’s ‘Obliquity’ Likely Has Little Impact On A Given Planet’s Habitability",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 09:42:27 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "0000d8c212faaeb6": {
+      "id": "0000d8c212faaeb6",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/ghostly-gamma",
+      "title": "Ghostly Gamma",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "00080e8397060bb0": {
+      "id": "00080e8397060bb0",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-tuesday-november-24-2026",
+      "title": "The Sky Today on Tuesday, November 24: A Super Beaver Moon occults the Pleiades",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "000a405ce036693c": {
+      "id": "000a405ce036693c",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group",
+      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 24 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "00179b4372d1feea": {
+      "id": "00179b4372d1feea",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach",
+      "title": "Eruption Extends Iwo Jima’s Beach",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Tue, 24 Nov 2026 05:01:00 +0000",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "001f034fb0d6a345": {
+      "id": "001f034fb0d6a345",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+      "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Tue, 24 Nov 2026 05:24:43 EST",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "00019bfbb7bb9edf": {
+      "id": "00019bfbb7bb9edf",
+      "canonicalUrl": "https://phys.org/news/2026-11-china-unveils-space-mission-crew.html",
+      "title": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Tue, 24 Nov 2026 04:54:03 EST",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
+    },
+    "00176337c5314aac": {
+      "id": "00176337c5314aac",
+      "canonicalUrl": "https://phys.org/news/2026-11-quasar-tightens-constraints-black-hole.html",
+      "title": "New quasar record tightens constraints on black hole formation scenarios",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Tue, 24 Nov 2026 03:00:01 EST",
+      "archivedDate": "2026-11-24",
+      "collection": "morning",
+      "archivedAt": "2026-11-24T14:09:30.522Z"
     }
   }
 }
