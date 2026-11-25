@@ -1,8 +1,63 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T00:00:35.401Z",
+  "generatedAt": "2026-11-25T03:31:19.610Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000f88569d6429c6",
+      "title": "Maybe Dark Energy Isn't so Inexplicable After All",
+      "link": "https://www.universetoday.com/articles/maybe-dark-energy-isnt-so-inexplicable-after-all",
+      "desc": "The Universe as we know it is comprised of three \"things\": baryonic matter (planets, stars, galaxies, us), dark matter (still unexplained) and dark energy (really, really still unexplained). Of the three, dark energy remains challenging because it's driving the acceleration of the expanding Universe",
+      "pubDate": "Wed, 25 Nov 2026 02:59:47 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00054a6a394b05dd",
+      "title": "How to watch 'Blade Runner 2099' online — stream the sci-fi sequel series from anywhere",
+      "link": "https://www.space.com/entertainment/space-movies-shows/how-to-watch-blade-runner-2099-online-stream-the-sci-fi-sequel-series-from-anywhere",
+      "desc": "How to watch \"Blade Runner 2099\", the cyberpunk spinoff starring Hunter Schafer and Michelle Yeoh. Cheapest options, where to watch in US, UK, Canada, Australia and beyond.",
+      "pubDate": "Wed, 25 Nov 2026 01:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000c04af2eeac059",
+      "title": "First Pakistani Astronaut Enroute to Tiangong",
+      "link": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong",
+      "desc": "China launched a new crew to the Tiangong space station this evening EST. Joining two Chinese taikonauts is Pakistan’s first astronaut, Muhammad Zeeshan Ali. This is the first time China […]",
+      "pubDate": "Wed, 25 Nov 2026 00:58:29 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001e71eac837532d",
       "title": "A Brief-ish History of METI. Part IV: Millennial METI Experiments",
@@ -263,6 +318,25 @@
       }
     },
     {
+      "id": "000a59de5c6516af",
+      "title": "A star's 'obliquity' likely has little impact on a given planet's habitability",
+      "link": "https://phys.org/news/2026-11-star-obliquity-impact-planet-habitability.html",
+      "desc": "A star's axial tilt as it relates to the circumstellar disk that surrounds it is known as stellar obliquity. Over space and time, there are a myriad of solar-type stars with all sorts of obliquities. But the question heretofore has always been what effect a given star's initial obliquity has on the ",
+      "pubDate": "Tue, 24 Nov 2026 22:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0016379af8965d33",
       "title": "A Dark Energy Camera Portrait of the Betta Fish Nebula",
       "link": "https://www.universetoday.com/articles/a-dark-energy-camera-portrait-of-the-betta-fish-nebula",
@@ -350,6 +424,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c59a868a2fe29",
+      "title": "Ultrathin 'rainbow' sails could power spacecraft and shade the Earth",
+      "link": "https://phys.org/news/2026-11-ultrathin-rainbow-power-spacecraft-earth.html",
+      "desc": "For years, whimsically minded space enthusiasts have been dreaming of sailing across the vastness of the void on beams of sunlight. Photons, the massless particles that make up those beams of sunlight, still carry momentum and can therefore impart a gentle push when they bounce off a surface. This f",
+      "pubDate": "Tue, 24 Nov 2026 21:00:04 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -464,7 +557,7 @@
     },
     {
       "id": "000a85b9c1e6b6c3",
-      "title": "China launching 1st international astronaut to Tiangong space station today: Watch it live",
+      "title": "China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station",
       "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
       "desc": "China will launch an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever, and you can watch the landmark liftoff live.",
       "pubDate": "Tue, 24 Nov 2026 13:59:17 +0000",
@@ -9223,98 +9316,6 @@
       "desc": "The legend of the Black Knight satellite offers an example of how a collection of unconnected events and speculative interpretations can accumulate into a single conspiracy theory over time.",
       "pubDate": "Mon, 16 Nov 2026 16:00:00 +0000",
       "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001b1cbcbbf400e8",
-      "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
-      "link": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy",
-      "desc": "The rumble of a rocket engine might be considered a soundtrack for Jim Mirandy’s life. Mirandy has grown up with NASA as a constant presence, and his path to becoming a civil servant at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, has been decades in the making. Hired under the agenc",
-      "pubDate": "Mon, 16 Nov 2026 15:22:09 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f26a00a3499b4",
-      "title": "Euclid space telescope discovers its 1st comet | Space photo of the day for Nov. 16, 2026",
-      "link": "https://www.space.com/astronomy/comets/euclid-discovers-its-1st-comet-space-photo-of-the-day-for-nov-16-2026",
-      "desc": "The new observatory managed to catch this comet whirling between the orbits of Jupiter and Saturn.",
-      "pubDate": "Mon, 16 Nov 2026 15:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000956aed8785cfb",
-      "title": "Early black holes may have grown through productive chaos",
-      "link": "https://phys.org/news/2026-11-early-black-holes-grown-productive.html",
-      "desc": "When the universe was less than 700 million years old, the supermassive black hole powering a quasar called J0313-1806 had already grown to about 3 billion times the mass of the sun. It is one of the most extreme examples of a puzzle that has occupied astrophysicists for two decades: How did superma",
-      "pubDate": "Mon, 16 Nov 2026 20:00:05 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000162ff08c1d3ed",
-      "title": "Could planets that orbit other stars be nonspherical?",
-      "link": "https://www.astronomy.com/science/could-planets-that-orbit-other-stars-be-nonspherical",
-      "desc": "Could planets that orbit other stars be nonspherical shapes, such as ovals or pears, depending on composition? Rich LivitskiSeal Beach, California Bodies large enough to be considered planets have enough mass that gravity molds them into a roughly spherical shape.  The key word here is roughly — oth",
-      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00046ccf37f4cd25",
-      "title": "Dream Chaser space plane gets landing approval for debut mission in 2027",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/dream-chaser-space-plane-gets-landing-approval-for-debut-mission-in-2027",
-      "desc": "Sierra Space's Dream Chaser is aiming for its first spaceflight after more than 20 years of development, and the space plane now has FAA approval to come home.",
-      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",
