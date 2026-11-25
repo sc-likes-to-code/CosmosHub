@@ -1,8 +1,373 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T15:31:14.936Z",
+  "generatedAt": "2026-11-25T23:44:25.021Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001ecf45d18e426f",
+      "title": "Euclid's Record-Setting Quasar Probes Black Hole Formation",
+      "link": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
+      "desc": "The ESA's Euclid Space Telescope has found a record-setting quasar. Euclid found it at redshift z=8.13, corresponding to about 630 million years after the Big Bang. It beats the record by about 40 million years. How these quasars formed is puzzling, but each new detection at greater distances leads ",
+      "pubDate": "Wed, 25 Nov 2026 23:04:11 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c6e8155788444",
+      "title": "Study Finds Artemis Astronauts Will Enjoy Moon-Grown Potatoes",
+      "link": "https://www.universetoday.com/articles/study-finds-artemis-astronauts-will-enjoy-moon-grown-potatoes",
+      "desc": "Researchers have shown that potatoes grown in simulated lunar soil fortified with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth.",
+      "pubDate": "Wed, 25 Nov 2026 22:53:09 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0008083237cf77a4",
+      "title": "December full moon 2026: When, where and how to see the Cold Moon",
+      "link": "https://www.space.com/stargazing/december-full-moon-2026-when-where-and-how-to-see-the-cold-moon",
+      "desc": "Your guide to December's full Cold Moon, from peak times to skywatching highlights.",
+      "pubDate": "Wed, 25 Nov 2026 22:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001c821c8772d764",
+      "title": "On this day in space! Nov. 25, 1970: NASA's 'wingless' M2-F3 'lifting body' aircraft makes its 1st powered flight ahead of supersonic tests",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-25-2026",
+      "desc": "On Nov. 25, 1970, an experimental aircraft called the Northrop M2-F3 made its first powered flight. Here's why it mattered.",
+      "pubDate": "Wed, 25 Nov 2026 21:22:27 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0004ef13f36541be",
+      "title": "The Event Horizon Telescope Views the Dynamics and Geometry of a Black Hole Jet in Extreme Detail",
+      "link": "https://www.universetoday.com/articles/the-event-horizon-telescope-views-the-dynamics-and-geometry-of-a-black-hole-jet-in-extreme-detailele",
+      "desc": "Observations by the Event Horizon Telescope Collaboration resolved the innermost region of the blazar 3C 279 powerful jet emitted in unprecedented detail.",
+      "pubDate": "Wed, 25 Nov 2026 20:25:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001d7b339085aab1",
+      "title": "The Physics Wall Facing Orbital AI Data Centers",
+      "link": "https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers",
+      "desc": "Basing entire business plans on back-of-the-envelope calculations might not seem like the best idea. However, according to a new paper available in preprint on arXiv by Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory, that is precisely what the companies touting orbital AI data centers are do",
+      "pubDate": "Wed, 25 Nov 2026 19:36:56 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000799b8d7b0fedb",
+      "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+      "link": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement",
+      "desc": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Men",
+      "pubDate": "Wed, 25 Nov 2026 19:06:56 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00085a9c6fe94df7",
+      "title": "SpaceX Starship debris becomes art in Ashley Zelinskie's 'The Weight of Space' (video, photos)",
+      "link": "https://www.space.com/entertainment/spacex-starship-debris-becomes-art-in-ashley-zelinskies-the-weight-of-space-video-photos",
+      "desc": "Explore Ashley Zelinskie's 'The Weight of Space' Monuments in marble, Ejecta prints, Launch Sequence sculptures and interactive Crowded Sky at Heft Gallery in New York City.",
+      "pubDate": "Wed, 25 Nov 2026 19:00:00 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001157212b34ea1a",
+      "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+      "desc": "The FCC has given SpaceX approval to deploy one million of its Starmind AI data-center satellites in orbit, a move that could transform the landscape of the final frontier.",
+      "pubDate": "Wed, 25 Nov 2026 18:49:15 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001bc45e5f97a54f",
+      "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
+      "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
+      "desc": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
+      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000921c091cc8d09",
+      "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+      "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+      "desc": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000360331ed5812e",
+      "title": "NASA Eyes Crop Candidates for Future Menus",
+      "link": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus",
+      "desc": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. ",
+      "pubDate": "Wed, 25 Nov 2026 17:53:42 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010cada13f92e72",
+      "title": "Pakistani astronaut becomes 1st international visitor to China's Tiangong space station (photos)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos",
+      "desc": "Pakistan's Muhammad Zeeshan Ali became the first international astronaut to visit China's Tiangong space station today (Nov. 25), when he and his Shenzhou-24 crewmates docked with the outpost.",
+      "pubDate": "Wed, 25 Nov 2026 17:41:11 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001f85bb41c3b9f9",
+      "title": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
+      "link": "https://www.space.com/astronomy/asteroids/hera-spacecraft-gets-1st-up-close-look-at-stadium-sized-hole-punched-in-asteroid-by-nasa-dart-mission",
+      "desc": "NASA's DART Earth-defence mission punched a stadium-sized hole in a distant asteroid, and we have seen it for the first time thanks to the Hera spacecraft.",
+      "pubDate": "Wed, 25 Nov 2026 17:30:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001c7fc5eb60a3c9",
+      "title": "ALMA Reveals a Dying Star's Final Breath, Encoded In a Giant Ring of Gas",
+      "link": "https://www.universetoday.com/articles/alma-reveals-a-dying-stars-final-breath-encoded-in-a-giant-ring-of-gas",
+      "desc": "About 6,500 years ago, a dying star emitted its final thermal pulse. That dying breath created a giant ring of gas detected by ALMA. Then only 700 years ago, the star formed an hourglass nebula. Theory predicted this, but this is the first direct evidence supporting it.",
+      "pubDate": "Wed, 25 Nov 2026 17:24:35 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001adb5ef4e39ff5",
+      "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+      "link": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard",
+      "desc": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant ",
+      "pubDate": "Wed, 25 Nov 2026 16:47:29 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00090f77f86cb667",
+      "title": "NASA sends planes to monitor US Army's lead detonation. 'Irresponsible' to compare it to Chernobyl, agency chief says",
+      "link": "https://www.space.com/technology/aerospace/nasa-sends-planes-to-monitor-us-armys-lead-detonation-irresponsible-to-compare-it-to-chernobyl-agency-chief-says",
+      "desc": "NASA is sending research aircraft and using satellites as the Army prepares to detonate degrading explosives in Iowa.",
+      "pubDate": "Wed, 25 Nov 2026 16:24:24 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000b48b4f6ed8715",
+      "title": "Eye of the Sahara",
+      "link": "https://www.nasa.gov/image-article/eye-of-the-sahara",
+      "desc": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic str",
+      "pubDate": "Wed, 25 Nov 2026 16:21:04 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00116d85ecc18d48",
+      "title": "Using Lunar Craters as Free Radiation Shields for Moon Base Nuclear Reactors",
+      "link": "https://www.universetoday.com/articles/using-lunar-craters-as-free-radiation-shields-for-moon-base-nuclear-reactors",
+      "desc": "Powering any future lunar base is a massive engineering challenge. The two-week lunar night can drain batteries charged by solar panels during the two-week day, if the batteries themselves can even withstand the freezing temperatures that go along with it. So, for decades at this point, engineers ha",
+      "pubDate": "Wed, 25 Nov 2026 16:03:13 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000471a62c3cc72d",
+      "title": "NASA’s Europa Clipper Zooming by Earth on Way to Jupiter’s Icy Moon",
+      "link": "https://www.jpl.nasa.gov/news/nasas-europa-clipper-zooming-by-earth-on-way-to-jupiters-icy-moon",
+      "desc": "The largest orbiter NASA has ever sent into deep space is using our home planet’s gravity in December to propel itself toward Europa.",
+      "pubDate": "Wed, 25 Nov 2026 08:00:00 -0800",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA JPL",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "JPL",
+          "Missions"
+        ]
+      }
+    },
     {
       "id": "0002ee2309484c7d",
       "title": "Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026",
@@ -18,6 +383,43 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0019ff4ebf3364f8",
+      "title": "The Seagull’s wingspan",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/the-seagulls-wingspan",
+      "desc": "Aquib Ali Ansari from Jaipur, India IC 2177, the Seagull Nebula, is a wide complex of ionized hydrogen straddling Monoceros and Canis Major roughly 3,600 light-years away. In this HOO-palette image, its hydrogen-filled wings appear reddish, while its teal-tinted core is oxygen gas excited by young, ",
+      "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c4748890ef5fe",
+      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+      "link": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
+      "desc": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+      "pubDate": "Wed, 25 Nov 2026 14:56:54 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
         ]
       }
     },
@@ -112,6 +514,44 @@
       }
     },
     {
+      "id": "00123df50c6e8f15",
+      "title": "NASA's Europa Clipper zooming by Earth on way to Jupiter's icy moon",
+      "link": "https://phys.org/news/2026-11-nasa-europa-clipper-earth-jupiter.html",
+      "desc": "NASA's Europa Clipper will soon swing past Earth before making a yearslong beeline for Jupiter, where the orbiter will probe whether the ocean beneath its moon Europa's icy shell has the ingredients for life. The flyby will offer a propellant-saving boost and an opportunity to prepare for the scienc",
+      "pubDate": "Wed, 25 Nov 2026 15:40:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0012aa125b2f139d",
+      "title": "Giant lambda-shaped stellar nursery found in the Milky Way's outskirts",
+      "link": "https://phys.org/news/2026-11-giant-lambda-stellar-nursery-milky.html",
+      "desc": "Massive stars often form in dense regions, called \"hubs,\" where filamentary structures made of star-forming materials meet. These star-forming complexes are \"hub-filament\" systems. Astronomers have discovered one such large network of molecular gas filaments in the outer regions of the Milky Way. It",
+      "pubDate": "Wed, 25 Nov 2026 15:20:06 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0018ad652ae287f2",
       "title": "Comet Encke's Shape and Heat Revealed in Thermal Glow",
       "link": "https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow",
@@ -130,6 +570,25 @@
       }
     },
     {
+      "id": "000faefbab1d9955",
+      "title": "Simulations reveal how a solar vortex and reconnecting magnetic fields can launch a rotating jet",
+      "link": "https://phys.org/news/2026-11-simulations-reveal-solar-vortex-reconnecting.html",
+      "desc": "Solar spicules are slender jets commonly found in the chromosphere. They lift relatively cool plasma from the lower solar atmosphere, carry energy upward, and in some cases rotate as they evolve. Small-scale vortices also occur frequently between convection-driven granules in the photosphere. Two qu",
+      "pubDate": "Wed, 25 Nov 2026 14:40:10 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001882bec1ea3a40",
       "title": "The Sky Today on Wednesday, November 25: Uranus at opposition",
       "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-25-2026",
@@ -144,6 +603,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011a44d5a3d4a54",
+      "title": "NASA's Hubble views ocean of stars in groundwork for Roman",
+      "link": "https://phys.org/news/2026-11-nasa-hubble-views-ocean-stars.html",
+      "desc": "An expanse of stars gleams in a rainbow of colors in these NASA Hubble Space Telescope images of the Milky Way. The images focus on an area of sky toward the galactic bulge, a densely packed, spherical region of stars that surrounds the center of a galaxy's disk. These Hubble observations are part o",
+      "pubDate": "Wed, 25 Nov 2026 13:50:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -282,7 +760,7 @@
       "id": "000c04af2eeac059",
       "title": "First Pakistani Astronaut Enroute to Tiangong",
       "link": "https://spacepolicyonline.com/news/first-pakistani-astronaut-enroute-to-tiangong",
-      "desc": "China launched a new crew to the Tiangong space station this evening EST. Joining two Chinese taikonauts is Pakistan’s first astronaut, Muhammad Zeeshan Ali. This is the first time China […]",
+      "desc": "China launched a new crew to the Tiangong space station this evening EST, Shenzhou-24. Joining two Chinese taikonauts is Pakistan’s first astronaut, Muhammad Zeeshan Ali. This is the first time […]",
       "pubDate": "Wed, 25 Nov 2026 00:58:29 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -689,7 +1167,7 @@
       "id": "001eb98f7d971a05",
       "title": "Astronomers catch ‘galaxy-killing’ wind in the act",
       "link": "https://www.astronomy.com/science/astronomers-catch-galaxy-killing-wind-in-the-act",
-      "desc": "In the local universe, it is common to find galaxies that have stopped forming new stars. These so-called quiescent galaxies have lived for billions of years and over that time, gradually exhausted their star-forming gas. By contrast, galaxies that lie at much greater distances — and thus appear to ",
+      "desc": "The early universe is littered with galaxies that no longer form stars. Their early growth may hold a clue to their deaths.\nThe post Astronomers catch ‘galaxy-killing’ wind in the act appeared first on Astronomy Magazine.",
       "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
@@ -901,24 +1379,6 @@
         "tags": [
           "Astronomy",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "000a85b9c1e6b6c3",
-      "title": "China launches Pakistani astronaut to Tiangong space station, its 1st international visitor, alongside Shenzhou-24 crew (video)",
-      "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
-      "desc": "China launched an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever.",
-      "pubDate": "Tue, 24 Nov 2026 13:59:17 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     },
@@ -8852,468 +9312,6 @@
       "link": "https://www.nasa.gov/image-article/space-selfie-2",
       "desc": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
       "pubDate": "Tue, 17 Nov 2026 16:51:14 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000faaa3f28ad5f9",
-      "title": "NASA pushes Mars helicopter blades beyond the speed of sound",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261117033920.htm",
-      "desc": "NASA has successfully tested Mars helicopter rotor blades at supersonic speeds, boosting potential lift by 30% and overcoming a major obstacle to more powerful aircraft on the Red Planet. The breakthrough could enable next-generation helicopters to carry heavier scientific equipment, fly farther, an",
-      "pubDate": "Tue, 17 Nov 2026 22:16:19 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000f44d7fb8cda1b",
-      "title": "Black Friday 2026: Deals for observers from around the web",
-      "link": "https://www.astronomy.com/observing/black-friday-2026-deals-for-observers-from-around-the-web",
-      "desc": "Save big on telescopes, smart scopes, mounts, and astro cameras from Celestron, Sky-Watcher, ZWO, and more.\nThe post Black Friday 2026: Deals for observers from around the web appeared first on Astronomy Magazine.",
-      "pubDate": "Tue, 17 Nov 2026 15:28:56 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0006c69578a8934d",
-      "title": "Did The First Quarks and Gluons Experience Brownian Motion? Sometimes.",
-      "link": "https://www.universetoday.com/articles/did-the-first-quarks-and-gluons-experience-brownian-motion-sometimes",
-      "desc": "The quark-gluon plasma of the early universe experienced Brownian motion, but a new theory predicts how a particle moving at close to the speed of light is likely to be pushed and pulled by a fluid as it flies through it. The result shows that Brownian statistics doesn't always apply.",
-      "pubDate": "Tue, 17 Nov 2026 14:47:25 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0012c0c977d646ae",
-      "title": "China Signals Its Intention to Land on Jupiter's Moon Callisto",
-      "link": "https://www.universetoday.com/articles/china-signals-its-intention-to-land-on-jupiters-moon-callisto",
-      "desc": "China is outlining plans to place a small lander on the surface of Jupiter's moon Callisto, the outermost of the four Galilean moons. It's an ambitious plan, and would be only the second time anything's landed on a Solar System body beyond Mars. But the payoff would be huge, even if the lander only ",
-      "pubDate": "Tue, 17 Nov 2026 14:33:05 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000949e01edb40a9",
-      "title": "'It looked like every star in the sky was falling': Eyewitnesses remember the great Leonid meteor storm of 1966",
-      "link": "https://www.space.com/stargazing/meteor-showers/eyewitnesses-remember-the-great-leonid-meteor-storm-of-1966-it-looked-like-every-star-in-the-sky-was-falling",
-      "desc": "It was a spectacle many regard as the greatest meteor display on record.",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000562f3265a1fa2",
-      "title": "Nov. 17, 1966: A phenomenal Leonid meteor storm",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-17-1966-a-phenomenal-leonid-meteor-storm",
-      "desc": "On Nov. 17, 1966, the Leonids put on one of the greatest meteor shows in recorded history, during which eyewitnesses reported a sky that seemed to “rain shooting stars.” Observers in North America witnessed a peak of thousands of meteors per minute; Kitt Peak National Observatory reported 40 meteors",
-      "pubDate": "Tue, 17 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00032860fb11f5dc",
-      "title": "Reflect Orbital wants to launch thousands of sunlight-beaming mirrors to space — and the 1st will go up next year",
-      "link": "https://www.space.com/space-exploration/satellites/reflect-orbital-wants-to-launch-thousands-of-sunlight-beaming-mirrors-to-space-and-the-1st-will-go-up-next-year",
-      "desc": "Reflect Orbital is moving forward with its ambitious plan to place thousands of mirrors in Earth orbit and sell redirected sunlight after dark.",
-      "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001faf5ec1d70655",
-      "title": "Deep-sky fishing",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/deep-sky-fishing",
-      "desc": "Massimo Di Fusco from Ferrara, Italy The Fish Head Nebula (IC 1795), whose brightest knot is cataloged as NGC 896, lies about 13,000 light-years away in Cassiopeia. Radiation from young, massive stars ionizes surrounding hydrogen gas into a glowing cavity ringed by dark dust lanes. The imager used a",
-      "pubDate": "Tue, 17 Nov 2026 12:26:39 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0001fdc569f6ebde",
-      "title": "Satellites now outnumber the visible stars above most towns",
-      "link": "https://www.space.com/space-exploration/satellites/satellites-now-outnumber-the-visible-stars-above-most-towns",
-      "desc": "More than 700 satellites are crossing the sky over an average mid-latitude town at any moment of the night, outnumbering in many cases the stars visible to the naked eye.",
-      "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000888e86d3f762c",
-      "title": "Over a decade of atmospheric data from NASA's Curiosity rover hints at small amounts of surface water on Mars",
-      "link": "https://phys.org/news/2026-11-decade-atmospheric-nasa-curiosity-rover.html",
-      "desc": "NASA's Curiosity rover has been collecting data about Mars' thin, carbon dioxide–rich atmosphere since 2012. Now, a study published in the Proceedings of the National Academy of Sciences has analyzed over a decade of this data to determine whether the daily and seasonal changes in Mars' atmosphere c",
-      "pubDate": "Tue, 17 Nov 2026 15:00:10 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001c9ea6ae247632",
-      "title": "Galaxy Outflows Likely Regulate Star Formation At ‘Cosmic Noon’ NASA’s Webb Reveals",
-      "link": "https://www.universetoday.com/articles/galaxy-outflows-likely-regulate-star-formation-at-cosmic-noon-nasas-webb-reveals",
-      "desc": "A galaxy’s ultimate habitability is likely linked to massive gaseous outflows that regulate star formation.",
-      "pubDate": "Tue, 17 Nov 2026 09:29:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0006fec8c09e144e",
-      "title": "How one nuclear blast could cripple nearly every satellite in low Earth orbit",
-      "link": "https://phys.org/news/2026-11-nuclear-blast-cripple-satellite-earth.html",
-      "desc": "We rely on satellites every day for communications, weather forecasts and security, and more than 13,000 are currently circling the planet in low Earth orbit. But they could be more vulnerable than previously thought. Researchers have found that a single nuclear explosion in space could disable almo",
-      "pubDate": "Tue, 17 Nov 2026 14:40:08 EST",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0004f1ae439a1a72",
-      "title": "Astronomers track a flaring dwarf-star duo with exceptional precision",
-      "link": "https://phys.org/news/2026-11-astronomers-track-flaring-dwarf-star.html",
-      "desc": "Astronomers have measured the orbit, masses and distance of a pair of small, active stars with extraordinary precision, using the U.S. National Science Foundation's Very Long Baseline Array (NSF VLBA), operated by the U.S. National Science Foundation National Radio Astronomy Observatory (NSF NRAO). ",
-      "pubDate": "Tue, 17 Nov 2026 14:00:02 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001c0956adc319a8",
-      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
-      "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027",
-      "desc": "Daejeon, Republic of Korea – October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster […]\nThe post Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027 appeared first on SpaceNews.",
-      "pubDate": "Tue, 17 Nov 2026 08:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "000855ba568d6999",
-      "title": "This supernova is 50 million light-years away, but that's close enough for astronomers",
-      "link": "https://phys.org/news/2026-11-supernova-million-years-astronomers.html",
-      "desc": "A new supernova has been spotted in NGC 1433, a spiral galaxy about 50 million light-years away. That's pretty close for supernova observations, and it's an opportunity for detailed follow-up study. It's not a core-collapse supernova, in which a massive star burns through its fuel, collapses and exp",
-      "pubDate": "Tue, 17 Nov 2026 12:40:14 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001911a45fc872d9",
-      "title": "NASA, European sea level satellite prepped for new role",
-      "link": "https://phys.org/news/2026-11-nasa-european-sea-satellite-prepped.html",
-      "desc": "As of Oct. 30, the Sentinel-6B satellite has been calibrated to serve as the world's go-to data source on sea level rise. The satellite has now passed all its initial system checks to ensure that its data meet the strictest quality and accuracy standards. In January, it will become the reference sat",
-      "pubDate": "Tue, 17 Nov 2026 12:00:06 EST",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000ac8fdd56f365d",
-      "title": "Tossing Fireworks from Cloud to Cloud",
-      "link": "https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud",
-      "desc": "For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.",
-      "pubDate": "Tue, 17 Nov 2026 05:01:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00198d82985d2f2f",
-      "title": "Galaxy outflows likely regulate star formation at 'cosmic noon,' NASA's Webb reveals",
-      "link": "https://phys.org/news/2026-11-galaxy-outflows-star-formation-cosmic.html",
-      "desc": "Sitting here on the outskirts of our Milky Way galaxy, it's hard to imagine the galactic machinations that led to our Goldilocks spot around a very welcoming yellow dwarf star. But for decades, astronomers have suspected that the internal dynamics of massive galaxies like ours play an outsized role ",
-      "pubDate": "Tue, 17 Nov 2026 10:20:15 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001a3a070e7198d0",
-      "title": "Ringing Black Holes Offer Precision Tests of Relativity",
-      "link": "https://www.universetoday.com/articles/ringing-black-holes-offer-precision-tests-of-relativity",
-      "desc": "Black holes remain some of the most mysterious and awe-inspiring celestial objects ever studied. This primarily comes from the fact that they literally can’t be observed unless they interact with something in its surrounding environment, most notably a star. Adding to their mystery, several types of",
-      "pubDate": "Tue, 17 Nov 2026 04:40:38 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00130d951e7b14a0",
-      "title": "Stellar pulsations reveal hidden 1.8-solar-mass companion",
-      "link": "https://phys.org/news/2026-11-stellar-pulsations-reveal-hidden-solar.html",
-      "desc": "Massive stellar companions can be difficult to detect because they emit little visible light or show no obvious signs of accretion. Their gravitational pull, however, can be traced through the motion of nearby stars. In pulsating stars, regular brightness variations act as natural clocks, offering a",
-      "pubDate": "Tue, 17 Nov 2026 09:20:08 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000aa4db14244b6a",
-      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-      "desc": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whe",
-      "pubDate": "Tue, 17 Nov 2026 07:14:04 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000018be49c4da01",
-      "title": "DESI weighs the Milky Way more precisely than ever",
-      "link": "https://phys.org/news/2026-11-desi-milky-precisely.html",
-      "desc": "To estimate the Milky Way's mass, astronomers need to track the movements of stars and smaller satellite galaxies under its gravitational pull. The faster these objects travel at a given distance, the more mass is needed to hold them in place. For some time, these measurements have shown that most o",
-      "pubDate": "Tue, 17 Nov 2026 07:00:01 EST",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00156292602ed785",
-      "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
-      "link": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm",
-      "desc": "Europe’s Hera spacecraft has arrived at the scene of NASA’s historic asteroid collision to uncover what really happened when a spacecraft slammed into Dimorphos in 2022. Its close-up investigation could reveal whether the impact left a crater or reshaped the asteroid entirely, providing crucial clue",
-      "pubDate": "Tue, 17 Nov 2026 05:45:41 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "ScienceDaily Space",
-        "key": "sciencedaily",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Research",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000ed8ae905941ff",
-      "title": "Japan space probe changes target over engine trouble",
-      "link": "https://phys.org/news/2026-11-japan-space-probe.html",
-      "desc": "A Japanese probe that returned precious asteroid dust to Earth six years ago has changed course in its extended mission, officials said Tuesday, citing issues in its aging engines.",
-      "pubDate": "Tue, 17 Nov 2026 05:38:13 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000e1bfe6c07c2db",
-      "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
-      "link": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago",
-      "desc": "Written by Candice Bedford, Research Scientist at Purdue University Date: Nov. 16, 2026 During the Perseverance rover’s investigation of “Idubi” — an area of ancient Martian crust exposed in the “Lac de Charmes” region, outside of Jezero crater — the Perseverance rover team has been captivated by a ",
-      "pubDate": "Mon, 16 Nov 2026 23:12:45 +0000",
       "category": "Missions & Exploration",
       "source": {
         "name": "NASA",
