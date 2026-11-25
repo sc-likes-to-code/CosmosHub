@@ -1,8 +1,62 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T13:23:13.687Z",
+  "generatedAt": "2026-11-25T15:31:14.936Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0002ee2309484c7d",
+      "title": "Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026",
+      "link": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+      "desc": "Iwo Jima looks remarkably different from space after a volcanic eruption created new land extending the Japanese island's beaches.",
+      "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000c91966bcf3cb0",
+      "title": "Nov. 25, 1783: The birth of Claude-Louis Mathieu",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-25-1783-the-birth-of-claude-louis-mathieu",
+      "desc": "Born in Macon, France, on Nov. 25, 1783, Claude-Louis Mathieu showed an aptitude for mathematics from a young age. Despite his family’s poverty and his father’s wish for him to be a carpenter, Mathieu moved to Paris in 1801 to study for admission to the prestigious Ecole Polytechnique. He became a s",
+      "pubDate": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001396e336df7aa4",
+      "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
+      "link": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+      "desc": "ESA will share the Hera probe's first images of asteroid Dimorphos today following NASA's historic DART mission that impacted the space rock two years ago.",
+      "pubDate": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "00167042e58bda4d",
       "title": "A New Discovery is Re-Drawing the Map of the Milky Way",
@@ -128,6 +182,63 @@
           "NASA",
           "Space",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00085e949b799ce3",
+      "title": "Hera's Didymos asteroid in eclipse",
+      "link": "https://phys.org/news/2026-11-hera-didymos-asteroid-eclipse.html",
+      "desc": "A solar eclipse in deep space was captured by the European Space Agency's Hera mission for planetary defense. In this view of the Didymos binary asteroids, the smaller Dimorphos moonlet is seen casting its shadow across part of its Didymos parent body, to blank out the sun across the shaded stretch ",
+      "pubDate": "Wed, 25 Nov 2026 10:20:04 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000a0810548ff318",
+      "title": "South Pole Telescope releases clearest map ever of matter in the distant universe",
+      "link": "https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html",
+      "desc": "The earliest light in the universe, known as the cosmic microwave background (CMB), has been traveling since the dawn of the universe  more than 14 billion years ago. A group of scientists from 30 institutions has now released the sharpest and clearest map ever made of the mass in the universe, crea",
+      "pubDate": "Wed, 25 Nov 2026 10:00:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00036e0608c6384d",
+      "title": "Webb discovers farthest 'little red dot' from universe's first 500 million years",
+      "link": "https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html",
+      "desc": "Following the discovery of faint supermassive black holes called little red dots (LRDs) in the early universe in 2022, an international team of researchers has found the farthest little red dot to date, reports a new study in The Astrophysical Journal Letters.",
+      "pubDate": "Wed, 25 Nov 2026 09:40:04 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -795,9 +906,9 @@
     },
     {
       "id": "000a85b9c1e6b6c3",
-      "title": "China's Shenzhou-24 mission launches 1st international astronaut to Tiangong space station",
+      "title": "China launches Pakistani astronaut to Tiangong space station, its 1st international visitor, alongside Shenzhou-24 crew (video)",
       "link": "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
-      "desc": "China will launch an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever, and you can watch the landmark liftoff live.",
+      "desc": "China launched an international astronaut to its Tiangong space station today (Nov. 24) for the first time ever.",
       "pubDate": "Tue, 24 Nov 2026 13:59:17 +0000",
       "category": "Missions & Exploration",
       "source": {
@@ -9213,115 +9324,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "000109b5c9ca1689",
-      "title": "Falcon 9 flies national security doubleheader",
-      "link": "https://www.astronomy.com/whats-launching-this-week/falcon-9-flies-national-security-doubleheader",
-      "desc": "Rocket launches this week On Wednesday, Nov. 18, China is expected to launch a Long March 2D from the Taiyuan Satellite Launch Center in Shanxi province at 5:50 p.m. EST, according to NextSpaceflight. The payload has not been announced. Later that night on Wednesday, Nov. 18, SpaceX will launch the ",
-      "pubDate": "Mon, 16 Nov 2026 22:45:12 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000fc9c4919b9fc9",
-      "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
-      "desc": "On Nov. 16, 1974, humans sent their first message to the stars in an attempt to contact extraterrestrials.  Here's why it mattered.",
-      "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00038b8619ab5461",
-      "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch",
-      "desc": "See the most epic photos from SpaceX's Starship Flight 15 test flight and historic launch tower catch.",
-      "pubDate": "Mon, 16 Nov 2026 21:26:29 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000cb33688172cb6",
-      "title": "This Supernova is 50 Million Light Years Away, But That's Close Enough For Astronomers",
-      "link": "https://www.universetoday.com/articles/this-supernova-is-50-million-light-years-away-but-thats-close-enough-for-astronomers",
-      "desc": "A new supernova has been detected in a spiral galaxy about 50 million light years away. That's close enough for detatiled follow-up observations, which have already begun. It's a type Ia supernova, meaning it's an exploding white dwarf rather than a massive star ending its life in a core-collapse de",
-      "pubDate": "Mon, 16 Nov 2026 21:11:30 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001e4c8306bc1205",
-      "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
-      "link": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion",
-      "desc": "For the 16th consecutive year, NASA has received an unmodified, or “clean,” opinion from an external auditor on its fiscal year 2026 financial statements. The rating is the best possible audit opinion, certifying that NASA’s financial statements conform with Generally Accepted Accounting Principles ",
-      "pubDate": "Mon, 16 Nov 2026 20:30:40 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001900147af3de8b",
-      "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
-      "desc": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
-      "pubDate": "Mon, 16 Nov 2026 20:04:22 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-25T13:23:02.575Z",
-  "lastRunId": "run-1795612979550-h1yykv",
+  "lastUpdated": "2026-11-25T15:31:06.770Z",
+  "lastRunId": "run-1795620664188-b9vsa0",
   "stats": {
-    "totalStories": 1895,
-    "lastRunAdded": 13
+    "totalStories": 1901,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"788cf5e27f76207ccd4e66d8cfc38f96\"",
-    "https://www.universetoday.com/feed": "W/\"6b06dfe0-7784\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"18a75300527cb8f9b07cbbca506bcc27\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"666119ff766072d7e9cb3a480fa28d1a\"",
+    "https://www.universetoday.com/feed": "W/\"6b06f3a9-7784\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"fabc30e28691ff5d35ed0ddec6f0cc7f\"",
     "http://arxiv.org/rss/astro-ph": "c029f3cd1bf52d409dc6c4bee01ec2832336026469e10e56e2dc6952675e3d85",
-    "https://spacenews.com/feed/": "W/\"a0596f382598a119957bfffde7633ed9\"",
-    "https://www.astronomy.com/feed/": "W/\"8dc62350bfbcec6ba2d4d1524345eee3\"",
+    "https://spacenews.com/feed/": "W/\"5a45e60881bd520ee683a4b2ab992fdf\"",
+    "https://www.astronomy.com/feed/": "W/\"3d3b66988fb62073a5df4fa3ca0f02fc\"",
     "https://spacepolicyonline.com/feed/": "\"82b42a7682179cd49fd747ac0833a9b9\""
   },
   "articles": {
@@ -22755,6 +22755,78 @@
       "archivedDate": "2026-11-25",
       "collection": "morning",
       "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "0002ee2309484c7d": {
+      "id": "0002ee2309484c7d",
+      "canonicalUrl": "https://www.space.com/astronomy/earth/satellites-watch-volcanic-eruptions-add-new-beaches-on-iwo-jima-space-photo-of-the-day-for-nov-25-2026",
+      "title": "Satellites watch volcanic eruptions add new beaches on Iwo Jima | Space photo of the day for Nov. 25, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 25 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "evening",
+      "archivedAt": "2026-11-25T15:31:06.770Z"
+    },
+    "000c91966bcf3cb0": {
+      "id": "000c91966bcf3cb0",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-25-1783-the-birth-of-claude-louis-mathieu",
+      "title": "Nov. 25, 1783: The birth of Claude-Louis Mathieu",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "evening",
+      "archivedAt": "2026-11-25T15:31:06.770Z"
+    },
+    "001396e336df7aa4": {
+      "id": "001396e336df7aa4",
+      "canonicalUrl": "https://www.space.com/space-exploration/asteroid-comet-missions/watch-live-europe-unveils-1st-close-up-views-of-asteroid-dimorphos-after-nasas-dart-impact",
+      "title": "Watch live: Europe unveils 1st close-up views of asteroid Dimorphos after NASA's DART impact",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 25 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "evening",
+      "archivedAt": "2026-11-25T15:31:06.770Z"
+    },
+    "00085e949b799ce3": {
+      "id": "00085e949b799ce3",
+      "canonicalUrl": "https://phys.org/news/2026-11-hera-didymos-asteroid-eclipse.html",
+      "title": "Hera's Didymos asteroid in eclipse",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 25 Nov 2026 10:20:04 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "evening",
+      "archivedAt": "2026-11-25T15:31:06.770Z"
+    },
+    "000a0810548ff318": {
+      "id": "000a0810548ff318",
+      "canonicalUrl": "https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html",
+      "title": "South Pole Telescope releases clearest map ever of matter in the distant universe",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 10:00:01 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "evening",
+      "archivedAt": "2026-11-25T15:31:06.770Z"
+    },
+    "00036e0608c6384d": {
+      "id": "00036e0608c6384d",
+      "canonicalUrl": "https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html",
+      "title": "Webb discovers farthest 'little red dot' from universe's first 500 million years",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Wed, 25 Nov 2026 09:40:04 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "evening",
+      "archivedAt": "2026-11-25T15:31:06.770Z"
     }
   }
 }
