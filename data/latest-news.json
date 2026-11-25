@@ -1,8 +1,376 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T15:31:19.156Z",
+  "generatedAt": "2026-11-25T00:00:35.401Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001e71eac837532d",
+      "title": "A Brief-ish History of METI. Part IV: Millennial METI Experiments",
+      "link": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iv-millennial-meti-experiments",
+      "desc": "We continue with the history of METI with a look at public attempts to send messages to the cosmos around the turn of the century.",
+      "pubDate": "Tue, 24 Nov 2026 22:45:31 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017693b2ab69b9f",
+      "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
+      "desc": "SpaceX launched its fifth classified mission for U.S. national security this month  today (Nov. 24), from Vandenberg Space Force Base in California.",
+      "pubDate": "Tue, 24 Nov 2026 22:37:19 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000d2b8ad748141c",
+      "title": "On this day in space! Nov. 24, 1947: The US Navy launches the 1st Aerobee sounding rocket, but it didn't reach space",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-24-2026",
+      "desc": "On Nov. 24, 1947, the U.S. Navy launched the first Aerobee rocket into the sky, but it never reached space. Here's why it mattered.",
+      "pubDate": "Tue, 24 Nov 2026 21:47:34 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00033d5f83526f4d",
+      "title": "White House Requests Billions for NASA, Golden Dome in Next CR",
+      "link": "https://spacepolicyonline.com/news/white-house-requests-billions-for-nasa-golden-dome-in-next-cr",
+      "desc": "Last night the White House sent Congress a list of funding it wants included in a new Continuing Resolution (CR) that would keep the government open after the current CR […]",
+      "pubDate": "Tue, 24 Nov 2026 21:16:54 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
+    {
+      "id": "0013039e1c1fce0d",
+      "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
+      "link": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema",
+      "desc": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story",
+      "pubDate": "Tue, 24 Nov 2026 21:14:36 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000fe0770b0e539f",
+      "title": "Teams Lock in Mission Architecture for NASA’s SR-1 Freedom",
+      "link": "https://www.nasa.gov/general/nasa-locks-in-sr1-freedom-mission-architecture",
+      "desc": "NASA completed a major review for Space Reactor-1 (SR-1) Freedom and locked in key elements of the spacecraft, which is targeted to launch in 2028 and demonstrate nuclear electric propulsion in deep space for the first time.   Experts from across the agency, the U.S. Department of Energy (DOE), and ",
+      "pubDate": "Tue, 24 Nov 2026 21:04:32 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0008825ead0537d5",
+      "title": "'Blade Runner 2099' executive producers talk architectural easter eggs and franchise continuity for Prime Video's new sci-fi series (interview)",
+      "link": "https://www.space.com/entertainment/blade-runner-2099-executive-producers-talk-architectural-easter-eggs-and-franchise-continuity-for-prime-videos-new-sci-fi-series-interview",
+      "desc": "'Today, sitting here in November of 2026, the world is catching up quicker to the world of 'Blade Runner.''",
+      "pubDate": "Tue, 24 Nov 2026 21:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0012bd0afbe16eed",
+      "title": "A Gigantic Stellar Eruption Spreads Planetary Material Into Space",
+      "link": "https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space",
+      "desc": "Asymptotic Giant Branch (AGB) stars spread heavy elements into space with their stellar winds. This material eventually forms more stars, and even rocky planets like ours. For a long time, astronomers thought this important mass-loss was driven by stellar winds. But new research shows how magnetic f",
+      "pubDate": "Tue, 24 Nov 2026 20:08:06 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000a13f18eeae591",
+      "title": "Amateur Astronomer? Be a Kilonova Catcher!",
+      "link": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher",
+      "desc": "Neutron stars are the ultra-dense, city-sized leftovers of dead stars. When they collide, they can release a brief flash of light called a kilonova. These immensely powerful events forge much of the universe’s gold, platinum and other heavy elements. Since a kilonova fades within days, astronomers h",
+      "pubDate": "Tue, 24 Nov 2026 19:19:52 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0019996bf4273ec5",
+      "title": "The Rise of Astrosociology: What Can Analogue Astronaut Studies Teach us About the Future of Humanity in Space?",
+      "link": "https://www.universetoday.com/articles/the-rise-of-astrosociology-what-can-analogue-astronaut-studies-teach-us-about-the-future-of-humanity",
+      "desc": "The Astrosociology Research Institute was founded in 2008 as part of a growing movement dedicated to examining humanity's future in space through the lens of the social sciences and related disciplines. The goal is to approach human spaceflight with the intent of ensuring that humanity will not only",
+      "pubDate": "Tue, 24 Nov 2026 19:11:49 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011ff7834d4ffba",
+      "title": "NASA’s Northrop Grumman CRS-25 Mission Overview",
+      "link": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview",
+      "desc": "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station. The mission will be the third flight of the company’s Cygnus XL, the larger, more cargo-capable version of the com",
+      "pubDate": "Tue, 24 Nov 2026 19:09:16 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00129f352638feb8",
+      "title": "1st-ever detection of a dying star's 'final nuclear heartbeat' challenges what we know about our sun's eventual death",
+      "link": "https://www.space.com/astronomy/stars/1st-ever-detection-of-a-dying-stars-final-nuclear-heartbeat-challenges-what-we-know-about-our-suns-eventual-death",
+      "desc": "Astronomers have caught a rare transitional phase at the end of a star's life, a fossilized remnant of stellar death throes, that could change our picture of the sun's final days.",
+      "pubDate": "Tue, 24 Nov 2026 19:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00085e81778c7d5a",
+      "title": "AGU Hyperwall Schedule",
+      "link": "https://science.nasa.gov/earth/agu-hyperwall-schedule",
+      "desc": "American Geophysical Union (AGU) 2026 Join NASA in the Exhibit Hall (Booth #525) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. TUESDAY, NOVEMBER 17 10:30 AMHigh Resolution Hydrology Simulations and Agentic Super Intelligence Interfaces for Mapping Water Availability and Ex",
+      "pubDate": "Tue, 24 Nov 2026 18:55:42 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000d8ee738a8a273",
+      "title": "Webb Reveals New Details in Supernova Remnant",
+      "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant",
+      "desc": "NASA’s James Webb Space Telescope reveals the hot dust that makes up Cassiopeia A (Cas A) in this high-resolution, mid-infrared image released on Nov. 23, 2026. Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new gen",
+      "pubDate": "Tue, 24 Nov 2026 16:51:27 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0016379af8965d33",
+      "title": "A Dark Energy Camera Portrait of the Betta Fish Nebula",
+      "link": "https://www.universetoday.com/articles/a-dark-energy-camera-portrait-of-the-betta-fish-nebula",
+      "desc": "The Betta Fish Nebula is a supernova remnant almost 7,000 light years away. It consists of the cast off layers of a star that exploded as a supernova. When those layers slammed into the interstellar medium, the energy of the shock lit them up. The DECam has captured the best image of the Betta Fish ",
+      "pubDate": "Tue, 24 Nov 2026 16:21:06 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001002dba5d866c1",
+      "title": "Phaethon’s fiery folly",
+      "link": "https://www.astronomy.com/observing/phaethons-fiery-folly",
+      "desc": "Even the best-laid plans can require a bit of luck to execute. During the solar eclipse of Aug. 12, 2026, in which parts of Iceland, Portugal, and Spain experienced totality, much of western Europe enjoyed a substantial partial eclipse. Astrophotographer Alexandre Tournay set up near Brussels to cap",
+      "pubDate": "Tue, 24 Nov 2026 16:17:39 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001eb98f7d971a05",
+      "title": "Astronomers catch ‘galaxy-killing’ wind in the act",
+      "link": "https://www.astronomy.com/science/astronomers-catch-galaxy-killing-wind-in-the-act",
+      "desc": "In the local universe, it is common to find galaxies that have stopped forming new stars. These so-called quiescent galaxies have lived for billions of years and over that time, gradually exhausted their star-forming gas. By contrast, galaxies that lie at much greater distances — and thus appear to ",
+      "pubDate": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001cf2b596ea5cf1",
+      "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
+      "link": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes",
+      "desc": "Science instruments for NASA’s Dragonfly are starting to arrive at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where the car-sized rotorcraft is coming together for its mission to explore Saturn’s largest moon, Titan. First to check in: DragonCam, which consists of seven ",
+      "pubDate": "Tue, 24 Nov 2026 15:44:38 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0016babf800cc697",
+      "title": "Why Mega-Constellations Have a Hidden Space Junk Blind Spot",
+      "link": "https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot",
+      "desc": "We are consistently launching more and more stuff into space. As of now, space agencies track more than 30,000 objects larger than a softball, with an expected one million more bullet-sized pieces of debris orbiting Earth that are too small to spot from the ground.. Government agencies and private c",
+      "pubDate": "Tue, 24 Nov 2026 15:43:59 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000c11b5a4017704",
+      "title": "UK-Built X-Ray Telescope Ready For Action at Mercury",
+      "link": "https://www.universetoday.com/articles/uk-built-x-ray-telescope-ready-for-action-at-mercury",
+      "desc": "The joint ESA/JAXA BepiColombo mission has arrived at Mercury, and among its arsenal of detectors ready to explore the innermost world is an innovative new instrument. A University of Leicester team recently released an image of an iconic deep-sky object as a proof of concept test for their Mercury ",
+      "pubDate": "Tue, 24 Nov 2026 15:30:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "00069f61b5632be4",
       "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
@@ -19,6 +387,42 @@
           "Industry",
           "Policy",
           "Launches"
+        ]
+      }
+    },
+    {
+      "id": "000d91696a823e7a",
+      "title": "Double asteroid solar eclipse caught on camera | Space photo of the day for Nov. 24, 2026",
+      "link": "https://www.space.com/astronomy/asteroids/double-asteroid-solar-eclipse-caught-on-camera-space-photo-of-the-day-for-nov-24-2026",
+      "desc": "A spacecraft far from Earth beamed home a rare sight: a solar eclipse caused by one asteroid casting its shadow on another.",
+      "pubDate": "Tue, 24 Nov 2026 15:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00026740564e4ce9",
+      "title": "YunLone Galaxy star projector review — a sub-$30 customizable night light",
+      "link": "https://www.space.com/technology/yunlone-galaxy-star-projector-review",
+      "desc": "The YunLone Galaxy Projector is inexpensive but competent and offers a surprising amount of customization.",
+      "pubDate": "Tue, 24 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
         ]
       }
     },
@@ -115,7 +519,7 @@
     },
     {
       "id": "001e462096f1487e",
-      "title": "Russia launches Progress cargo ship to the International Space Station",
+      "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
       "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
       "desc": "Russia launched the robotic Progress 97 freighter toward the International Space Station from Kazakhstan today (Nov. 24), on a mission that will feature some unusual port-hopping activity.",
       "pubDate": "Tue, 24 Nov 2026 13:16:26 +0000",
@@ -150,6 +554,44 @@
       }
     },
     {
+      "id": "00196931f7e02fcd",
+      "title": "Blind sample test reveals how BepiColombo could decode Mercury's mineral makeup",
+      "link": "https://phys.org/news/2026-11-sample-reveals-bepicolombo-decode-mercury.html",
+      "desc": "An international team of researchers, including scientists from Planetary Science Institute (PSI), has demonstrated that instruments aboard the BepiColombo spacecraft can operate together to identify the minerals that make up Mercury's surface, addressing a longstanding challenge in planetary scienc",
+      "pubDate": "Tue, 24 Nov 2026 18:20:08 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0007d7508be7d420",
+      "title": "NASA Hubble's new view of NGC 4394 raises the bar",
+      "link": "https://phys.org/news/2026-11-nasa-hubble-view-ngc-bar.html",
+      "desc": "A brilliant galaxy with a distinct galactic bar takes center stage in this NASA/ESA Hubble Space Telescope image. The galaxy, called NGC 4394, is in the constellation Coma Berenices (Berenice's Hair). At about 55 million light-years away, NGC 4394 is considered relatively nearby for a galaxy. It's o",
+      "pubDate": "Tue, 24 Nov 2026 17:40:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001ae4e6b3eb14d0",
       "title": "November's full moon rises tonight! Here's how to see the Beaver Moon supermoon",
       "link": "https://www.space.com/stargazing/novembers-full-moon-rises-tonight-heres-how-to-see-the-beaver-moon-supermoon-nov-24-2026",
@@ -164,6 +606,81 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "0013e1d970f7bc1a",
+      "title": "The two ways rings are carved around a newborn star",
+      "link": "https://phys.org/news/2026-11-ways-newborn-star.html",
+      "desc": "How are planets formed in a solar system? While the question is simple, the answer is not so straightforward. Astrophysicists have long peeked into the sky, observing early stars and planets to find the answer. A common pattern observed in early stars is sequential rings of bright and dark areas ema",
+      "pubDate": "Tue, 24 Nov 2026 16:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00089d1a929a560c",
+      "title": "Flexible simulations model how dark matter collisions may leave their fingerprints on the universe",
+      "link": "https://phys.org/news/2026-11-flexible-simulations-dark-collisions-fingerprints.html",
+      "desc": "We cannot see or measure dark matter directly. Yet scientists are convinced that it exists and that it accounts for around 85% of all matter in the universe, including the matter that everything here on Earth is made of, from earthworms and mountains to seawater and washing machines.",
+      "pubDate": "Tue, 24 Nov 2026 16:10:02 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0010155ec29ba0de",
+      "title": "A black hole the size of an atom could destroy an entire star",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+      "desc": "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies. Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the ",
+      "pubDate": "Tue, 24 Nov 2026 15:58:15 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000166094b7d5d5a",
+      "title": "Vaporized rock reveals titanium oxide around massive young star for first time",
+      "link": "https://phys.org/news/2026-11-vaporized-reveals-titanium-oxide-massive.html",
+      "desc": "Scientists have observed titanium oxide in gas form around a massive, young star for the first time. The finding identifies the first region in which scientists have been able to determine the composition of solid materials outside of our solar system without having to collect a sample and bring it ",
+      "pubDate": "Tue, 24 Nov 2026 15:40:08 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -236,6 +753,44 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e66e33e07d1ac",
+      "title": "Water signals could guide future efforts to image supermassive black hole shadows",
+      "link": "https://phys.org/news/2026-11-future-efforts-image-supermassive-black.html",
+      "desc": "University of Hawaiʻi at Mānoa researchers are exploring a new way to study some of the universe's most mysterious objects: supermassive black holes.",
+      "pubDate": "Tue, 24 Nov 2026 11:40:02 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001fbc8bb16a549b",
+      "title": "Four radiation belts surrounded Earth for weeks after 2024 solar superstorm",
+      "link": "https://phys.org/news/2026-11-belts-earth-weeks-solar-superstorm.html",
+      "desc": "Within Earth's magnetic field, energetic particles are trapped in two doughnut-shaped regions known as the Van Allen radiation belts—usually separated by a gap where particles are especially sparse. This structure can be dramatically rearranged during solar storms, but until now, astronomers have re",
+      "pubDate": "Tue, 24 Nov 2026 11:00:12 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -2021,7 +2576,7 @@
     },
     {
       "id": "0019fff996520e32",
-      "title": "Ariane 6 rocket successfully launches 36 Amazon Leo satellites",
+      "title": "Ariane 6 rocket successfully launches 36 Amazon Leo satellites into orbit after delay (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
       "desc": "Launch occurred at 6:14 a.m. ET on Tuesday (Nov. 24).",
       "pubDate": "Sun, 22 Nov 2026 22:00:00 +0000",
@@ -2453,24 +3008,6 @@
         "tags": [
           "Astronomy",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "00158d5d7b05c0b0",
-      "title": "SpaceX launches classified mission for US Space Force from California (video)",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
-      "desc": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
-      "pubDate": "Sat, 21 Nov 2026 05:28:14 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     },
@@ -5901,25 +6438,6 @@
       }
     },
     {
-      "id": "001566570fe2689a",
-      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
-      "link": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch",
-      "desc": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled w",
-      "pubDate": "Wed, 18 Nov 2026 22:19:17 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "001398884b5a7c68",
       "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
       "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers",
@@ -8805,533 +9323,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "00061555489f46c3",
-      "title": "Nov. 16, 1974: Arecibo sends a message",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-16-1974-arecibo-sends-a-message",
-      "desc": "On Nov. 16, 1974, a group gathered at Arecibo Observatory in the rainforest interior of Puerto Rico, there for a reopening celebration after upgrades to the facility. After the requisite speeches, scientists used the radio telescope to send what would be known as the Arecibo message: 1,679 bits of d",
-      "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00109c685d98e0d7",
-      "title": "‘Avengers Endgame: Encore’ is now streaming on Disney+, with 4 minutes of bonus footage and a special ‘Doomsday’ preview",
-      "link": "https://www.space.com/entertainment/space-movies-shows/avengers-endgame-encore-is-now-streaming-on-disney-with-4-minutes-of-bonus-footage-and-a-special-doomsday-preview",
-      "desc": "Armed with bonus scenes and extras, Marvel Studios' updated version of its 2019 blockbuster just landed on Disney+",
-      "pubDate": "Mon, 16 Nov 2026 13:30:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00165c6dc28e3d2d",
-      "title": "Euclid's H-alpha observations map where stars form in distant galaxies",
-      "link": "https://phys.org/news/2026-11-euclid-alpha-stars-distant-galaxies.html",
-      "desc": "Euclid was launched into space in July 2023 to explore two of astronomy's biggest mysteries: dark matter and dark energy. The space telescope's first major data release covers some 1,900 square degrees of the sky, equivalent to around 14% of the area planned for the six-year mission and around 5% of",
-      "pubDate": "Mon, 16 Nov 2026 18:40:07 EST",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0016a7c78c7359f0",
-      "title": "A Magna Carta for the stars: King Charles III takes on space sustainability",
-      "link": "https://www.space.com/space-exploration/a-magna-carta-for-the-stars-king-charles-iii-takes-on-space-sustainability",
-      "desc": "\"I think once people are aware of it, they want the same sustainability standards for protecting our planet\".",
-      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0008849f0f94cf40",
-      "title": "Sunspot dynamic fibrils linked to slow magnetoacoustic waves",
-      "link": "https://phys.org/news/2026-11-sunspot-dynamic-fibrils-linked-magnetoacoustic.html",
-      "desc": "Using high-resolution observations from the New Vacuum Solar Telescope (NVST), a research team from the Yunnan Observatories of the Chinese Academy of Sciences (CAS) has systematically studied the kinematic properties of dynamic fibrils around a sunspot and the mechanisms that drive them. The study ",
-      "pubDate": "Mon, 16 Nov 2026 18:00:02 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001b2e4936a47ec7",
-      "title": "Stars and satellites",
-      "link": "https://www.astronomy.com/picture-of-the-day/photo/stars-and-satellites",
-      "desc": "José Zarcos Palma from Mértola, Portugal Stars and airplanes leave long trails above this stacked-exposure nightscape, but the band of criss-crossing streaks just left of center is caused by sunlight glinting off satellites. The photographer combined 120 consecutive 30-second exposures at f/2.8 and ",
-      "pubDate": "Mon, 16 Nov 2026 11:23:59 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001159de12f925ae",
-      "title": "Written in sand: How dunes reveal the secrets of planetary winds",
-      "link": "https://phys.org/news/2026-11-written-sand-dunes-reveal-secrets.html",
-      "desc": "Stanford University researchers have shown that the median sand grain size in dunes on Earth and Mars reveals the speed of the winds that formed those dunes. The finding enables scientists to use sand as a wind speedometer for both modern and ancient dunes found across the solar system.",
-      "pubDate": "Mon, 16 Nov 2026 15:00:23 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000e973f2fddb3cb",
-      "title": "The Sky Today on Monday, November 16: Titan south, Rhea north",
-      "link": "https://www.astronomy.com/observing/the-sky-today-monday-november-16-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 15: Mars and Jupiter in conjunction It’s a great night to catch Saturn’s largest and brightest moon, Titan, as it skims south of the planet. Two hours after sunset, Saturn is roughly 40° high in the southeast, outs",
-      "pubDate": "Mon, 16 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001e4e6a4a0dd470",
-      "title": "Dirty ice around young star Beta Pictoris suggests frequent collisions and sheds light on the system's formation",
-      "link": "https://phys.org/news/2026-11-dirty-ice-young-star-beta.html",
-      "desc": "In a recent study of infrared light collected by the James Webb Space Telescope (JWST), a group of astronomers detected ice for the first time around the young star Beta Pictoris. Researchers had expected ice around Beta Pictoris, but previous searches had not directly detected it. The study, publis",
-      "pubDate": "Mon, 16 Nov 2026 12:30:02 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00183d157ac5a3e4",
-      "title": "A Large-Scale Technosignature Survey of the Anti-Solar Point with the Allen Telescope Array: Survey Design and Pilot Results",
-      "link": "https://arxiv.org/abs/2611.17376",
-      "desc": "arXiv:2611.17376v1 Announce Type: new \nAbstract: In the search for technosignatures, it can be useful to narrow down the cosmic haystack by prioritizing time-coordinate ``Schelling Points'' at which a beacon may be more likely to be transmitted. One such Schelling Point is the Anti-Solar Point (ASP)",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0016e08920e08062",
-      "title": "Asteroseismology of blue straggler stars in $\\omega$ Centauri. Stellar collisions as a possible formation scenario",
-      "link": "https://arxiv.org/abs/2611.17995",
-      "desc": "arXiv:2611.17995v1 Announce Type: new \nAbstract: Context. Blue stragglers are intriguing stars that appear more massive and younger than expected from single-star evolution, yet their evolutionary histories remain elusive because of the multiple possible formation channels. A promising and poorly ex",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015f1f9be78d5ce",
-      "title": "Astrometric microlensing by isolated black holes in the Roman Galactic Bulge Time Domain Survey",
-      "link": "https://arxiv.org/abs/2611.17410",
-      "desc": "arXiv:2611.17410v1 Announce Type: new \nAbstract: Most of the hundred million stellar-mass black holes (BHs) expected in the Milky Way are predicted to be isolated. Characterizing this BH population will provide insights into stellar evolution and supernova explosion physics. The Nancy Grace Roman Sp",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00036b5e53a8d0fe",
-      "title": "Augmenting Galaxy Catalogues using Machine Learning in the FLAMINGO Simulations",
-      "link": "https://arxiv.org/abs/2611.17425",
-      "desc": "arXiv:2611.17425v1 Announce Type: new \nAbstract: Hydrodynamic simulations are instrumental in the analysis of observations such as galaxy clustering used for the estimation of cosmological parameters. However, for these purposes, the simulations need both a large box size and high resolution, which ",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0009248072645072",
-      "title": "Axion quintessence with a negative cosmological constant: Bayesian constraints from current cosmological data",
-      "link": "https://arxiv.org/abs/2611.17725",
-      "desc": "arXiv:2611.17725v1 Announce Type: new \nAbstract: We constrain canonical axion quintessence with a negative cosmological constant using DES Year 5 supernovae, DESI DR2 BAO, compressed CMB information, and geometry-corrected Gold-2017 growth data. We solve the background and linear-growth equations an",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000f7e0204b01663",
-      "title": "Beyond the Inner Slope $\\gamma$: A Schwarzschild-based Probe of the Core-Cusp Problem in the Milky Way Dwarf Spheroidal Galaxies",
-      "link": "https://arxiv.org/abs/2611.17835",
-      "desc": "arXiv:2611.17835v1 Announce Type: new \nAbstract: We present a spherical Schwarzschild orbit-superposition framework for constraining the dark matter density profiles and stellar orbital structures of the Milky Way dwarf spheroidal galaxies. We model the line-of-sight velocity distribution with a Gau",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001dde3390193c2f",
-      "title": "Calibrated Period-Luminosity Relations for Mira variables in the Large Magellanic Cloud in the Vera C. Rubin Observatory $zy$-band Photometric Systems",
-      "link": "https://arxiv.org/abs/2611.17628",
-      "desc": "arXiv:2611.17628v1 Announce Type: new \nAbstract: The Vera C. Rubin Observatory's Legacy Survey of Space Time (LSST) is expected to discover numerous Mira variables in nearby galaxies, enabling their application for the cosmic distance scale. Miras are excellent distance indicators at infrared wavele",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00199c59de1bc1b3",
-      "title": "Counter-rotating Ionized and Neutral Gas in a Star-forming Elliptical Galaxy",
-      "link": "https://arxiv.org/abs/2611.17740",
-      "desc": "arXiv:2611.17740v1 Announce Type: new \nAbstract: In early-type galaxies, gas that is kinematically misaligned with the stars generally rotates together across all gas phases, implying a single external origin. Using upgraded Giant Metrewave Radio Telescope (uGMRT) 21 cm imaging and SDSS-MaNGA spatia",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00149df1fe50c48d",
-      "title": "DART ejecta reveal the recoil momentum budget of a kinetic impact",
-      "link": "https://arxiv.org/abs/2611.17649",
-      "desc": "arXiv:2611.17649v1 Announce Type: new \nAbstract: Double Asteroid Redirection Test (DART) demonstrated that ejecta recoil enhances asteroid deflection, but the ejecta processes generating and distributing this recoil remained unclear. We reconstruct three-dimensional ejecta evolution from time-resolv",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000d97e5fb5c1c18",
-      "title": "Detectability limits of Ce abundances in Gaia RVS",
-      "link": "https://arxiv.org/abs/2611.17591",
-      "desc": "arXiv:2611.17591v1 Announce Type: new \nAbstract: Gaia DR3 provides medium-resolution Radial Velocity Spectrograph (RVS) spectra for millions of stars, but the extent to which they contain recoverable cerium (Ce) information across stellar parameter space remains unclear. We assess Ce detectability i",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001d137e41aa1845",
-      "title": "Effect of galaxy-informed merger timescales on massive black hole binaries in LISA",
-      "link": "https://arxiv.org/abs/2611.17409",
-      "desc": "arXiv:2611.17409v1 Announce Type: new \nAbstract: Over a decade of direct N-body simulations tell us that massive black hole binary (MBHB) merger timescales are strongly dependent on the structural and kinematic properties of the host galaxy merger remnant. The physical stages of stellar scattering a",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000f41369f0ab340",
-      "title": "Effects of Environment on the Star Formation Histories and Shapes of Simulated Galaxies",
-      "link": "https://arxiv.org/abs/2611.17427",
-      "desc": "arXiv:2611.17427v1 Announce Type: new \nAbstract: We investigate how environment is connected to the formation times and three-dimensional stellar shapes of galaxies using the FIREbox cosmological volume simulation. We analyze 1720 resolved galaxies at $z=0$ spanning stellar masses $M_\\star\\approx5\\t",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000a493e781a6fd1",
-      "title": "Euclid Data Release 1 (DR1). Enhancing deep-learning models: the impact of image processing and training data selection for strong-lens detection",
-      "link": "https://arxiv.org/abs/2611.17420",
-      "desc": "arXiv:2611.17420v1 Announce Type: new \nAbstract: Euclid is expected to discover ~$10^5$ galaxy-galaxy strong gravitational lenses across ~14,000deg$^2$, requiring automated searches with high completeness and low false-positive rates. Despite advances in deep learning, the effects of training-set co",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0016eb9a7f60b31c",
-      "title": "Evidence for a Fast, Long-Period, Hot Population of Accreting Neutron Stars",
-      "link": "https://arxiv.org/abs/2611.17972",
-      "desc": "arXiv:2611.17972v1 Announce Type: new \nAbstract: Context. Accreting neutron stars in low-mass X-ray binaries allow us to probe the accretion histories that produce recycled millisecond pulsars. Aims. We expand the analysis of the spin distribution with an enlarged sample of 39 accreting neutron star",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0012f43a1d78ac42",
-      "title": "Exoplanets are predominately aligned with exo-Kuiper Belts",
-      "link": "https://arxiv.org/abs/2611.17423",
-      "desc": "arXiv:2611.17423v1 Announce Type: new \nAbstract: The architectures of planetary systems encode their formation and dynamical histories. In the Solar System, the near alignment of planetary orbits, the Kuiper Belt, and the Sun's equator supports planet formation in a rotating disk of gas and dust. Ho",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000030785904492f",
-      "title": "Full-shape analysis of the Lyman-alpha forest power spectrum and bispectrum: validation on simulations",
-      "link": "https://arxiv.org/abs/2611.17405",
-      "desc": "arXiv:2611.17405v1 Announce Type: new \nAbstract: The Lyman-$\\alpha$ (LyA) forest of neutral hydrogen provides a large-volume, high-resolution map of cosmological fluctuations from optical spectra at high redshift. To extract more information from the currently observing Dark Energy Spectroscopic Ins",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000555dba89b678b",
-      "title": "General $\\delta N$ formalism in Single Field Inflation and Graph Theory",
-      "link": "https://arxiv.org/abs/2611.17978",
-      "desc": "arXiv:2611.17978v1 Announce Type: new \nAbstract: We study higher order correlation functions in single field inflation using the $\\delta N$ formalism and methods from graph theory. By representing connected tree level contributions as graphs, we systematically classify their independent topologies, ",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001de76168e47f97",
-      "title": "Gravitational-wave hierarchical inference from population samples",
-      "link": "https://arxiv.org/abs/2611.17428",
-      "desc": "arXiv:2611.17428v1 Announce Type: new \nAbstract: Standard approaches to gravitational-wave population inference require evaluating the probability density of the population model. While appropriate for models composed of exact functional forms, this approach is not compatible with state-of-the-art a",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0002a6201d311b82",
-      "title": "High-resolution Observations of Physical Properties of Dynamic Fibrils Around a Sunspot",
-      "link": "https://arxiv.org/abs/2611.17838",
-      "desc": "arXiv:2611.17838v1 Announce Type: new \nAbstract: Understanding the formation and evolution of dynamic fibrils (DFs) in active regions is essential for uncovering the physical processes operating in the highly structured and magnetized solar atmosphere. High-resolution chromospheric observations from",
-      "pubDate": "Mon, 16 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
         ]
       }
     }
