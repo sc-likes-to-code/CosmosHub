@@ -1,8 +1,136 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T03:31:19.610Z",
+  "generatedAt": "2026-11-25T13:23:13.687Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00167042e58bda4d",
+      "title": "A New Discovery is Re-Drawing the Map of the Milky Way",
+      "link": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
+      "desc": "New research shows that star formation is occurring in the Milky Way's central bar. This goes against previous research, and against observations of other barred spiral galaxies. The discovery by a PhD student shows a vast rotating structure of stars near the centre of our Galaxy is driving enormous",
+      "pubDate": "Wed, 25 Nov 2026 13:13:45 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0012d62e75225a16",
+      "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+      "link": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
+      "desc": "The Euclid space telescope has spotted the most distant and ancient quasar ever seen, a bright cosmic event powered by a supermassive black hole with 360 million times the mass of the sun.",
+      "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00094ebb8c083afa",
+      "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
+      "link": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
+      "desc": "From the skyscrapers of New York to the ancient Parthenon in Athens, the Beaver Moon supermoon put on a spectacular show for skywatchers around the world.",
+      "pubDate": "Wed, 25 Nov 2026 11:22:59 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0018ad652ae287f2",
+      "title": "Comet Encke's Shape and Heat Revealed in Thermal Glow",
+      "link": "https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow",
+      "desc": "Comets are time capsules of the origins of the solar system, containing materials that have existed for billions of years. While comets primarily orbit in the farthest reaches of the solar system, specifically the Kuiper Belt or Oort Cloud, some make their way closer to the Sun. When this happens, t",
+      "pubDate": "Wed, 25 Nov 2026 09:45:07 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001882bec1ea3a40",
+      "title": "The Sky Today on Wednesday, November 25: Uranus at opposition",
+      "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-25-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 24: A Super Beaver Moon occults the Pleiades The distant ice giant Uranus reaches opposition tonight at 6 P.M. EST. Opposition is the best time to view a planet in our sky, and it’s visible roughly from dusk until ",
+      "pubDate": "Wed, 25 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0014964a95ce93a3",
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust",
+      "desc": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "pubDate": "Wed, 25 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0007b6794f5a78d2",
+      "title": "Georgia’s Pecan Belt",
+      "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt",
+      "desc": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+      "pubDate": "Wed, 25 Nov 2026 05:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "000f88569d6429c6",
       "title": "Maybe Dark Energy Isn't so Inexplicable After All",
@@ -55,6 +183,80 @@
           "Policy",
           "Law",
           "Industry"
+        ]
+      }
+    },
+    {
+      "id": "001576d07d76d637",
+      "title": "Japan unveils rover prototype for moon water mission",
+      "link": "https://phys.org/news/2026-11-japan-unveils-rover-prototype-moon.html",
+      "desc": "Japan's space agency unveiled Wednesday a test model of a rover that will travel to the moon's south pole in a search for water, which could potentially be used for rocket fuel.",
+      "pubDate": "Wed, 25 Nov 2026 06:27:27 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "000e07a0c371e9de",
+      "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
+      "link": "https://phys.org/news/2026-11-china-shenzhou-spacecraft-chinese-pakistani.html",
+      "desc": "China on Wednesday launched the Shenzhou 24 spacecraft with three astronauts—two Chinese and a Pakistani—sending the first foreign crew member to its space station.",
+      "pubDate": "Wed, 25 Nov 2026 06:24:37 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00013bbed9267c10",
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+      "desc": "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe. The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to com",
+      "pubDate": "Wed, 25 Nov 2026 05:35:04 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0013e2ff6dcf56a6",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "desc": "Positrons are the antimatter counterpart of an electron. Physicists trapped a positron and cooled it to temperatures near absolute zero. Positron is suspended in a wall-free trap, safely separated from ordinary matter. Team will conduct most precise comparison yet between matter and antimatter. Any ",
+      "pubDate": "Wed, 25 Nov 2026 05:06:22 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -391,6 +593,24 @@
       }
     },
     {
+      "id": "001968841b6046e0",
+      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+      "desc": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector. By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull. Unlike Wi",
+      "pubDate": "Tue, 24 Nov 2026 21:29:38 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001cf2b596ea5cf1",
       "title": "NASA’s Titan-Bound Dragonfly Rotorcraft Gets Its Eyes",
       "link": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes",
@@ -480,6 +700,24 @@
           "Industry",
           "Policy",
           "Launches"
+        ]
+      }
+    },
+    {
+      "id": "001be66c737005b9",
+      "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
+      "desc": "A surprising discovery by MIT and UC Santa Barbara physicists reveals that Einstein’s famous theory of particle motion misses something important when particles travel near the speed of light. Their new calculations show that heavy quarks moving through an ultra-hot plasma experience rare but unusua",
+      "pubDate": "Tue, 24 Nov 2026 20:35:04 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -884,25 +1122,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "000a405ce036693c",
-      "title": "APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group",
-      "desc": "APOD Science APOD APOD: 2026 November 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
-      "pubDate": "Tue, 24 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -3646,24 +3865,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "000a3935d584540f",
-      "title": "The Sky This Week from November 20 to 27: Uranus at opposition",
-      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-20-to-27-2026",
-      "desc": "Friday, November 20The Moon passes 5° north of Neptune at 8 A.M. EST, then passes 7° north of Saturn at 8 P.M. EST. They remain visible all evening, forming a triangle in southern Pisces and northern Cetus. The Moon and Saturn are visible to the naked eye, but Neptune will be invisible without binoc",
-      "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     },
@@ -7084,24 +7285,6 @@
       }
     },
     {
-      "id": "000645f06895cb71",
-      "title": "The Sky Today on Wednesday, November 18: The Leonid meteor shower peaks",
-      "link": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-18-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 17: Spotlight on the Pleiades The peak of the Leonid meteor shower, caused by the dusty debris of Comet 55P/Tempel-Tuttle, is best seen early this morning after the Moon has set and the shower’s radiant rises high ",
-      "pubDate": "Wed, 18 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000339d296bf79b4",
       "title": "Strange radio signals from space could come from a dead star",
       "link": "https://phys.org/news/2026-11-strange-radio-space-dead-star.html",
@@ -9130,191 +9313,6 @@
       "link": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model",
       "desc": "Just a day after SpaceX caught the upper stage of its Starship megarocket back at the launch pad for the first time ever, Elon Musk told us that the spacecraft will get even bigger.",
       "pubDate": "Mon, 16 Nov 2026 20:04:22 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000a3a7d0fded237",
-      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
-      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor",
-      "desc": "LOS ALAMOS, N.M., Nov. 16, 2026 — Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. […]\nThe post SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space React",
-      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001dee68c3c70ef4",
-      "title": "This Rare Binary Star Emits Radio Pulses Every Few Minutes. Will It Eventually Explode?",
-      "link": "https://www.universetoday.com/articles/this-rare-binary-star-emits-radio-pulses-every-few-minutes-will-it-eventually-explode",
-      "desc": "Astronomers have found a Long Period Radio Transient about 5,000 light years away that's different from other LPTs. Other LPTs have a white dwarf and a red dwarf, but this one has a white dwarf and a main sequence star. The exact cause of the binary  pair's radio pulses isn't certain, but this work ",
-      "pubDate": "Mon, 16 Nov 2026 19:30:47 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000276531342cc01",
-      "title": "What exactly is a light-day? Here's what Voyager 1's latest milestone means for the interstellar probe",
-      "link": "https://www.space.com/space-exploration/voyager/what-exactly-is-a-light-day-heres-what-voyager-1s-latest-milestone-means-for-the-interstellar-probe",
-      "desc": "Voyager 1 is approaching a distance of one light-day from Earth, a milestone that highlights the enormous distances involved in deep-space exploration.",
-      "pubDate": "Mon, 16 Nov 2026 19:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000742c1b484de7b",
-      "title": "Sentinel-6B in Orbit Around Earth",
-      "link": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth",
-      "desc": "Description This artist’s concept shows the Sentinel-6B satellite, which will become the reference satellite for other missions studying sea surface height.",
-      "pubDate": "Mon, 16 Nov 2026 18:52:32 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0012d471db8c9fbc",
-      "title": "Thunderbirds in Formation",
-      "link": "https://www.nasa.gov/image-article/thunderbirds-in-formation",
-      "desc": "U.S. Air Force Thunderbirds fighter jets pass overhead during the agency’s MAX POWER expo and air show on Saturday, Nov. 7, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s inaugural MAX POWER was an aerospace festival celebrating the past, present, and future of flight and space exploration ",
-      "pubDate": "Mon, 16 Nov 2026 18:34:47 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001cd23de3fbf52a",
-      "title": "The sun, Earth, Jupiter and white dwarfs: Potential traps for dark matter",
-      "link": "https://phys.org/news/2026-11-sun-earth-jupiter-white-dwarfs.html",
-      "desc": "Dark matter continues to evade direct detection. Its slower-moving particles might leave signals too faint for detectors to register, yet be more easily captured by planets and stars. As they accumulate inside these bodies, they could produce effects that existing instruments would allow us to searc",
-      "pubDate": "Tue, 17 Nov 2026 00:00:01 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001b3ec44787dde8",
-      "title": "'Maybe the scariest thing I've heard in my life': Artemis II astronaut Victor Glover reveals his toughest challenge before flying to the moon",
-      "link": "https://www.space.com/space-exploration/artemis/maybe-the-scariest-thing-ive-heard-in-my-life-artemis-ii-astronaut-victor-glover-reveals-his-toughest-challenge-before-flying-to-the-moon",
-      "desc": "For Artemis II astronaut Victor Glover, one of the hardest parts of traveling to the moon happened before he even left Earth.",
-      "pubDate": "Mon, 16 Nov 2026 18:00:00 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000a87ed37a2f28d",
-      "title": "NASA, European Sea Level Satellite Prepped for New Role",
-      "link": "https://www.jpl.nasa.gov/news/nasa-european-sea-level-satellite-prepped-for-new-role",
-      "desc": "The Sentinel-6B satellite is set to become the reference satellite that other sea-level missions use to calibrate their data.",
-      "pubDate": "Mon, 16 Nov 2026 09:30:00 -0800",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA JPL",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "JPL",
-          "Missions"
-        ]
-      }
-    },
-    {
-      "id": "000ee07dacafa946",
-      "title": "The Leonid meteor shower peaks tonight! Here's what you need to know",
-      "link": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
-      "desc": "The Leonid meteor shower peaks overnight tonight (Nov. 17-18), sending shooting stars racing across the night sky from the direction of the constellation Leo.",
-      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0006625572e66240",
-      "title": "Could there be an ancient alien satellite in Earth's orbit? How the 'Black Knight' conspiracy theory has survived for over 100 years",
-      "link": "https://www.space.com/space-exploration/satellites/could-there-be-an-ancient-alien-satellite-in-earths-orbit-how-the-black-knight-conspiracy-theory-has-survived-for-over-100-years",
-      "desc": "The legend of the Black Knight satellite offers an example of how a collection of unconnected events and speculative interpretations can accumulate into a single conspiracy theory over time.",
-      "pubDate": "Mon, 16 Nov 2026 16:00:00 +0000",
       "category": "Space Industry & Policy",
       "source": {
         "name": "Space.com",

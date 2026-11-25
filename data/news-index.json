@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-25T03:31:09.216Z",
-  "lastRunId": "run-1795577466332-va6m9s",
+  "lastUpdated": "2026-11-25T13:23:02.575Z",
+  "lastRunId": "run-1795612979550-h1yykv",
   "stats": {
-    "totalStories": 1882,
-    "lastRunAdded": 5
+    "totalStories": 1895,
+    "lastRunAdded": 13
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"ed2657ed324998a1ef20729b0145d895\"",
-    "https://www.universetoday.com/feed": "W/\"6b065012-76e8\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"ed2657ed324998a1ef20729b0145d895\"",
-    "http://arxiv.org/rss/astro-ph": "ecf2a5a317aaf3fc5b7a4cbb6423de5b56c629c60db71eaaf8a71fae6769cd42",
-    "https://spacenews.com/feed/": "W/\"79379c26d2fc1cc99363c19842709278\"",
-    "https://www.astronomy.com/feed/": "W/\"c683da369feb7c15ca831c77a7034d1c\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"788cf5e27f76207ccd4e66d8cfc38f96\"",
+    "https://www.universetoday.com/feed": "W/\"6b06dfe0-7784\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"18a75300527cb8f9b07cbbca506bcc27\"",
+    "http://arxiv.org/rss/astro-ph": "c029f3cd1bf52d409dc6c4bee01ec2832336026469e10e56e2dc6952675e3d85",
+    "https://spacenews.com/feed/": "W/\"a0596f382598a119957bfffde7633ed9\"",
+    "https://www.astronomy.com/feed/": "W/\"8dc62350bfbcec6ba2d4d1524345eee3\"",
     "https://spacepolicyonline.com/feed/": "\"82b42a7682179cd49fd747ac0833a9b9\""
   },
   "articles": {
@@ -22599,6 +22599,162 @@
       "archivedDate": "2026-11-25",
       "collection": "morning",
       "archivedAt": "2026-11-25T03:31:09.216Z"
+    },
+    "00167042e58bda4d": {
+      "id": "00167042e58bda4d",
+      "canonicalUrl": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
+      "title": "A New Discovery is Re-Drawing the Map of the Milky Way",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 13:13:45 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "0012d62e75225a16": {
+      "id": "0012d62e75225a16",
+      "canonicalUrl": "https://www.space.com/astronomy/black-holes/dark-universe-detective-telescope-discovers-most-distant-and-ancient-supermassive-black-hole-powered-quasar",
+      "title": "Astronomers discover the most distant and ancient supermassive black hole-powered quasar in the universe",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "00094ebb8c083afa": {
+      "id": "00094ebb8c083afa",
+      "canonicalUrl": "https://www.space.com/stargazing/novembers-full-moon-dazzles-skywatchers-with-a-stunning-beaver-moon-supermoon-photos-nov-24-2026",
+      "title": "November's full moon dazzles skywatchers with a stunning Beaver Moon supermoon (photos)",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Wed, 25 Nov 2026 11:22:59 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "0018ad652ae287f2": {
+      "id": "0018ad652ae287f2",
+      "canonicalUrl": "https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow",
+      "title": "Comet Encke's Shape and Heat Revealed in Thermal Glow",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 09:45:07 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "001882bec1ea3a40": {
+      "id": "001882bec1ea3a40",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-wednesday-november-25-2026",
+      "title": "The Sky Today on Wednesday, November 25: Uranus at opposition",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "0014964a95ce93a3": {
+      "id": "0014964a95ce93a3",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust",
+      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 25 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "0007b6794f5a78d2": {
+      "id": "0007b6794f5a78d2",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt",
+      "title": "Georgia’s Pecan Belt",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Wed, 25 Nov 2026 05:00:00 +0000",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "001576d07d76d637": {
+      "id": "001576d07d76d637",
+      "canonicalUrl": "https://phys.org/news/2026-11-japan-unveils-rover-prototype-moon.html",
+      "title": "Japan unveils rover prototype for moon water mission",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 25 Nov 2026 06:27:27 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "000e07a0c371e9de": {
+      "id": "000e07a0c371e9de",
+      "canonicalUrl": "https://phys.org/news/2026-11-china-shenzhou-spacecraft-chinese-pakistani.html",
+      "title": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Missions & Exploration",
+      "pubDate": "Wed, 25 Nov 2026 06:24:37 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "00013bbed9267c10": {
+      "id": "00013bbed9267c10",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+      "title": "A space telescope hunting for dark matter just discovered something unexpected",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 05:35:04 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "0013e2ff6dcf56a6": {
+      "id": "0013e2ff6dcf56a6",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+      "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Wed, 25 Nov 2026 05:06:22 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "001968841b6046e0": {
+      "id": "001968841b6046e0",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+      "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Tue, 24 Nov 2026 21:29:38 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
+    },
+    "001be66c737005b9": {
+      "id": "001be66c737005b9",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
+      "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Research & Science",
+      "pubDate": "Tue, 24 Nov 2026 20:35:04 EST",
+      "archivedDate": "2026-11-25",
+      "collection": "morning",
+      "archivedAt": "2026-11-25T13:23:02.575Z"
     }
   }
 }
