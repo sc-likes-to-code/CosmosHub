@@ -1,8 +1,1104 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T03:31:14.058Z",
+  "generatedAt": "2026-11-26T13:02:16.981Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00089524560b3c60",
+      "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
+      "link": "https://www.space.com/stargazing/thanksgiving-night-sky-2026-what-to-look-for-after-dinner-tonight",
+      "desc": "From Saturn's magnificent rings to the waning gibbous moon, here's how to turn your Thanksgiving celebrations into a family skywatching adventure.",
+      "pubDate": "Thu, 26 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000326fdf1a707af",
+      "title": "Space plants with hot sauce: What ISS astronauts will be eating on Thanksgiving (video)",
+      "link": "https://www.space.com/space-exploration/human-spaceflight/space-plants-with-hot-sauce-what-iss-astronauts-will-be-eating-on-thanksgiving-video",
+      "desc": "The astronauts on the International Space Station will celebrate Thanksgiving with some nontraditional fare. Tortillas, hot sauce and pasta are on the menu, at least for one of them.",
+      "pubDate": "Thu, 26 Nov 2026 11:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0007f4346ab15d67",
+      "title": "Catch up on 60 years of Star Trek this Thanksgiving weekend on Paramount+ — plans now 79% off",
+      "link": "https://www.space.com/entertainment/space-movies-shows/catch-up-on-60-years-of-star-trek-this-thanksgiving-weekend-on-paramount-plans-now-79-percent-off",
+      "desc": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
+      "pubDate": "Thu, 26 Nov 2026 10:16:31 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000f5c807b58fa3a",
+      "title": "Universe Today's AI Policy",
+      "link": "https://www.universetoday.com/articles/universe-todays-ai-policy",
+      "desc": "AI is everywhere. But is it here, inside Universe Today right now? Here's a rant, loosely disguised as a policy, that's really just a pity party.",
+      "pubDate": "Thu, 26 Nov 2026 09:45:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000fbb924f47daae",
+      "title": "The Sky Today on Thursday, November 26: Thanksgiving turkey in the sky",
+      "link": "https://www.astronomy.com/observing/the-sky-today-thursday-november-26-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 25: Uranus at opposition Celebrate Thanksgiving with a celestial turkey: The famous Orion Nebula (M42) is also playfully known as the Turkey Nebula because it looks to some like a turkey, particularly in deep astro",
+      "pubDate": "Thu, 26 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0003facc8fd6b511",
+      "title": "Trails of light",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/trails-of-light-2",
+      "desc": "Egidio Vergani from Milan, Italy Star trails wheel around Polaris, the famed North Star that sits less than 1 degree from the north celestial pole. The imager captured this scene from Campo Cecina, near Carrara, Italy, where fireflies left yellow-green streaks across the hillside.\nThe post Trails of",
+      "pubDate": "Thu, 26 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0013c5b1a5389df0",
+      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois",
+      "desc": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
+      "pubDate": "Thu, 26 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00094825a680352e",
+      "title": "Seeking Refuge on Resolution Island",
+      "link": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island",
+      "desc": "New Zealanders have long envisioned the island as a predator-free zone for native birds, but swimming stoats have shown a resolve of their own.",
+      "pubDate": "Thu, 26 Nov 2026 05:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001c284d7809f1c8",
+      "title": "3D Shape Recovery of Human-Made Space Objects from Light Curves with Image Denoisers as Priors",
+      "link": "https://arxiv.org/abs/2611.33520",
+      "desc": "arXiv:2611.33520v1 Announce Type: new \nAbstract: This study presents a denoiser-regularized framework for recovering the three-dimensional convex shapes of human-made space objects from unresolved light curves. These shape estimates support object characterization for space situational awareness and",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000dd7106f65439a",
+      "title": "A novel quantum lattice Boltzmann methodology for cosmological radiation transport",
+      "link": "https://arxiv.org/abs/2611.31340",
+      "desc": "arXiv:2611.31340v1 Announce Type: cross \nAbstract: Radiation transport is an essential process in many physical simulations, including cosmological codes which track stellar and diffuse radiation. Many present codes utilize ray tracing or moment methods, but these grow increasingly difficult and exp",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00175e939da5722b",
+      "title": "A Tale of Two Type IIb Supernovae: Radio-loud and Radio-silent Candidate Counterparts to Sub-solar Mass Gravitational-wave Triggers",
+      "link": "https://arxiv.org/abs/2611.33319",
+      "desc": "arXiv:2611.33319v1 Announce Type: new \nAbstract: On 2025 November 12, the LIGO-Virgo-KAGRA collaboration reported S251112cm, a gravitational-wave (GW) candidate from a compact binary merger with at least one sub-solar-mass component. Optical follow-up identified SN 2025adtq, a Type IIb supernova (SN",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001c5e649b1d1c38",
+      "title": "A Variability Metric Pipeline for AGN studies",
+      "link": "https://arxiv.org/abs/2611.33435",
+      "desc": "arXiv:2611.33435v1 Announce Type: new \nAbstract: Variability in active galactic nuclei (AGNs) is remarkably diverse, spanning multiple timescales, wavelengths, and physical processes. Variability probes accretion physics and the interplay between supermassive black holes and their surroundings. Buil",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001a4af1979ca889",
+      "title": "Acoustic Priors from the Latest Cosmic Microwave Background Data",
+      "link": "https://arxiv.org/abs/2611.33334",
+      "desc": "arXiv:2611.33334v1 Announce Type: new \nAbstract: We revisit the physics of the acoustic peaks and illustrate how early-Universe information in the cosmic microwave background (CMB) can be disentangled from late-time signatures imprinted by gravitational lensing and the integrated Sachs-Wolfe (ISW) e",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0017e3f125dfcbd9",
+      "title": "Anisotropic Fluid Inhomogeneous Cosmology",
+      "link": "https://arxiv.org/abs/2611.31461",
+      "desc": "arXiv:2611.31461v1 Announce Type: cross \nAbstract: We propose a new framework for inhomogeneous cosmology based on General Relativity sourced by an anisotropic fluid. The model is parametrized by a single input function, the radial Misner--Sharp mass distribution at different redshifts, and admits e",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000adbe355198075",
+      "title": "AT2024dky as an Off-nuclear Tidal Disruption Event Candidate",
+      "link": "https://arxiv.org/abs/2611.33768",
+      "desc": "arXiv:2611.33768v1 Announce Type: new \nAbstract: Through a retrospective search for tidal disruption events (TDEs) in the ZTF archives agnostic to their location within their host galaxies, we identify AT2024dky/ZTF24aagksvd as a promising off-nuclear TDE candidate. At $z=0.0592$, it lies at a proje",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001dda4a449a226d",
+      "title": "Beyond the blur: Radial binning trumps stellar migration in resolved star formation histories",
+      "link": "https://arxiv.org/abs/2611.33326",
+      "desc": "arXiv:2611.33326v1 Announce Type: new \nAbstract: Spatially resolved galaxy properties are routinely derived from integral-field spectroscopy and increasingly from multi-band photometry as a wealth of photometric data become available in large surveys like LSST/Rubin. Spatially resolved star formatio",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00023852fa776a31",
+      "title": "Binary mass transfer fossil in the ancient GD-1 stellar stream",
+      "link": "https://arxiv.org/abs/2611.33658",
+      "desc": "arXiv:2611.33658v1 Announce Type: new \nAbstract: We report the discovery of J0930+2902, the first carbon-enhanced metal-poor star with s-process enrichment (CEMP-s) identified in the GD-1 stellar stream, which is widely believed to originate from the tidal disruption of an old, metal-poor globular c",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001ebd2a2754631c",
+      "title": "CHEX-MATE: Probing the thermal$-$non-thermal connection in radio halo clusters with LoTSS-DR2",
+      "link": "https://arxiv.org/abs/2611.33293",
+      "desc": "arXiv:2611.33293v1 Announce Type: new \nAbstract: The main baryonic component of galaxy clusters is in the form of a hot plasma observed in the X-rays. In addition, clusters host a non-thermal component (relativistic particles and magnetic fields) which is studied mainly via radio telescopes and is d",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000a1b0a86bc2816",
+      "title": "Collisional dynamics of neutrino flavor conversion: angular structures, inhomogeneity, and decoherence",
+      "link": "https://arxiv.org/abs/2611.33815",
+      "desc": "arXiv:2611.33815v1 Announce Type: cross \nAbstract: Self-interacting neutrino gases exhibit collective behavior, in which additional incoherent collisions can induce collisional neutrino-flavor instability. We investigate the effects of energy dependence, anisotropy, and spatial inhomogeneity on the ",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000da0912ae74493",
+      "title": "Constraining Intergalactic Dust with Supernova Color Evolution: Current Constraints from DES and Forecasts for LSST and Roman",
+      "link": "https://arxiv.org/abs/2611.33276",
+      "desc": "arXiv:2611.33276v1 Announce Type: new \nAbstract: Dust is an important systematic in precision Type Ia supernova (SN Ia) cosmology, and while dust in the Milky Way and SN host galaxies has been extensively studied, the impact of potential intergalactic dust is less well constrained. Using estimates f",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001ec1d89757b24b",
+      "title": "Constraining the Inner Accretion Geometry of GX 9+9 with Broadband Spectral and Timing Studies",
+      "link": "https://arxiv.org/abs/2611.33858",
+      "desc": "arXiv:2611.33858v1 Announce Type: new \nAbstract: We present a broadband spectral and timing study of the bright atoll neutron star low-mass X-ray binary GX~9+9, using simultaneous NICER, NuSTAR, and MAXI observations from 2019 and 2022. The broadband spectra are well described by a combination of mu",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0003a29ea38e3b79",
+      "title": "Curvature Mismatch and Local Errors in Galaxy Property Estimation",
+      "link": "https://arxiv.org/abs/2611.29224",
+      "desc": "arXiv:2611.29224v1 Announce Type: cross \nAbstract: Linear probes are widely used to evaluate learned representations and infer physical quantities from unlabelled data. The probe's predictions are from an affine function in ambient space restricted to the underlying representation, and consequently,",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0014a7ef64251072",
+      "title": "Directional Statistics of Synchrotron Polarization in Mixed Emitting and Faraday-Rotating Turbulence",
+      "link": "https://arxiv.org/abs/2611.33899",
+      "desc": "arXiv:2611.33899v1 Announce Type: new \nAbstract: Polarization directions provide a sensitive probe of Faraday rotation without weighting the signal by polarized brightness. We develop their spatial statistics for a turbulent volume in which synchrotron emission and Faraday rotation coexist. For inde",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0005d01cac45273b",
+      "title": "Environmental resonances in extreme-mass-ratio inspirals within boson clouds",
+      "link": "https://arxiv.org/abs/2611.33550",
+      "desc": "arXiv:2611.33550v1 Announce Type: cross \nAbstract: Extreme-mass-ratio inspirals (EMRIs) offer a promising probe of matter environments around massive black holes through gravitational-wave (GW) observations. We investigate orbital resonances induced by conservative gravitational perturbations from s",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0003f8304551a1cb",
+      "title": "Evidence for an Evolving Surface on the Partly Burnt Runaway Stellar Remnant GD 492",
+      "link": "https://arxiv.org/abs/2611.33301",
+      "desc": "arXiv:2611.33301v1 Announce Type: new \nAbstract: GD 492 (LP 40-365) is a partly burnt, hypervelocity runaway stellar remnant thought to have survived a thermonuclear supernova. We analyze 12 sectors of TESS photometry spanning more than four years to investigate the previously reported 8.9-hr photom",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0019249d092cdebf",
+      "title": "Fast radio bursts track cosmic star formation history with time delay: the effect of burst fluence",
+      "link": "https://arxiv.org/abs/2611.33906",
+      "desc": "arXiv:2611.33906v1 Announce Type: new \nAbstract: Fast radio bursts (FRBs) are luminous millisecond-duration radio transients of extragalactic origin, yet their progenitor systems remain unidentified. The redshift evolution of the FRB event rate provides a powerful, model-independent discriminant bet",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000f00c63bc03ce9",
+      "title": "Flux and fluence effects on the Vacuum-UV photodesorption and photoprocessing of CO$_2$ ices",
+      "link": "https://arxiv.org/abs/2406.17596",
+      "desc": "arXiv:2406.17596v1 Announce Type: cross \nAbstract: CO$_2$ is a major component of the icy mantles surrounding dust grains in planet and star formation regions. Understanding its photodesorption is crucial for explaining gas phase abundances in the coldest environments of the interstellar medium irra",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0010e4d3cf81398a",
+      "title": "Halley's Comet Over New Zealand In 1910: An Overview Of A Spectacular Apparition",
+      "link": "https://arxiv.org/abs/2611.33170",
+      "desc": "arXiv:2611.33170v1 Announce Type: cross \nAbstract: Halley's Comet (1P/Halley) returns to the inner Solar System approximately every 76 years. In 1910, the comet put on a particularly wonderful display, whereby the comet attained an apparent magnitude of 1 or brighter, and had a tail of up to 120{\\de",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0002964a309ae148",
+      "title": "Inference of Cosmic Dawn and Reionization Parameters from the 21 cm Global Spectrum Measurement of the DSL Mission",
+      "link": "https://arxiv.org/abs/2611.33541",
+      "desc": "arXiv:2611.33541v1 Announce Type: new \nAbstract: The 21 cm global spectrum is an important observable for cosmic dawn and epoch of reionization. The Discovering the Sky at the Longest Wavelengths mission (DSL, also known as Hongmeng), will measure the 21 cm global spectrum from the lunar orbit, thus",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0013f38e7bea979f",
+      "title": "JWST Reveals Contrast Overdensities around Two ALMA-CRISTAL Galaxies at $z\\sim5.2$",
+      "link": "https://arxiv.org/abs/2611.33624",
+      "desc": "arXiv:2611.33624v1 Announce Type: new \nAbstract: The distribution of stellar mass between massive galaxies and their companions traces how galaxy assembly proceeds within early large-scale structure. We investigate the environments of two galaxies from the Atacama Large Millimeter/submillimeter Arra",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000732304d5fe92f",
+      "title": "Less massive black holes in faint hosts: SED fitting of Little Red Dots within the Black Hole Star scenario",
+      "link": "https://arxiv.org/abs/2611.33798",
+      "desc": "arXiv:2611.33798v1 Announce Type: new \nAbstract: The James Webb Space Telescope (JWST) has revealed a population of compact sources known as ``little red dots'' (LRDs), characterized by a distinctive V-shaped spectral energy distribution (SED) from UV to optical wavelengths. The physical nature of t",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0003638674d21eea",
+      "title": "line racer: Rapid Calculation of Exoplanetary Radiative Opacities",
+      "link": "https://arxiv.org/abs/2611.33290",
+      "desc": "arXiv:2611.33290v1 Announce Type: new \nAbstract: Detailed studies of exoplanet and brown dwarf atmospheres rely on precise knowledge of the spectral features of possible atmospheric species. These features are a result of the interaction of different molecules and atoms with the radiation of the hos",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0010f455371a66c7",
+      "title": "Low-latency gravitational wave alert infrastructure and new data products for multi-messenger astronomy during LIGO-Virgo-KAGRA's fourth observing run",
+      "link": "https://arxiv.org/abs/2611.33434",
+      "desc": "arXiv:2611.33434v1 Announce Type: cross \nAbstract: Multi-messenger investigations of compact object mergers, such as binary neutron star and neutron star-black hole systems, remain among the most dynamic frontiers of modern astronomy. During the fourth observing run of Advanced LIGO, Advanced Virgo,",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001d19afd1a4beb0",
+      "title": "Mass Spectral Evidence for Iron Sulfate in Venus' Cloud Aerosol",
+      "link": "https://arxiv.org/abs/2611.33945",
+      "desc": "arXiv:2611.33945v1 Announce Type: new \nAbstract: Venus' cloud aerosols play pivotal roles in the thermal, chemical, and optical properties of the atmosphere. Here, we present mass spectral evidence that the cloud aerosols contain abundant iron sulfates. Data from the Pioneer Venus Large Probe Neutra",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000449e5fd7503c9",
+      "title": "Modeling the LISA response in the time-frequency domain",
+      "link": "https://arxiv.org/abs/2611.33215",
+      "desc": "arXiv:2611.33215v1 Announce Type: new \nAbstract: Time-frequency methods are a promising approach to LISA data analysis. This paper presents a model for the LISA response directly in the time-frequency domain using the Wilson-Daubechies-Meyer (WDM) transformation. The implementation is vectorized usi",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000bbe12092af674",
+      "title": "Moon Radio Interferometer for Science and Exploration (MoonRISE): A Mission Concept for a Low-Frequency Radio Interferometer on the Lunar Farside",
+      "link": "https://arxiv.org/abs/2611.33534",
+      "desc": "arXiv:2611.33534v1 Announce Type: new \nAbstract: The universe below 20 MHz remains one of space science's last unexplored frontiers, inaccessible from Earth due to its ionosphere and terrestrial radio frequency interference (RFI). We present the mission concept for the Moon Radio Interferometer for ",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000ccd71bd4598c1",
+      "title": "Multiwavelength Analysis of the Merging Cluster RM J121917.6+505432.8: A Three-way Merger in Disguise?",
+      "link": "https://arxiv.org/abs/2611.33941",
+      "desc": "arXiv:2611.33941v1 Announce Type: new \nAbstract: We identify the galaxy cluster RM J121917.6+505432.8 as a candidate bimodal merging cluster due to its optical properties listed in the redMaPPer cluster catalog. To confirm the cluster's merging state and reveal its dark matter halo and intracluster ",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0006f8f14b210eec",
+      "title": "No Cluster Left Behind I: Joint Mass Calibration for Dark Energy Survey and South Pole Telescope Clusters",
+      "link": "https://arxiv.org/abs/2611.33522",
+      "desc": "arXiv:2611.33522v1 Announce Type: new \nAbstract: Multiwavelength observations of galaxy clusters are among the most promising probes of the growth of structure and dark energy. Optically identified clusters have a high number density and can thus probe the halo mass function well into the group regi",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00138f835b71dd28",
+      "title": "NuSrcAgent: An AI Agent for High-Energy Neutrino Source Searches",
+      "link": "https://arxiv.org/abs/2611.33324",
+      "desc": "arXiv:2611.33324v1 Announce Type: new \nAbstract: Identifying the sources of high-energy cosmic neutrinos is crucial for understanding cosmic particle accelerators and probing new physics. IceCube provides public data that allow researchers to search independently for neutrino sources, but these anal",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000ead4d25388274",
+      "title": "OSIRIS-REx Lessons Learned Report: Insights from the Journey to Bennu and Back",
+      "link": "https://arxiv.org/abs/2611.33214",
+      "desc": "arXiv:2611.33214v1 Announce Type: new \nAbstract: OSIRIS-REx, NASA's third New Frontiers mission, was the first U.S. mission to return a sample from an asteroid. Proposed in 2010 for an \\$811 million lifecycle cost, the mission was completed for \\$828 million, returned more than \\$52 million of Headq",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001667738ad18a13",
+      "title": "Over a Half-decade Study of Crab Giant Pulses Observed with I-LOFAR",
+      "link": "https://arxiv.org/abs/2611.33524",
+      "desc": "arXiv:2611.33524v1 Announce Type: new \nAbstract: This work details the analysis of 1,048,138 single pulses from the Crab pulsar detected with the Irish LOFAR station over a 6-year observation campaign spanning 154 epochs and 347.9 hours at 110-190 MHz. Of the detections in the sample 550,445 are gia",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00090a52716d888b",
+      "title": "Photometric Uncertainty Correction for Time-Domain Surveys: Vera C. Rubin Data Preview 2 Case Study",
+      "link": "https://arxiv.org/abs/2611.33419",
+      "desc": "arXiv:2611.33419v1 Announce Type: new \nAbstract: Time-domain science, from variability detection to supernova cosmology, relies on accurate photometric uncertainties. We present a data-driven, catalog-level method to validate and improve the photometric uncertainties reported by time-domain surveys.",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0013887f3bb85450",
+      "title": "Planetary biotechnospheres, biotechnosignatures and the search for extraterrestrial intelligence",
+      "link": "https://arxiv.org/abs/2611.33404",
+      "desc": "arXiv:2611.33404v1 Announce Type: new \nAbstract: The concept of planetary intelligence as collective intelligence is used to consider possible evolutionary paths of biotechnospheres that emerge on the intersection of the technosphere with the biosphere and support coupling of the technosphere with t",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0006527127ac166e",
+      "title": "Planetary Habitable Zones around Magnetized White Dwarfs",
+      "link": "https://arxiv.org/abs/2611.33711",
+      "desc": "arXiv:2611.33711v1 Announce Type: new \nAbstract: White dwarfs are known to host remnant planetary material, indicating that rocky objects can survive post-main-sequence evolution and migrate into very close orbits. However, the decline of white dwarf luminosity makes it difficult for a planet to rem",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0005aac14da3e58d",
+      "title": "Quantum Noise-Limited Terahertz Interferometry for Distinguishing Ultra-Compact Supermassive Galactic Objects",
+      "link": "https://arxiv.org/abs/2611.33488",
+      "desc": "arXiv:2611.33488v1 Announce Type: new \nAbstract: The images of the galactic centers, M87$^*$ and Sgr~A$^*$, obtained by the Event Horizon Telescope (EHT) provide hitherto unknown revelations on these supermassive objects. The key issue here is the presence or otherwise of an event horizon at these u",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0012870297599b9b",
+      "title": "RIFT for the O4 era: operating points, calibration marginalization, and cross-code validation",
+      "link": "https://arxiv.org/abs/2611.33239",
+      "desc": "arXiv:2611.33239v1 Announce Type: new \nAbstract: The Rapid Iterative FiTting (RIFT) parameter inference algorithm provides a simulation-based-inference approach to efficient, highly-parallelized parameter inference for GW sources. In this paper, we describe improvements deployed during preparations ",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00129b907f909aad",
+      "title": "RR Lyrae stars as distance indicators I. Sample selection and characterisation",
+      "link": "https://arxiv.org/abs/2611.33269",
+      "desc": "arXiv:2611.33269v1 Announce Type: new \nAbstract: RR Lyrae stars (RRL) are well-established Population II distance indicators, with period-metallicity-luminosity (PLZ) relations linking pulsational properties to absolute luminosity. Gaia parallaxes now allow these relations to be anchored to geometri",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00077ee15a0fade4",
+      "title": "Stellar Obliquities of Cold Jupiter and Brown Dwarf Systems I: Spin-Orbit Misalignment Grows with Orbital Eccentricity",
+      "link": "https://arxiv.org/abs/2611.33506",
+      "desc": "arXiv:2611.33506v1 Announce Type: new \nAbstract: Stellar obliquity provides insights into the formation and dynamical evolution of planetary systems. Most obliquity measurements to date have focused on close-in transiting giant planets, whose orbits may have been altered by migration and tidal inter",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001071b330b76317",
+      "title": "Superfit: A Supernova Spectral Classification Tool with Host-Galaxy Decomposition",
+      "link": "https://arxiv.org/abs/2611.33528",
+      "desc": "arXiv:2611.33528v1 Announce Type: new \nAbstract: Superfit is a an open-source tool for automated spectroscopic classification of supernovae that accounts for redshift, reddening, and host-galaxy contamination. Here we present the latest version, which has been rewritten in Python and is now availabl",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001c3f7dbf799fe9",
+      "title": "The fate of Mercury's ejected mantle",
+      "link": "https://arxiv.org/abs/2611.33297",
+      "desc": "arXiv:2611.33297v1 Announce Type: new \nAbstract: Mercury's unusually high core mass fraction, inferred from its high bulk density, remains difficult to explain. Mantle stripping by a giant impact provides a plausible origin, but without efficient removal, the ejected debris remains on Mercury-crossi",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000130641df8398a",
+      "title": "The role of hierarchy in Galactic molecular clouds",
+      "link": "https://arxiv.org/abs/2611.33956",
+      "desc": "arXiv:2611.33956v1 Announce Type: new \nAbstract: To probe the role of hierarchical gas structures in massive star formation, we statistically analyzed 13 Galactic massive star-forming regions using FUGIN CO survey data. Applying a non-binary dendrogram to the position-position-velocity data, we clas",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001fdf50bab8d32d",
+      "title": "Time-resolved Polarimetry of the Type Ibn Supernova 2025kzr Suggests a Possible Ejecta-CSM Misalignment",
+      "link": "https://arxiv.org/abs/2611.33657",
+      "desc": "arXiv:2611.33657v1 Announce Type: new \nAbstract: Type Ibn supernovae (SNe) are rare interacting transients. The dense, helium-rich circumstellar material (CSM) surrounding these events provides insight into the final stages of massive-star evolution. The geometries of the ejecta and CSM provide comp",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000a956a5147d41f",
+      "title": "Toward Automated Strong-Lens Modeling with Agentic Workflows: An Application to Euclid Q1 Lenses",
+      "link": "https://arxiv.org/abs/2611.33363",
+      "desc": "arXiv:2611.33363v1 Announce Type: new \nAbstract: Ongoing and forthcoming wide-field surveys will discover $O(10^5)$ galaxy-galaxy strong lenses, shifting the main bottleneck from detection to reliable physical modeling. Conventional forward-modeling pipelines still rely on case-by-case expert judgme",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0003b5d7b482c9b1",
+      "title": "Towards three-dimensional dark matter mapping in the extended solar neighbourhood with Gaia Data Release 3 and deep learning",
+      "link": "https://arxiv.org/abs/2611.33660",
+      "desc": "arXiv:2611.33660v1 Announce Type: new \nAbstract: We investigate a method for inferring the local dark matter (DM) density in the solar neighbourhood using a deep learning framework that learns the mapping between stellar kinematics and the underlying DM density field from cosmological simulations. T",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "001a1516c4e86122",
+      "title": "Transport of High Energy Protons from CME-Shock to the Sun and its Connection to Extended Gamma-rays Observed by FERMI",
+      "link": "https://arxiv.org/abs/2611.33598",
+      "desc": "arXiv:2611.33598v1 Announce Type: new \nAbstract: This work is motivated by the Large Area Telescope (LAT) observations of long-duration gamma rays from flares associated often with fast Coronal Mass Ejections (CMEs), several of which originate behind the limb (BTL) of the Sun. Our aim is to test the",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "00110dfbaaf3e21b",
+      "title": "UNIONS and Euclid: Calibrating point source-galaxy separation for ground-based surveys",
+      "link": "https://arxiv.org/abs/2611.34047",
+      "desc": "arXiv:2611.34047v1 Announce Type: new \nAbstract: Efficient separation of unresolved point sources from extended objects (star-galaxy separation) is essential for deep wide-field imaging surveys, particularly at faint magnitudes where morphological differences become subtle. We assess two morphology-",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "000e88b5ea134bf5",
+      "title": "Weak buoyancy and cold lithospheres decouple interior melting from seafloor volcanism on icy ocean worlds",
+      "link": "https://arxiv.org/abs/2611.33478",
+      "desc": "arXiv:2611.33478v1 Announce Type: new \nAbstract: On icy ocean worlds, deep silicate melting can generate sufficient pressure to open fractures while magma freezes before reaching the ocean. We identify a coupled transport regime by linking finite melt segregation and nonlinear rock relaxation to fra",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0004f22a4d958f70",
+      "title": "When precision exceeds fidelity: systematic error quantification for inference with misspecified simulators",
+      "link": "https://arxiv.org/abs/2611.33282",
+      "desc": "arXiv:2611.33282v1 Announce Type: new \nAbstract: As scientific datasets grow in complexity and precision, the primary source of uncertainty in parameter inference shifts from measurement noise to systematic errors within the simulators themselves. In this setting, Bayesian evidence concentrates on w",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 -0500",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ArXiv Astronomy",
+        "key": "arxiv",
+        "badgeClass": "badge-esa",
+        "cardClass": "esa",
+        "tags": [
+          "Astronomy",
+          "Research",
+          "Papers"
+        ]
+      }
+    },
     {
       "id": "000870fc542cfe27",
       "title": "FCC Approves Elon Musk’s One Million Orbital Data Centers",
@@ -23,6 +1119,24 @@
       }
     },
     {
+      "id": "0008726cef775e5e",
+      "title": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+      "desc": "Scientists have solved the mystery of strange trenches scattered across Australia’s vast Nullarbor Plain, revealing an extensive hidden world beneath the surface. These subtle landscape features are created as deeply buried cave systems slowly collapse upward over millions of years. The discovery co",
+      "pubDate": "Thu, 26 Nov 2026 06:06:15 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
+        ]
+      }
+    },
+    {
       "id": "001ecf45d18e426f",
       "title": "Euclid's Record-Setting Quasar Probes Black Hole Formation",
       "link": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
@@ -37,6 +1151,25 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00081e9eef81ade0",
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+      "link": "https://phys.org/news/2026-11-fcc-spacex-deploy-million-satellites.html",
+      "desc": "The Trump administration on Wednesday gave SpaceX the green light to deploy 1 million satellites that it said would create data centers in space, a long-held, lofty goal of Elon Musk's rocket company, in a move that has raised both skepticism and alarm among some scientists.",
+      "pubDate": "Thu, 26 Nov 2026 04:33:26 EST",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -182,6 +1315,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000bbae85b4b3448",
+      "title": "Sending an Australian astronaut to space is expensive. How do we work out if it's worth it?",
+      "link": "https://phys.org/news/2026-11-australian-astronaut-space-expensive-worth.html",
+      "desc": "Australia is currently in talks with the European Space Agency (ESA) over potentially flying Katherine Bennell-Pegg on a future space mission. If accepted, Bennell-Pegg—who is the director of space technology at the Australian Space Agency and completed ESA training in 2024—would become the first of",
+      "pubDate": "Wed, 25 Nov 2026 23:40:01 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -663,25 +1815,6 @@
       }
     },
     {
-      "id": "0014964a95ce93a3",
-      "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust",
-      "desc": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
-      "pubDate": "Wed, 25 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "0007b6794f5a78d2",
       "title": "Georgia’s Pecan Belt",
       "link": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt",
@@ -723,7 +1856,7 @@
       "id": "000a0810548ff318",
       "title": "South Pole Telescope releases clearest map ever of matter in the distant universe",
       "link": "https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html",
-      "desc": "The earliest light in the universe, known as the cosmic microwave background (CMB), has been traveling since the dawn of the universe  more than 14 billion years ago. A group of scientists from 30 institutions has now released the sharpest and clearest map ever made of the mass in the universe, crea",
+      "desc": "The earliest light in the universe, known as the cosmic microwave background (CMB), has been traveling since the dawn of the universe about 13.8 billion years ago. A group of scientists from 30 institutions has now released the sharpest and clearest map ever made of the mass in the universe, created",
       "pubDate": "Wed, 25 Nov 2026 10:00:01 EST",
       "category": "Astronomy & Astrophysics",
       "source": {
@@ -4781,25 +5914,6 @@
       }
     },
     {
-      "id": "0018ee1c59c77cd6",
-      "title": "Fast Radio Bursts Trace Cosmic Star Formation with Little Delay",
-      "link": "https://arxiv.org/abs/2607.09109",
-      "desc": "arXiv:2607.09109v2 Announce Type: replace \nAbstract: The progenitor channels of fast radio bursts (FRBs) remain debated, with a central question being whether their cosmic rate traces star formation promptly or instead follows it with the long time-delay characteristic of compact-binary mergers. We ",
-      "pubDate": "Fri, 20 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
       "id": "000b5b302d0ec748",
       "title": "gevolution 2.0: GPU-accelerated relativistic N-body simulations for cosmology",
       "link": "https://arxiv.org/abs/2607.17929",
@@ -6240,24 +7354,6 @@
       }
     },
     {
-      "id": "00028699e3508036",
-      "title": "The Sky Today on Thursday, November 19: Mercury moves into Libra",
-      "link": "https://www.astronomy.com/observing/the-sky-today-thursday-november-19-2026",
-      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 18: The Leonid meteor shower peaks The solar system is a dynamic place. Let’s return to the predawn sky today to check out the inner planets’ progress relative to the stars of Virgo. An hour before sunrise, both Me",
-      "pubDate": "Thu, 19 Nov 2026 09:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "000f9d158e9ab0c3",
       "title": "Lunar sample research yields new discoveries, revealing the history of the moon's largest impact basin",
       "link": "https://phys.org/news/2026-11-lunar-sample-yields-discoveries-revealing.html",
@@ -7284,24 +8380,6 @@
       }
     },
     {
-      "id": "00051eafac297b60",
-      "title": "Whether you want Star Trek: Strange New Worlds or the pure nostalgia of The Original Series, this limited-time $2.99 Paramount+ streaming deal gets you both",
-      "link": "https://www.space.com/entertainment/space-movies-shows/whether-you-want-star-trek-strange-new-worlds-or-the-pure-nostalgia-of-the-original-series-this-limited-time-usd2-99-paramount-streaming-deal-gets-you-both",
-      "desc": "Paramount+ memberships are now only $2.99 per month for the first two months for Black Friday 2026. This gets you access to almost every season of Star Trek and a host of great movies. The offer ends Nov. 30.",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
       "id": "000712acb7366eef",
       "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
       "link": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott",
@@ -8250,1078 +9328,6 @@
           "Astronomy",
           "Research",
           "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00176db17cea492f",
-      "title": "Depolarization of Synchrotron Polarization in Magnetized Interstellar Media",
-      "link": "https://arxiv.org/abs/2611.22042",
-      "desc": "arXiv:2611.22042v1 Announce Type: new \nAbstract: We numerically study three key depolarization mechanisms of synchrotron polarization, including wavelength independent depolarization, differential Faraday rotation depolarization, and beam depolarization, across subAlfv\\'enic and superAlfv\\'enic turb",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00106b69eefee3d4",
-      "title": "Diverse Stellar Components Resolved by JWST in the Massive Galaxy SPT0311-58",
-      "link": "https://arxiv.org/abs/2611.21761",
-      "desc": "arXiv:2611.21761v1 Announce Type: new \nAbstract: SPT0311$-$58 is comprised of two clumpy dusty star-forming galaxies inhabiting a $z=6.9$ protocluster core. Within a $16$ kpc diameter, there are 26 spectroscopically confirmed members. The 12 highly dust-obscured clumps were identified by their rest-",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00038c507de4affe",
-      "title": "Efficient and Optimal Analysis of Galaxy Surveys on Large Scales",
-      "link": "https://arxiv.org/abs/2611.21718",
-      "desc": "arXiv:2611.21718v1 Announce Type: new \nAbstract: On sufficiently large scales the galaxy overdensity field is approximately Gaussian, so its information can be losslessly compressed into the power spectrum. Standard power spectrum estimators are nevertheless suboptimal on the largest scales, where t",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0018c98b6831b1b3",
-      "title": "Euclid DR1 Legacy Science on Ultracool Dwarfs: Halpha activity, kinematic age and rotation of M7--L1 dwarfs from DESI DR1, SPHEREx and Euclid",
-      "link": "https://arxiv.org/abs/2611.21896",
-      "desc": "arXiv:2611.21896v1 Announce Type: new \nAbstract: The fraction of late-M dwarfs with detectable Halpha rises toward the stellar-substellar boundary while their emission weakens relative to the bolometric luminosity, a contrast attributed to the fading continuum. We measure how much of this rise the c",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00191c9efe961ad8",
-      "title": "Exomoons and Exorings with the Habitable Worlds Observatory. III. Icy Moons and Rings Often Outshine Their Planets",
-      "link": "https://arxiv.org/abs/2611.22150",
-      "desc": "arXiv:2611.22150v1 Announce Type: new \nAbstract: If we could observe the Solar System's giant planets with the upcoming Habitable Worlds Observatory (HWO), the dominant sources of reflected near-infrared light would not always be the planets themselves. In fact, the brightest sources are split rough",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000e97bbe983a098",
-      "title": "Flash UV Spectroscopy: Decoding the Ultraviolet Diversity of Young Core-Collapse Supernovae with the Hubble Space Telescope",
-      "link": "https://arxiv.org/abs/2611.21742",
-      "desc": "arXiv:2611.21742v1 Announce Type: new \nAbstract: We present multi-wavelength observations and modeling of the largest sample to date of core-collapse supernovae (SNe) with Hubble Space Telescope (HST) ultraviolet (UV) spectroscopy within < 2 weeks of first light. Our total sample contains early-time",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001f5c90205f2da1",
-      "title": "From active nests to fast wind gusts: Nested flux emergence as a precursor of persistent non-axisymmetric coronal holes",
-      "link": "https://arxiv.org/abs/2611.21746",
-      "desc": "arXiv:2611.21746v1 Announce Type: new \nAbstract: Recurring flux emergence within active nests reshapes the Sun's large-scale magnetic field and creates unipolar magnetic regions that can support coronal holes. The fast solar wind emerging from coronal holes drives space weather across the heliospher",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001947e4c30ba960",
-      "title": "Improved accuracy of the reference photon calibration standards in the network of gravitational-wave observatories during the O4 observing run",
-      "link": "https://arxiv.org/abs/2611.21850",
-      "desc": "arXiv:2611.21850v1 Announce Type: new \nAbstract: The global network of gravitational wave observatories uses systems known as Photon Calibrators to provide absolute calibration via laser radiation pressure. Successive detector improvements are increasing sensitivity, enabling not only increase the d",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00000b3a09c499d6",
-      "title": "Improving Early Detection of Scientifically Interesting Radio Sources Using Enhanced Isolation Forest",
-      "link": "https://arxiv.org/abs/2611.21674",
-      "desc": "arXiv:2611.21674v1 Announce Type: new \nAbstract: The rapid growth of radio astronomical surveys has created a major challenge in identifying scientifically interesting sources from large populations of observed objects. This study investigates whether enhanced Isolation Forest (iForest) methods can ",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00043b54bfeb57a6",
-      "title": "Long-Term Spectral and Timing Variability of PKS 2155$-$304 from {\\it Chandra} and {\\it NuSTAR} Observations",
-      "link": "https://arxiv.org/abs/2611.21792",
-      "desc": "arXiv:2611.21792v1 Announce Type: new \nAbstract: Blazars exhibit strong variability across the electromagnetic spectrum, on timescales from minutes to decades. We present a study of the spectral and timing variability of the TeV blazar PKS~2155$-$304 using {\\it Chandra} and {\\it NuSTAR} observations",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0011127537469505",
-      "title": "Lord/Egg of the LRDs: One geometry for its many faces",
-      "link": "https://arxiv.org/abs/2611.22316",
-      "desc": "arXiv:2611.22316v1 Announce Type: new \nAbstract: Little red dots (LRDs) combine V-shaped ultraviolet-optical continua, broad Balmer emission, and weak X-rays. The nearby analog SDSS J102530.29+140207.3, known as Lord/Egg, offers detailed spectroscopy and polarimetry. We test one active galactic nucl",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000eaa75015e5468",
-      "title": "Mapping the multimessenger horizon for $\\gamma$-ray counterparts of cosmic neutrinos",
-      "link": "https://arxiv.org/abs/2611.21752",
-      "desc": "arXiv:2611.21752v1 Announce Type: new \nAbstract: The joint detection of high-energy neutrinos and $\\gamma$-rays offers a powerful probe of the most energetic astrophysical accelerators, linking hadronic interactions to observable signatures across cosmic distances. Understanding the conditions under",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0007da5e1f343c3b",
-      "title": "Mass-conservative voxelisation of smoothed particles using cumulative kernels",
-      "link": "https://arxiv.org/abs/2611.21686",
-      "desc": "arXiv:2611.21686v1 Announce Type: new \nAbstract: Smoothed particle hydrodynamics (SPH) simulations are frequently post-processed on Cartesian grids for applications such as radiative transfer calculations, visualisation, and data analysis. While numerous voxelisation algorithms have been proposed, r",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0005133bd7d250fa",
-      "title": "NEMESIS: Exoplanet TraNsit SurvEy of Nearby M-dwarfs in TESS FFIS II - 262 Transiting Planet Candidates from the TESS Primary Mission",
-      "link": "https://arxiv.org/abs/2611.21758",
-      "desc": "arXiv:2611.21758v1 Announce Type: new \nAbstract: We present NEMESIS II, a blind transit search of nearby M-dwarfs in TESS Primary Mission full-frame images (Sectors 1-26), including stars lacking 2-minute observations. Using the open-source NEMESIS pipeline, we extracted, detrended, and searched 213",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00047a950024cab7",
-      "title": "Neutron-Rich Disks, Nickel-Rich Ejecta: Can Direct-Horizon Collapsars Explain Early $r$-Process Enrichment?",
-      "link": "https://arxiv.org/abs/2611.21788",
-      "desc": "arXiv:2611.21788v1 Announce Type: new \nAbstract: Very massive stars above the pair-instability mass gap may collapse directly into black holes surrounded by massive disks. These \"direct-horizon collapsars\" accrete at $\\dot{M} \\gtrsim 10\\,M_\\odot\\,{\\rm s}^{-1}$ and have been proposed to eject a subst",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000141df5b3492a0",
-      "title": "Non-monotonic Age-metallicity Relations Across the Galactic Disk Revealed by APOGEE Red Clump Stars",
-      "link": "https://arxiv.org/abs/2611.22091",
-      "desc": "arXiv:2611.22091v1 Announce Type: new \nAbstract: Using APOGEE red clump stars and open clusters with precise ages, we investigate the age--metallicity relation (AMR) across the Galactic disk as a function of Galactocentric radius $R$ and vertical height $|Z|$. For stars older than $\\sim$6--8 Gyr, th",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0012bfd3bffb9431",
-      "title": "On Modelling the Far-Side Unsigned Magnetic Flux Evolution of Long-Lived NOAA Active Regions",
-      "link": "https://arxiv.org/abs/2611.22051",
-      "desc": "arXiv:2611.22051v1 Announce Type: new \nAbstract: The evolution of magnetic flux in solar active regions is central to space-weather forecasting and solar-cycle studies. Direct measurements of the far-side magnetic field, however, remain unavailable with current solar instrumentation. We develop a me",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001c9328ec15ab6b",
-      "title": "Rapid Protoplanetary Disk Evolution and Debris Disk Formation in Taurus-Auriga",
-      "link": "https://arxiv.org/abs/2611.21884",
-      "desc": "arXiv:2611.21884v1 Announce Type: new \nAbstract: We present a Submillimeter Array (SMA) 1.3mm (225GHz) continuum emission survey of Young Stellar Objects (YSOs) in the Taurus-Auriga star-forming region, comprising 69 class III and 5 class I/II YSOs with spectral types B9-M3, as part of a total sampl",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0001e32adadd9f07",
-      "title": "Shocks and Trails in the Circumgalactic Medium Driven by Runaway Supermassive Black Holes",
-      "link": "https://arxiv.org/abs/2611.21738",
-      "desc": "arXiv:2611.21738v1 Announce Type: new \nAbstract: Runaway supermassive black holes (SMBHs) have long been predicted. RBH-1, discovered with HST and confirmed by JWST, provides the strongest evidence yet for a runaway SMBH: a bow shock and linear trail in the circumgalactic medium (CGM) of a $z=0.96$ ",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00103b2bb2267ce8",
-      "title": "Spectro-Spatial Survey Fusion",
-      "link": "https://arxiv.org/abs/2611.21798",
-      "desc": "arXiv:2611.21798v1 Announce Type: new \nAbstract: Imaging and spectroscopy constrain complementary information about the same sky but are usually processed separately. We introduce Spectro-Spatial Survey Fusion, a framework that unifies these measurements by fitting a continuous spectral surface-brig",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000e6a05145aa0e6",
-      "title": "Super-Eddington Accretion onto Compact Objects: Theory Meets Observation",
-      "link": "https://arxiv.org/abs/2611.21838",
-      "desc": "arXiv:2611.21838v1 Announce Type: new \nAbstract: We review candidate super-Eddington populations together with semi-analytic models and radiation magnetohydrodynamic simulations, with the following conclusions: $\\bullet$ Likely super-Eddington sources over a range of black hole mass show similar pro",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001adfa769b1c780",
-      "title": "The Impact of Seeding Threshold on Wandering Black Hole Populations and Merger Rates",
-      "link": "https://arxiv.org/abs/2611.21756",
-      "desc": "arXiv:2611.21756v1 Announce Type: new \nAbstract: Cosmological simulations following massive black holes (MBHs) with dynamical friction subgrid models predict hundreds to thousands of off-centre, wandering MBHs in massive galaxies. We investigate how the wandering MBH population changes with halo mas",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001a7e7a0d7dd7a4",
-      "title": "The interplay between ionized and warm molecular gas in the turbulent intragroup medium of Stephan's Quintet",
-      "link": "https://arxiv.org/abs/2611.22007",
-      "desc": "arXiv:2611.22007v1 Announce Type: new \nAbstract: Using JWST MIRI spectroscopy, we explore the multi-phase intergalactic gas in the hot halo of the Stephan's Quintet compact group. Unlike the coolest H2 emission, which commonly shows double- peaked profiles corresponding to the velocity of the intrud",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00028f3ea6910824",
-      "title": "The Lives and Deaths of Red Supergiants",
-      "link": "https://arxiv.org/abs/2611.22233",
-      "desc": "arXiv:2611.22233v1 Announce Type: new \nAbstract: Red supergiants (RSGs) represent a brief yet pivotal phase in the evolution of massive stars, encompassing the final stages of nuclear burning for many core-collapse supernova progenitors. Having expanded to 100 times larger than their main-sequence s",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001d4312e9fe6a95",
-      "title": "The meaning of Milky Way mass estimates in the presence of the LMC",
-      "link": "https://arxiv.org/abs/2611.21732",
-      "desc": "arXiv:2611.21732v1 Announce Type: new \nAbstract: The LMC's recent arrival perturbs the observed kinematics of the Milky Way's (MW) stellar halo, complicating equilibrium-based MW mass estimates at Galactocentric distances $r\\gtrsim 30$ kpc. Using N-body MW+LMC simulations, we show that the MW stella",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0010e3073c0d55a7",
-      "title": "The phase gradient spectrum: probing the squeezed bispectrum of the 21-cm signal during reionization",
-      "link": "https://arxiv.org/abs/2611.21760",
-      "desc": "arXiv:2611.21760v1 Announce Type: new \nAbstract: The 21-cm signal from the epoch of reionization is highly non-Gaussian. Standard analyses rely on the power spectrum, which is blind to the Fourier phases, while higher-order statistics such as the bispectrum are computationally expensive and spread i",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0019e79d09bb7e3b",
-      "title": "The Role of Galactic Shear in Regulating Local Star Formation Efficiency: A Combined MaNGA DynPop and ALMaQUEST Study",
-      "link": "https://arxiv.org/abs/2611.22300",
-      "desc": "arXiv:2611.22300v1 Announce Type: new \nAbstract: We study the local regulation of star formation efficiency (SFE) in star-forming regions of nearby galaxies using spatially resolved data from the Mapping Nearby Galaxies at Apache Point Observatory (MaNGA) and the ALMA-MaNGA QUEnching and STar format",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0002a5d20bae9c22",
-      "title": "Theoretical Instability Models of Quasi-Periodic Eruptions",
-      "link": "https://arxiv.org/abs/2611.22015",
-      "desc": "arXiv:2611.22015v1 Announce Type: new \nAbstract: The nature of the Quasi-Periodic Eruptions (QPE) is still not firmly established while the phenomenon probes the innermost part of the accretion flow undergoing dramatic changes. In this chapter we review the possibility that the observed rapid variab",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0010591da41b1995",
-      "title": "Three Dimensional Structure of Jovian Polar Cyclones Revealed by Juno Microwave Radiometer",
-      "link": "https://arxiv.org/abs/2611.21841",
-      "desc": "arXiv:2611.21841v1 Announce Type: new \nAbstract: Jupiter's circumpolar cyclones (CPCs) represent one of the most extreme dynamical regimes of the Solar System, where rotation, stratification, and convection interact to organize a stable polygonal cyclone lattice at each pole. Yet the depth and verti",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0010a7202a56f37b",
-      "title": "Unveiling the infrared excess of SIPS J2045-6332 II: SPHEREx spectral decomposition supports a young unresolved binary interpretation",
-      "link": "https://arxiv.org/abs/2611.21986",
-      "desc": "arXiv:2611.21986v1 Announce Type: new \nAbstract: SIPS J2045-6332 is an unusual low-mass object previously identified by its infrared excess and possible signatures of youth and unresolved multiplicity. Earlier work suggested that it is relatively young and may host a mid-L companion. Here we reasses",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015fe42d5c04ca9",
-      "title": "Velocity Reconstruction from kSZ with SPT-3G and DESI-LS",
-      "link": "https://arxiv.org/abs/2611.21721",
-      "desc": "arXiv:2611.21721v1 Announce Type: new \nAbstract: We reconstruct the large-scale radial velocity field from the kinetic Sunyaev-Zel'dovich effect for the first time with the South Pole Telescope, and measure the galaxy-velocity correlation and the velocity power spectrum. We cross-correlate the SPT-3",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001de1b14e20242e",
-      "title": "VLA Observations of the Ionized Jet IRAS 16562-3959",
-      "link": "https://arxiv.org/abs/2611.22004",
-      "desc": "arXiv:2611.22004v1 Announce Type: new \nAbstract: We present new high-resolution, high-sensitivity Karl G. Jansky Very Large Array (VLA) A-configuration observations of the high-mass protostellar jet system IRAS 16562-3959 at 3.1 and 6.1 GHz. Our images resolve the five previously known jet component",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0003949fecea9d1a",
-      "title": "XQR30: ALMA Observations Reveal the Diverse Structure of Cold Gas within z>6 Quasar Host Galaxies",
-      "link": "https://arxiv.org/abs/2611.21755",
-      "desc": "arXiv:2611.21755v1 Announce Type: new \nAbstract: We present 0.25(~1.5kpc) ALMA observations of the [CII] and dust continuum emission from the host galaxies of 24 luminous z~6 quasars. Together with archival data from 17 quasars, this constitutes a nearly complete sample of all quasars with J-band ma",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000e5e5af9ad239c",
-      "title": "Voyager 1 spacecraft reaches one light-day milestone",
-      "link": "https://phys.org/news/2026-11-voyager-spacecraft-day-milestone.html",
-      "desc": "NASA's Voyager 1 probe, which has been traveling through space for nearly 50 years, hit a milestone distance of one light-day away from Earth on Wednesday.",
-      "pubDate": "Wed, 18 Nov 2026 10:20:00 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "000b0ee96effa3f8",
-      "title": "ULA Investigating Low Booster Performance in Vulcan Launch Failure",
-      "link": "https://spacepolicyonline.com/news/ula-investigating-low-booster-performance-in-vulcan-launch-failure",
-      "desc": "The United Launch Alliance said today that low performance of its first stage booster is suspected of causing the failure of Vulcan Leo 1 on Sunday. It was the first […]",
-      "pubDate": "Wed, 18 Nov 2026 03:52:35 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "00197455e997f797",
-      "title": "Computer Simulations Provide the Best Explanation for Those \"Little Red Dots\" Yet!",
-      "link": "https://www.universetoday.com/articles/computer-simulations-provide-the-best-explanation-for-those-little-red-dots-yet",
-      "desc": "Tiny ‘Little Red Dot’ galaxies found by the James Webb Space Telescope are revealed to be the remnants of supermassive primordial stars surrounded by dense gaseous envelopes.",
-      "pubDate": "Tue, 17 Nov 2026 22:58:52 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00045f206d3f35ea",
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
-      "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest",
-      "desc": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” ",
-      "pubDate": "Tue, 17 Nov 2026 22:02:48 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001dd165bac9c8e5",
-      "title": "NASA's Voyager 1 launched second, so how did it beat Voyager 2 to a light-day by nearly a decade?",
-      "link": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-launched-second-so-how-did-it-beat-voyager-2-to-a-light-day-by-nearly-a-decade",
-      "desc": "Voyager 1 just reached a light-day in space, but Voyager 2 won't do the same until 2035, due to speed choices made throughout their 50-year missions.",
-      "pubDate": "Tue, 17 Nov 2026 22:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0016c7f77b79629f",
-      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-      "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records",
-      "desc": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth scie",
-      "pubDate": "Tue, 17 Nov 2026 21:50:34 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00024c6e54552133",
-      "title": "Black Holes and Their Mysterious Bright Structures Explained",
-      "link": "https://www.universetoday.com/articles/black-holes-and-their-mysterious-bright-structures-explained",
-      "desc": "Black hole jets from the SMBH in Centaurus A, and from some other SMBH, are brighter on their edges than in their centers. It's called limb brightening, and it's unexpected, and astrophysicists want to know what causes it. They found their answer in detailed plasma physics simulations, and the resul",
-      "pubDate": "Tue, 17 Nov 2026 21:23:46 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001de7f8d9abab0d",
-      "title": "Space is filling up with junk. Could laser-reflecting mirrors help humanity clean things up?",
-      "link": "https://www.space.com/space-exploration/satellites/space-is-filling-up-with-junk-could-laser-reflecting-mirrors-help-humanity-clean-things-up",
-      "desc": "The British company Foundational thinks its laser-reflecting tech can help humanity fight the space-junk problem — and it just proved out a demo version in an orbital test.",
-      "pubDate": "Tue, 17 Nov 2026 21:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001a6b1dbe2abca8",
-      "title": "BPS Digital AVATAR Challenge",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge",
-      "desc": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgra",
-      "pubDate": "Tue, 17 Nov 2026 20:39:38 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00188fd60e2a7c2e",
-      "title": "Senate Appropriators Release $1.072 Trillion Defense Bill",
-      "link": "https://spacepolicyonline.com/news/senate-appropriators-release-1-072-trillion-defense-bill",
-      "desc": "The Senate Appropriations Committee released its FY2027 defense spending bill last night. The total includes $1.072 trillion for DOD, essentially the same as the Trump Administration’s appropriations request, but it […]",
-      "pubDate": "Tue, 17 Nov 2026 20:34:15 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "0006b8f2e3c04742",
-      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-      "link": "https://science.nasa.gov/missions/chandra/new-album-of-baby-star-sounds-shared-by-nasas-chandra",
-      "desc": "A new album from NASA’s Chandra X-ray Observatory collects snapshots of baby stars across the galaxy and beyond and transforms that data into sound. Four new sonifications use data of stars that are actively forming, captured by Chandra and other NASA telescopes By studying places in the universe wh",
-      "pubDate": "Tue, 17 Nov 2026 20:26:17 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000694057989ff27",
-      "title": "'Neuromancer:' Release date, cast & everything we know about Apple TV's new cyberpunk series",
-      "link": "https://www.space.com/entertainment/space-movies-shows/neuromancer-release-date-cast-and-everything-we-know-about-apple-tvs-new-cyberpunk-series",
-      "desc": "Hack into our handy guide to this electrifying adaptation of William Gibson’s cult ‘80s novel.",
-      "pubDate": "Tue, 17 Nov 2026 20:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001270fe98a5f24c",
-      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
-      "link": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure",
-      "desc": "Editor’s note: NASA and SpaceX are standing down from the Nov. 18 Dragon undocking opportunity from the International Space Station due to unfavorable weather conditions at the splashdown sites off the coast of California. NASA will provide additional information as it becomes available. NASA and it",
-      "pubDate": "Tue, 17 Nov 2026 19:16:22 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00006e7fc8792a68",
-      "title": "Astronomers discover rare black holes that formed when stars failed to go supernova",
-      "link": "https://www.space.com/astronomy/black-holes/astronomers-discover-rare-black-holes-that-formed-when-stars-failed-to-go-supernova",
-      "desc": "Gravitational waves have revealed a population of black holes that may have been born when masssive stars failed to go supernova.",
-      "pubDate": "Tue, 17 Nov 2026 19:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001ad4be608e9a99",
-      "title": "ULA lost a Vulcan Centaur rocket carrying 40 Amazon satellites 10 minutes after launch — but the failure began just after liftoff",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-lost-a-vulcan-centaur-rocket-carrying-40-amazon-satellites-10-minutes-after-launch-but-the-failure-began-just-after-liftoff",
-      "desc": "United Launch Alliance's Vulcan Centaur rocket failed during its launch on Sunday (Nov. 15) because of an issue with its first-stage booster, according to the company.",
-      "pubDate": "Tue, 17 Nov 2026 18:48:18 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0000e92e54983574",
-      "title": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026",
-      "desc": "On Nov. 17, 1967, NASA's Surveyor 6 spacecraft made the first liftoff from the lunar surface. Here's how it helped Apollo astronauts.",
-      "pubDate": "Tue, 17 Nov 2026 18:19:03 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000d84be059a9789",
-      "title": "NICER Status Updates",
-      "link": "https://www.nasa.gov/missions/station/nicer-status-updates",
-      "desc": "November 17, 2026 NASA’s NICER Telescope Ends Science Operations After studying the universe for six and a half years beyond its initial mission, NASA’s NICER (Neutron star Interior Composition Explorer) telescope on the International Space Station has ended science operations.  The mission and spac",
-      "pubDate": "Tue, 17 Nov 2026 18:18:16 +0000",
-      "category": "Missions & Exploration",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004dbef0aec6845",
-      "title": "Voyager 1 reaches 1 light-day from Earth",
-      "link": "https://www.astronomy.com/space-exploration/voyager-1-reaches-1-light-day-from-earth",
-      "desc": "Nearly 50 years after launch, NASA’s most distant spacecraft is reaching a new milestone.\nThe post Voyager 1 reaches 1 light-day from Earth appeared first on Astronomy Magazine.",
-      "pubDate": "Tue, 17 Nov 2026 18:11:26 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000541e14c9911d6",
-      "title": "Searching for Elusive Signals in the Cosmic Microwave Background from the South Pole",
-      "link": "https://www.universetoday.com/articles/searching-for-elusive-signals-in-the-cosmic-microwave-background-from-the-south-pole",
-      "desc": "As the Universe's very first light, the Cosmic Microwave Background holds clues to the very foundation of the cosmos. But, of course, the cosmos doesn't give up its secrets to a casual observer. Only years of work by dedicated scientists with purpose-built tools can make progress.",
-      "pubDate": "Tue, 17 Nov 2026 17:50:51 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0006bef4187d6c44",
-      "title": "Can robots save Earth orbit?",
-      "link": "https://www.astronomy.com/science/can-robots-save-earth-orbit",
-      "desc": "There are likely fewer satellites in Earth orbit right now than there will be at any point for the rest of your life.  It’s a sobering thought. The threats from our ever-more-crowded skies are well documented: light pollution from megaconstellations, aluminum oxide accumulating in the upper atmosphe",
-      "pubDate": "Tue, 17 Nov 2026 17:42:13 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0004c9beaf726a3a",
-      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland",
-      "desc": "Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location and update the duration of the flight deployment. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct.",
-      "pubDate": "Tue, 17 Nov 2026 17:12:20 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00093f85c50a9325",
-      "title": "Curiosity Blog, Sols 5072-5076: The Return of the Polygons",
-      "link": "https://science.nasa.gov/blog/curiosity-blog-sols-5072-5076-the-return-of-the-polygons",
-      "desc": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, Nov. 13, 2026 Curiosity’s past several weeks have been very focused on drilling and analysis of the “Basque Lakes” and “Nazca” samples. We learned a lot fr",
-      "pubDate": "Tue, 17 Nov 2026 17:06:07 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001a0b69a4e88397",
-      "title": "How AI is pushing satellites to evolve",
-      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve",
-      "desc": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […]\nThe post How AI is pushing satellites to evolve appeared first on SpaceNews.",
-      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001ebd5b50914a31",
-      "title": "NASA Invites Media, Public to View Roman Telescope’s First Images",
-      "link": "https://www.nasa.gov/news-release/nasa-invites-media-public-to-view-roman-telescopes-first-images",
-      "desc": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which w",
-      "pubDate": "Tue, 17 Nov 2026 17:00:29 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     }
