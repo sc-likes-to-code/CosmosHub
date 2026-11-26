@@ -1,8 +1,80 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T13:02:16.981Z",
+  "generatedAt": "2026-11-26T15:31:09.821Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000c28da6b26452a",
+      "title": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026",
+      "link": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+      "desc": "The striking blue of the Betta Fish Nebula swims across the cosmic landscape in a new image from the Dark Energy Camera.",
+      "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000bb740db014103",
+      "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
+      "link": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
+      "desc": "This Disney+ and Hulu bundle is now only $4.99 per month for a whole year, giving you access to the entire Marvel Cinematic Universe among other huge sci-fi franchises.",
+      "pubDate": "Thu, 26 Nov 2026 14:35:13 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001b076354264f5e",
+      "title": "Nov. 26, 2018: Mars InSight lander touches down",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-26-2018-mars-insight-lander-touches-down",
+      "desc": "InSight, short for Interior Exploration using Seismic Investigations, Geodesy, and Heat Transport, landed on Mars Nov. 26, 2018, tasked with a simple yet challenging mission: unlock the mysteries of Mars’ interior. Top priorities included uncovering Mars’ internal structure by measuring the thicknes",
+      "pubDate": "Thu, 26 Nov 2026 14:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000b0f22b6506b0b",
+      "title": "Chang'e-6 Samples Reveal the Violent Chain Reaction That Built the Moon’s Largest Crater",
+      "link": "https://www.universetoday.com/articles/change-6-samples-reveal-the-violent-chain-reaction-that-built-the-moons-largest-crater",
+      "desc": "One of the most prominent features on the Moon is one we can’t regularly see, at least not completely. The South Pole-Aitken (SPA) basin is one of the largest, oldest, and deepest impact craters on the Moon, and until recently we’ve only been able to observe it from afar - and even then only when we",
+      "pubDate": "Thu, 26 Nov 2026 13:31:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "00089524560b3c60",
       "title": "Thanksgiving night sky 2026 — What to look for after dinner tonight",
@@ -1096,6 +1168,25 @@
           "Astronomy",
           "Research",
           "Papers"
+        ]
+      }
+    },
+    {
+      "id": "0017cc16ad849ea7",
+      "title": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record",
+      "link": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html",
+      "desc": "Scientists have discovered the most distant quasar yet, the core of a galaxy with a slow-chomping black hole at its center dating back to nearly the dawn of the universe.",
+      "pubDate": "Thu, 26 Nov 2026 09:00:02 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9222,101 +9313,6 @@
       "title": "Brown dwarfs and stars are dynamically indistinguishable as companions in AU-separation binaries",
       "link": "https://arxiv.org/abs/2611.21800",
       "desc": "arXiv:2611.21800v1 Announce Type: new \nAbstract: Brown dwarfs occupy the mass range between stars and planets, populations whose dominant formation channels differ, which leave measurable differences in the orbital eccentricity and host-star metallicity distributions. We assemble a sample of astrome",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0000e20657a68140",
-      "title": "Comparative analysis of two delta Scuti stars approaching the TAMS using MESA-GYRE models",
-      "link": "https://arxiv.org/abs/2611.21819",
-      "desc": "arXiv:2611.21819v1 Announce Type: new \nAbstract: This study presents a comparative asteroseismic analysis of two late main-sequence \\dss\\ with slow to moderate rotation, TIC 274211446 and TIC 16053262. Both are also characterised by showing an intense emission in the H$_{\\alpha}$ line.\n  Based on th",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000c2a2db96f85db",
-      "title": "Connecting Calcium Depletion and Dust Evolution in the Rapid Accretor T28",
-      "link": "https://arxiv.org/abs/2611.21786",
-      "desc": "arXiv:2611.21786v1 Announce Type: new \nAbstract: We present a multi-wavelength case study of the star T28 in the Chamaeleon I star-forming region and investigate the dust evolution of its highly Ca-depleted protoplanetary disk. We combine new observations from the MIKE spectrograph on the Magellan C",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001e6853967d6d3f",
-      "title": "Cross-correlating the SPHEREx extragalactic background light with CMB lensing I: theoretical predictions and forecasts",
-      "link": "https://arxiv.org/abs/2611.21779",
-      "desc": "arXiv:2611.21779v1 Announce Type: new \nAbstract: The near-infrared extragalactic background light (EBL), which SPHEREx maps in 102 spectral channels, holds the emission lines of galaxies on top of a much brighter continuum from the integrated galaxy light (IGL) and the intrahalo light (IHL). Cross-c",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0018866d4fe3cfd5",
-      "title": "Current Accretion State versus Black Hole Mass: Imprints on Multiphase Gas in IllustrisTNG",
-      "link": "https://arxiv.org/abs/2611.22044",
-      "desc": "arXiv:2611.22044v1 Announce Type: new \nAbstract: The coupling between AGN feedback and the multiphase circumgalactic medium (CGM) is central to understanding galaxy evolution. In a previous paper, we showed that the black hole mass ($M_{\\rm BH}$) correlates negatively with cold gas mass in Illustris",
-      "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001b982096bf1fa6",
-      "title": "D/H and 12C/13C ratios of benzonitrile and indene in TMC-1 support bottom-up formation of polycyclic aromatic hydrocarbon-like molecules",
-      "link": "https://arxiv.org/abs/2611.21834",
-      "desc": "arXiv:2611.21834v1 Announce Type: new \nAbstract: Polycyclic aromatic hydrocarbons (PAHs) have recently been detected in cold dark clouds through their rotational spectra, but it is currently a matter of debate whether they form through a bottom-up process from small hydrocarbons or through a top-dow",
       "pubDate": "Wed, 18 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {

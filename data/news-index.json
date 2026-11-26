@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-26T13:02:04.609Z",
-  "lastRunId": "run-1795698120833-5kbi15",
+  "lastUpdated": "2026-11-26T15:31:03.842Z",
+  "lastRunId": "run-1795707061914-ex08nw",
   "stats": {
-    "totalStories": 1991,
-    "lastRunAdded": 61
+    "totalStories": 1996,
+    "lastRunAdded": 5
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"4d8d499455a33f481cac98fa8d709635\"",
-    "https://www.universetoday.com/feed": "W/\"6b082914-72b0\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"1946d305a77e1a314ec7d567df176255\"",
+    "https://www.universetoday.com/feed": "W/\"6b084534-75c2\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"4d8d499455a33f481cac98fa8d709635\"",
     "http://arxiv.org/rss/astro-ph": "9d0334e5ebce9f2212914a1573d7391d14b802a362c9de78d7073bac96bb2aca",
     "https://spacenews.com/feed/": "W/\"49fe9bace3c2e5327705c34125c7ac99\"",
-    "https://www.astronomy.com/feed/": "W/\"1b3103bdd9b91fc53d09f0efd1ffb396\"",
+    "https://www.astronomy.com/feed/": "W/\"53ec9ef2e0ce9c2f273fc953dafb8c05\"",
     "https://spacepolicyonline.com/feed/": "\"c647c7be6bd7a67649908416ced59268\""
   },
   "articles": {
@@ -23907,6 +23907,66 @@
       "archivedDate": "2026-11-26",
       "collection": "morning",
       "archivedAt": "2026-11-26T13:02:04.609Z"
+    },
+    "000c28da6b26452a": {
+      "id": "000c28da6b26452a",
+      "canonicalUrl": "https://www.space.com/astronomy/cosmic-betta-fish-glows-in-spectacular-nebula-portrait-space-photo-of-the-day-for-nov-26-2026",
+      "title": "Cosmic 'betta fish' glows in spectacular nebula portrait | Space photo of the day for Nov. 26, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 26 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-26",
+      "collection": "evening",
+      "archivedAt": "2026-11-26T15:31:03.842Z"
+    },
+    "000bb740db014103": {
+      "id": "000bb740db014103",
+      "canonicalUrl": "https://www.space.com/entertainment/space-movies-shows/prepare-for-avengers-doomsday-and-catch-the-entire-mcu-on-disney-now-only-4-99-month",
+      "title": "Prepare for Avengers: Doomsday and catch the entire MCU on Disney+ — now only $4.99/month",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Thu, 26 Nov 2026 14:35:13 +0000",
+      "archivedDate": "2026-11-26",
+      "collection": "evening",
+      "archivedAt": "2026-11-26T15:31:03.842Z"
+    },
+    "001b076354264f5e": {
+      "id": "001b076354264f5e",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-26-2018-mars-insight-lander-touches-down",
+      "title": "Nov. 26, 2018: Mars InSight lander touches down",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Missions & Exploration",
+      "pubDate": "Thu, 26 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-26",
+      "collection": "evening",
+      "archivedAt": "2026-11-26T15:31:03.842Z"
+    },
+    "000b0f22b6506b0b": {
+      "id": "000b0f22b6506b0b",
+      "canonicalUrl": "https://www.universetoday.com/articles/change-6-samples-reveal-the-violent-chain-reaction-that-built-the-moons-largest-crater",
+      "title": "Chang'e-6 Samples Reveal the Violent Chain Reaction That Built the Moon’s Largest Crater",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 26 Nov 2026 13:31:00 +0000",
+      "archivedDate": "2026-11-26",
+      "collection": "evening",
+      "archivedAt": "2026-11-26T15:31:03.842Z"
+    },
+    "0017cc16ad849ea7": {
+      "id": "0017cc16ad849ea7",
+      "canonicalUrl": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html",
+      "title": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Thu, 26 Nov 2026 09:00:02 EST",
+      "archivedDate": "2026-11-26",
+      "collection": "evening",
+      "archivedAt": "2026-11-26T15:31:03.842Z"
     }
   }
 }
