@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-25T23:44:25.021Z",
+  "generatedAt": "2026-11-26T03:31:14.058Z",
   "count": 500,
   "articles": [
+    {
+      "id": "000870fc542cfe27",
+      "title": "FCC Approves Elon Musk’s One Million Orbital Data Centers",
+      "link": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers",
+      "desc": "FCC Chairman Brendan Carr announced today that the FCC has approved Elon Musk’s request to launch one million satellites to low Earth orbit to serve as data centers in space. […]",
+      "pubDate": "Thu, 26 Nov 2026 00:42:50 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpacePolicyOnline",
+        "key": "spacepolicyonline",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Policy",
+          "Law",
+          "Industry"
+        ]
+      }
+    },
     {
       "id": "001ecf45d18e426f",
       "title": "Euclid's Record-Setting Quasar Probes Black Hole Formation",
@@ -365,6 +384,24 @@
           "NASA",
           "JPL",
           "Missions"
+        ]
+      }
+    },
+    {
+      "id": "00057d5516009c82",
+      "title": "Astronomers may have discovered a black hole born before the first stars",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+      "desc": "A mysterious object named Phoebe, detected when it briefly magnified a distant star, could be a primordial black hole formed just after the Big Bang. With an estimated mass only three times that of the Moon, it may be a 13-billion-year-old cosmic relic that offers new clues to the mystery of dark ma",
+      "pubDate": "Wed, 25 Nov 2026 21:00:33 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
+          "Science"
         ]
       }
     },
@@ -9276,43 +9313,6 @@
       "desc": "NASA will release the first images from its Nancy Grace Roman Space Telescope during a live stream from the American Geophysical Union (AGU) Annual Meeting in San Francisco at 3:30 p.m. EST (12:30 p.m. PST) Monday, Dec. 7. The images will showcase the unique scientific capabilities of Roman, which w",
       "pubDate": "Tue, 17 Nov 2026 17:00:29 +0000",
       "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000c4637beb00630",
-      "title": "NASA wants you to 'shine bright' today for Voyager 1's light-day milestone. Here's how",
-      "link": "https://www.space.com/space-exploration/voyager/nasa-wants-you-to-shine-bright-today-for-voyager-1s-light-day-milestone-heres-how",
-      "desc": "NASA invites the public to shine lights in Morse code after sunset today (Nov. 17) to celebrate Voyager 1 reaching a historic distance of one light-day from Earth.",
-      "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00009ef56598b5a4",
-      "title": "Space Selfie",
-      "link": "https://www.nasa.gov/image-article/space-selfie-2",
-      "desc": "NASA astronaut Anil Menon took this selfie during a spacewalk on Oct. 29, 2026. He and CSA (Canadian Space Agency) astronaut Joshua Kutryk installed a new roll-out solar array on the International Space Station. Get daily updates from the space station. Image credit: NASA/Anil Menon",
-      "pubDate": "Tue, 17 Nov 2026 16:51:14 +0000",
-      "category": "Missions & Exploration",
       "source": {
         "name": "NASA",
         "key": "nasa",

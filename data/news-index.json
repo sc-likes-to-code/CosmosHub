@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-25T23:44:13.716Z",
-  "lastRunId": "run-1795650250737-br16gz",
+  "lastUpdated": "2026-11-26T03:31:06.412Z",
+  "lastRunId": "run-1795663864692-ysygal",
   "stats": {
-    "totalStories": 1928,
-    "lastRunAdded": 27
+    "totalStories": 1930,
+    "lastRunAdded": 2
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"749b8218df76bf5b39d29bb14ef243bd\"",
-    "https://www.universetoday.com/feed": "W/\"6b07724e-7527\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"749b8218df76bf5b39d29bb14ef243bd\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"2eb44635dc8d81db0b5372d392a0e21d\"",
+    "https://www.universetoday.com/feed": "W/\"6b079c58-7527\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"2eb44635dc8d81db0b5372d392a0e21d\"",
     "http://arxiv.org/rss/astro-ph": "c029f3cd1bf52d409dc6c4bee01ec2832336026469e10e56e2dc6952675e3d85",
     "https://spacenews.com/feed/": "W/\"49fe9bace3c2e5327705c34125c7ac99\"",
     "https://www.astronomy.com/feed/": "W/\"2f25869ee2db7d573bfc0df04b6d3e3f\"",
-    "https://spacepolicyonline.com/feed/": "\"df5e1fbd477f3c7759b0953ccfaa7937\""
+    "https://spacepolicyonline.com/feed/": "\"c647c7be6bd7a67649908416ced59268\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -23151,6 +23151,30 @@
       "archivedDate": "2026-11-26",
       "collection": "evening",
       "archivedAt": "2026-11-25T23:44:13.716Z"
+    },
+    "000870fc542cfe27": {
+      "id": "000870fc542cfe27",
+      "canonicalUrl": "https://spacepolicyonline.com/news/fcc-approves-elon-musks-one-million-orbital-data-centers",
+      "title": "FCC Approves Elon Musk’s One Million Orbital Data Centers",
+      "source": "SpacePolicyOnline",
+      "sourceKey": "spacepolicyonline",
+      "category": "Space Industry & Policy",
+      "pubDate": "Thu, 26 Nov 2026 00:42:50 +0000",
+      "archivedDate": "2026-11-26",
+      "collection": "morning",
+      "archivedAt": "2026-11-26T03:31:06.412Z"
+    },
+    "00057d5516009c82": {
+      "id": "00057d5516009c82",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+      "title": "Astronomers may have discovered a black hole born before the first stars",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Wed, 25 Nov 2026 21:00:33 EST",
+      "archivedDate": "2026-11-26",
+      "collection": "morning",
+      "archivedAt": "2026-11-26T03:31:06.412Z"
     }
   }
 }
