@@ -1,8 +1,207 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T15:31:16.662Z",
+  "generatedAt": "2026-11-27T23:38:44.248Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001e1afb46f64b2b",
+      "title": "All the Gaps We See in Protoplanetary Disks Aren't From Planets",
+      "link": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+      "desc": "Astronomers have observed dozens of protoplanetary disks around young stars. ALMA has proven to be especially effective at this task. It's found rings and gaps, and they signify young planets forming in the disks. But not all of these disk features are from planets, according to new research.",
+      "pubDate": "Fri, 27 Nov 2026 22:54:51 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0010c54cda3f7614",
+      "title": "The ESO is Deeply Concerned About Space Data Centers, and the Rest of Us Should Be Too",
+      "link": "https://www.universetoday.com/articles/the-eso-is-deeply-concerned-about-space-data-centers-and-the-rest-of-us-should-be-too",
+      "desc": "The European Southern Observatory has expressed its dismay at the approval of SpaceX's satellite AI system. The system, called Starmind, calls for another 1 million satellites in Low Earth Orbit. All of those satellites, and all of the other systems being proposed, will have a serious effect on astr",
+      "pubDate": "Fri, 27 Nov 2026 22:51:28 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00160735d7b39ea7",
+      "title": "Love Star Wars, Andy Weir or Ryan Gosling? These Lego Star Wars and Project Hail Mary sets are my favorites",
+      "link": "https://www.space.com/entertainment/space-toys-lego/love-star-wars-andy-weir-or-ryan-gosling-these-lego-star-wars-and-project-hail-mary-sets-are-my-favorites",
+      "desc": "Whether you're a fan of Star Wars, Ryan Gosling or both, you're spoilt for choice this Black Friday with serious savings on Lego's Star Wars sets and Project Hail Mary sets.",
+      "pubDate": "Fri, 27 Nov 2026 20:29:57 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000d57c3b762d40b",
+      "title": "The lowest price ever on the Canon EOS R6 II tops some of the best Black Friday camera deals we've seen today",
+      "link": "https://www.space.com/stargazing/astrophotography/the-lowest-price-ever-on-the-canon-eos-r6-ii-tops-some-of-the-best-black-friday-camera-deals-weve-seen-today",
+      "desc": "We have rounded up the best camera deals this Black Friday, including the lowest-ever price on one of our favorite low-light cameras, the Canon EOS R6 II.",
+      "pubDate": "Fri, 27 Nov 2026 19:30:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0004a153e2b254ba",
+      "title": "Dropping missiles from orbit? 2 European companies sign agreement to study the idea",
+      "link": "https://www.space.com/technology/dropping-missiles-from-orbit-2-european-companies-sign-agreement-to-study-the-idea",
+      "desc": "Atmos Space Cargo will fly its first Phoenix cargo-return capsule on SpaceX's Bandwagon 3 rideshare mission, which is scheduled to launch this spring.",
+      "pubDate": "Fri, 27 Nov 2026 19:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00067beb239b9f09",
+      "title": "I captured images of my first-ever solar eclipse with the Unistellar Equinox 2 — now 20% off for Black Friday",
+      "link": "https://www.space.com/stargazing/skywatching-kit/i-captured-images-of-my-first-ever-solar-eclipse-with-the-unistellar-equinox-2-now-20-percent-off-for-black-friday",
+      "desc": "Equipped with an eQuinox 2 and a solar filter, I managed to capture the moment of a lifetime. This versatile instrument is now on sale for Black Friday, along with the rest of the Unistellar smart telescope range.",
+      "pubDate": "Fri, 27 Nov 2026 18:30:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000e5459d38ab691",
+      "title": "Foundation is a must-watch and this Black Friday, you can stream it and other Apple TV sci-fi shows for half-price",
+      "link": "https://www.space.com/entertainment/space-movies-shows/foundation-is-a-must-watch-and-this-black-friday-you-can-stream-it-and-other-apple-tv-sci-fi-shows-for-half-price",
+      "desc": "Love sci-fi? Foundation is one of finest sci-fi shows out there and thanks to this Black Friday offer you can watch it and other Apple TV series for a ridiculous $6.99 a month for six months.",
+      "pubDate": "Fri, 27 Nov 2026 17:10:49 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0015f36a19540dd0",
+      "title": "Who turned the W upside down? Why Cassiopeia won't sit still",
+      "link": "https://www.space.com/stargazing/who-turned-the-w-upside-down-why-cassiopeia-wont-sit-still",
+      "desc": "The queen in the northern night sky is supposedly one of the easiest constellations to recognize — you just look for a W. Or is that an M?",
+      "pubDate": "Fri, 27 Nov 2026 17:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000974168894bbf2",
+      "title": "On this day in space! Nov. 27, 1885: Astronomer captures 1st known photo of a meteor during an Andromedid meteor storm",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-27-2026",
+      "desc": "On Nov. 27, 1885, an astronomer made the first known photograph of a meteor. Here's why it mattered.",
+      "pubDate": "Fri, 27 Nov 2026 16:30:13 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0014ea547029a58f",
+      "title": "Don't get ripped off this Black Friday! Shop safely online with our scam-spotting guide",
+      "link": "https://www.space.com/stargazing/skywatching-kit/dont-get-ripped-off-this-black-friday-shop-safely-online-with-our-scam-spotting-guide",
+      "desc": "I've been Black Friday bargain hunting for a long time and I'm here to tell you how to avoid getting scammed. From fraudulent sites to fake goods, my guide will help you shop safely online.",
+      "pubDate": "Fri, 27 Nov 2026 15:46:27 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000216f681d3eab3",
+      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+      "link": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates",
+      "desc": "Paris, France | November 2026 — Novaspace’s Space Defense & Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting […]\nThe post Governments Invest $71.8B in Space Defense as Militarization of Space Accel",
+      "pubDate": "Fri, 27 Nov 2026 15:35:22 +0000",
+      "category": "Space Industry & Policy",
+      "source": {
+        "name": "SpaceNews",
+        "key": "spacenews",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Industry",
+          "Policy",
+          "Launches"
+        ]
+      }
+    },
     {
       "id": "0001133e37a9ace7",
       "title": "Make the most of the new moon on Dec. 8 and get closer views of the stars with the Celestron Inspire 100AZ",
@@ -150,6 +349,44 @@
       }
     },
     {
+      "id": "000902bfb75b8922",
+      "title": "Strawberries, cucumbers and lemon basil show promise for future moon and Mars menus",
+      "link": "https://phys.org/news/2026-11-strawberries-cucumbers-lemon-basil-future.html",
+      "desc": "As NASA prepares for future missions to the moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving.",
+      "pubDate": "Fri, 27 Nov 2026 16:00:01 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001274c269ee8e10",
+      "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
+      "link": "https://phys.org/news/2026-11-hera-reveals-stadium-sized-asteroid.html",
+      "desc": "Arriving at the site of humankind's first planetary defense experiment, the European Space Agency's Hera mission has found a miniature world of surprises. Dimorphos—the small asteroid whose orbit around a second, larger asteroid was deflected by a spacecraft impact—now has one face flattened with a ",
+      "pubDate": "Fri, 27 Nov 2026 15:20:06 EST",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "001d49a478963612",
       "title": "Nitrogen boost",
       "link": "https://www.astronomy.com/picture-of-the-day/photo/nitrogen-boost",
@@ -186,6 +423,44 @@
       }
     },
     {
+      "id": "00018c63e3b1f66c",
+      "title": "Researchers develop mathematical model to estimate age and degradation of lunar impact craters",
+      "link": "https://phys.org/news/2026-11-mathematical-age-degradation-lunar-impact.html",
+      "desc": "Researchers from the Aerospace Information Research Institute of the Chinese Academy of Sciences (AIRCAS) and their collaborators have developed a mathematical model that uses morphometric parameters to rapidly estimate the degradation state and age of lunar impact craters. They applied the model to",
+      "pubDate": "Fri, 27 Nov 2026 12:40:10 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001d97317d3f4b8d",
+      "title": "The dark matter puzzle deepens: Nearby galaxies challenge cosmic simulations",
+      "link": "https://phys.org/news/2026-11-dark-puzzle-deepens-nearby-galaxies.html",
+      "desc": "Galaxies appear to hold a surprise beneath their visible stars: Their inner regions contain less dark matter than some of our most advanced simulations predict. Dark matter is invisible, but its gravitational pull helps govern the motions of stars and gas. By measuring these movements, astronomers c",
+      "pubDate": "Fri, 27 Nov 2026 12:00:03 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
       "id": "0004c5819c352889",
       "title": "The Sky This Week from November 27 to December 4: Brilliant Venus",
       "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-27-to-december-4-2026",
@@ -200,6 +475,44 @@
         "tags": [
           "Astronomy",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "00060a496956eb6a",
+      "title": "Meteor blast scars hint at Venus's gradual volcanic makeover",
+      "link": "https://phys.org/news/2026-11-meteor-blast-scars-hint-venus.html",
+      "desc": "In a radar image from NASA's Magellan spacecraft, a dark spot about 20 kilometers (12 miles) wide sits inside two bright halos on Venus (see images C and D above). The fainter outer halo spans some 180 kilometers (110 miles), yet there is no obvious crater at the center. A space rock may have create",
+      "pubDate": "Fri, 27 Nov 2026 11:00:07 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "0014e26a2b9bed86",
+      "title": "The faintest supernova ever observed refuses to go out, staying visible for nearly a year",
+      "link": "https://phys.org/news/2026-11-faintest-supernova-staying-visible-year.html",
+      "desc": "An international team of astronomers, including Paul Groot of Radboud University, has discovered that a supernova explosion does not always have to be extremely bright. The team has identified the faintest supernova observed to date. It remained visible for an exceptionally long time and appears to ",
+      "pubDate": "Fri, 27 Nov 2026 10:40:27 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -8996,322 +9309,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "000a5a249af374df",
-      "title": "Astronomers discover remarkable triple-star system just 28 light-years from Earth",
-      "link": "https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html",
-      "desc": "Astronomers have discovered a stellar system just 28 light-years from Earth that challenges our understanding of how stars live, die and interact as they evolve.",
-      "pubDate": "Thu, 19 Nov 2026 10:00:25 EST",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "00069c157275f4b7",
-      "title": "Voyager 1 Reaches New Milestone: One Light-Day from Earth",
-      "link": "https://spacepolicyonline.com/news/voyager-1-reaches-new-milestone-one-light-day-from-earth",
-      "desc": "NASA’s Voyager 1 spacecraft achieved another milestone this morning. Launched in 1977, it became the first human object to pass into interstellar space in August 2012 and is so far […]",
-      "pubDate": "Thu, 19 Nov 2026 03:05:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "000712acb7366eef",
-      "title": "NASA and FCC Nominations Advance Out of Committee Despite Democratic Boycott",
-      "link": "https://spacepolicyonline.com/news/nasa-and-fcc-nominations-advance-out-of-committee-despite-democratic-boycott",
-      "desc": "Nominations for two positions at NASA and one at the FCC were reported from the Senate Commerce Committee today even though no Democrats were in attendance. Committee rules state that […]",
-      "pubDate": "Wed, 18 Nov 2026 23:40:38 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "001cc08788e487d6",
-      "title": "Potatoes grown in simulated lunar soil match Earth-grown performance",
-      "link": "https://phys.org/news/2026-11-potatoes-grown-simulated-lunar-soil.html",
-      "desc": "Researchers have shown that potatoes grown in simulated lunar soil amended with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth. \"We found that potatoes can complete their entire life cycle in simulated lunar soil when supplemented with organic ",
-      "pubDate": "Thu, 19 Nov 2026 05:00:02 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "001398884b5a7c68",
-      "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
-      "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers",
-      "desc": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […]\nThe post Flexell Space and ALATYR Sign MoU to Explor",
-      "pubDate": "Wed, 18 Nov 2026 22:02:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0002402c28033659",
-      "title": "Astronomers witness a star eating its companion in 1st-of-its-kind observation",
-      "link": "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation",
-      "desc": "Astronomers may have, for the first time ever, directly witnessed a star engulfing its stellar companion.",
-      "pubDate": "Wed, 18 Nov 2026 22:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000bb4b0baef61da",
-      "title": "On this day in space! Nov. 18, 2013: NASA launches MAVEN spacecraft to Mars to find out how the Red Planet lost its water",
-      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026",
-      "desc": "On Nov. 18, 2013, NASA launched the MAVEN spacecraft to Mars to investigate the planet's missing water. Here's why it mattered.",
-      "pubDate": "Wed, 18 Nov 2026 21:10:52 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000b212a2f0f9667",
-      "title": "Reconstructing Cosmic History and Earth's Evolution From Cosmic Explosions",
-      "link": "https://www.universetoday.com/articles/reconstructing-cosmic-history-and-earths-evolution-from-cosmic-explosions",
-      "desc": "53Mn), can only be synthesized in supernova explosions. Credit: NASA\" width=\"1280\" height=\"720\" />The European Research Council (ERC) announced the winners of its latest Advanced Grant competition. Among the awardees is Prof. Anton Wallner from the Helmholtz-Zentrum Dresden-Rossendorf (HZDR), whose ",
-      "pubDate": "Wed, 18 Nov 2026 21:07:58 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000b4fb2133f48cc",
-      "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-      "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center",
-      "desc": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for […]\nThe post All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Ce",
-      "pubDate": "Wed, 18 Nov 2026 20:31:51 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "001cc805d779bb7c",
-      "title": "The Simons Observatory is Online and Surveying the Cosmic Microwave Background",
-      "link": "https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background",
-      "desc": "The Simons Observatory is online and surveying the Cosmic Microwave Background (CMB) in greater detail than ever before. It's looking for tiny fluctuations in the CMB caused by primordial gravitational waves. These waves, if detected, would be as close to slam-dunk evidence for the Big Bang that we ",
-      "pubDate": "Wed, 18 Nov 2026 20:05:05 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00173dc0cf04008c",
-      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why",
-      "link": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
-      "desc": "The answer to one of Earth's greatest geological mysteries may lie deep beneath our feet.",
-      "pubDate": "Wed, 18 Nov 2026 20:00:00 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "001df2cefcce2041",
-      "title": "Insufficient Fuel Flow May Have Doomed Vulcan",
-      "link": "https://spacepolicyonline.com/news/insufficient-fuel-flow-may-have-doomed-vulcan",
-      "desc": "The United Launch Alliance said today that insufficient fuel flow from the launch vehicle to the BE-4 engines may have led to the failure of Vulcan Leo 1 on Sunday. […]",
-      "pubDate": "Wed, 18 Nov 2026 19:27:13 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpacePolicyOnline",
-        "key": "spacepolicyonline",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Policy",
-          "Law",
-          "Industry"
-        ]
-      }
-    },
-    {
-      "id": "001c38c64b782221",
-      "title": "Are Uranus and Neptune Secretly \"Rock Giants\"? A Noble Gas Might Hold the Answer",
-      "link": "https://www.universetoday.com/articles/are-uranus-and-neptune-secretly-rock-giants-a-noble-gas-might-hold-the-answer",
-      "desc": "For decades, astronomers have divided the planets in the outer solar system into two distinct camps. Jupiter and Saturn were the “gas giants” made up primarily of hydrogen and helium. Uranus and Neptune were the “ice giants”, and were much smaller but were packed with heavier elements. A new paper f",
-      "pubDate": "Wed, 18 Nov 2026 19:11:15 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000d24c57918e45b",
-      "title": "MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in",
-      "link": "https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in",
-      "desc": "Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind.  However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]",
-      "pubDate": "Wed, 18 Nov 2026 18:58:27 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "000b9bd23ba3ce6a",
-      "title": "NASA Announces Mid-Power Electric Rocket Challenge for US Companies",
-      "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies",
-      "desc": "NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producin",
-      "pubDate": "Wed, 18 Nov 2026 18:12:32 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001658e93018b12b",
-      "title": "ULA traces Vulcan Centaur rocket failure to 'inadequate fuel supply' to 1st-stage engines",
-      "link": "https://www.space.com/space-exploration/launches-spacecraft/ula-traces-vulcan-centaur-rocket-failure-to-inadequate-fuel-supply-to-1st-stage-engines",
-      "desc": "United Launch Alliance has traced the Nov. 15 failure of its Vulcan Centaur rocket to an inadequate supply of propellant to the vehicle's first-stage engines.",
-      "pubDate": "Wed, 18 Nov 2026 18:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "000bd43369020b6a",
-      "title": "Empire State Building Goes Gold for Voyager",
-      "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager",
-      "desc": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on ",
-      "pubDate": "Wed, 18 Nov 2026 17:50:26 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     }
