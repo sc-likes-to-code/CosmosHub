@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-26T23:57:12.678Z",
-  "lastRunId": "run-1795737429698-p67d0h",
+  "lastUpdated": "2026-11-27T12:59:15.949Z",
+  "lastRunId": "run-1795784354162-kb5w78",
   "stats": {
-    "totalStories": 2016,
-    "lastRunAdded": 20
+    "totalStories": 2023,
+    "lastRunAdded": 7
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"83280b219fe41726bc8e2d37e0a8d389\"",
-    "https://www.universetoday.com/feed": "W/\"6b08c3ac-73a8\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"83280b219fe41726bc8e2d37e0a8d389\"",
-    "http://arxiv.org/rss/astro-ph": "9d0334e5ebce9f2212914a1573d7391d14b802a362c9de78d7073bac96bb2aca",
-    "https://spacenews.com/feed/": "W/\"60dfe706e22d9cf0e4841a5c6bd2feea\"",
-    "https://www.astronomy.com/feed/": "W/\"fde4c6a6012a2fe85dfe1ffe3daed0a5\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"d5da9d663f9013618d7bfa5a2a1a04bc\"",
+    "https://www.universetoday.com/feed": "W/\"6b097bf3-73c8\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"d5da9d663f9013618d7bfa5a2a1a04bc\"",
+    "http://arxiv.org/rss/astro-ph": "5eec4790cd6c05fadc61160b1be33559e076fd6dac41e32e538c04819fc7b9c1",
+    "https://spacenews.com/feed/": "W/\"2000f0b43d59a2e32cba5f39bb35fef5\"",
+    "https://www.astronomy.com/feed/": "W/\"28cc6bf644b9dbbddcc3847b404c79dc\"",
     "https://spacepolicyonline.com/feed/": "\"c647c7be6bd7a67649908416ced59268\""
   },
   "articles": {
@@ -24207,6 +24207,90 @@
       "archivedDate": "2026-11-27",
       "collection": "evening",
       "archivedAt": "2026-11-26T23:57:12.678Z"
+    },
+    "0006795d74f0bcd7": {
+      "id": "0006795d74f0bcd7",
+      "canonicalUrl": "https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both",
+      "title": "Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 12:41:18 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "0013df745a573eb2": {
+      "id": "0013df745a573eb2",
+      "canonicalUrl": "https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck",
+      "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "001d49a478963612": {
+      "id": "001d49a478963612",
+      "canonicalUrl": "https://www.astronomy.com/picture-of-the-day/photo/nitrogen-boost",
+      "title": "Nitrogen boost",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "0017e2117542abfd": {
+      "id": "0017e2117542abfd",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-friday-november-27-2026",
+      "title": "The Sky Today on Friday, November 27: Catch Comet Hartley-IRAS",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "0004c5819c352889": {
+      "id": "0004c5819c352889",
+      "canonicalUrl": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-27-to-december-4-2026",
+      "title": "The Sky This Week from November 27 to December 4: Brilliant Venus",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "000e2485bc0a9395": {
+      "id": "000e2485bc0a9395",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers",
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 27 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "0017b97881373306": {
+      "id": "0017b97881373306",
+      "canonicalUrl": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in",
+      "title": "Shivelyuch Socked In",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Research & Science",
+      "pubDate": "Fri, 27 Nov 2026 05:01:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "morning",
+      "archivedAt": "2026-11-27T12:59:15.949Z"
     }
   }
 }

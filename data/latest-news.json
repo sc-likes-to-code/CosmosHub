@@ -1,8 +1,136 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T23:57:23.793Z",
+  "generatedAt": "2026-11-27T12:59:23.802Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0006795d74f0bcd7",
+      "title": "Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?",
+      "link": "https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both",
+      "desc": "The last few days we’ve been covering a series of papers by Dr. Slava Turyshev of NASA’s Jet Propulsion Laboratory about the constraints surrounding the use of orbital data centers in space. One that has come up repeatedly is weight, and the solar panels used to power these data centers contribute a",
+      "pubDate": "Fri, 27 Nov 2026 12:41:18 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0013df745a573eb2",
+      "title": "Astronomers watch a red giant star greedily devour a stellar 'Bao bun' before erupting: 'We couldn't quite believe our luck'",
+      "link": "https://www.space.com/astronomy/stars/astronomers-watch-a-red-giant-star-greedily-devour-a-stellar-bao-bun-before-erupting-we-couldnt-quite-believe-our-luck",
+      "desc": "Astronomers witnessed the spectacular cosmic indigestion that resulted from a red giant star that devoured a stellar Bao bun in the form of its smaller companion star.",
+      "pubDate": "Fri, 27 Nov 2026 11:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "001d49a478963612",
+      "title": "Nitrogen boost",
+      "link": "https://www.astronomy.com/picture-of-the-day/photo/nitrogen-boost",
+      "desc": "Krisztián Fekete from Budapest, Hungary The Pacman Nebula (NGC 281) is an emission nebula about 9,600 light-years away in Cassiopeia, lit by the star cluster IC 1590 at its center. Dark dust lanes cut across its glowing gas, shown here primarily in Hubble-palette colors — with a subtle enhancement. ",
+      "pubDate": "Fri, 27 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017e2117542abfd",
+      "title": "The Sky Today on Friday, November 27: Catch Comet Hartley-IRAS",
+      "link": "https://www.astronomy.com/observing/the-sky-today-friday-november-27-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 26: Thanksgiving turkey in the sky The Moon-free window for observing Comet 161P/Hartley-IRAS reopens tonight, the same day the comet reaches perihelion, the closest point to the Sun in its 21½-year orbit. It has b",
+      "pubDate": "Fri, 27 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0004c5819c352889",
+      "title": "The Sky This Week from November 27 to December 4: Brilliant Venus",
+      "link": "https://www.astronomy.com/the-sky-this-week/the-sky-this-week-from-november-27-to-december-4-2026",
+      "desc": "Friday, November 27As fall deepens and winter approaches, the wintertime star patterns are reappearing in our evening sky. One is a large asterism called the Winter Hexagon, now fully above the horizon by about 10 P.M. local time. You should be able to spot this shape even with the Moon nearby, as e",
+      "pubDate": "Fri, 27 Nov 2026 06:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000e2485bc0a9395",
+      "title": "APOD: 2026 November 27 – The Moon Watchers",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers",
+      "desc": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "pubDate": "Fri, 27 Nov 2026 05:05:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017b97881373306",
+      "title": "Shivelyuch Socked In",
+      "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in",
+      "desc": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+      "pubDate": "Fri, 27 Nov 2026 05:01:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001379c48b801a36",
       "title": "Astronomers Discover a Hidden Binary in a Star System Used to Calibrate the JWST",
@@ -206,8 +334,8 @@
       "id": "0019c7877b7edc35",
       "title": "Robots, Not Astronauts, Will Have to Fix Space Data Centers",
       "link": "https://www.universetoday.com/articles/robots-not-astronauts-will-have-to-fix-space-data-centers",
-      "desc": "Yesterday we explored some of the difficulties facing orbital data centers in our look at the bottleneck of launching enough solar panels and radiative cooling systems to power the AI computing boom in space. JPl physicist Dr. Slava Turyshev, who wrote the paper at the center of that article, also p",
-      "pubDate": "Thu, 26 Nov 2026 16:28:12 +0000",
+      "desc": "Yesterday we explored some of the difficulties facing orbital data centers in our look at the bottleneck of launching enough solar panels and radiative cooling systems to power the AI computing boom in space. JPL physicist Dr. Slava Turyshev, who wrote the paper at the center of that article, also p",
+      "pubDate": "Thu, 26 Nov 2026 16:28:00 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
         "name": "Universe Today",
@@ -508,25 +636,6 @@
           "Physics",
           "Space",
           "Research"
-        ]
-      }
-    },
-    {
-      "id": "0013c5b1a5389df0",
-      "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois",
-      "desc": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation",
-      "pubDate": "Thu, 26 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
         ]
       }
     },
@@ -9202,116 +9311,6 @@
         "tags": [
           "Space",
           "News"
-        ]
-      }
-    },
-    {
-      "id": "000db19d5da570ac",
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "link": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger",
-      "desc": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery ",
-      "pubDate": "Wed, 18 Nov 2026 16:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00107cbd9224f832",
-      "title": "Microscopic Space Dust Reveals A Hidden Reservoir Of \"Heavy Water\" Beyond Neptune",
-      "link": "https://www.universetoday.com/articles/microscopic-space-dust-reveals-a-hidden-reservoir-of-heavy-water-beyond-neptune",
-      "desc": "Astronomers can find valuable information in even the tiniest objects. That was certainly the case recently when twelve dust grains collected by a high-altitude aircraft helped solve a mystery about the birth of our Solar System. Or at least that is the argument in a new paper published in Science A",
-      "pubDate": "Wed, 18 Nov 2026 15:01:09 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "001bd7dbde0460af",
-      "title": "Supernova explodes before astronomers' eyes | Space photo of the day for Nov. 18, 2026",
-      "link": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
-      "desc": "A new supernova (SN 2026 ahvu) has been found in the spiral galaxy NGC 1433, about 50 million light-years from Earth.",
-      "pubDate": "Wed, 18 Nov 2026 15:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "00065b02306cda6f",
-      "title": "First lunar-specific ground motion model could guide seismic hazard assessments on moon",
-      "link": "https://phys.org/news/2026-11-lunar-specific-ground-motion-seismic.html",
-      "desc": "Civil engineers looking forward to building structures on the moon need to know how ground motion from moonquakes will affect these buildings. But will ground motion models developed for Earth work well for the lunar landscape?",
-      "pubDate": "Wed, 18 Nov 2026 19:40:08 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
-        ]
-      }
-    },
-    {
-      "id": "0007c191beccd2dd",
-      "title": "The Lego Star Trek bridge diorama set should be your gateway to finally watching the Original Series",
-      "link": "https://www.space.com/entertainment/space-toys-lego/the-lego-star-trek-bridge-diorama-set-should-be-your-gateway-to-finally-watching-the-original-series",
-      "desc": "Dammit Jim, I'm a doctor, not a Lego engineer. But this Lego Star Trek set is a wonderful bit of nostalgia that is also accessible for children.",
-      "pubDate": "Wed, 18 Nov 2026 14:04:28 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0010020da36ed234",
-      "title": "Nov. 18, 1989: The Cosmic Background Explorer launches",
-      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-18-1989-the-cosmic-background-explorer-launches",
-      "desc": "A glow undetectable to the human eye permeates the universe. This light is the remnant signature of the cosmic beginning — a dense, hot fireball that burst forth and created all mass, energy, and time. The primordial cosmic microwave background (CMB) radiation has since traveled some 13.8 billion ye",
-      "pubDate": "Wed, 18 Nov 2026 14:00:00 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
         ]
       }
     }
