@@ -1,8 +1,118 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T12:59:23.802Z",
+  "generatedAt": "2026-11-27T15:31:16.662Z",
   "count": 500,
   "articles": [
+    {
+      "id": "0001133e37a9ace7",
+      "title": "Make the most of the new moon on Dec. 8 and get closer views of the stars with the Celestron Inspire 100AZ",
+      "link": "https://www.space.com/stargazing/skywatching-kit/make-the-most-of-the-new-moon-on-dec-8-and-get-closer-views-of-the-stars-with-the-celestron-inspire-100az",
+      "desc": "The Celestron Inspire 100AZ is a great first telescope and will give you better views of the stars and Saturn in the moonless skies come Dec. 8. It is now 15% cheaper for Black Friday.",
+      "pubDate": "Fri, 27 Nov 2026 15:10:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0008dd60853bdb7a",
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "link": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab",
+      "desc": "NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System",
+      "pubDate": "Fri, 27 Nov 2026 15:01:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001634176ba96e31",
+      "title": "Artemis III astronauts meet their spacecraft | Space photo of the day for Nov. 27, 2026",
+      "link": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-meet-their-moonship-space-photo-of-the-day-for-nov-27-2026",
+      "desc": "3's up for Artemis!",
+      "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000a13001d6d8760",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "link": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research",
+      "desc": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research ",
+      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0012ba0b01787eed",
+      "title": "Nov. 27, 2001: NASA announces an exoplanet atmosphere",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-27-2001-nasa-announces-an-exoplanet-atmosphere",
+      "desc": "On Nov. 27, 2001, NASA announced the first detection of an exoplanet atmosphere. Using the Hubble Space Telescope’s spectrometer, astronomers observed HD 209458b orbiting a 7th-magnitude, Sun-like star 150 light-years away in Pegasus. The researchers were able to detect sodium in the exoplanet’s atm",
+      "pubDate": "Fri, 27 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001513ee8a4aa279",
+      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
+      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
+      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
+      "pubDate": "Fri, 27 Nov 2026 13:57:19 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "0006795d74f0bcd7",
       "title": "Should Space Data Centers Run on Solar Panels, Nuclear Reactors, or Both?",
@@ -128,6 +238,63 @@
           "NASA",
           "Space",
           "Science"
+        ]
+      }
+    },
+    {
+      "id": "0017948afd237ca8",
+      "title": "Could a hidden planet twice Earth's mass explain strange orbits beyond Neptune?",
+      "link": "https://phys.org/news/2026-11-hidden-planet-earth-mass-strange.html",
+      "desc": "In the cold, dark Kuiper belt region beyond Neptune, some icy bodies travel on steeply tilted paths, while others stay far from the giant planets even at their closest approach to the sun. A simulation study suggests that a hidden planet about twice Earth's mass could help explain both populations o",
+      "pubDate": "Fri, 27 Nov 2026 10:10:32 EST",
+      "category": "Research & Science",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "001002ea9abde22f",
+      "title": "The first flash of a dying star can reveal its hidden surroundings",
+      "link": "https://phys.org/news/2026-11-dying-star-reveal-hidden.html",
+      "desc": "When a massive star dies, the universe does not always announce it with the familiar, slowly expanding glow of a supernova. Its very first signal can be a dazzling, short-lived flash of invisible light—a cosmic camera flash that lasts only hours. That fleeting moment offers an unusually direct glimp",
+      "pubDate": "Fri, 27 Nov 2026 09:20:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
+        ]
+      }
+    },
+    {
+      "id": "00114a6caf67d65d",
+      "title": "A small galaxy's giant dark matter core challenges the standard cosmological model",
+      "link": "https://phys.org/news/2026-11-small-galaxy-giant-dark-core.html",
+      "desc": "New findings show that a nearby dwarf galaxy, UGCA 320, may challenge some predictions of the widely accepted cosmological model of the universe. By combining observations from the MUSE instrument with radio measurements from the MeerKAT telescope, astronomers have found that it hosts an unusually l",
+      "pubDate": "Fri, 27 Nov 2026 08:40:10 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -368,11 +535,11 @@
     },
     {
       "id": "001501252ec721a2",
-      "title": "Rocket Lab sending Japanese satellite to orbit on Thanksgiving Day launch: Watch it live",
+      "title": "Rocket Lab launches Japanese satellite into orbit in record-setting Thanksgiving Day liftoff (video)",
       "link": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-sending-japanese-satellite-to-orbit-on-thanksgiving-day-launch-watch-it-live",
-      "desc": "The Thanksgiving Day launch will be Rocket Lab's 14th mission for Tokyo-based Synspective, its largest customer.",
+      "desc": "Rocket Lab launched a radar imaging satellite for the Tokyo-based company Synspective, its largest customer, in a Thanksgiving Day liftoff.",
       "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
-      "category": "Missions & Exploration",
+      "category": "Space Industry & Policy",
       "source": {
         "name": "Space.com",
         "key": "spacedotcom",
@@ -3100,24 +3267,6 @@
       }
     },
     {
-      "id": "001513ee8a4aa279",
-      "title": "2026 Full Moon calendar: When to see the Full Moon and phases",
-      "link": "https://www.astronomy.com/observing/full-moon-calendar-dates-times-types",
-      "desc": "The phenomenon of a Full Moon arises when our planet, Earth, is precisely sandwiched between the Sun and the Moon. This alignment ensures the entire side of the Moon that faces us gleams under sunlight. Thanks to the Moon’s orbit around Earth, the angle of sunlight hitting the lunar surface and bein",
-      "pubDate": "Tue, 24 Nov 2026 13:23:07 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Astronomy Magazine",
-        "key": "astronomymagazine",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "001e462096f1487e",
       "title": "Russia launches Progress 97 cargo ship to the International Space Station (video)",
       "link": "https://www.space.com/space-exploration/international-space-station/russia-progress-97-cargo-launch-international-space-station",
@@ -5078,25 +5227,6 @@
           "Astronomy",
           "Research",
           "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0015b7198213d496",
-      "title": "Could astronomers be closing in on a hidden planet beyond Neptune?",
-      "link": "https://phys.org/news/2026-11-astronomers-hidden-planet-neptune.html",
-      "desc": "If a hidden planet really does exist beyond Neptune, astronomers have identified how it may look and act to explain the mysterious goings-on in the distant reaches of our solar system.",
-      "pubDate": "Mon, 23 Nov 2026 09:48:47 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     },
@@ -9182,135 +9312,6 @@
           "NASA",
           "Space",
           "Science"
-        ]
-      }
-    },
-    {
-      "id": "0013e0c3dbf1dd0f",
-      "title": "Extremely Accurate Measurements of a Pair of Flaring Red Dwarfs",
-      "link": "https://www.universetoday.com/articles/extremely-accurate-measurements-of-a-pair-of-flaring-red-dwarfs",
-      "desc": "Astronomers used the Very Large Baseline Array of radio telescopes to measure a pair of active red dwarfs with extreme precision. One of the stars is an extreme type of red dwarf called a Complex Periodic Variable. This is the first time one of these stars has been measured accurately in a binary sy",
-      "pubDate": "Wed, 18 Nov 2026 17:41:05 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0017be99a3f60117",
-      "title": "What Is the Moon Base?",
-      "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base",
-      "desc": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. _______________________________________________________",
-      "pubDate": "Wed, 18 Nov 2026 17:36:03 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00127305f9606de9",
-      "title": "Thank You for Doing NASA Science!",
-      "link": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science",
-      "desc": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an exper",
-      "pubDate": "Wed, 18 Nov 2026 17:32:52 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "00143a37fa0459e9",
-      "title": "Fermi’s 14-Year All-Sky Map Bridges Astronomy’s Elusive \"MeV Gap\"",
-      "link": "https://www.universetoday.com/articles/fermis-14-year-all-sky-map-bridges-astronomys-elusive-mev-gap",
-      "desc": "Gamma rays, the most high-energy type of electromagnetic radiation in the universe, have always had a blind spot. We’ve always had trouble measuring them in the “mega-electron volt” (MeV) energy range, which astronomers have taken to calling the “MeV gap”. But a new paper from an international group",
-      "pubDate": "Wed, 18 Nov 2026 17:23:14 +0000",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "Universe Today",
-        "key": "universe",
-        "badgeClass": "badge-universe",
-        "cardClass": "universe",
-        "tags": [
-          "Astronomy",
-          "Science"
-        ]
-      }
-    },
-    {
-      "id": "0008f890d3fe18e3",
-      "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
-      "link": "https://www.space.com/astronomy/mars/a-shotgun-marriage-why-are-nasas-skyfall-mars-helicopters-riding-on-a-nuclear-rocket",
-      "desc": "NASA's SkyFall helicopters are set to be transported to Mars on the agency's first nuclear rocket, but some experts are questioning why NASA is combining two such high-profile missions into one.",
-      "pubDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
-        ]
-      }
-    },
-    {
-      "id": "0000271d9eb11918",
-      "title": "Origami and solar arrays",
-      "link": "https://spacenews.com/origami-and-solar-arrays",
-      "desc": "In this episode of SpaceMinds, SpaceNews’ Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company’s new $30 million funding round, […]\nThe post Origami and solar arrays appeared first on SpaceNews.",
-      "pubDate": "Wed, 18 Nov 2026 16:56:05 +0000",
-      "category": "Space Industry & Policy",
-      "source": {
-        "name": "SpaceNews",
-        "key": "spacenews",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Industry",
-          "Policy",
-          "Launches"
-        ]
-      }
-    },
-    {
-      "id": "0018589f71833639",
-      "title": "'Project Hail Mary' is heading back to theaters this December",
-      "link": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-heading-back-to-theaters-this-december",
-      "desc": "Fist my bump, everyone, because box office smash hit \"Project Hail Mary\" is heading back to theaters.",
-      "pubDate": "Wed, 18 Nov 2026 16:24:34 +0000",
-      "category": "Other Space Transmissions",
-      "source": {
-        "name": "Space.com",
-        "key": "spacedotcom",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Space",
-          "News"
         ]
       }
     }

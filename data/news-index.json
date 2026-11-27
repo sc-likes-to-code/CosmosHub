@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-27T12:59:15.949Z",
-  "lastRunId": "run-1795784354162-kb5w78",
+  "lastUpdated": "2026-11-27T15:31:08.404Z",
+  "lastRunId": "run-1795793465929-clsshz",
   "stats": {
-    "totalStories": 2023,
-    "lastRunAdded": 7
+    "totalStories": 2031,
+    "lastRunAdded": 8
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"d5da9d663f9013618d7bfa5a2a1a04bc\"",
-    "https://www.universetoday.com/feed": "W/\"6b097bf3-73c8\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"d5da9d663f9013618d7bfa5a2a1a04bc\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"26a58a49c67c19ad857be81419a30cfc\"",
+    "https://www.universetoday.com/feed": "W/\"6b099ae4-73c8\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"26a58a49c67c19ad857be81419a30cfc\"",
     "http://arxiv.org/rss/astro-ph": "5eec4790cd6c05fadc61160b1be33559e076fd6dac41e32e538c04819fc7b9c1",
-    "https://spacenews.com/feed/": "W/\"2000f0b43d59a2e32cba5f39bb35fef5\"",
-    "https://www.astronomy.com/feed/": "W/\"28cc6bf644b9dbbddcc3847b404c79dc\"",
+    "https://spacenews.com/feed/": "W/\"e78471a35c9f8cffb823af62265f7397\"",
+    "https://www.astronomy.com/feed/": "W/\"28cf58ced4c40b303efc287437169254\"",
     "https://spacepolicyonline.com/feed/": "\"c647c7be6bd7a67649908416ced59268\""
   },
   "articles": {
@@ -24291,6 +24291,102 @@
       "archivedDate": "2026-11-27",
       "collection": "morning",
       "archivedAt": "2026-11-27T12:59:15.949Z"
+    },
+    "0001133e37a9ace7": {
+      "id": "0001133e37a9ace7",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/make-the-most-of-the-new-moon-on-dec-8-and-get-closer-views-of-the-stars-with-the-celestron-inspire-100az",
+      "title": "Make the most of the new moon on Dec. 8 and get closer views of the stars with the Celestron Inspire 100AZ",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 15:10:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.403Z"
+    },
+    "0008dd60853bdb7a": {
+      "id": "0008dd60853bdb7a",
+      "canonicalUrl": "https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab",
+      "title": "Artemis III Astronaut Andre Douglas Visits VAB",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 27 Nov 2026 15:01:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
+    },
+    "001634176ba96e31": {
+      "id": "001634176ba96e31",
+      "canonicalUrl": "https://www.space.com/space-exploration/artemis/artemis-iii-astronauts-meet-their-moonship-space-photo-of-the-day-for-nov-27-2026",
+      "title": "Artemis III astronauts meet their spacecraft | Space photo of the day for Nov. 27, 2026",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
+    },
+    "000a13001d6d8760": {
+      "id": "000a13001d6d8760",
+      "canonicalUrl": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Fri, 27 Nov 2026 14:22:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
+    },
+    "0012ba0b01787eed": {
+      "id": "0012ba0b01787eed",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-27-2001-nasa-announces-an-exoplanet-atmosphere",
+      "title": "Nov. 27, 2001: NASA announces an exoplanet atmosphere",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
+    },
+    "0017948afd237ca8": {
+      "id": "0017948afd237ca8",
+      "canonicalUrl": "https://phys.org/news/2026-11-hidden-planet-earth-mass-strange.html",
+      "title": "Could a hidden planet twice Earth's mass explain strange orbits beyond Neptune?",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Research & Science",
+      "pubDate": "Fri, 27 Nov 2026 10:10:32 EST",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
+    },
+    "001002ea9abde22f": {
+      "id": "001002ea9abde22f",
+      "canonicalUrl": "https://phys.org/news/2026-11-dying-star-reveal-hidden.html",
+      "title": "The first flash of a dying star can reveal its hidden surroundings",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 09:20:01 EST",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
+    },
+    "00114a6caf67d65d": {
+      "id": "00114a6caf67d65d",
+      "canonicalUrl": "https://phys.org/news/2026-11-small-galaxy-giant-dark-core.html",
+      "title": "A small galaxy's giant dark matter core challenges the standard cosmological model",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 08:40:10 EST",
+      "archivedDate": "2026-11-27",
+      "collection": "evening",
+      "archivedAt": "2026-11-27T15:31:08.404Z"
     }
   }
 }
