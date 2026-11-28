@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-28T03:31:09.745Z",
-  "lastRunId": "run-1795836667368-1eu9dz",
+  "lastUpdated": "2026-11-28T12:12:13.493Z",
+  "lastRunId": "run-1795867930665-pkc4td",
   "stats": {
-    "totalStories": 2049,
-    "lastRunAdded": 1
+    "totalStories": 2055,
+    "lastRunAdded": 6
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"3e7c3378dbb063fd36a1a31192c291f9\"",
-    "https://www.universetoday.com/feed": "W/\"6b0a3f5b-749c\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"3e7c3378dbb063fd36a1a31192c291f9\"",
-    "http://arxiv.org/rss/astro-ph": "5eec4790cd6c05fadc61160b1be33559e076fd6dac41e32e538c04819fc7b9c1",
-    "https://spacenews.com/feed/": "W/\"9ceb896c3445102fa640b16923101562\"",
-    "https://www.astronomy.com/feed/": "W/\"28cf58ced4c40b303efc287437169254\"",
-    "https://spacepolicyonline.com/feed/": "\"c647c7be6bd7a67649908416ced59268\""
+    "https://www.nasa.gov/news-release/feed/": "W/\"b2c217a7ed8f4255412719132cb5969a\"",
+    "https://www.universetoday.com/feed": "W/\"6b0abf0f-74f7\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b2c217a7ed8f4255412719132cb5969a\"",
+    "http://arxiv.org/rss/astro-ph": "db1178cb6604b7085e7cb9aabdf975e9ef15b0fd90cb46901e3d0c4a12b66943",
+    "https://spacenews.com/feed/": "W/\"52fe0d9529fe9878ea2b11035cf791f1\"",
+    "https://www.astronomy.com/feed/": "W/\"2225a6eb70606bc14da4428099605406\"",
+    "https://spacepolicyonline.com/feed/": "\"853ab250471cbd95463a714735794579\""
   },
   "articles": {
     "001513ee8a4aa279": {
@@ -24603,6 +24603,78 @@
       "archivedDate": "2026-11-28",
       "collection": "morning",
       "archivedAt": "2026-11-28T03:31:09.745Z"
+    },
+    "00149d72ea65408b": {
+      "id": "00149d72ea65408b",
+      "canonicalUrl": "https://www.universetoday.com/articles/nasas-giant-pressure-cooker-reveals-how-venus-hides-clues-to-its-potential-watery-past",
+      "title": "NASA’s Giant Pressure Cooker Reveals How Venus Hides Clues to Its Potential Watery Past",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 28 Nov 2026 11:30:34 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T12:12:13.493Z"
+    },
+    "001fe57859e597ca": {
+      "id": "001fe57859e597ca",
+      "canonicalUrl": "https://www.space.com/astronomy/solar-system/12-grains-of-dust-found-high-in-earths-atmosphere-reveal-secrets-of-water-at-the-edge-of-the-solar-system",
+      "title": "12 grains of dust found high in Earth's atmosphere reveal secrets of water at the edge of the solar system",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Research & Science",
+      "pubDate": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T12:12:13.493Z"
+    },
+    "000bf3d58f787aba": {
+      "id": "000bf3d58f787aba",
+      "canonicalUrl": "https://www.astronomy.com/observing/the-sky-today-saturday-november-28-2026",
+      "title": "The Sky Today on Saturday, November 28: Iapetus near Saturn",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 28 Nov 2026 09:00:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T12:12:13.493Z"
+    },
+    "0011fc9d8f565d67": {
+      "id": "0011fc9d8f565d67",
+      "canonicalUrl": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph",
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "source": "NASA",
+      "sourceKey": "nasa",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 28 Nov 2026 05:05:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T12:12:13.493Z"
+    },
+    "001bec3b79729c5b": {
+      "id": "001bec3b79729c5b",
+      "canonicalUrl": "https://www.universetoday.com/articles/bepicolombo-captures-mercury-orbit-after-8-year-trip",
+      "title": "BepiColombo Captures Mercury Orbit After 8-Year Trip",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 28 Nov 2026 04:40:16 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T12:12:13.493Z"
+    },
+    "00091231b3348d32": {
+      "id": "00091231b3348d32",
+      "canonicalUrl": "https://www.universetoday.com/articles/nuclear-pathfinder-mission-to-ceres-would-usher-in-era-of-interplanetary-transport",
+      "title": "Nuclear Pathfinder Mission To Ceres Would Usher In Era Of Interplanetary Transport",
+      "source": "Universe Today",
+      "sourceKey": "universe",
+      "category": "Missions & Exploration",
+      "pubDate": "Sat, 28 Nov 2026 04:12:20 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T12:12:13.493Z"
     }
   }
 }

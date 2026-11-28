@@ -1,8 +1,117 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T03:31:19.675Z",
+  "generatedAt": "2026-11-28T12:12:22.001Z",
   "count": 500,
   "articles": [
+    {
+      "id": "00149d72ea65408b",
+      "title": "NASA’s Giant Pressure Cooker Reveals How Venus Hides Clues to Its Potential Watery Past",
+      "link": "https://www.universetoday.com/articles/nasas-giant-pressure-cooker-reveals-how-venus-hides-clues-to-its-potential-watery-past",
+      "desc": "Venus will be drawing a lot of attention in the near future. So far, no spacecraft has survived on its surface for more than a few hours, and that was back in the 1970s and ‘80s. But a series of new missions coming up should give us a clearer picture of what exactly exists on the surface there. And ",
+      "pubDate": "Sat, 28 Nov 2026 11:30:34 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001fe57859e597ca",
+      "title": "12 grains of dust found high in Earth's atmosphere reveal secrets of water at the edge of the solar system",
+      "link": "https://www.space.com/astronomy/solar-system/12-grains-of-dust-found-high-in-earths-atmosphere-reveal-secrets-of-water-at-the-edge-of-the-solar-system",
+      "desc": "Grains of dust found floating in Earth's stratosphere hold the secrets of a special kind of 'heavy' water that seems to be abundant in the outer solar system.",
+      "pubDate": "Sat, 28 Nov 2026 11:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000bf3d58f787aba",
+      "title": "The Sky Today on Saturday, November 28: Iapetus near Saturn",
+      "link": "https://www.astronomy.com/observing/the-sky-today-saturday-november-28-2026",
+      "desc": "Looking for a sky event this week? Check out our full Sky This Week column.  November 27: Catch Comet Hartley-IRAS Saturn remains a bright naked-eye object all evening, setting around 2 A.M. local time. Around 8 P.M., you’ll find it high in the south, to the left of the Circlet of Pisces and above t",
+      "pubDate": "Sat, 28 Nov 2026 09:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "0011fc9d8f565d67",
+      "title": "APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph",
+      "desc": "APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
+      "pubDate": "Sat, 28 Nov 2026 05:05:00 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "NASA",
+        "key": "nasa",
+        "badgeClass": "badge-nasa",
+        "cardClass": "nasa",
+        "tags": [
+          "NASA",
+          "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "001bec3b79729c5b",
+      "title": "BepiColombo Captures Mercury Orbit After 8-Year Trip",
+      "link": "https://www.universetoday.com/articles/bepicolombo-captures-mercury-orbit-after-8-year-trip",
+      "desc": "The planet Mercury might be one of the least explored planetary bodies in the solar system, but its is arguably the most crucial in helping scientists better understand the formation and evolution of the inner solar system. Its position as the closest planet to the Sun makes it a prime target for ho",
+      "pubDate": "Sat, 28 Nov 2026 04:40:16 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "00091231b3348d32",
+      "title": "Nuclear Pathfinder Mission To Ceres Would Usher In Era Of Interplanetary Transport",
+      "link": "https://www.universetoday.com/articles/nuclear-pathfinder-mission-to-ceres-would-usher-in-era-of-interplanetary-transport",
+      "desc": "The dwarf planet Ceres, the first object discovered in the Main Asteroid Belt, could play a revolutionary role in opening the outer solar system to a faster, cheaper means of interplanetary transport.  Or say the proponents of a new initiative dubbed ‘Project CERES.’",
+      "pubDate": "Sat, 28 Nov 2026 04:12:20 +0000",
+      "category": "Missions & Exploration",
+      "source": {
+        "name": "Universe Today",
+        "key": "universe",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
     {
       "id": "001e1afb46f64b2b",
       "title": "All the Gaps We See in Protoplanetary Disks Aren't From Planets",
@@ -536,25 +645,6 @@
       }
     },
     {
-      "id": "000e2485bc0a9395",
-      "title": "APOD: 2026 November 27 – The Moon Watchers",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers",
-      "desc": "APOD Science APOD APOD: 2026 November 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation wri",
-      "pubDate": "Fri, 27 Nov 2026 05:05:00 +0000",
-      "category": "Research & Science",
-      "source": {
-        "name": "NASA",
-        "key": "nasa",
-        "badgeClass": "badge-nasa",
-        "cardClass": "nasa",
-        "tags": [
-          "NASA",
-          "Space",
-          "Science"
-        ]
-      }
-    },
-    {
       "id": "0017b97881373306",
       "title": "Shivelyuch Socked In",
       "link": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in",
@@ -650,9 +740,9 @@
     },
     {
       "id": "000bcc604883fc21",
-      "title": "Every smart telescope we've reviewed and highly rate that is cheaper for Black Friday — full list",
+      "title": "Five of our highest rated smart telescopes are still on sale after Black Friday — full list",
       "link": "https://www.space.com/stargazing/skywatching-kit/every-smart-telescope-weve-reviewed-and-highly-rate-that-is-cheaper-for-black-friday-full-list",
-      "desc": "Black Friday has seen the price of smart telescopes slashed, with great beginner models available from Unistellar, ZWO, Vaonis and Dwarflab.",
+      "desc": "Black Friday is over but these smart telescope prices are still low, with great beginner models from Unistellar, ZWO, Vaonis and Dwarflab. Easy astrophotography awaits.",
       "pubDate": "Thu, 26 Nov 2026 21:08:45 +0000",
       "category": "Astronomy & Astrophysics",
       "source": {
@@ -9203,101 +9293,6 @@
       "title": "The Population of Radio Hypernebulae from Mass-Transferring Massive Binaries",
       "link": "https://arxiv.org/abs/2611.23783",
       "desc": "arXiv:2611.23783v1 Announce Type: new \nAbstract: Massive binary evolution is punctuated by brief phases of highly super-Eddington mass transfer (MT) onto neutron stars and black holes, presaging luminous transients such as supernovae, common envelope events, and gravitational wave sources. These hyp",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0009f9b3bd3e48e9",
-      "title": "The Science and Technology of Broad-Band X-ray Astrophysics",
-      "link": "https://arxiv.org/abs/2611.23583",
-      "desc": "arXiv:2611.23583v1 Announce Type: new \nAbstract: Much of our understanding of high-energy astrophysical phenomena over the past decade has relied on coordinated observations extending from soft X-rays (10 keV). While soft X-ray facilities remain abundant, focusing capabilities above ~10 keV are scar",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000bfb466a3a1bb4",
-      "title": "Two Faint Tidal Disruption Events Discovered in a Pilot Search with the Wide Field Survey Telescope",
-      "link": "https://arxiv.org/abs/2611.23988",
-      "desc": "arXiv:2611.23988v1 Announce Type: new \nAbstract: We report the discovery of TDE 2025alrm/WFST250129blnve and TDE 2025amkg/WFST251021dbmwk in the first six months of the wide-field survey (WFS) performed by the 2.5-meter Wide Field Survey Telescope (WFST). Both events are apparently faint among known",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0014213257bbeba4",
-      "title": "Unveiling the Central Black Hole of NGC 3862: A Direct Mass Determination Using ALMA's High-Resolution Molecular Gas Kinematics",
-      "link": "https://arxiv.org/abs/2611.24393",
-      "desc": "arXiv:2611.24393v1 Announce Type: new \nAbstract: We present the direct dynamical measurement of the supermassive black hole (SMBH) mass in NGC 3862 (3C 264), a massive Fanaroff-Riley type I radio galaxy. Using ALMA $^{12}$CO(2-1) observations, we map the cold molecular gas kinematics in the circumnu",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001f0ff89265f93e",
-      "title": "WFST0533buha (Bi'an): A Fast Blue Ultraluminous Transient Candidate with Unusual Blue/NUV Colors",
-      "link": "https://arxiv.org/abs/2611.24203",
-      "desc": "arXiv:2611.24203v1 Announce Type: new \nAbstract: We present WFST0533buha (Bi'an), a fast blue ultraluminous transient (FBUT) candidate discovered by the Wide Field Survey Telescope Deep High-cadence $ugr$-band Survey. The source brightened by approximately 2.5 mag in $u$ within 3 days and has a half",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0000dbf9211c86bb",
-      "title": "Zippers and Twisters II: The lopsidedness of satellite systems around local massive galaxies emerges from a shifting cosmic web landscape",
-      "link": "https://arxiv.org/abs/2611.23849",
-      "desc": "arXiv:2611.23849v1 Announce Type: new \nAbstract: We investigate the role of the cosmic web on the origin and strength of lopsidedness in the distributions of luminous dwarf satellites around massive galaxies analogs in the high-resolution hydrodynamic simulation NewHorizon. Using common lopsidedness",
       "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {
