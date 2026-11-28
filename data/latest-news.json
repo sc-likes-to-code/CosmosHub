@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T23:38:44.248Z",
+  "generatedAt": "2026-11-28T03:31:19.675Z",
   "count": 500,
   "articles": [
     {
@@ -162,6 +162,25 @@
         "tags": [
           "Space",
           "News"
+        ]
+      }
+    },
+    {
+      "id": "000972abd927ad5f",
+      "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+      "link": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+      "desc": "The Event Horizon Telescope (EHT), a massive international collaboration of scientists and radio observatories, is like the gift that keeps on giving. In 2019, the EHT Collaboration gave us the first image of a black hole: the supermassive black hole (SMBH) at the heart of the M87 galaxy (M87*). In ",
+      "pubDate": "Fri, 27 Nov 2026 21:40:01 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Phys.org Space",
+        "key": "physorg",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Physics",
+          "Space",
+          "Research"
         ]
       }
     },
@@ -9290,25 +9309,6 @@
           "Astronomy",
           "Research",
           "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000ed79e4aa272e4",
-      "title": "NASA's Voyager 1 phones home from an awe-inspiring one light-day away",
-      "link": "https://phys.org/news/2026-11-nasa-voyager-home-awe-day.html",
-      "desc": "NASA's Voyager 1 has phoned home from one light-day away, humanity's first emissary to cross this monumental threshold way out in interstellar space.",
-      "pubDate": "Thu, 19 Nov 2026 10:02:11 EST",
-      "category": "Research & Science",
-      "source": {
-        "name": "Phys.org Space",
-        "key": "physorg",
-        "badgeClass": "badge-spacedotcom",
-        "cardClass": "spacedotcom",
-        "tags": [
-          "Physics",
-          "Space",
-          "Research"
         ]
       }
     }

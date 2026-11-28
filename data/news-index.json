@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-27T23:38:33.540Z",
-  "lastRunId": "run-1795822711077-pll6l3",
+  "lastUpdated": "2026-11-28T03:31:09.745Z",
+  "lastRunId": "run-1795836667368-1eu9dz",
   "stats": {
-    "totalStories": 2048,
-    "lastRunAdded": 17
+    "totalStories": 2049,
+    "lastRunAdded": 1
   },
   "etags": {
     "https://www.nasa.gov/news-release/feed/": "W/\"3e7c3378dbb063fd36a1a31192c291f9\"",
-    "https://www.universetoday.com/feed": "W/\"6b0a0b0b-749c\"",
+    "https://www.universetoday.com/feed": "W/\"6b0a3f5b-749c\"",
     "https://blogs.nasa.gov/stationreport/feed/": "W/\"3e7c3378dbb063fd36a1a31192c291f9\"",
     "http://arxiv.org/rss/astro-ph": "5eec4790cd6c05fadc61160b1be33559e076fd6dac41e32e538c04819fc7b9c1",
     "https://spacenews.com/feed/": "W/\"9ceb896c3445102fa640b16923101562\"",
@@ -24591,6 +24591,18 @@
       "archivedDate": "2026-11-28",
       "collection": "evening",
       "archivedAt": "2026-11-27T23:38:33.540Z"
+    },
+    "000972abd927ad5f": {
+      "id": "000972abd927ad5f",
+      "canonicalUrl": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+      "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+      "source": "Phys.org Space",
+      "sourceKey": "physorg",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 21:40:01 EST",
+      "archivedDate": "2026-11-28",
+      "collection": "morning",
+      "archivedAt": "2026-11-28T03:31:09.745Z"
     }
   }
 }
