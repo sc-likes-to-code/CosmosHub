@@ -1,8 +1,116 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-28T12:12:22.001Z",
+  "generatedAt": "2026-11-28T15:31:20.498Z",
   "count": 500,
   "articles": [
+    {
+      "id": "001be9ff8191c680",
+      "title": "How moon dust and recycled cardboard could help NASA build its lunar base",
+      "link": "https://www.space.com/astronomy/moon/how-moon-dust-and-recycled-cardboard-could-help-nasa-build-its-lunar-base",
+      "desc": "The high cost of building on the moon has led to wide-ranging research on how to make use of the moon's most plentiful resource: the dusty regolith that covers its surface.",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00 +0000",
+      "category": "Research & Science",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "000db26808ec7615",
+      "title": "Looking for your first drone? This DJI Mini 3 bundle has everything you need for $420 this Thanksgiving weekend",
+      "link": "https://www.space.com/stargazing/skywatching-kit/looking-for-your-first-drone-this-dji-mini-3-bundle-has-everything-you-need-for-420-dollars-this-black-friday-weekend",
+      "desc": "This DJI drone has 4K video, automatic flying features, landing gear and spare propellers — what more do you need to get flying? And now you can save $64 this weekend.",
+      "pubDate": "Sat, 28 Nov 2026 14:45:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0009387f52452331",
+      "title": "On this day in space! Nov. 28, 1967: Astronomers Jocelyn Bell and Antony Hewish disover the 1st pulsar with Little Green Men 1 signal",
+      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-28-2026",
+      "desc": "On November 28, 1967, astronomers found the first pulsar and they called the signal Little Green Men 1. Here's why it mattered.",
+      "pubDate": "Sat, 28 Nov 2026 14:33:34 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "0010d2de46163634",
+      "title": "Nov. 28, 1659: Huygens draws Mars",
+      "link": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-28-1659-huygens-draws-mars",
+      "desc": "In the fall of 1659, Christiaan Huygens observed the opposition of Mars, drawing what he saw. The result was the first drawings of the recognizable surface features of the Red Planet – an achievement that wouldn’t have been possible without the advances in telescope manufacturing that Huygens himsel",
+      "pubDate": "Sat, 28 Nov 2026 14:00:00 +0000",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "Astronomy Magazine",
+        "key": "astronomymagazine",
+        "badgeClass": "badge-universe",
+        "cardClass": "universe",
+        "tags": [
+          "Astronomy",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000aa3b2c9b52ef7",
+      "title": "Space in Macy’s 100 Thanksgiving Day parades",
+      "link": "https://www.space.com/entertainment/100-macys-thanksgiving-day-parades-a-look-at-the-big-events-space-ties-from-the-giant-spaceman-to-astronaut-snoopy",
+      "desc": "The 100th Macy's Thanksgiving Day Parade is sure to be a blast, but it's a bit light on \"space.\" Here's a look back at the nods to NASA, astronauts and spaceflight in the annual New York City event.",
+      "pubDate": "Sat, 28 Nov 2026 13:00:00 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
+    {
+      "id": "00168c774d3b7b78",
+      "title": "Your last chance ever to buy one of the best DSLRs? The Nikon D850 is $600 off this Black Friday",
+      "link": "https://www.space.com/stargazing/skywatching-kit/your-last-chance-ever-to-buy-one-of-the-best-dslrs-the-nikon-d850-is-600-dollars-off-this-black-friday",
+      "desc": "Nikon recently announced that the Nikon D850 is now discontinued — it's a powerhouse DSLR, which we dubbed an \"astro master\" during our testing. This might be your last chance to grab it for only $1997 on Amazon.",
+      "pubDate": "Sat, 28 Nov 2026 12:29:07 +0000",
+      "category": "Other Space Transmissions",
+      "source": {
+        "name": "Space.com",
+        "key": "spacedotcom",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Space",
+          "News"
+        ]
+      }
+    },
     {
       "id": "00149d72ea65408b",
       "title": "NASA’s Giant Pressure Cooker Reveals How Venus Hides Clues to Its Potential Watery Past",
@@ -363,6 +471,24 @@
         "tags": [
           "NASA",
           "Space",
+          "Science"
+        ]
+      }
+    },
+    {
+      "id": "000f46c2775d9e27",
+      "title": "James Webb discovers a nearly pristine galaxy from 13 billion years ago",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063322.htm",
+      "desc": "Astronomers have discovered an extraordinarily primitive galaxy from 13 billion years ago that may carry the chemical fingerprints of the universe’s first stars. The discovery could solve a decades-old mystery surrounding ancient galaxies near the Milky Way and reveal how the building blocks of life",
+      "pubDate": "Fri, 27 Nov 2026 20:30:16 EST",
+      "category": "Astronomy & Astrophysics",
+      "source": {
+        "name": "ScienceDaily Space",
+        "key": "sciencedaily",
+        "badgeClass": "badge-spacedotcom",
+        "cardClass": "spacedotcom",
+        "tags": [
+          "Research",
           "Science"
         ]
       }
@@ -9160,139 +9286,6 @@
       "title": "Solid-state formation of H$_2$CS and CH$_3$SH in molecular clouds: Carbon-initiated reactions with atomic and molecular hydrogen",
       "link": "https://arxiv.org/abs/2611.24508",
       "desc": "arXiv:2611.24508v1 Announce Type: new \nAbstract: The solid-state formation pathways of thioformaldehyde (H$_2$CS) and methanethiol (CH$_3$SH) in dense molecular clouds remain poorly constrained. We investigate carbon-initiated reactions in hydrogen sulfide (H$_2$S) ice in the presence of atomic or m",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00086bc946f45a4a",
-      "title": "SPONGE: Sulphur, Phosphorus, Oxygen, Nitrogen, and carbon Galactic Evolution. I. CNOPS elements as probes of physical processes in stars and galaxies",
-      "link": "https://arxiv.org/abs/2611.24111",
-      "desc": "arXiv:2611.24111v1 Announce Type: new \nAbstract: As fundamental bio-essential elements, carbon, nitrogen, oxygen, phosphorus, and sulphur (CNOPS) warrant a precise mapping of their cosmic origins. In this paper, we present the SPONGE project (Sulphur, Phosphorus, Oxygen, Nitrogen, and carbon Galacti",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001c5c13d91ff5b3",
-      "title": "Stars and gas in the most metal-poor galaxies -- II. Search for VMS and determination of stellar population and nebular properties at $Z\\lesssim0.1\\,Z_\\odot$",
-      "link": "https://arxiv.org/abs/2611.23689",
-      "desc": "arXiv:2611.23689v1 Announce Type: new \nAbstract: Constraining the properties of OB-star populations and ionized gas at low metallicity is essential for understanding a broad range of astrophysical objects, from stellar black holes to the first galaxies. Rest-frame UV spectra of nearby metal-poor gal",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "0007f91d6545fc49",
-      "title": "Strongly Suppressed Cosmic-Ray Diffusion in a Wind-Blown Cavity Environment of SNR G21.8-3.0",
-      "link": "https://arxiv.org/abs/2611.23744",
-      "desc": "arXiv:2611.23744v1 Announce Type: new \nAbstract: We report the discovery of a GeV $\\gamma$-ray source spatially offset from SNR G21.8-3.0, while no significant high-energy emission is detected from the remnant itself. Using 16 yr of \\emph{Fermi}-LAT observations together with $^{12}$CO ($J=1-0$) dat",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00078068fde240b2",
-      "title": "Subsequent Dust-Fading Events of the Wolf-Rayet Star WR 59: A Continuous Visual Record",
-      "link": "https://arxiv.org/abs/2611.23780",
-      "desc": "arXiv:2611.23780v1 Announce Type: new \nAbstract: This paper presents long-term visual and space-based monitoring of the WC9d Wolf-Rayet star WR 59 from 2017 to 2026, documenting a profound physical transition from a stable baseline to an ongoing phase of continuous dust production. Visual observatio",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "000b5839a55a7539",
-      "title": "Sun-like stars show lowered X-ray activity together with over-rotation at beyond-solar ages",
-      "link": "https://arxiv.org/abs/2611.24459",
-      "desc": "arXiv:2611.24459v1 Announce Type: new \nAbstract: In recent years, substructure in the age-rotation relationship of cool, sun-like stars has been identified, showing deviations from the historical Skumanich law. Since magnetic activity is expected to be the physical root cause of the stellar spin-dow",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "001352bd95790a20",
-      "title": "The Geometric Imprint of a Tilted Accretion Disk in Gravitational Waves",
-      "link": "https://arxiv.org/abs/2611.23914",
-      "desc": "arXiv:2611.23914v1 Announce Type: new \nAbstract: Gravitational wave astronomy has opened a new window onto black holes and the dynamics of strong-field gravity, while accretion flows offer a complementary and natural laboratory for probing strong-field physics. In this work, we show that the gravita",
-      "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
-      "category": "Astronomy & Astrophysics",
-      "source": {
-        "name": "ArXiv Astronomy",
-        "key": "arxiv",
-        "badgeClass": "badge-esa",
-        "cardClass": "esa",
-        "tags": [
-          "Astronomy",
-          "Research",
-          "Papers"
-        ]
-      }
-    },
-    {
-      "id": "00014c375c21d81d",
-      "title": "The Population of Radio Hypernebulae from Mass-Transferring Massive Binaries",
-      "link": "https://arxiv.org/abs/2611.23783",
-      "desc": "arXiv:2611.23783v1 Announce Type: new \nAbstract: Massive binary evolution is punctuated by brief phases of highly super-Eddington mass transfer (MT) onto neutron stars and black holes, presaging luminous transients such as supernovae, common envelope events, and gravitational wave sources. These hyp",
       "pubDate": "Thu, 19 Nov 2026 00:00:00 -0500",
       "category": "Astronomy & Astrophysics",
       "source": {

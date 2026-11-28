@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "lastUpdated": "2026-11-28T12:12:13.493Z",
-  "lastRunId": "run-1795867930665-pkc4td",
+  "lastUpdated": "2026-11-28T15:31:09.892Z",
+  "lastRunId": "run-1795879866817-gp8qj0",
   "stats": {
-    "totalStories": 2055,
-    "lastRunAdded": 6
+    "totalStories": 2062,
+    "lastRunAdded": 7
   },
   "etags": {
-    "https://www.nasa.gov/news-release/feed/": "W/\"b2c217a7ed8f4255412719132cb5969a\"",
-    "https://www.universetoday.com/feed": "W/\"6b0abf0f-74f7\"",
-    "https://blogs.nasa.gov/stationreport/feed/": "W/\"b2c217a7ed8f4255412719132cb5969a\"",
+    "https://www.nasa.gov/news-release/feed/": "W/\"dcba7c92ce806d29428a1e4aeaa815cb\"",
+    "https://www.universetoday.com/feed": "W/\"6b0ae82d-74f7\"",
+    "https://blogs.nasa.gov/stationreport/feed/": "W/\"dcba7c92ce806d29428a1e4aeaa815cb\"",
     "http://arxiv.org/rss/astro-ph": "db1178cb6604b7085e7cb9aabdf975e9ef15b0fd90cb46901e3d0c4a12b66943",
-    "https://spacenews.com/feed/": "W/\"52fe0d9529fe9878ea2b11035cf791f1\"",
-    "https://www.astronomy.com/feed/": "W/\"2225a6eb70606bc14da4428099605406\"",
+    "https://spacenews.com/feed/": "W/\"4be3d8897dd3bbccb97417a2662c2a30\"",
+    "https://www.astronomy.com/feed/": "W/\"afaf52c1178a5af8f85c113cf8cfc554\"",
     "https://spacepolicyonline.com/feed/": "\"853ab250471cbd95463a714735794579\""
   },
   "articles": {
@@ -24675,6 +24675,90 @@
       "archivedDate": "2026-11-28",
       "collection": "morning",
       "archivedAt": "2026-11-28T12:12:13.493Z"
+    },
+    "001be9ff8191c680": {
+      "id": "001be9ff8191c680",
+      "canonicalUrl": "https://www.space.com/astronomy/moon/how-moon-dust-and-recycled-cardboard-could-help-nasa-build-its-lunar-base",
+      "title": "How moon dust and recycled cardboard could help NASA build its lunar base",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Research & Science",
+      "pubDate": "Sat, 28 Nov 2026 15:00:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
+    },
+    "000db26808ec7615": {
+      "id": "000db26808ec7615",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/looking-for-your-first-drone-this-dji-mini-3-bundle-has-everything-you-need-for-420-dollars-this-black-friday-weekend",
+      "title": "Looking for your first drone? This DJI Mini 3 bundle has everything you need for $420 this Thanksgiving weekend",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 28 Nov 2026 14:45:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
+    },
+    "0009387f52452331": {
+      "id": "0009387f52452331",
+      "canonicalUrl": "https://www.space.com/space-exploration/on-this-day-in-space-november-28-2026",
+      "title": "On this day in space! Nov. 28, 1967: Astronomers Jocelyn Bell and Antony Hewish disover the 1st pulsar with Little Green Men 1 signal",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 28 Nov 2026 14:33:34 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
+    },
+    "0010d2de46163634": {
+      "id": "0010d2de46163634",
+      "canonicalUrl": "https://www.astronomy.com/today-in-the-history-of-astronomy/nov-28-1659-huygens-draws-mars",
+      "title": "Nov. 28, 1659: Huygens draws Mars",
+      "source": "Astronomy Magazine",
+      "sourceKey": "astronomymagazine",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Sat, 28 Nov 2026 14:00:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
+    },
+    "000aa3b2c9b52ef7": {
+      "id": "000aa3b2c9b52ef7",
+      "canonicalUrl": "https://www.space.com/entertainment/100-macys-thanksgiving-day-parades-a-look-at-the-big-events-space-ties-from-the-giant-spaceman-to-astronaut-snoopy",
+      "title": "Space in Macy’s 100 Thanksgiving Day parades",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 28 Nov 2026 13:00:00 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
+    },
+    "00168c774d3b7b78": {
+      "id": "00168c774d3b7b78",
+      "canonicalUrl": "https://www.space.com/stargazing/skywatching-kit/your-last-chance-ever-to-buy-one-of-the-best-dslrs-the-nikon-d850-is-600-dollars-off-this-black-friday",
+      "title": "Your last chance ever to buy one of the best DSLRs? The Nikon D850 is $600 off this Black Friday",
+      "source": "Space.com",
+      "sourceKey": "spacedotcom",
+      "category": "Other Space Transmissions",
+      "pubDate": "Sat, 28 Nov 2026 12:29:07 +0000",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
+    },
+    "000f46c2775d9e27": {
+      "id": "000f46c2775d9e27",
+      "canonicalUrl": "https://www.sciencedaily.com/releases/2026/11/261126063322.htm",
+      "title": "James Webb discovers a nearly pristine galaxy from 13 billion years ago",
+      "source": "ScienceDaily Space",
+      "sourceKey": "sciencedaily",
+      "category": "Astronomy & Astrophysics",
+      "pubDate": "Fri, 27 Nov 2026 20:30:16 EST",
+      "archivedDate": "2026-11-28",
+      "collection": "evening",
+      "archivedAt": "2026-11-28T15:31:09.892Z"
     }
   }
 }
